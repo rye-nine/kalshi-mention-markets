@@ -1,581 +1,1111 @@
 {
-  "Tesla": [
+  "Costco": [
     {
-      "position": 1,
-      "title": "Tesla: Electric Cars, Solar & Clean Energy",
-      "link": "https://www.tesla.com/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESTgHrOzAVgLy4jWAq_ATg4ElGPKySEgBd4VRiD2vheURu2bUEjPVlJi_WheBpZXApnyF-P2ySV3gFiS-BssYp3_cfgbbSJWuriisnGjvVhA&ved=2ahUKEwjHosf5nuCWAxXrTEEAHd-VDTcQFnoECA4QAQ&uoh=1",
-      "displayed_link": "https://www.tesla.com",
-      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAABedQ9zAAAAEXRSTlMADkZxlLbE416r8v9V1IQvI6tMTxIAAAC3SURBVHgBdc5FoiAhDATQwulUGrj_aQeZ7-RtkCgO50NMuUw5xeAdPrj6CBfZuJSnrgTN656C-pPvvK8hFZJZ8fJtqi0XYcKUKSU39W0G0LUm4RGByENS1f7xPLTyS8OUyFIHXOFWgFGFfLAp-5m2nMmdih_iR7ebys3jpnMbuHHCSRyuCqcXdw-nB3eNU8Cdt5ZdhrnsIqTA8pIZlkhGWCpZYelkh8WRsEmBLSfYYoOtKmx94Lt_KrEJ_1qrcFcAAAAASUVORK5CYII.png",
-      "snippet": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and ...",
-      "snippet_highlighted_words": [
-        "Tesla"
-      ],
-      "sitelinks": {
-        "expanded": [
-          {
-            "title": "Certified Pre-Owned",
-            "link": "https://www.tesla.com/inventory/used",
-            "snippet": "Find new and pre-owned Tesla cars. Every new Tesla has a ..."
-          },
-          {
-            "title": "Model 3",
-            "link": "https://www.tesla.com/model3",
-            "snippet": "Learn about Model 3, a midsize electric sedan designed for ..."
-          },
-          {
-            "title": "Inventory",
-            "link": "https://www.tesla.com/inventory/new",
-            "snippet": "Find new and pre-owned Tesla cars. Every new Tesla has a ..."
-          },
-          {
-            "title": "Current Offers",
-            "link": "https://www.tesla.com/current-offers",
-            "snippet": "Model Y \u00b7 1.49% APR Available 7. Get Prequalified The following ..."
-          },
-          {
-            "title": "Model S",
-            "link": "https://www.tesla.com/models",
-            "snippet": "Learn about Model S, a luxury electric full-size sedan built for ..."
-          }
+      "title": "5 Of The Best Costco BBQ Finds Of 2026",
+      "snippet": null,
+      "source": {
+        "name": "Tasting Table",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tastingtable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Angeline Stratz"
         ]
       },
-      "about_this_result": {
-        "source": {
-          "description": "Tesla is building a world of amazing abundance with AI, electric cars, solar, home batteries and integrated renewable energy solutions for homes and ...",
-          "source_info_link": "https://www.tesla.com/",
-          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAM1BMVEVHcEzJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAADJAABedQ9zAAAAEXRSTlMADkZxlLbE416r8v9V1IQvI6tMTxIAAAC3SURBVHgBdc5FoiAhDATQwulUGrj_aQeZ7-RtkCgO50NMuUw5xeAdPrj6CBfZuJSnrgTN656C-pPvvK8hFZJZ8fJtqi0XYcKUKSU39W0G0LUm4RGByENS1f7xPLTyS8OUyFIHXOFWgFGFfLAp-5m2nMmdih_iR7ebys3jpnMbuHHCSRyuCqcXdw-nB3eNU8Cdt5ZdhrnsIqTA8pIZlkhGWCpZYelkh8WRsEmBLSfYYoOtKmx94Lt_KrEJ_1qrcFcAAAAASUVORK5CYII.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
-        ]
-      },
-      "source": "Tesla"
+      "date": "09/11/2026, 06:27 PM, +0000 UTC"
     },
     {
-      "position": 2,
-      "title": "Tesla, Inc.",
-      "link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYQHrOzAVDHz9_an6DdoBRokbhFxh2XY6N771lvkKxEw2lSiW-W0SExCYGCvHRTRU4pklW8mdMP4hatX1nqnulrwlh7N0GmnxNzw55m4jyvMVgJ4WQE7SOAVAtshNE9bduoE&ved=2ahUKEwjHosf5nuCWAxXrTEEAHd-VDTcQFnoECCgQAQ&uoh=1",
-      "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Tesla,_Inc",
-      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png",
-      "snippet": "Tesla is one of the world's most valuable companies in terms of market capitalization. Starting in July 2020, it has been the world's most valuable automaker.",
-      "snippet_highlighted_words": [
-        "one of the world's most valuable companies"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Tesla is one of the world's most valuable companies in terms of market capitalization. Starting in July 2020, it has been the world's most valuable automaker.",
-          "source_info_link": "https://en.wikipedia.org/wiki/Tesla,_Inc.",
-          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAnklEQVR4AeTNIQiDQABG4b-u17X1aF6PK3YEO9iMJqPVau82y4FgMezS0oVLhqsHtrcqeqzDXv3CEz_6L4yTtZM3dnHmPTtjzXZAXKYVo4agkU2GI2Lloc6JDez1-flswMu1EQZ3xlE7lK8eKDkjtwE-crBMV-wesKmCiisGGepZIfQJpMj9SNb2MYWrChjVkULuCyCfRvsdmBieyQQAsoDk_9ryhFMAAAAASUVORK5CYII.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
-        ]
-      },
-      "source": "Wikipedia",
-      "read_more_link": "https://en.wikipedia.org/wiki/Tesla,_Inc.#:~:text=Tesla%20is%20one%20of%20the,the%20world's%20most%20valuable%20automaker."
+      "title": "Costco to open new warehouses across the United States",
+      "snippet": null,
+      "source": null,
+      "date": null
     },
     {
-      "position": 3,
-      "title": "Tesla (@teslamotors) \u2022 Instagram photos and videos",
-      "link": "https://www.instagram.com/teslamotors/?hl=en",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZAHrOzAVX4f5-LWuuouvXIOJtFK3dO8PFyaSYYHv9avPc-ZFKU3xF5rvQRedqfrFECwB2uyu_BCAnApJc5tw7pHGnRt3gh2MS6l1DYF6RLdTacDGl1HT2UimWPHnEucyDvDYTdQ&ved=2ahUKEwjHosf5nuCWAxXrTEEAHd-VDTcQFnoECC0QAQ&uoh=1",
-      "displayed_link": "9.5M+ followers",
-      "favicon": "https://serpapi.com/searches/6aa0a83d03b136a0b883a8f8/images/GyweBYt0o2QkHzULOGAOs6EyHz48aQ7cZAYuyR4NvXk.png",
-      "snippet": "Electric vehicles, giant batteries & solar, AI & robotics \u00b7 When it rains, it summons Stay dry by summoning your car to you with the. When it rains, it summons ...",
-      "snippet_highlighted_words": [
-        "Electric vehicles, giant batteries & solar, AI & robotics"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Electric vehicles, giant batteries & solar, AI & robotics \u00b7 When it rains, it summons Stay dry by summoning your car to you with the. When it rains, it summons ...",
-          "source_info_link": "https://www.instagram.com/teslamotors/?hl=en",
-          "icon": "https://serpapi.com/searches/6aa0a83d03b136a0b883a8f8/images/GyweBYt0o2QkHzULOGAOs7xmd0OY49gz3fY_4HLfRtx9RtfgqxIG2vTLrxMZ9nXu.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Microsoft, Starbucks, Costco, Alaska Airlines call for Seattle public safety improvements",
+      "snippet": null,
+      "source": {
+        "name": "KOMO",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://komonews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris Daniels"
         ]
       },
-      "source": "Instagram \u00b7 teslamotors",
-      "read_more_link": "https://www.instagram.com/teslamotors/?hl=en#:~:text=Electric%20vehicles%2C%20giant%20batteries%20%26,solar%2C%20AI%20%26%20robotics"
+      "date": "09/10/2026, 11:17 PM, +0000 UTC"
     },
     {
-      "position": 4,
-      "title": "Tesla",
-      "link": "https://x.com/Tesla?lang=en",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESUwHrOzAV-ZbK4saPUSLjY11fTY_M6Rt5tql6OQf0OsqyC4j4K1K3AO_2kmvZth32Uy8RFpA8C_EyBBtKqBbqQOXqT3BaUrfkL3mm7obNuFink_gt&ved=2ahUKEwjHosf5nuCWAxXrTEEAHd-VDTcQFnoECCsQAQ&uoh=1",
-      "displayed_link": "24.8M+ followers",
-      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png",
-      "snippet": "Electric vehicles, giant batteries & solar, AI & robotics.",
-      "about_this_result": {
-        "source": {
-          "description": "Electric vehicles, giant batteries & solar, AI & robotics.",
-          "source_info_link": "https://x.com/Tesla?lang=en",
-          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAAqUlEQVR4AdXQEQwCUQDG8b87pFkcRmGuyfFpFB-HuZ20_DA4yndLHj17dHJ08G_V1qp7vvWjT77t28cfKlIIMS54KmPa8uli35l4WGvNtyQ7G2CmF37M7WncQe-NidKW5CyYyDhboY5kRZelLshz5OyevK0dySVZNz1iT07r0LkpbJmqdcUoJyt-VVrAxkB0NRnzKhysGQfevt--mgavfOpi844hhFjyf-4xHWjgrPr73gAAAABJRU5ErkJggg.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Costco Price Prediction: A $1,200 Target Comes Into Focus",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vandita Jadeja"
         ]
       },
-      "source": "X \u00b7 Tesla"
+      "date": "09/11/2026, 12:00 PM, +0000 UTC"
     },
     {
-      "position": 5,
-      "title": "Tesla Electric Vehicles: Reviews, Pricing, and Specs",
-      "link": "https://www.caranddriver.com/tesla",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWgHrOzAVYkzo-Rsu4YNKjSgen3SaAQop3XjnXTUeu4E1BNkQOBbH3lVMClfBuWr33ZpKCaicZV2xGM0wnOSUllT-CGOA2A4JVrRuyk074pcx5-Mc-Z54c-Efcg&ved=2ahUKEwjHosf5nuCWAxXrTEEAHd-VDTcQFnoECCkQAQ&uoh=1",
-      "displayed_link": "https://www.caranddriver.com \u203a tesla",
-      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAPUlEQVR4AWM4LKT_n5541EIq4FELRy0ctXDUwvMMEob0xAwMaTsM6YoZEtb9pycetZByPGrhqIWjFo5aCADX3Apf6JpjCAAAAABJRU5ErkJggg.png",
-      "snippet": "Research before you buy or lease a new Tesla car, truck, or SUV with expert ratings, in-depth reviews, and competitor comparisons of 2018-2028 models.",
-      "snippet_highlighted_words": [
-        "expert ratings, in-depth reviews, and competitor comparisons"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Research before you buy or lease a new Tesla car, truck, or SUV with expert ratings, in-depth reviews, and competitor comparisons of 2018-2028 models.",
-          "source_info_link": "https://www.caranddriver.com/tesla",
-          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd-UAAAAPUlEQVR4AWM4LKT_n5541EIq4FELRy0ctXDUwvMMEob0xAwMaTsM6YoZEtb9pycetZByPGrhqIWjFo5aCADX3Apf6JpjCAAAAABJRU5ErkJggg.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Why I'm choosing Sam's Club over Costco and saving more this fall",
+      "snippet": null,
+      "source": {
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Trisha Easto"
         ]
       },
-      "source": "Car and Driver"
+      "date": "09/10/2026, 06:10 PM, +0000 UTC"
     },
     {
-      "position": 6,
-      "title": "Tesla",
-      "link": "https://www.youtube.com/channel/UC5WjFrtBdufl6CZojX3D8dQ",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVu6OTxUU3-Na6JJHnKSklb1W0r5DPHBm_C2rfK4Ltxf6ItO10A4Y9c17rjFdsAOpcfM8uHA6pQnYyG6t5W380UWyJl2gHps46KZlnqzALhwcbWEnpeKRDVR_9vCLeZj1MKnNeG_eJPoP7D0g&ved=2ahUKEwjHosf5nuCWAxXrTEEAHd-VDTcQFnoECCwQAQ&uoh=1",
-      "displayed_link": "3M+ followers",
-      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
-      "snippet": "Electric vehicles, giant batteries & solar, AI & robotics. Tesla's mission is to accelerate the world's transition to sustainable energy. ...more",
-      "snippet_highlighted_words": [
-        "Tesla"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Electric vehicles, giant batteries & solar, AI & robotics. Tesla's mission is to accelerate the world's transition to sustainable energy. ...more",
-          "source_info_link": "https://www.youtube.com/channel/UC5WjFrtBdufl6CZojX3D8dQ",
-          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Costco application for Eagle site near Highway 55 remains active",
+      "snippet": null,
+      "source": {
+        "name": "KTVB",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ktvb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Morgan Romero"
         ]
       },
-      "source": "YouTube \u00b7 Tesla",
-      "read_more_link": "https://www.youtube.com/channel/UC5WjFrtBdufl6CZojX3D8dQ#:~:text=Electric%20vehicles%2C%20giant%20batteries%20%26,world's%20transition%20to%20sustainable%20energy."
+      "date": "09/11/2026, 02:19 PM, +0000 UTC"
     },
     {
-      "position": 7,
-      "title": "Tesla, Inc. | History, Cars, Elon Musk, & Headquarters",
-      "link": "https://www.britannica.com/money/Tesla-Motors",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVJsAcUXEktD7E-Y_lVWoxxBgv7R8UVArODjBolj-Je0Mn9rzHvTu_4F4bk2Ix8Ln9voLxNFNkHQf6zA3W1CP2tduRYVQfCWIJv5_K76dbb6f0u-Owa_Te42YQKByohSgQ&ved=2ahUKEwjHosf5nuCWAxXrTEEAHd-VDTcQFnoECCoQAQ&uoh=1",
-      "displayed_link": "https://www.britannica.com \u203a ... \u203a Consumer Discretionary",
-      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEwKPmwLQGwLQGwLQGsAOWgcTXZEaIlXdpMyWn-Bma9uiKGVqbypuskALmLM1t_g5-y0w9Dy9fj___8H8PJTAAAABXRSTlMAILD_6JrywKcAAAGISURBVHgBhZPhjishCIVnawEQRBze_10vmTaZuO3N-kc5fJ4QlOP4ebT_rsdP5Z-bBLiFz59ju49IjBvyOG4DEOGuyl0QbovjzhN16UKdjOW2uAHQTtiIAckUvgBNVKyT6qjDNwBIfQa2GcD8DfC-xGa3tWQM_wTEkENphvBJ0gl-AxiGs-tYqtH6KR8OwDZFT6KzF8hwA--KZfA0CKbAHjzoUkHaAUVfQY_eTdSotrArDV3hAMrVi0AzpMQIT4YioYGNFDiaZ57csMCglAhMnkmAyGemVw24MnMOB4ppaoPHONl9zZIXFoAF1uoOqNLgajm4XeLZCnifczYofS5zAJwvrUMBr6hsVmugJb7yJeR4N8qtohE5HfhMBZ85RyHmbwDAKtRIdT6rQM3omWlwtxpWCTSjcQEYk-vC8nYDDbhsJbQA0pDIybA_FrjMJQWkKq6JDp8_ClRQM7URw9c_2aBBzzRvd3oH2tW04Zt0PDdgZM4NeO6j55F5bsDj1_CCO-zD--f4_wPoVR1v3hUTLgAAAABJRU5ErkJggg.png",
-      "snippet": "Tesla's emphasis on robotics and automation mirrors CEO Elon Musk's assertion that the company's future lies as much in AI as in vehicles.",
-      "snippet_highlighted_words": [
-        "Tesla's"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Tesla's emphasis on robotics and automation mirrors CEO Elon Musk's assertion that the company's future lies as much in AI as in vehicles.",
-          "source_info_link": "https://www.britannica.com/money/Tesla-Motors",
-          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAAPFBMVEVHcEwKPmwLQGwLQGwLQGsAOWgcTXZEaIlXdpMyWn-Bma9uiKGVqbypuskALmLM1t_g5-y0w9Dy9fj___8H8PJTAAAABXRSTlMAILD_6JrywKcAAAGISURBVHgBhZPhjishCIVnawEQRBze_10vmTaZuO3N-kc5fJ4QlOP4ebT_rsdP5Z-bBLiFz59ju49IjBvyOG4DEOGuyl0QbovjzhN16UKdjOW2uAHQTtiIAckUvgBNVKyT6qjDNwBIfQa2GcD8DfC-xGa3tWQM_wTEkENphvBJ0gl-AxiGs-tYqtH6KR8OwDZFT6KzF8hwA--KZfA0CKbAHjzoUkHaAUVfQY_eTdSotrArDV3hAMrVi0AzpMQIT4YioYGNFDiaZ57csMCglAhMnkmAyGemVw24MnMOB4ppaoPHONl9zZIXFoAF1uoOqNLgajm4XeLZCnifczYofS5zAJwvrUMBr6hsVmugJb7yJeR4N8qtohE5HfhMBZ85RyHmbwDAKtRIdT6rQM3omWlwtxpWCTSjcQEYk-vC8nYDDbhsJbQA0pDIybA_FrjMJQWkKq6JDp8_ClRQM7URw9c_2aBBzzRvd3oH2tW04Zt0PDdgZM4NeO6j55F5bsDj1_CCO-zD--f4_wPoVR1v3hUTLgAAAABJRU5ErkJggg.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "8 of the Best Costco Prepared Meals That Make Weeknight Dinners So Much Easier",
+      "snippet": null,
+      "source": {
+        "name": "marthastewart.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marthastewart.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/10/2026, 04:20 PM, +0000 UTC"
+    },
+    {
+      "title": "One Of The Best Costco Finds Under $20 Comes From Kirkland Signature",
+      "snippet": null,
+      "source": {
+        "name": "Mashed",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.mashed.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stephanie Maida"
         ]
       },
-      "source": "Britannica",
-      "read_more_link": "https://www.britannica.com/money/Tesla-Motors#:~:text=Tesla's%20emphasis%20on%20robotics%20and,in%20AI%20as%20in%20vehicles."
+      "date": "09/11/2026, 06:03 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco\u2019s New Cast Iron Kitchen Find Has Fans Saying \u2018Put It in My Cart Immediately\u2019",
+      "snippet": null,
+      "source": {
+        "name": "allrecipes.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.allrecipes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/11/2026, 06:00 PM, +0000 UTC"
+    },
+    {
+      "title": "Trader Joe\u2019s planned for new retail development behind Costco, Buc-ee\u2019s and Bass Pro Shops in St. Johns County",
+      "snippet": null,
+      "source": {
+        "name": "News4JAX",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.news4jax.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/11/2026, 04:38 PM, +0000 UTC"
+    },
+    {
+      "title": "You Asked: Is the new Meridian Costco the largest in the world? When will it open?",
+      "snippet": null,
+      "source": {
+        "name": "BoiseDev",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://boisedev.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Don Day"
+        ]
+      },
+      "date": "09/10/2026, 04:30 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Vs Walmart: Who Has The Better Rotisserie Chicken?",
+      "snippet": null,
+      "source": {
+        "name": "Tasting Table",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tastingtable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Haille Griswold"
+        ]
+      },
+      "date": "09/11/2026, 01:20 PM, +0000 UTC"
+    },
+    {
+      "title": "Did you know Costco had its own online marketplace? It's already gone",
+      "snippet": null,
+      "source": {
+        "name": "Cleveland.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cleveland.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "EmilyAnn Jackman"
+        ]
+      },
+      "date": "09/11/2026, 07:41 PM, +0000 UTC"
+    },
+    {
+      "title": "USDA gives California $4M to fight Costco-linked bugs threatening the wine industry",
+      "snippet": null,
+      "source": {
+        "name": "Sacramento Bee",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.sacbee.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lizzie Kane"
+        ]
+      },
+      "date": "09/11/2026, 10:50 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco set to expand with 14 new warehouses across US and Canada",
+      "snippet": null,
+      "source": {
+        "name": "Fox Business",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Landon Mion"
+        ]
+      },
+      "date": "09/09/2026, 04:00 AM, +0000 UTC"
+    },
+    {
+      "title": "'Costco buy or bye?' Shoppers divided about chocolate monster head",
+      "snippet": null,
+      "source": {
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amaris Encinas"
+        ]
+      },
+      "date": "09/11/2026, 10:49 PM, +0000 UTC"
+    },
+    {
+      "title": "When is the next Costco Pokemon drop and which new products are hitting the shelf?",
+      "snippet": null,
+      "source": {
+        "name": "MARCA",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.marca.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/11/2026, 01:12 PM, +0000 UTC"
+    },
+    {
+      "title": "12 Costco September Freezer Deals That Are Too Good To Pass Up",
+      "snippet": null,
+      "source": {
+        "name": "FinanceBuzz",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://financebuzz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amanda Machado"
+        ]
+      },
+      "date": "09/11/2026, 09:05 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco sets plans for $42M store in booming North Texas suburb",
+      "snippet": null,
+      "source": {
+        "name": "MySA",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mysanantonio.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Peter L Scamardo"
+        ]
+      },
+      "date": "09/10/2026, 05:25 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco opening 14 new warehouses soon: Here\u2019s where",
+      "snippet": null,
+      "source": {
+        "name": "The Hill",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://thehill.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Addy Bink"
+        ]
+      },
+      "date": "09/08/2026, 02:42 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco quietly shuts down its Costco Next service. What was it?",
+      "snippet": null,
+      "source": {
+        "name": "WGN-TV",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://wgntv.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Michael Bartiromo"
+        ]
+      },
+      "date": "09/09/2026, 02:03 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Price Prediction: A $1,200 Target Comes Into Focus",
+      "snippet": null,
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vandita Jadeja"
+        ]
+      },
+      "date": "09/11/2026, 12:00 PM, +0000 UTC"
+    },
+    {
+      "title": "'Costco buy or bye?' Shoppers divided about chocolate monster head",
+      "snippet": null,
+      "source": {
+        "name": "ca.style.yahoo.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://ca.style.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Amaris Encinas"
+        ]
+      },
+      "date": "09/11/2026, 10:49 PM, +0000 UTC"
+    },
+    {
+      "title": "North Texas city set to get first Costco store and fuel station",
+      "snippet": null,
+      "source": {
+        "name": "chron.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.chron.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chyna Blackmon"
+        ]
+      },
+      "date": "09/09/2026, 06:57 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco to spend $16M in road improvements, impact fees as part of development in Tumwater",
+      "snippet": null,
+      "source": {
+        "name": "thejoltnews.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.thejoltnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/11/2026, 10:50 PM, +0000 UTC"
+    },
+    {
+      "title": "Can\u2019t get your hands on the viral Costco Halloween blankets? Try these alternatives",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Elizabeth Berry"
+        ]
+      },
+      "date": "09/10/2026, 07:43 PM, +0000 UTC"
+    },
+    {
+      "title": "\"I found that shopping for clothing at Costco can be surprisingly fruitful,\" our Wirecutter tester writes. \"Here\u2019s what I liked, and what I\u2019d leave behind.\" https://nyti.ms/4xaqfGv",
+      "snippet": null,
+      "source": {
+        "name": "facebook.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.facebook.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/10/2026, 01:20 AM, +0000 UTC"
+    },
+    {
+      "title": "Home Depot adds its own answer to Costco\u2019s food court",
+      "snippet": null,
+      "source": {
+        "name": "thestreet.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Maurie Backman",
+          "Celine Provini"
+        ]
+      },
+      "date": "09/11/2026, 08:00 PM, +0000 UTC"
+    },
+    {
+      "title": "Is This Costco Breakfast Sandwich Better Than Chick-fil-A? We Tried It",
+      "snippet": null,
+      "source": {
+        "name": "Sporked",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sporked.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ashley Theirin"
+        ]
+      },
+      "date": "09/08/2026, 03:21 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco\u2019s famous return policy has a catch members don\u2019t know",
+      "snippet": null,
+      "source": {
+        "name": "thestreet.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Daniel B. Kline",
+          "Celine Provini"
+        ]
+      },
+      "date": "09/10/2026, 12:51 PM, +0000 UTC"
+    },
+    {
+      "title": "5 Cool Costco Finds That Could Enhance Your Gaming Setup",
+      "snippet": null,
+      "source": {
+        "name": "SlashGear",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.slashgear.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Chaney"
+        ]
+      },
+      "date": "09/11/2026, 08:30 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Shoppers Are In Awe Over This Jack Daniel's Deal",
+      "snippet": null,
+      "source": {
+        "name": "Tasting Table",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tastingtable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Luna Christina Lupus"
+        ]
+      },
+      "date": "09/11/2026, 06:43 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Hikes Price of Motor Oil and Limits Purchases as Global Shortage Looms",
+      "snippet": null,
+      "source": {
+        "name": "thedrive.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thedrive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Adam Ismail"
+        ]
+      },
+      "date": "09/10/2026, 08:23 PM, +0000 UTC"
+    },
+    {
+      "title": "These Foods Make Costco Worth It, According To Reddit",
+      "snippet": null,
+      "source": {
+        "name": "Sporked",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sporked.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vinz Karl"
+        ]
+      },
+      "date": "09/08/2026, 04:02 PM, +0000 UTC"
     }
   ],
-  "Tesla robotaxi": [
+  "Costco Labor": [
     {
-      "position": 1,
-      "title": "Tesla 'Robotaxi' sold a 66-minute 2.3-mile ride and left ...",
-      "link": "https://www.reddit.com/r/RealTesla/comments/1vxz20a/tesla_robotaxi_sold_a_66minute_23mile_ride_and/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESmwEB6zswFaxEArXazI8lw4Veb_Xsn-esCaAYQfD-j8GTRvNCAd1I2oHedWm5sjjdEnm3uf_xGaLr7jPLTck0KGiUp3AGNZDfDlTXI8ByVHZp5G8thFnygQ9S5k3rlXZwlgt0T6R3Zlo1cFxqU1NbsBMqfXPWaVHTDA55cgwk-J_7-_BJUh30BAUZjrSAFhkEgqn5wYip5uzIwhwqlw&ved=2ahUKEwjhvKP6nuCWAxVYhYkEHbcYMQQQFnoECC4QAQ&uoh=1",
-      "displayed_link": "40+ comments \u00b7 2 weeks ago",
-      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png",
-      "snippet": "Tesla has released robotaxi in the bay area. It's priced nearly 20% higher than Uber",
-      "snippet_highlighted_words": [
-        "Tesla has released robotaxi in the bay area"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Tesla has released robotaxi in the bay area. It's priced nearly 20% higher than Uber",
-          "source_info_link": "https://www.reddit.com/r/RealTesla/comments/1vxz20a/tesla_robotaxi_sold_a_66minute_23mile_ride_and/",
-          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAhFBMVEVHcEz_RQD_RQD_RQD_RQD_RQD_RQD_RQD_RQD_PQD_NgD-XS32dlf5vK3____64dusLADUz9H-jXLOPAoSHiFrLBm3uLn3_f7jVS_b6e77pJDJo6H718__RQDw9ffs5-jm8fPIXlHqKwD5-PjolIP_VgP_SQLQ2uAyODvQ4ekABAhqcHK4ptuCAAAAHnRSTlMAPobB7P9mHdb__________________________8J6YdtgAAABWUlEQVR4AWySYZNDMBCGWyw2SI9TGnWqILT____dm6Enc-MZH8Qz2V3Je_rj7Lgekec659N_fIgPnn-yCULaYaYwsCqShYhiQXQ-dJxIedltQDZfqZQyY6K1st3vO78WsiyNDI3zySK_caJUygTMzN7eTnxdBXMcb3-0TsMC30RUJfciqSIs8JCZycHwWV1n2UVuXDKzxsDOySWu5AGVoB_TUh5imhJFpQTNfav7uDcSlBERJLUN9LOLewn6LnpCNS0EyvKg-vLRjVRLUIuxe8hSDYyyLqatyr68jdO6cxpvWGIeDOQQujagNs7YuumbJmYiZz0E3aJvMc95Ps8F-rV6PQQ0JY4XpVqVv0Cu2lYps9HbDp6HRS9Kv1-vt1Z4HeDI_1yZiFMNFIzWqYkChftl8zSkegE6HSYmENgxYYQHRGzUHiLHyh3ModvZo7nHxA71ofwdSnYAAPpVIo4RUPiIAAAAAElFTkSuQmCC.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "The best last-minute Labor Day Costco deals 2026: TVs, Apple devices, and more",
+      "snippet": null,
+      "source": {
+        "name": "ZDNET",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.zdnet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alison DeNisco Rayome"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.reddit.com/r/RealTesla/comments/1vxz20a/tesla_robotaxi_sold_a_66minute_23mile_ride_and/&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.reddit.com%2Fr%2FRealTesla%2Fcomments%2F1vxz20a%2Ftesla_robotaxi_sold_a_66minute_23mile_ride_and%2F",
-      "source": "Reddit \u00b7 r/RealTesla"
+      "date": "09/03/2026, 05:42 PM, +0000 UTC"
     },
     {
-      "position": 2,
-      "title": "Tesla: Media Reports Cybercab Will Join Robotaxi Fleet in ...",
-      "link": "https://global.morningstar.com/en-gb/stocks/tesla-media-reports-cybercab-will-join-robotaxi-fleet-near-term",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESowEB6zswFdCSfQ0SDv8FnByTcQJHDWQeiFeGMH2KybAYUYvQhmF3ULM83k7nRZB3XjGWIZI1J8SwueN-APiM0YUQr-Us7bPnWnG9ry-CbwZDP3jKc3HI40tPhsMavcWCjSHp4OnCQ6ag5V5k-yyDYMZMzP3F5IuRuK9vKFE9K_tdZVClv_Y7XynFY3RA9AkqgmsZI1KJN81IYycN_Hpp8PX-_RJ8&ved=2ahUKEwjhvKP6nuCWAxVYhYkEHbcYMQQQFnoECDAQAQ&uoh=1",
-      "displayed_link": "https://global.morningstar.com \u203a en-gb \u203a stocks \u203a tesla-m...",
-      "favicon": "https://serpapi.com/searches/6aa0a83fe171b971ec6e78cb/images/v9WBRZyqiV8DAbvg_YpV1Pk9muCtpxsABDJ0u5J9bZ4.png",
-      "date": "Aug 18, 2026",
-      "snippet": "We expect Tesla's robotaxi service to continue expanding throughout the remainder of the year.",
-      "snippet_highlighted_words": [
-        "Tesla's robotaxi"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "We expect Tesla's robotaxi service to continue expanding throughout the remainder of the year.",
-          "source_info_link": "https://global.morningstar.com/en-gb/stocks/tesla-media-reports-cybercab-will-join-robotaxi-fleet-near-term",
-          "icon": "https://serpapi.com/searches/6aa0a83fe171b971ec6e78cb/images/v9WBRZyqiV8DAbvg_YpV1FO9MTATjfMUds0gKatl3VgeuMmn7UIfbgRGu4uWDKZD.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more",
+      "snippet": null,
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samantha Mangino",
+          "Lois Mackenzie"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://global.morningstar.com/en-gb/stocks/tesla-media-reports-cybercab-will-join-robotaxi-fleet-near-term&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fglobal.morningstar.com%2Fen-gb%2Fstocks%2Ftesla-media-reports-cybercab-will-join-robotaxi-fleet-near-term",
-      "source": "Morningstar"
+      "date": "09/11/2026, 12:31 PM, +0000 UTC"
     },
     {
-      "position": 3,
-      "title": "Tesla reveals plans for Robotaxi charging hub in Austin",
-      "link": "https://www.teslarati.com/tesla-robotaxi-charging-hub-austin-plans/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESewHrOzAVo0nHe1_IP-rqSCLrlqxzHiwjIEZaa9WeQG1FRgOrbbwZGZUzj53yhmMR4Nn4YKbyn6ZHhFilyTteKln3KNkuDlo5XbUJ2fSHZ3i2hNLLeOGe4Z3DRGjj6kAA9kjjTRWEdMkW17i6T5q9k4T6D-u-ocfsf_-UTQ&ved=2ahUKEwjhvKP6nuCWAxVYhYkEHbcYMQQQFnoECDEQAQ&uoh=1",
-      "displayed_link": "https://www.teslarati.com \u203a News",
-      "favicon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kLzQsJCYxJx8fLT0tMT03Ojo6Iys_RD84QzRCOjEBCgoKDQwNGg8PGjUlHyU3Nzc3Nzc3LTI4Nzc3NS01My03ODctNTU3Ny8tLTUrKzU4NTY1NTU1Ly0tKy0tKy03K__AABEIACAAIAMBEQACEQEDEQH_xAAaAAABBQEAAAAAAAAAAAAAAAAFAAIDBAYH_8QAIxAAAgEDAwUBAQAAAAAAAAAAAQIDABESBAUhMUJRcbFBMv_EABoBAAIDAQEAAAAAAAAAAAAAAAACAQMEBQb_xAAdEQADAQEBAAMBAAAAAAAAAAAAAQIRAwQhMWES_9oADAMBAAIRAxEAPwDpGVee0UWVGgLKjQHOrR45C2S5D1TUnOaBBcVToF7R7dJqEEjsI4_wnqa2cfLXRf0_hEoIwbbpkc3vIynnI8CtvPycpe_ZIP3mQHWYjtUA_axe6k-ufhDBZbisGimj1EMuqiWOF1TTlFDAj-getvHH2u7cX0lKXiHJJHg23Sm3AucVJuSaa6jzwBmpJWkkZ3N2Y3NcGrdU6YhHFIiOGdMwO0mwpYtS9a0Cw256syM6zFb9q9B6FWv2dW9TwNK8s8kr5Suzt5Jqq-lW9p6A3Kk0D__Z.jpeg",
-      "date": "Aug 18, 2026",
-      "snippet": "Tesla has revealed plans through permit submissions for a massive Robotaxi charging hub in Austin, Texas.",
-      "snippet_highlighted_words": [
-        "Tesla",
-        "Robotaxi"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Tesla has revealed plans through permit submissions for a massive Robotaxi charging hub in Austin, Texas.",
-          "source_info_link": "https://www.teslarati.com/tesla-robotaxi-charging-hub-austin-plans/",
-          "icon": "https://serpapi.com/images/i/_9j_4AAQSkZJRgABAQAAAQABAAD_2wCEAAkGBwgHBgkIBwgKCgkLDRYPDQwMDRsUFRAWIB0iIiAdHx8kLzQsJCYxJx8fLT0tMT03Ojo6Iys_RD84QzRCOjEBCgoKDQwNGg8PGjUlHyU3Nzc3Nzc3LTI4Nzc3NS01My03ODctNTU3Ny8tLTUrKzU4NTY1NTU1Ly0tKy0tKy03K__AABEIACAAIAMBEQACEQEDEQH_xAAaAAABBQEAAAAAAAAAAAAAAAAFAAIDBAYH_8QAIxAAAgEDAwUBAQAAAAAAAAAAAQIDABESBAUhMUJRcbFBMv_EABoBAAIDAQEAAAAAAAAAAAAAAAACAQMEBQb_xAAdEQADAQEBAAMBAAAAAAAAAAAAAQIRAwQhMWES_9oADAMBAAIRAxEAPwDpGVee0UWVGgLKjQHOrR45C2S5D1TUnOaBBcVToF7R7dJqEEjsI4_wnqa2cfLXRf0_hEoIwbbpkc3vIynnI8CtvPycpe_ZIP3mQHWYjtUA_axe6k-ufhDBZbisGimj1EMuqiWOF1TTlFDAj-getvHH2u7cX0lKXiHJJHg23Sm3AucVJuSaa6jzwBmpJWkkZ3N2Y3NcGrdU6YhHFIiOGdMwO0mwpYtS9a0Cw256syM6zFb9q9B6FWv2dW9TwNK8s8kr5Suzt5Jqq-lW9p6A3Kk0D__Z.jpeg"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Are stores open on Labor Day 2026? Holiday hours for Costco, Target, Walmart, banks, stock markets, CVS, and more",
+      "snippet": null,
+      "source": {
+        "name": "Fast Company",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fastcompany.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/07/2026, 10:30 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Labor Day Hours 2026: Find Out if Stores Are Open on Monday",
+      "snippet": null,
+      "source": {
+        "name": "TODAY.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.today.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sarah Wesley Lemire"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.teslarati.com/tesla-robotaxi-charging-hub-austin-plans/&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.teslarati.com%2Ftesla-robotaxi-charging-hub-austin-plans%2F",
-      "source": "Teslarati"
+      "date": "09/06/2026, 07:00 PM, +0000 UTC"
     },
     {
-      "position": 4,
-      "title": "A Tesla Cybercab prototype spotted charging in Los ...",
-      "link": "https://www.facebook.com/motortrend/posts/a-tesla-cybercab-prototype-spotted-charging-in-los-angeles-revealed-a-low-mounte/1415049693818288/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxQEB6zswFSk_QFgoDtVhs6ROvSuPRF21dWfvM4zEnXw0zKmCyjirmKINVEpXcqTuebHCW8ty_ahPyYk7_ETnRGtD3Egoxa7qh7UnmSJpkJU9FRtgiy-Huxvf6EFs6pwihKU_SIYeEw36uR2HtWSWm9_67lzlzVsv86wUqB2W3kcCl4H4Z8aXph6kN1Xnp66oqBe9XEIaLmdmnMFG2BFIkAGdJPbn64Q8GnEdeZKkCKfH2U_JvU76ElMN5Rcc_2C2Gwvuuhan3g&ved=2ahUKEwjhvKP6nuCWAxVYhYkEHbcYMQQQFnoECC0QAQ&uoh=1",
-      "displayed_link": "40+ reactions \u00b7 1 month ago",
-      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png",
-      "snippet": "A Tesla Cybercab, which was originally unveiled as an autonomous, two-seat robotaxi with no steering wheel, has been spotted with a steering ...",
-      "snippet_highlighted_words": [
-        "autonomous, two-seat robotaxi"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "A Tesla Cybercab, which was originally unveiled as an autonomous, two-seat robotaxi with no steering wheel, has been spotted with a steering ...",
-          "source_info_link": "https://www.facebook.com/motortrend/posts/a-tesla-cybercab-prototype-spotted-charging-in-los-angeles-revealed-a-low-mounte/1415049693818288/",
-          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAXVBMVEVHcEwHZv8HaP8IZ_8IZ_8IZv8IaP8IZ_8HZv8Haf8IZ_8IaP8IZ_8AXv8AV_8AYv-SqP_P1__m6__e5f9wlP____-tvP9jiv82c_8IZ_8Iaf-fsf________8AW_-wrobhAAAAH3RSTlMAM4bC6v1h7v8Z3UL_______7_________wRiFwenBhp_Z0gAAAOhJREFUeAFtk0UWwzAMBWWHFHOZe_9bBn9Nr7Mdg5AiQjZt17WNFFTTDxwZ-kKNigvUmJw2XGF0dByx1jlnPTPDjiYqDofj8XQ4L9bsL6vozpedq13_3eJk4G-XXPIac8zBHUs5EIl48Q4Tws3ziiAZ5f7j3Vq7O5b0iOGE1Z0cRxpqS3mwSbbU4VHndukW8GwHiQ_BzUO2KceIw7MIqJBHyIZk_WwKSv6KcD_frlsqt_P5joBELJ-3iNZD8YDC_82zz1pWS5U1u5bmmY1JLdMQmVoaOIxmIdVYDXWUxVAD8Xp_FvnN1mEG0f0e5ixC4ikAAAAASUVORK5CYII.png"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Is Costco open on Labor Day? See hours for Monday",
+      "snippet": null,
+      "source": {
+        "name": "Cincinnati Enquirer",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cincinnati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Mariyam Muhammad"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.facebook.com/motortrend/posts/a-tesla-cybercab-prototype-spotted-charging-in-los-angeles-revealed-a-low-mounte/1415049693818288/&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.facebook.com%2Fmotortrend%2Fposts%2Fa-tesla-cybercab-prototype-spotted-charging-in-los-angeles-revealed-a-low-mounte%2F1415049693818288%2F",
-      "source": "Facebook \u00b7 MotorTrend",
-      "read_more_link": "https://www.facebook.com/motortrend/posts/a-tesla-cybercab-prototype-spotted-charging-in-los-angeles-revealed-a-low-mounte/1415049693818288/#:~:text=A%20Tesla%20Cybercab%2C%20which%20was,company's%20Gigafactory%20in%20Texas%20."
+      "date": "09/06/2026, 05:04 AM, +0000 UTC"
     },
     {
-      "position": 5,
-      "title": "Elon Musk - Our Tesla Robotaxi Software is Almost Here",
-      "link": "https://www.youtube.com/watch?v=ohOjvqLiJ48",
-      "displayed_link": "29.4K+ views \u00b7 1 year ago",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSuOdB5UXszPn7lkiyi8U_8_--BRpq5vn_x69O84YZ-d9U5RGaB0-R0LA&s",
-      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png",
-      "snippet": "Elon Musk - Our Tesla Robotaxi Software is Almost Here",
-      "duration": "18:47",
-      "about_this_result": {
-        "source": {
-          "description": "Elon Musk - Our Tesla Robotaxi Software is Almost Here",
-          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8_9hAAAAhUlEQVR4AWNwL_ChCFPHgP8MxqxA7ArEKVBcCcUNIAznI-RdQXrABgAZpv8ZjP6Tg0F6QQbsosCAXSADHmGVVPIC0jKEDHgAMuAbmgRE445D___feYzXIJBeBigH04BVW_9DAcgwqEGYaik2gGIvUByIlEbjDooTEiwps5GRlNmolpkowgBVP9wMSzSKGAAAAABJRU5ErkJggg.png"
-        }
+      "title": "Which grocery stores are open \u2014 and closed \u2014 on Labor Day 2026?",
+      "snippet": null,
+      "source": {
+        "name": "NJ.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katherine Rodriguez"
+        ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAV3F6gbrG57YBb-6wHrefCARTO2xp6ZcW3rVGwjmPQfkF2BNDIaQTN98aTEt5QwfR-1VZNqf6tuov5wn5kVFqKFDwxdz7MQ7zd7Fcu-nvs9fTBtTSn9maVHfkwYdHafw&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAV3F6gbrG57YBb-6wHrefCARTO2xp6ZcW3rVGwjmPQfkF2BNDIaQTN98aTEt5QwfR-1VZNqf6tuov5wn5kVFqKFDwxdz7MQ7zd7Fcu-nvs9fTBtTSn9maVHfkwYdHafw",
-      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTYdxDibZcR_nlLMLIwEYVX0kSd9zu6_KBphA",
-      "source": "YouTube \u00b7 Dirty Tesla"
+      "date": "09/06/2026, 11:00 PM, +0000 UTC"
+    },
+    {
+      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
+      "snippet": null,
+      "source": {
+        "name": "WXLV",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc45.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/05/2026, 09:30 PM, +0000 UTC"
+    },
+    {
+      "title": "Which stores are open and closed on Labor Day",
+      "snippet": null,
+      "source": {
+        "name": "9News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.9news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Kirkpatrick"
+        ]
+      },
+      "date": "09/07/2026, 12:22 PM, +0000 UTC"
+    },
+    {
+      "title": "10 Hidden Costco Sales You Need to Shop Before Labor Day",
+      "snippet": null,
+      "source": {
+        "name": "Good Housekeeping",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodhousekeeping.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Monique Valeris",
+          "Laura Millar"
+        ]
+      },
+      "date": "09/03/2026, 09:16 PM, +0000 UTC"
+    },
+    {
+      "title": "7 Costco Discounts Shoppers Should Look For On Labor Day 2026",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Garrett Palm"
+        ]
+      },
+      "date": "09/01/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Walmart, Target, and Costco: Big box, big responsibility, big problem",
+      "snippet": null,
+      "source": {
+        "name": "greenpeace.org",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.greenpeace.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/09/2026, 04:04 PM, +0000 UTC"
+    },
+    {
+      "title": "Is Publix, Costco closed on Labor Day? Stores open, closed in Florida",
+      "snippet": null,
+      "source": {
+        "name": "Pensacola News Journal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pnj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samantha Neely"
+        ]
+      },
+      "date": "09/02/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Is Costco open on Labor Day 2026 in San Francisco? What's open today, from malls to museums",
+      "snippet": null,
+      "source": {
+        "name": "Secret San Francisco",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://secretsanfrancisco.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jamie Ferrell"
+        ]
+      },
+      "date": "09/07/2026, 07:41 AM, +0000 UTC"
+    },
+    {
+      "title": "Is Costco open on Labor Day? Tennessee grocery store hours for 2026",
+      "snippet": null,
+      "source": {
+        "name": "The Commercial Appeal",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.commercialappeal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jordan Green"
+        ]
+      },
+      "date": "09/07/2026, 10:04 AM, +0000 UTC"
+    },
+    {
+      "title": "Check to see if your grocery store, retailer is open Labor Day in Iowa",
+      "snippet": null,
+      "source": {
+        "name": "The Des Moines Register",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.desmoinesregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lucia Cheng"
+        ]
+      },
+      "date": "09/07/2026, 10:03 AM, +0000 UTC"
+    },
+    {
+      "title": "Labor Day 2026 shopping: Full schedule and door times for Walmart, Target, Costco, and more...",
+      "snippet": null,
+      "source": {
+        "name": "en.as.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.as.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Greg Heilman",
+          "Corina Gonzalez"
+        ]
+      },
+      "date": "09/07/2026, 10:03 AM, +0000 UTC"
+    },
+    {
+      "title": "Which stores are open on Labor Day 2026? See the list of what's open today.",
+      "snippet": null,
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tabitha Britt"
+        ]
+      },
+      "date": "09/07/2026, 12:04 PM, +0000 UTC"
+    },
+    {
+      "title": "What\u2019s open and closed on Labor Day? From Costco to banks and UPS pickup",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo News New Zealand",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nz.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Summer Woolley"
+        ]
+      },
+      "date": "09/07/2026, 08:24 AM, +0000 UTC"
+    },
+    {
+      "title": "Are Walmart, Publix, Target, Aldi open on Labor Day? Here's what's open",
+      "snippet": null,
+      "source": {
+        "name": "Treasure Coast News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.tcpalm.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Olivia Franklin"
+        ]
+      },
+      "date": "09/05/2026, 09:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Most national retailers close on 2 holidays. Costco shuts down for 7.",
+      "snippet": null,
+      "source": {
+        "name": "Business Insider",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dominick Reuter"
+        ]
+      },
+      "date": "09/07/2026, 09:41 AM, +0000 UTC"
+    },
+    {
+      "title": "Is Costco closed on Labor Day in Fresno? Target? See which stores will be open",
+      "snippet": null,
+      "source": {
+        "name": "fresnobee.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fresnobee.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/04/2026, 12:00 PM, +0000 UTC"
+    },
+    {
+      "title": "Sam's Club confirms Labor Day 2026 hours as Costco closes doors",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katherine Rodriguez"
+        ]
+      },
+      "date": "09/05/2026, 11:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco will shut down for 24 hours on Sept. 7. Here\u2019s why",
+      "snippet": null,
+      "source": {
+        "name": "NJ.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katherine Rodriguez"
+        ]
+      },
+      "date": "08/24/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Is Publix open on Labor Day? See which grocery stores are open and closed across Tampa Bay",
+      "snippet": null,
+      "source": {
+        "name": "wtsp.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wtsp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/07/2026, 01:05 PM, +0000 UTC"
+    },
+    {
+      "title": "Labor Day 2026: Here\u2019s what\u2019s open and closed in central Pa.",
+      "snippet": null,
+      "source": {
+        "name": "PennLive.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.pennlive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kaylyn Greene"
+        ]
+      },
+      "date": "09/07/2026, 09:57 AM, +0000 UTC"
+    },
+    {
+      "title": "What's open and closed on Labor Day? Here's what to know",
+      "snippet": null,
+      "source": {
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Gabe Hauari"
+        ]
+      },
+      "date": "09/07/2026, 03:10 PM, +0000 UTC"
+    },
+    {
+      "title": "Labor Day 2026: Are Banks, Stock Market, Target, Walmart, USPS, Costco Closed Or Open?",
+      "snippet": null,
+      "source": {
+        "name": "NDTV Profit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/07/2026, 10:16 AM, +0000 UTC"
+    },
+    {
+      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
+      "snippet": null,
+      "source": {
+        "name": "WSYX",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://abc6onyourside.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/05/2026, 06:27 PM, +0000 UTC"
+    },
+    {
+      "title": "Is Costco open on Labor Day 2026? What to know before you go to the store",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katherine Rodriguez"
+        ]
+      },
+      "date": "08/31/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Is Costco Open on Labor Day?",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/06/2026, 06:00 AM, +0000 UTC"
+    },
+    {
+      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
+      "snippet": null,
+      "source": {
+        "name": "KVII",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7amarillo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/05/2026, 06:27 PM, +0000 UTC"
+    },
+    {
+      "title": "Is H-E-B open on Labor Day 2026? Here's the list of what's open",
+      "snippet": null,
+      "source": {
+        "name": "MySA",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.mysanantonio.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Melanie Love"
+        ]
+      },
+      "date": "09/07/2026, 09:42 AM, +0000 UTC"
+    },
+    {
+      "title": "Here's what's open and closed on Labor Day 2026",
+      "snippet": null,
+      "source": {
+        "name": "ABC7 New York",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7ny.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Auzinea Bacon"
+        ]
+      },
+      "date": "09/04/2026, 07:00 AM, +0000 UTC"
     }
   ],
-  "Tesla earnings": [
+  "Costco earnings": [
     {
-      "position": 1,
-      "title": "Tesla's Earnings Loom With Almost No Room for Error",
-      "link": "https://finance.yahoo.com/news/tesla-earnings-loom-almost-no-172000765.html",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESgwEB6zswFVT0bxqq5r0xSf53K0s0w4yPjrPK9YeTnPwuEKQ0Ryk66ITw0ff19jY3ARe49VQUHr8eas0K7XXALeqX8sBRofYe1PblWr_VF9i00nr6p0zs7cS3zeQDBKHfLfOVbnwpswlMDtIT2t3fvhSrlhvnEj69BiKYQksURb2-Nczjuw&ved=2ahUKEwjftqz7nuCWAxWO-AIHHcdJF-MQFnoECBwQAQ&uoh=1",
-      "displayed_link": "https://finance.yahoo.com \u203a news \u203a tesla-earnings-loom...",
-      "favicon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvFpQHfOmzn6gH6l76b-pIdmjJGZ4m35Uw9CATIxWriFg-wAAD-6OGEI-4oAlLykJEwEVA4_7Qmruc1nJ-K5d8PpakkD-iWYQ7aoX7XSAqfu__jeNrSiZ6K8MK6q9RmeVWYHai83QRTaDhWlbGXn3v0qUd_BcKU17rr0cmkvrjkA9fvDaEOAgU_khsP_GLKEBn85GWrTpV5B0LnvvFBrB357sGpV1lld8cPpcxBs8I_CtAqu-X6qLnK-nmKtsms3HXSPSvb2f3GkspJva4__2xXX_ecsxCo7uAljX9BVFBx5dlZJjxOcCckzLNBH5sr6Lv1I28OfCvLlLDa6BWqZS5x1cwWXFZBtpYOW-ZP7nIQ_-UWrGNw6Tw1UgP7PEKkDHN8-6t7vK6-gAA.webp",
-      "date": "Jan 15, 2026",
-      "snippet": "Tesla heads into earnings with its uptrend intact but sentiment split. leaves zero margin for error. With a price-to-earnings (P/E) ratio ...",
-      "snippet_highlighted_words": [
-        "Tesla heads into earnings with its uptrend intact"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Tesla heads into earnings with its uptrend intact but sentiment split. leaves zero margin for error. With a price-to-earnings (P/E) ratio ...",
-          "source_info_link": "https://finance.yahoo.com/news/tesla-earnings-loom-almost-no-172000765.html",
-          "icon": "https://serpapi.com/images/i/UklGRlYBAABXRUJQVlA4IEoBAABwBwCdASocABwAPtE-tFooIigoFAEAGglsAJ0yhHAQYBvFpQHfOmzn6gH6l76b-pIdmjJGZ4m35Uw9CATIxWriFg-wAAD-6OGEI-4oAlLykJEwEVA4_7Qmruc1nJ-K5d8PpakkD-iWYQ7aoX7XSAqfu__jeNrSiZ6K8MK6q9RmeVWYHai83QRTaDhWlbGXn3v0qUd_BcKU17rr0cmkvrjkA9fvDaEOAgU_khsP_GLKEBn85GWrTpV5B0LnvvFBrB357sGpV1lld8cPpcxBs8I_CtAqu-X6qLnK-nmKtsms3HXSPSvb2f3GkspJva4__2xXX_ecsxCo7uAljX9BVFBx5dlZJjxOcCckzLNBH5sr6Lv1I28OfCvLlLDa6BWqZS5x1cwWXFZBtpYOW-ZP7nIQ_-UWrGNw6Tw1UgP7PEKkDHN8-6t7vK6-gAA.webp"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Costco (COST): Buy, Sell, or Hold Post Q2 Earnings?",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Adam Hejl"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://finance.yahoo.com/news/tesla-earnings-loom-almost-no-172000765.html&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffinance.yahoo.com%2Fnews%2Ftesla-earnings-loom-almost-no-172000765.html",
-      "source": "Yahoo Finance"
+      "date": "09/09/2026, 02:07 AM, +0000 UTC"
     },
     {
-      "position": 2,
-      "title": "Tesla earnings coming up: can profits keep pace with the ...",
-      "link": "https://www.home.saxo/content/articles/equities/tesla-earnings-coming-up-20102025",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESiQEB6zswFY9zoCtqtUjBeCBG6DHQ0d60mLfLeG7ZyTCckMBsuZOBf2aqoZkrquCnZn9eNTh6mCE6jJoX4_AxabdedDkRU7nEY4SThQ4tUak84wtAbcTBGV9oCmWC7T9txoJeEWcJLiOa25AkVzknUbfwS9E0Y8-sw84uTenzShQaaD5waAMjLbZzCw&ved=2ahUKEwjftqz7nuCWAxWO-AIHHcdJF-MQFnoECCMQAQ&uoh=1",
-      "displayed_link": "https://www.home.saxo \u203a content \u203a articles \u203a equities \u203a te...",
-      "favicon": "https://serpapi.com/images/i/UklGRuQBAABXRUJQVlA4INgBAADwBwCdASogACAAPrUurVanIacnG_DgFolsAKcgFMX4K0HQtm13jH-mfYD6RrJP-V7oVAq1bzB-0xuvV3Tc3gHCkeFPk_J6YAAA_v7Dnrjfm4Z73aD07Xz8SE3EDEd7BqM_2Deaq1dfGswp1Tmhj6jY09zutiIx5m6pTBoa3KjNZ-ZnTO12pS6_-h51Sj0FFefAdGdcD-Yz3gWw3_aDthu-a4HTvd5n2emYqUSfWX_-dKctUf9OgGKaeXUfy3dMPW_S3NuCs2JlrYe4o6rLlSFcV290MbZYEkyUlSSfpEep1mI4Qfgxbga5qteWOXpWZ9RPF29ZhNFnAjIpY4JRT_qyiL-Yu79noDFas6FsbkPLg2U-3aBYje9sWAS7igq7KMGklT71Bx85_2PnAUM_L5iA7PqJtyzynHQkJ0Hd6Xzx_S0oAaDct7RXUlYxhvlLWiD6ZF5ggvfeTYnj143ykeAA99jIvV3j6_joTApYSXknu1rUmYw4trmf94IpcSh2uxLth_ocfDkgJHipVbQR82EqlGBS8tffJC9DlMrVaALc8-X56eqHHCLqIJskRITH7fuSk-i8OQ17K45qZXzo2-qd46QDCpkCSTFS3KP7Z4i61w-ib9DmQAAA.webp",
-      "date": "Oct 20, 2025",
-      "snippet": "Tesla enters Q3 earnings on a +30% rally. Adjusted EPS: USD 0.531 GAAP EPS: USD 0.418 Revenue: USD 26.3 billion Gross margin: around 17.2% EBIT:",
-      "snippet_highlighted_words": [
-        "Tesla enters Q3 earnings on a +30% rally"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Tesla enters Q3 earnings on a +30% rally. Adjusted EPS: USD 0.531 GAAP EPS: USD 0.418 Revenue: USD 26.3 billion Gross margin: around 17.2% EBIT:",
-          "source_info_link": "https://www.home.saxo/content/articles/equities/tesla-earnings-coming-up-20102025",
-          "icon": "https://serpapi.com/images/i/UklGRuQBAABXRUJQVlA4INgBAADwBwCdASogACAAPrUurVanIacnG_DgFolsAKcgFMX4K0HQtm13jH-mfYD6RrJP-V7oVAq1bzB-0xuvV3Tc3gHCkeFPk_J6YAAA_v7Dnrjfm4Z73aD07Xz8SE3EDEd7BqM_2Deaq1dfGswp1Tmhj6jY09zutiIx5m6pTBoa3KjNZ-ZnTO12pS6_-h51Sj0FFefAdGdcD-Yz3gWw3_aDthu-a4HTvd5n2emYqUSfWX_-dKctUf9OgGKaeXUfy3dMPW_S3NuCs2JlrYe4o6rLlSFcV290MbZYEkyUlSSfpEep1mI4Qfgxbga5qteWOXpWZ9RPF29ZhNFnAjIpY4JRT_qyiL-Yu79noDFas6FsbkPLg2U-3aBYje9sWAS7igq7KMGklT71Bx85_2PnAUM_L5iA7PqJtyzynHQkJ0Hd6Xzx_S0oAaDct7RXUlYxhvlLWiD6ZF5ggvfeTYnj143ykeAA99jIvV3j6_joTApYSXknu1rUmYw4trmf94IpcSh2uxLth_ocfDkgJHipVbQR82EqlGBS8tffJC9DlMrVaALc8-X56eqHHCLqIJskRITH7fuSk-i8OQ17K45qZXzo2-qd46QDCpkCSTFS3KP7Z4i61w-ib9DmQAAA.webp"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Costco: The Valuation Re-Rating Is Just Getting Started (Q4 Earnings Preview)",
+      "snippet": null,
+      "source": {
+        "name": "Seeking Alpha",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/11/2026, 11:30 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Price Prediction: A $1,200 Target Comes Into Focus",
+      "snippet": null,
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vandita Jadeja"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.home.saxo/content/articles/equities/tesla-earnings-coming-up-20102025&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.home.saxo%2Fcontent%2Farticles%2Fequities%2Ftesla-earnings-coming-up-20102025",
-      "source": "Saxo"
+      "date": "09/11/2026, 12:00 PM, +0000 UTC"
     },
     {
-      "position": 3,
-      "title": "What Analysts Are Saying Ahead Of Tesla Earnings",
-      "link": "https://www.investors.com/news/tesla-stock-market-earnings-upcoming-what-analysts-are-saying/",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESlQEB6zswFcbNYQzMWC4ucV2-gvt9o0xnt7_5ZjbTY6QhxceHMBHrav7N6f_owhmEEXbPCLAcDjA5voTzibm2qSQRu4zm-N4NZZ7lyYRCkKx7OwnbqpKBfIqpEvLRMkpRfbHOofrYfY9u92vH_p3TWgaLCaVU3iEWyJ2H7iRy_wMDroEJ0vT6X-3_lQ9B0UHNZIQaNTjxTg&ved=2ahUKEwjftqz7nuCWAxWO-AIHHcdJF-MQFnoECCQQAQ&uoh=1",
-      "displayed_link": "https://www.investors.com \u203a news \u203a tesla-stock-market-...",
-      "favicon": "https://serpapi.com/images/i/UklGRm4BAABXRUJQVlA4IGIBAACQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHT2grwG2AuwDedG_L1gzPu_ADfU6NQDkF80wQqFNxqslnD6yhSgDgAA_tixFB6C5n3FRyZCPvXSHbSDzNdtZ_wHvrLxQp6FOis_9bN4ekana7MEvd9U7410aGr2yZBjcdVjlOP_5PkIa5cJt4NWaipFHrlQVyo0gzqi_qvstr3-qbmGoOJU8qB8kjFSSLLb1_ruf_RYZjvlEqyvHz9GGejA-P4Zuqzcjtp-Ur5isPeLI0ojYbA24c0r6y7zrj-zK4AG65SdCYhLxciM05nO0ieFzu2F0-y_otm4rei4nXY1xYeIadrXL-d96qu_4pEJ3ZqD-3JYWJ8JUJxuFfINffjZ777RAveVK4Ww6W_Db78-QeScteUQugIG7m98B64zNe91U-nE6srHu76_5QdAT93FyrlLCuaEwoIFgDjPCYnMDQWkdAA.webp",
-      "date": "Jul 22, 2025",
-      "snippet": "As of Tuesday, analyst consensus has Tesla EPS declining 25% to 39 cents with revenue falling around 13% to $22.19 billion, according to FactSet ...",
-      "snippet_highlighted_words": [
-        "Tesla EPS declining 25% to 39 cents"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "As of Tuesday, analyst consensus has Tesla EPS declining 25% to 39 cents with revenue falling around 13% to $22.19 billion, according to FactSet ...",
-          "source_info_link": "https://www.investors.com/news/tesla-stock-market-earnings-upcoming-what-analysts-are-saying/",
-          "icon": "https://serpapi.com/images/i/UklGRm4BAABXRUJQVlA4IGIBAACQBwCdASocABwAPtEutFooIagoGAEAGglsAJ0yhHT2grwG2AuwDedG_L1gzPu_ADfU6NQDkF80wQqFNxqslnD6yhSgDgAA_tixFB6C5n3FRyZCPvXSHbSDzNdtZ_wHvrLxQp6FOis_9bN4ekana7MEvd9U7410aGr2yZBjcdVjlOP_5PkIa5cJt4NWaipFHrlQVyo0gzqi_qvstr3-qbmGoOJU8qB8kjFSSLLb1_ruf_RYZjvlEqyvHz9GGejA-P4Zuqzcjtp-Ur5isPeLI0ojYbA24c0r6y7zrj-zK4AG65SdCYhLxciM05nO0ieFzu2F0-y_otm4rei4nXY1xYeIadrXL-d96qu_4pEJ3ZqD-3JYWJ8JUJxuFfINffjZ777RAveVK4Ww6W_Db78-QeScteUQugIG7m98B64zNe91U-nE6srHu76_5QdAT93FyrlLCuaEwoIFgDjPCYnMDQWkdAA.webp"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Costco Wholesale (COST) Wins Scottsdale Approval Following A Fair Value Case",
+      "snippet": null,
+      "source": {
+        "name": "simplywall.st",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/11/2026, 02:39 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Stock Reported Nearly 10% Sales Growth and the Stock Slipped Anyway. The Real Number Explains Why",
+      "snippet": null,
+      "source": {
+        "name": "TIKR.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tikr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wiltone Asuncion"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.investors.com/news/tesla-stock-market-earnings-upcoming-what-analysts-are-saying/&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.investors.com%2Fnews%2Ftesla-stock-market-earnings-upcoming-what-analysts-are-saying%2F",
-      "source": "Investor's Business Daily",
-      "read_more_link": "https://www.investors.com/news/tesla-stock-market-earnings-upcoming-what-analysts-are-saying/#:~:text=As%20of%20Tuesday%2C%20analyst%20consensus,%2422.19%20billion%2C%20according%20to%20FactSet."
+      "date": "09/07/2026, 10:35 PM, +0000 UTC"
     },
     {
-      "position": 4,
-      "title": "Tesla results a 'non-event' that make the earnings call even ...",
-      "link": "https://www.marketwatch.com/livecoverage/tesla-earnings-stock-q2-musk-results-guidance/card/tesla-results-a-non-event-that-make-the-earnings-call-even-more-important-this-analyst-says-vFwOA2wq44RLY8jel3fm",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEShQIB6zswFTbKXOJQ4Dk4NuT5kWelHUgVHuGBBzIkbPY01nyoMH-u8HhR1O5lIhTi6RJDQ-7lUP8GieIjM7OdlRTf6Mt9D_CQ-PNYT_jQh_LOizHWB1QWwSpm8jhJZuYHm0o6dj683NwoGkq9NhEXCr4xqqLXtwBkg4wu8_axid_vKPt80rhYctZHovouR2FACBW5KCCXck-YItsfvRXYS9F8srzYSWE7621SGkLmzKx3aZbKVvmvycWZ_Mzv-zcWY0N-nc0CcaFfWQJ3RIF18dz_RoYxHt7_jYEeFMoyGnP9pYfrL28PXq3ifcQjzB0_267GghzFvCzorX7mEsaEOhUqMFIu8IQ&ved=2ahUKEwjftqz7nuCWAxWO-AIHHcdJF-MQFnoECCYQAQ&uoh=1",
-      "displayed_link": "https://www.marketwatch.com \u203a livecoverage \u203a card \u203a t...",
-      "favicon": "https://serpapi.com/images/i/UklGRggBAABXRUJQVlA4IPwAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsAB2oBPmfpNf2_knpyDQ8yyjHjDitmpUVu0gAAP79Kljzzq4_X9O0AcsvDT8fr0E5tuR_ia8NparhhylfPmxNrn14suWWg_sVpFDxnxc9U5fdPjf20-zXqlfbBZW8D8Jr13mXf6g4edn6_BHx27HpTjV7wRyu6n-c_cDjhEBEi59e7W_JJMvhyEebfAKJtmVwSDDSEmfsy-nSfgzWo_BMaj-P_znaNH7yGsvApPpb0mJTVz-BKWYxo0MyUFqpdn_ojUmZAkSnKC3_W-fx6DF8Ny4HRjXs6mL5wcv8vr8G3lYAAAA.webp",
-      "date": "Jul 23, 2026",
-      "snippet": "51% drop in revenue from regulatory credits revenue to $439 million. up 17% year-on-year, Nelson said. Tesla $351.12 USD14.254.23%",
-      "snippet_highlighted_words": [
-        "Tesla"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "51% drop in revenue from regulatory credits revenue to $439 million. up 17% year-on-year, Nelson said. Tesla $351.12 USD14.254.23%",
-          "source_info_link": "https://www.marketwatch.com/livecoverage/tesla-earnings-stock-q2-musk-results-guidance/card/tesla-results-a-non-event-that-make-the-earnings-call-even-more-important-this-analyst-says-vFwOA2wq44RLY8jel3fm",
-          "icon": "https://serpapi.com/images/i/UklGRggBAABXRUJQVlA4IPwAAABwBQCdASocABwAPtE-tFooIigoFAEAGglsAB2oBPmfpNf2_knpyDQ8yyjHjDitmpUVu0gAAP79Kljzzq4_X9O0AcsvDT8fr0E5tuR_ia8NparhhylfPmxNrn14suWWg_sVpFDxnxc9U5fdPjf20-zXqlfbBZW8D8Jr13mXf6g4edn6_BHx27HpTjV7wRyu6n-c_cDjhEBEi59e7W_JJMvhyEebfAKJtmVwSDDSEmfsy-nSfgzWo_BMaj-P_znaNH7yGsvApPpb0mJTVz-BKWYxo0MyUFqpdn_ojUmZAkSnKC3_W-fx6DF8Ny4HRjXs6mL5wcv8vr8G3lYAAAA.webp"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Costco says it saw 'record-breaking' gas volumes amid rising prices",
+      "snippet": null,
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Laya Neelakandan"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.marketwatch.com/livecoverage/tesla-earnings-stock-q2-musk-results-guidance/card/tesla-results-a-non-event-that-make-the-earnings-call-even-more-important-this-analyst-says-vFwOA2wq44RLY8jel3fm&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.marketwatch.com%2Flivecoverage%2Ftesla-earnings-stock-q2-musk-results-guidance%2Fcard%2Ftesla-results-a-non-event-that-make-the-earnings-call-even-more-important-this-analyst-says-vFwOA2wq44RLY8jel3fm",
-      "source": "MarketWatch"
+      "date": "05/28/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "position": 5,
-      "title": "How to PREPARE For Tesla Earnings This Week",
-      "link": "https://www.youtube.com/watch?v=Bq4MZSc-R9g",
-      "displayed_link": "17.2K+ views \u00b7 7 months ago",
-      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtzykJTSmflUjNREXTacpR19ZnlIwg17AUyYsAY3189Gzx5Gkfrb1ooQ&s",
-      "favicon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp",
-      "snippet": "The most active $TSLA and AGI stock community. Over $3 Billion under self-management. How to PREPARE For Tesla Earnings This Week. Tesla ...",
-      "duration": "28:58",
-      "about_this_result": {
-        "source": {
-          "description": "The most active $TSLA and AGI stock community. Over $3 Billion under self-management. How to PREPARE For Tesla Earnings This Week. Tesla ...",
-          "icon": "https://serpapi.com/images/i/UklGRpwAAABXRUJQVlA4IJAAAAAwBACdASoQABAAAsBMJbACdGsAYQB-gGWAbwASnnx4vADfdr4sQbHuTIgA_vQMxuNgMMWMsmouF7hbZvT51iCqgStGXinCzpYfdY0TLuw8u1p8i-R75HEyG3C9BMJ_SyeGe2BtG_fAxY-0nDUOWQ1YBl__mcybueh2sm_8KPzrhGf-yuX3HjbKaeK8Q3AcwAA.webp"
-        }
+      "title": "Costco Wholesale (COST) Q2 2026 Earnings Call Transcript",
+      "snippet": null,
+      "source": {
+        "name": "Fortune",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://fortune.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.google.com/goto?url=CAESYwHrOzAVrnBzBWNBYPfr6V99ihx7cuVHzHE2RUW4JxedZ2uuhYv2-ESu6JRa37Jk-9breb6AdddARQDjqmPv2eN-4ii8IuxFO3GMFaBIxij4nofeZCSYlNW5BPZz9tj0VmoFhw&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.google.com%2Fgoto%3Furl%3DCAESYwHrOzAVrnBzBWNBYPfr6V99ihx7cuVHzHE2RUW4JxedZ2uuhYv2-ESu6JRa37Jk-9breb6AdddARQDjqmPv2eN-4ii8IuxFO3GMFaBIxij4nofeZCSYlNW5BPZz9tj0VmoFhw",
-      "video_link": "https://encrypted-vtbn0.gstatic.com/video?q=tbn:ANd9GcTVNumlfwA3vaepPeMqCsvdkHqBmmZWcOePYw",
-      "source": "YouTube \u00b7 Jo Bhakdi"
+      "date": "09/05/2026, 12:50 AM, +0000 UTC"
     },
     {
-      "position": 6,
-      "title": "Tesla Earnings Preview: What to Expect",
-      "link": "https://www.barchart.com/story/news/36922259/tesla-earnings-preview-what-to-expect",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESigEB6zswFVEpXQST2AC_F64DW6EN56kjd8Aw5styJQu5QJ7ex9raewef7v1KXGfUZ__knbobkQISMSjVsqCcK1vn-_rF4k8T-8nlSJsphDRIpGdgjuEhcT5-miD7JLtJxAxAQGaI4i_zITtldmATD0nsP3DTHRi_zIGfaiS9YFTiNJdUn41KUoJb_DI&ved=2ahUKEwjftqz7nuCWAxWO-AIHHcdJF-MQFnoECCUQAQ&uoh=1",
-      "displayed_link": "https://www.barchart.com \u203a story \u203a news \u203a tesla-earnings...",
-      "favicon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABwAwCdASoQABAAAsBMJbACdGaAlgDeVSVAeQGHKGLWRv0UXQAA_u5vuVvzTH6i8aRBtkCdHIaYJBg0OUn5WCT6ujK0COvHkqrkWCpt0ny_n0H2N5pobBt_voPdwELhPJZzyHZrHrwVdPDeMsl54ZCxJx36pfFwV2YFH3arvymD7XZ82eKHlgq-zIW6utqR7a4ddIo4QLokvcAA.webp",
-      "date": "Jan 7, 2026",
-      "snippet": "For the full year, analysts expect TSLA to report EPS of $1.12, down 45.1% from $2.04 in fiscal 2024. However, its EPS is expected to rise 58.9% ...",
-      "snippet_highlighted_words": [
-        "EPS of $1.12"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "For the full year, analysts expect TSLA to report EPS of $1.12, down 45.1% from $2.04 in fiscal 2024. However, its EPS is expected to rise 58.9% ...",
-          "source_info_link": "https://www.barchart.com/story/news/36922259/tesla-earnings-preview-what-to-expect",
-          "icon": "https://serpapi.com/images/i/UklGRqYAAABXRUJQVlA4IJoAAABwAwCdASoQABAAAsBMJbACdGaAlgDeVSVAeQGHKGLWRv0UXQAA_u5vuVvzTH6i8aRBtkCdHIaYJBg0OUn5WCT6ujK0COvHkqrkWCpt0ny_n0H2N5pobBt_voPdwELhPJZzyHZrHrwVdPDeMsl54ZCxJx36pfFwV2YFH3arvymD7XZ82eKHlgq-zIW6utqR7a4ddIo4QLokvcAA.webp"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Costco's Digital Push Silences Critics as E-Commerce Sales Surge 20%",
+      "snippet": null,
+      "source": {
+        "name": "finance.biggo.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finance.biggo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/10/2026, 08:25 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Stock Is Priced For Two Good Years, Is That A Safe Bet?",
+      "snippet": null,
+      "source": {
+        "name": "Trefis",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trefis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/03/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Billionaire Israel Englander Is Doubling Down on These 2 Outstanding Dividend Stocks. Should You?",
+      "snippet": null,
+      "source": {
+        "name": "The Motley Fool",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/09/2026, 11:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco: A Premium Worth Paying For Long-Term Compounding",
+      "snippet": null,
+      "source": {
+        "name": "Seeking Alpha",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/11/2026, 05:24 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco (COST) Stock Looks Fully Priced On Its 107% Five Year Run",
+      "snippet": null,
+      "source": {
+        "name": "simplywall.st",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/10/2026, 11:30 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco (COST) Stock Looks Fully Priced Despite 121% Returns And Earnings Questions",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bailey Pemberton"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.barchart.com/story/news/36922259/tesla-earnings-preview-what-to-expect&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.barchart.com%2Fstory%2Fnews%2F36922259%2Ftesla-earnings-preview-what-to-expect",
-      "source": "Barchart.com",
-      "read_more_link": "https://www.barchart.com/story/news/36922259/tesla-earnings-preview-what-to-expect#:~:text=For%20the%20full%20year%2C%20analysts,to%20%241.78%20in%20fiscal%202026."
+      "date": "08/18/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "position": 7,
-      "title": "How Tesla Stock Reacts After Earnings",
-      "link": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/how-tesla-stock-reacts-after-earnings-HoxqFmc8ZcblfKMCLFZh",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESxgEB6zswFX3Piwz4kdja1w2uzWV5EDFxzzEranWlEVdJ3tyfbYTpDZrt9LbDuQbiuoMsi8foF3i1suppFyEKfH0QE0cf7vAOOAgyoLApVbP-JZMSuyaFQCeycTnHH6bmfgB4bdj8pSCJ5xSyVqwezsFd5KkqeujbpFHudSM_fRxO8tNbsTkfVduzGv2pxHPM1CCF7vt-VAe-QOsYvdy6yZVbblEQLyaD28Xd2EJEjAwXCeE-s1yZQOTfvtWHyLLsH3feWNrbRaU&ved=2ahUKEwjftqz7nuCWAxWO-AIHHcdJF-MQFnoECCIQAQ&uoh=1",
-      "displayed_link": "https://www.wsj.com \u203a livecoverage \u203a card \u203a how-tesla-...",
-      "favicon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAABQBQCdASocABwAPtE8tFooIigoFAEAGglpAASRn6AOcr5N9EUM6rJM44rdVufe_buY0AAA_vTJY8ol1v9N4wlC4ro9x8JI_zQ-bYb7qGrLJ3zi3x0r__eL2URUCfQvyhDMfK_REl50nlrCjhpzGQ9dL7QtU3q_16TQXFbeqyQc4_AVFjdevjYPCpNni_woq3e-1mVuvGRNfd9RAzN9LVI4m7JQp3DcobgqFf__u7Mcp53COinWWf_zOcJv-mNxEAAAAA.webp",
-      "date": "Oct 22, 2025",
-      "snippet": "Tesla stock often moves sharply after earnings reports. self-driving cars helped spur a 22% jump.",
-      "snippet_highlighted_words": [
-        "Tesla stock often moves sharply after earnings reports"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Tesla stock often moves sharply after earnings reports. self-driving cars helped spur a 22% jump.",
-          "source_info_link": "https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/how-tesla-stock-reacts-after-earnings-HoxqFmc8ZcblfKMCLFZh",
-          "icon": "https://serpapi.com/images/i/UklGRs4AAABXRUJQVlA4IMIAAABQBQCdASocABwAPtE8tFooIigoFAEAGglpAASRn6AOcr5N9EUM6rJM44rdVufe_buY0AAA_vTJY8ol1v9N4wlC4ro9x8JI_zQ-bYb7qGrLJ3zi3x0r__eL2URUCfQvyhDMfK_REl50nlrCjhpzGQ9dL7QtU3q_16TQXFbeqyQc4_AVFjdevjYPCpNni_woq3e-1mVuvGRNfd9RAzN9LVI4m7JQp3DcobgqFf__u7Mcp53COinWWf_zOcJv-mNxEAAAAA.webp"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Cramer Says Costco at 49 Times Earnings Is the Mistake Loyal Shoppers Keep Making",
+      "snippet": null,
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Omor Ibne Ehsan"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.wsj.com/livecoverage/stock-market-today-tesla-earnings-10-22-2025/card/how-tesla-stock-reacts-after-earnings-HoxqFmc8ZcblfKMCLFZh&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.wsj.com%2Flivecoverage%2Fstock-market-today-tesla-earnings-10-22-2025%2Fcard%2Fhow-tesla-stock-reacts-after-earnings-HoxqFmc8ZcblfKMCLFZh",
-      "source": "WSJ"
+      "date": "09/04/2026, 07:41 PM, +0000 UTC"
     },
     {
-      "position": 8,
-      "title": "With Tesla Earnings, Don't Forget About Bitcoin",
-      "link": "https://www.barrons.com/articles/tesla-earnings-bitcoin-stock-6c4b8c42",
-      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfgHrOzAVQ5Fl2LzQcf88pOuus0TW3_CVU2jk6DTvqI-s6MN3mj_Tdw2TnV6O_YR_I9OMDvfvBhIaiG47N3fdBq7DuS3CnjkzydTGPJk7yNyCHdE0VrjO_cwuRs1mnLcXfU__KMk8VOroQNgJBYWCcIAxLnXEE4D-z2SnyrA7oQ&ved=2ahUKEwjftqz7nuCWAxWO-AIHHcdJF-MQFnoECCEQAQ&uoh=1",
-      "displayed_link": "https://www.barrons.com \u203a EVs \u203a Barron's Take",
-      "favicon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAADwBACdASocABwAPtEutFooIagoGAEAGglnAMwdjLzgWRsrYr_0nRQXkqtNdkLGyYAA_ujQruwtvF5uC8crPhUMFO9p5cA_FLnb4DqTgjLgV20a4oVV5qKIHoQqeOWNppS2Q95LJH69P0Pwr57vMlk_XpN1PSPArrdTsQAwAy6CxufxB_ERVfyv4xhVX4z2ZX_wu7Ao-7tpccZfP9NgxVuQvf85kTc8il3CacCFEkLuG4AAAAA.webp",
-      "date": "Jul 22, 2025",
-      "snippet": "Tesla reported earnings per share of 52 cents on sales of $25.5 billion. Sales and earnings are set to sink along with vehicle sales.",
-      "snippet_highlighted_words": [
-        "earnings per share of 52 cents on sales of $25.5 billion"
-      ],
-      "about_this_result": {
-        "source": {
-          "description": "Tesla reported earnings per share of 52 cents on sales of $25.5 billion. Sales and earnings are set to sink along with vehicle sales.",
-          "source_info_link": "https://www.barrons.com/articles/tesla-earnings-bitcoin-stock-6c4b8c42",
-          "icon": "https://serpapi.com/images/i/UklGRsAAAABXRUJQVlA4ILQAAADwBACdASocABwAPtEutFooIagoGAEAGglnAMwdjLzgWRsrYr_0nRQXkqtNdkLGyYAA_ujQruwtvF5uC8crPhUMFO9p5cA_FLnb4DqTgjLgV20a4oVV5qKIHoQqeOWNppS2Q95LJH69P0Pwr57vMlk_XpN1PSPArrdTsQAwAy6CxufxB_ERVfyv4xhVX4z2ZX_wu7Ao-7tpccZfP9NgxVuQvf85kTc8il3CacCFEkLuG4AAAAA.webp"
-        },
-        "languages": [
-          "en"
-        ],
-        "regions": [
-          "US"
+      "title": "Why Costco (COST) Could Beat Earnings Estimates Again",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/01/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Q2 Earnings Highs And Lows: Costco (NASDAQ:COST) Vs The Rest Of The Non-Discretionary Retail Stocks",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "08/17/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco\u2019s Strong Quarter Still Leaves Investors With a Valuation Problem",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Dan Schmidt"
         ]
       },
-      "about_page_link": "https://www.google.com/search?q=About+https://www.barrons.com/articles/tesla-earnings-bitcoin-stock-6c4b8c42&tbm=ilp",
-      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.barrons.com%2Farticles%2Ftesla-earnings-bitcoin-stock-6c4b8c42",
-      "source": "Barron's"
+      "date": "05/30/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco's Executive Penetration Could Unlock More Earnings",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "06/30/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Has a Secret Growth Engine. Wall Street May Be Underestimating It.",
+      "snippet": null,
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vandita Jadeja"
+        ]
+      },
+      "date": "08/26/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Wholesale Q3 Earnings Call Highlights",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/28/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Wholesale Corporation (NASDAQ:COST) Just Released Its Third-Quarter Earnings: Here's What Analysts Think",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/31/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Stock\u2019s Premium Rests On A Visit Rate That Keeps Slowing",
+      "snippet": null,
+      "source": {
+        "name": "Trefis",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trefis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "08/28/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Sales Rise as Value Offerings Draw Pressured Consumers",
+      "snippet": null,
+      "source": {
+        "name": "WSJ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nicholas G Miller"
+        ]
+      },
+      "date": "05/28/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco stock trades near $945 as analysts debate valuation despite strong earnings",
+      "snippet": null,
+      "source": {
+        "name": "eciks.org",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://eciks.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "08/31/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Buc-ee's vs. Costco Stock: What the Brisket Counter Knows That the Membership Moat Doesn't",
+      "snippet": null,
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Don Lair"
+        ]
+      },
+      "date": "08/21/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Is Quietly Building Its Next Big Growth Engine",
+      "snippet": null,
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vandita Jadeja"
+        ]
+      },
+      "date": "08/20/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco cuts Kirkland Signature prices Q3 2026 earnings",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "06/08/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Tops Sales Views But Earnings, Membership Numbers Fall Short",
+      "snippet": null,
+      "source": {
+        "name": "Investor's Business Daily",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.investors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Harrison Miller"
+        ]
+      },
+      "date": "05/28/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Wholesale stock gains on strong digital growth and upbeat analyst targets",
+      "snippet": null,
+      "source": {
+        "name": "ad-hoc-news.de",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/11/2026, 12:38 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco records strong results as it bulks up on protein sales",
+      "snippet": null,
+      "source": {
+        "name": "Grocery Dive",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.grocerydive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sam Silverstein"
+        ]
+      },
+      "date": "06/01/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Did Walmart and Costco Just Trigger a Major Warning for the Market?",
+      "snippet": null,
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jennifer Saibil"
+        ]
+      },
+      "date": "06/04/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Here's How Much Costco Stock Is Expected to Move After Earnings",
+      "snippet": null,
+      "source": {
+        "name": "Investopedia",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.investopedia.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aaron McDade"
+        ]
+      },
+      "date": "05/26/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Here\u2019s Where We Stand on Costco After Its Earnings Release",
+      "snippet": null,
+      "source": {
+        "name": "TheStreet Pro",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pro.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Chris Versace"
+        ]
+      },
+      "date": "05/29/2026, 07:00 AM, +0000 UTC"
     }
   ]
 }

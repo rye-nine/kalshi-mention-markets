@@ -4,11 +4,10 @@ import inspect
 import json
 import sys
 from pathlib import Path
-#from src.kalshi_mention_markets.engineer_prompt import query_serp
 
 
 SOURCE_DIR = Path(__file__).resolve().parent / "src" / "kalshi_mention_markets"
-sys.path.insert(0, str(SOURCE_DIR))
+PACKAGE_NAME = "src.kalshi_mention_markets"
 
 
 def discover_functions():
@@ -17,7 +16,7 @@ def discover_functions():
 	for module_path in SOURCE_DIR.glob("*.py"):
 		if module_path.name.startswith("_"):
 			continue
-		module = importlib.import_module(module_path.stem)
+		module = importlib.import_module(f"{PACKAGE_NAME}.{module_path.stem}")
 		for name, function in inspect.getmembers(module, inspect.isfunction):
 			if not name.startswith("_") and function.__module__ == module.__name__:
 				if name in functions:

@@ -27,4 +27,4 @@ Analyze the evidence (transcript + news) 2. Decide if the market is too HIGH, to
 * 0-9: Very unlikely (strong evidence against mention)
 
 Be calibrated. The market is often right, but you should adjust when evidence is clear. 
-which model are you using this prompt on
+
