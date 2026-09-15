@@ -1,5 +1,7 @@
 import json
+import logging
 import os
+from datetime import datetime
 from pathlib import Path
 from urllib.parse import urlencode
 from urllib.error import HTTPError
@@ -23,34 +25,45 @@ PROMPT_ACTUAL = Path(__file__).resolve().parents[2] / "research" / "actual_promp
 
 KALSHI_API_ENDPOINT = "https://api.elections.kalshi.com/trade-api/v2"
 
+logger = logging.getLogger(__name__)
+
 def clear_all_files():
     """Clear the contents of all relevant files."""
+    logger.info("Clearing working files before building a new prompt")
     for path in [DUMP_PATH, PRIOR_TRANSCRIPT_PATH, PROMPT_ACTUAL]:
+        logger.debug("Clearing %s", path)
         path.write_text("", encoding="utf-8")
 
 def _search_serpapi(query, result_count, api_key):
-	params = urlencode(
-		{
-			"engine": "google_news",
-			"q": query,
-			"api_key": api_key,
-			"num": result_count,
-		}
-	)
+    logger.info("Requesting %d news results from SerpAPI for query %r", result_count, query)
+    params = urlencode(
+        {
+            "engine": "google_news",
+            "q": query,
+            "api_key": api_key,
+            "num": result_count,
+        }
+    )
 
-	context = ssl.create_default_context(cafile=certifi.where())
+    context = ssl.create_default_context(cafile=certifi.where())
 
-	with urlopen(f"{SERPAPI_ENDPOINT}?{params}", context=context) as response:
-		payload = json.load(response)
-	if "error" in payload:
-		raise RuntimeError(f"SerpAPI request failed: {payload['error']}")
-	results = payload.get("news_results", [])[:result_count]
-	if len(results) != result_count:
-		raise RuntimeError(
-			f"SerpAPI returned {len(results)} news results for {query!r}; "
-			f"expected {result_count}."
-		)
-	return results
+    try:
+        with urlopen(f"{SERPAPI_ENDPOINT}?{params}", context=context) as response:
+            payload = json.load(response)
+    except (HTTPError, URLError, ValueError):
+        logger.exception("SerpAPI request failed for query %r", query)
+        raise
+    if "error" in payload:
+        logger.error("SerpAPI returned an error for query %r", query)
+        raise RuntimeError(f"SerpAPI request failed: {payload['error']}")
+    results = payload.get("news_results", [])[:result_count]
+    logger.info("SerpAPI returned %d results for query %r", len(results), query)
+    if len(results) != result_count:
+        raise RuntimeError(
+            f"SerpAPI returned {len(results)} news results for {query!r}; "
+            f"expected {result_count}."
+        )
+    return results
 
 
 def query_serp(company, keyword):
@@ -59,6 +72,7 @@ def query_serp(company, keyword):
     """Fetch the requested Google results and save them to the data dump."""
     api_key = os.environ.get("SERPAPI_KEY") or os.environ.get("SERPAPI_API_KEY")
     if not api_key:
+        logger.error("SerpAPI credentials are not configured")
         raise RuntimeError("Set SERPAPI_KEY before querying SerpAPI.")
 
     searches = {
@@ -66,192 +80,242 @@ def query_serp(company, keyword):
         f"{company} {keyword}": 33,
         f"{company} earnings": 33,
     }
+    logger.info("Fetching news for company %r and keyword %r", company, keyword)
     results = {
-		query: [
-			{
-				"title": result.get("title"),
-				"snippet": result.get("snippet"),
-				"source": result.get("source"),
-				"date": result.get("date"),
-			}
-			for result in _search_serpapi(query, result_count, api_key)
-		]
+        query: [
+            {
+                "title": result.get("title"),
+                "snippet": result.get("snippet"),
+                "source": result.get("source"),
+                "date": result.get("date"),
+            }
+            for result in _search_serpapi(query, result_count, api_key)
+        ]
         for query, result_count in searches.items()
     }
     DUMP_PATH.write_text(json.dumps(results, indent=2), encoding="utf-8")
+    logger.info("Saved %d news results to %s", sum(len(items) for items in results.values()), DUMP_PATH)
     return results
 
 
 
 def _roic_get(path, params, api_key):
-	query = urlencode(params)
-	request = Request(
-		f"{ROIC_API_ENDPOINT}{path}?{query}",
-		headers={"Authorization": f"Bearer {api_key}"},
-	)
-	context = ssl.create_default_context(cafile=certifi.where())
-	try:
-		with urlopen(request, context=context) as response:
-			payload = json.load(response)
-	except HTTPError as error:
-		if error.code == 404:
-			raise
-		try:
-			payload = json.load(error)
-		except (TypeError, ValueError):
-			payload = {}
-		message = payload.get("error", {}).get("message") if isinstance(payload, dict) else None
-		detail = message or error.reason or "unknown error"
-		raise RuntimeError(
-			f"ROIC AI request failed ({error.code}) for {path}: {detail}"
-		) from error
-	if "error" in payload:
-		raise RuntimeError(f"ROIC AI request failed: {payload['error']}")
-	return payload
+    logger.info("Requesting ROIC AI endpoint %s with parameters %s", path, params)
+    query = urlencode(params)
+    request = Request(
+        f"{ROIC_API_ENDPOINT}{path}?{query}",
+        headers={"Authorization": f"Bearer {api_key}"},
+    )
+    context = ssl.create_default_context(cafile=certifi.where())
+    try:
+        with urlopen(request, context=context) as response:
+            payload = json.load(response)
+    except HTTPError as error:
+        logger.warning("ROIC AI returned HTTP %d for %s", error.code, path)
+        if error.code == 404:
+            raise
+        try:
+            payload = json.load(error)
+        except (TypeError, ValueError):
+            payload = {}
+        message = payload.get("error", {}).get("message") if isinstance(payload, dict) else None
+        detail = message or error.reason or "unknown error"
+        raise RuntimeError(
+            f"ROIC AI request failed ({error.code}) for {path}: {detail}"
+        ) from error
+    if "error" in payload:
+        logger.error("ROIC AI returned an API error for %s", path)
+        raise RuntimeError(f"ROIC AI request failed: {payload['error']}")
+    logger.debug("ROIC AI response received for %s", path)
+    return payload
 
 
 def get_market_price(market_ticker, word):
-	"""Return the latest YES price for the matching market, in dollars."""
-	if not isinstance(market_ticker, str) or not market_ticker.strip():
-		raise ValueError("market_ticker must not be empty.")
-	if not isinstance(word, str) or not word.strip():
-		raise ValueError("word must not be empty.")
+    """Return the latest YES price for the matching market, in dollars."""
+    logger.info("Looking up Kalshi market price for event %r and word %r", market_ticker, word)
+    if not isinstance(market_ticker, str) or not market_ticker.strip():
+        raise ValueError("market_ticker must not be empty.")
+    if not isinstance(word, str) or not word.strip():
+        raise ValueError("word must not be empty.")
 
-	search_word = word.strip().casefold()
-	cursor = None
-	context = ssl.create_default_context(cafile=certifi.where())
+    search_word = word.strip().casefold()
+    cursor = None
+    context = ssl.create_default_context(cafile=certifi.where())
 
-	while True:
-		params = {
-			"event_ticker": market_ticker.strip(),
-			"limit": 1000,
-		}
-		if cursor:
-			params["cursor"] = cursor
-		request = Request(
-			f"{KALSHI_API_ENDPOINT}/markets?{urlencode(params)}",
-			headers={"Accept": "application/json"},
-		)
-		try:
-			with urlopen(request, context=context) as response:
-				payload = json.load(response)
-		except HTTPError as error:
-			raise RuntimeError(
-				f"Kalshi request failed ({error.code}) for event "
-				f"{market_ticker!r}: {error.reason}"
-			) from error
+    while True:
+        params = {
+            "event_ticker": market_ticker.strip(),
+            "limit": 1000,
+        }
+        if cursor:
+            params["cursor"] = cursor
+        request = Request(
+            f"{KALSHI_API_ENDPOINT}/markets?{urlencode(params)}",
+            headers={"Accept": "application/json"},
+        )
+        try:
+            with urlopen(request, context=context) as response:
+                payload = json.load(response)
+        except HTTPError as error:
+            logger.exception("Kalshi request failed for event %r", market_ticker)
+            raise RuntimeError(
+                f"Kalshi request failed ({error.code}) for event "
+                f"{market_ticker!r}: {error.reason}"
+            ) from error
 
-		for market in payload.get("markets", []):
-			market_text = " ".join(
-				str(market.get(field, ""))
-				for field in ("yes_sub_title", "subtitle", "ticker")
-			).casefold()
-			if search_word in market_text:
-				price = market.get("last_price_dollars")
-				if price is None:
-					legacy_price = market.get("last_price")
-					price = legacy_price / 100 if legacy_price is not None else None
-				if price is None:
-					raise RuntimeError(
-						f"Kalshi market {market.get('ticker', '<unknown>')!r} "
-						"does not have a latest YES price."
-					)
-				return float(price)
+        for market in payload.get("markets", []):
+            market_text = " ".join(
+                str(market.get(field, ""))
+                for field in ("yes_sub_title", "subtitle", "ticker")
+            ).casefold()
+            if search_word in market_text:
+                price = market.get("last_price_dollars")
+                if price is None:
+                    logger.error("Matching Kalshi market has no latest YES price")
+                    legacy_price = market.get("last_price")
+                    price = legacy_price / 100 if legacy_price is not None else None
+                if price is None:
+                    raise RuntimeError(
+                        f"Kalshi market {market.get('ticker', '<unknown>')!r} "
+                        "does not have a latest YES price."
+                    )
+                price = float(price)
+                logger.info("Found Kalshi price %.4f for event %r and word %r", price, market_ticker, word)
+                return price
 
-		cursor = payload.get("cursor")
-		if not cursor:
-			break
+        cursor = payload.get("cursor")
+        if not cursor:
+            break
 
-	raise LookupError(
-		f"Kalshi could not find a market containing {word!r} "
-		f"for event {market_ticker!r}."
-	)
+    raise LookupError(
+        f"Kalshi could not find a market containing {word!r} "
+        f"for event {market_ticker!r}."
+    )
 
 
-def get_prior_earnings_call(company):
-	"""Fetch the latest available earnings-call transcript for a company."""
-	api_key = os.environ.get("ROIC_API_KEY")
-	if not api_key:
-		raise RuntimeError("Set ROIC_API_KEY before querying ROIC AI.")
-	if not company or not company.strip():
-		raise ValueError("company must not be empty.")
+def get_prior_earnings_call(company, date=None):
+    """Fetch the latest earnings-call transcript available before ``date``."""
+    reference_datetime = datetime.now() if date is None else date
+    if isinstance(reference_datetime, str):
+        try:
+            reference_datetime = datetime.fromisoformat(reference_datetime)
+        except ValueError as error:
+            raise ValueError("date must be a datetime or ISO-formatted datetime string.") from error
+    if not isinstance(reference_datetime, datetime):
+        raise TypeError("date must be a datetime or ISO-formatted datetime string.")
 
-	search = _roic_get(
-		"/tickers/search",
-		{"query": company.strip(), "search_by": "name", "limit": 10},
-		api_key,
-	)
-	tickers = search.get("data", [])
-	if not tickers:
-		search = _roic_get(
-			"/tickers/search",
-			{"query": company.strip(), "limit": 10},
-			api_key,
-		)
-		tickers = search.get("data", [])
-	if not tickers:
-		raise LookupError(f"ROIC AI could not find a ticker for {company!r}.")
+    logger.info(
+        "Looking up the latest earnings call transcript for %r before %s",
+        company,
+        reference_datetime.isoformat(),
+    )
+    api_key = os.environ.get("ROIC_API_KEY")
+    if not api_key:
+        logger.error("ROIC AI credentials are not configured")
+        raise RuntimeError("Set ROIC_API_KEY before querying ROIC AI.")
+    if not company or not company.strip():
+        raise ValueError("company must not be empty.")
 
-	identifier = tickers[0]["symbol"]
-	earnings = _roic_get(
-		"/earnings-calls",
-		{"identifier": identifier, "order": "desc", "limit": 20},
-		api_key,
-	)
-	for event in earnings.get("data", []):
-		fiscal_year = event.get("fiscal_year")
-		fiscal_quarter = event.get("fiscal_quarter")
-		if not isinstance(fiscal_year, int) or not isinstance(fiscal_quarter, int):
-			continue
-		try:
-			transcript = _roic_get(
-				f"/earnings-calls/{identifier}",
-				{
-					"fiscal_year": fiscal_year,
-					"fiscal_quarter": fiscal_quarter,
-				},
-				api_key,
-			)
-		except HTTPError as error:
-			if error.code == 404:
-				continue
-			raise
-		PRIOR_TRANSCRIPT_PATH.write_text(
-			json.dumps(transcript, indent=2), encoding="utf-8"
-		)
-		return transcript
+    search = _roic_get(
+        "/tickers/search",
+        {"query": company.strip(), "search_by": "name", "limit": 10},
+        api_key,
+    )
+    tickers = search.get("data", [])
+    if not tickers:
+        logger.info("Name search found no ticker; retrying ROIC AI ticker search")
+        search = _roic_get(
+            "/tickers/search",
+            {"query": company.strip(), "limit": 10},
+            api_key,
+        )
+        tickers = search.get("data", [])
+    if not tickers:
+        raise LookupError(f"ROIC AI could not find a ticker for {company!r}.")
 
-	raise LookupError(f"ROIC AI has no transcript available for {company!r}.")
+    identifier = tickers[0]["symbol"]
+    logger.info("Selected ROIC AI ticker %s", identifier)
+    earnings = _roic_get(
+        "/earnings-calls",
+        {"identifier": identifier, "order": "desc", "limit": 20},
+        api_key,
+    )
+    for event in earnings.get("data", []):
+        fiscal_year = event.get("fiscal_year")
+        fiscal_quarter = event.get("fiscal_quarter")
+        if not isinstance(fiscal_year, int) or not isinstance(fiscal_quarter, int):
+            logger.debug("Skipping earnings event with incomplete fiscal period")
+            continue
+        try:
+            transcript = _roic_get(
+                f"/earnings-calls/{identifier}",
+                {
+                    "fiscal_year": fiscal_year,
+                    "fiscal_quarter": fiscal_quarter,
+                },
+                api_key,
+            )
+        except HTTPError as error:
+            if error.code == 404:
+                logger.info("No transcript for %s FY%d Q%d; trying next event", identifier, fiscal_year, fiscal_quarter)
+                continue
+            raise
+        transcript_date = transcript.get("date")
+        if transcript_date:
+            try:
+                if datetime.fromisoformat(transcript_date).date() > reference_datetime.date():
+                    logger.info(
+                        "Skipping future transcript for %s FY%d Q%d dated %s",
+                        identifier,
+                        fiscal_year,
+                        fiscal_quarter,
+                        transcript_date,
+                    )
+                    continue
+            except (TypeError, ValueError):
+                logger.warning("Skipping transcript with invalid date %r", transcript_date)
+                continue
+        PRIOR_TRANSCRIPT_PATH.write_text(
+            json.dumps(transcript, indent=2), encoding="utf-8"
+        )
+        logger.info("Saved transcript for %s FY%d Q%d to %s", identifier, fiscal_year, fiscal_quarter, PRIOR_TRANSCRIPT_PATH)
+        return transcript
+
+    raise LookupError(f"ROIC AI has no transcript available for {company!r}.")
 
 def format_news():
-	with open(DUMP_PATH, "r", encoding="utf-8") as file:
-		news = json.load(file)
+    logger.info("Formatting news from %s", DUMP_PATH)
+    with open(DUMP_PATH, "r", encoding="utf-8") as file:
+        news = json.load(file)
 
-	articles = (
-		article
-		for results in news.values()
-		for article in results
-	)
-	formatted_articles = []
+    articles = (
+        article
+        for results in news.values()
+        for article in results
+    )
+    formatted_articles = []
 
-	for article in articles:
-		source = article.get("source")
-		if isinstance(source, dict):
-			source = source.get("name", "")
+    for article in articles:
+        source = article.get("source")
+        if isinstance(source, dict):
+            source = source.get("name", "")
 
-		formatted_articles.append(
-			"\n".join(
-				f"{field}: {article.get(field) or ''}"
-				if field != "source"
-				else f"source: {source or ''}"
-				for field in ("title", "snippet", "source", "date")
-			)
-		)
+        formatted_articles.append(
+            "\n".join(
+                f"{field}: {article.get(field) or ''}"
+                if field != "source"
+                else f"source: {source or ''}"
+                for field in ("title", "snippet", "source", "date")
+            )
+        )
 
-	return "\n\n".join(formatted_articles)
+    formatted = "\n\n".join(formatted_articles)
+    logger.info("Formatted %d news articles (%d characters)", len(formatted_articles), len(formatted))
+    return formatted
 
 def input_context(market_ticker, word):
-	 # erase all content from actual_prompt.txt before writing new prompt
+     # erase all content from actual_prompt.txt before writing new prompt
+    logger.info("Building prompt context for event %r and word %r", market_ticker, word)
     with open(PROMPT_TEMPLATE, "r", encoding="utf-8") as source:
         content = source.read()
 
@@ -273,24 +337,27 @@ def input_context(market_ticker, word):
 {transcript_text} \n \n
 **RECENT NEWS**: \n
 {format_news()}"""
-	
+    
     with open(PROMPT_ACTUAL, "a", encoding="utf-8") as file:
         file.write("\n\n" + text_to_add)
 
+    logger.info("Wrote prompt context (%d characters) to %s", len(text_to_add), PROMPT_ACTUAL)
     return text_to_add
 
 def execute_engineer_prompt(market_ticker, company, word):
-	"""Execute the engineer prompt with the given market ticker, company, and name."""
-	# Clear all relevant files before starting
-	clear_all_files()
+    """Execute the engineer prompt with the given market ticker, company, and name."""
+    logger.info("Starting engineer prompt workflow for company %r", company)
+    # Clear all relevant files before starting
+    clear_all_files()
 
-	# Query SerpAPI for news articles
-	query_serp(company, word)
+    # Query SerpAPI for news articles
+    query_serp(company, word)
 
-	# Fetch the prior earnings call transcript
-	get_prior_earnings_call(company)
+    # Fetch the prior earnings call transcript
+    get_prior_earnings_call(company)
 
-	# Prepare the input context for the prompt
-	input_context(market_ticker, word)
+    # Prepare the input context for the prompt
+    input_context(market_ticker, word)
 
-	return "Engineer prompt executed successfully."
+    logger.info("Engineer prompt workflow completed")
+    return "Engineer prompt executed successfully."
