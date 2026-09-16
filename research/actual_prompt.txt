@@ -33,7 +33,7 @@ Be calibrated. The market is often right, but you should adjust when evidence is
 **KEYWORD**: Labor 
  
 
-**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: 0.54 
+**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: 0.56 
  
 
 **PREVIOUS EARNINGS CALL TRANSCRIPT**: 
@@ -163,502 +163,502 @@ Operator: And ladies and gentlemen, that concludes our question-and-answer sessi
 
 **RECENT NEWS**: 
 
-title: Costco restricts motor oil sales as crude prices climb
-snippet: 
+title: Costco raises motor oil prices and limits member purchases
+link: 
 source: 
 date: 
 
-title: Police seek 2 men accused of stealing $14,000 in Apple products from Costco
-snippet: 
-source: CBS News
-date: 09/14/2026, 04:52 PM, +0000 UTC
-
-title: Costco resubmits application for new Asheville store
-snippet: 
-source: Asheville Watchdog
-date: 09/14/2026, 04:48 PM, +0000 UTC
-
-title: Costco’s Latest Freezer Find Is a Copycat of a Disney Favorite—but Fans Say It’s Even Better
-snippet: 
-source: Allrecipes
-date: 09/14/2026, 05:00 PM, +0000 UTC
-
-title: I've been a Costco executive member for 11 years. I'll always buy these 5 products there.
-snippet: 
-source: Business Insider
-date: 09/14/2026, 03:13 PM, +0000 UTC
-
-title: Costco’s 5.5-pound, $55 chocolate Frankenstein head filled with gummy candy arrives for Halloween
-snippet: 
-source: Fox Business
-date: 09/13/2026, 01:58 AM, +0000 UTC
-
-title: 8 New Costco Finds Shoppers Will Want To Grab This September
-snippet: 
-source: Southern Living
-date: 09/13/2026, 02:55 PM, +0000 UTC
-
-title: Costco’s newest store is about to open in SoCal after years of litigation
-snippet: 
-source: Los Angeles Times
-date: 09/12/2026, 10:00 AM, +0000 UTC
-
-title: Should You Buy Costco Stock Right Now With $2,000 and Hold for 5 Years?
-snippet: 
-source: The Motley Fool
-date: 09/13/2026, 11:15 AM, +0000 UTC
-
-title: Costco Members Can Save on Everything From Vacations to Cars — Here’s How
-snippet: 
-source: Food & Wine
-date: 09/12/2026, 10:01 AM, +0000 UTC
-
-title: Costco raises price for Kirkland motor oil, sets purchase limit
-snippet: 
-source: AP News
-date: 09/14/2026, 04:20 PM, +0000 UTC
-
-title: Costco rations Kirkland motor oil, raises price to $57.99
-snippet: 
-source: Yahoo Finance
-date: 09/14/2026, 01:33 PM, +0000 UTC
-
-title: Costco starts rationing motor oil as global shortage sends prices soaring
-snippet: 
-source: New York Post
-date: 09/14/2026, 04:47 PM, +0000 UTC
-
-title: Costco raises oil prices, limits purchases. What's happening
-snippet: 
-source: Detroit Free Press
-date: 09/14/2026, 01:56 PM, +0000 UTC
-
-title: I’ve Tried Countless Costco Products—These Are the 10 Kirkland Finds I Always Rebuy
-snippet: 
-source: realsimple.com
-date: 09/14/2026, 04:00 PM, +0000 UTC
-
-title: Costco Is Quietly Getting The Best Pokémon Trading Card Deal of 2026
-snippet: 
-source: Polygon.com
-date: 09/14/2026, 03:48 PM, +0000 UTC
-
-title: Shoppers say Costco’s 5.5-pound chocolate monster head filled with gummies is to die for
-snippet: 
-source: AL.com
-date: 09/14/2026, 02:39 PM, +0000 UTC
-
-title: Costco Hikes Price of Motor Oil and Limits Purchases as Global Shortage Looms
-snippet: 
-source: The Drive
-date: 09/10/2026, 08:23 PM, +0000 UTC
-
-title: Costco’s Latest Stir Fry Is Getting Mixed Reviews
-snippet: 
-source: Sporked
-date: 09/14/2026, 12:01 PM, +0000 UTC
+title: This Artisan Copper Bird Bath at Costco Turns Any Backyard Into a Sanctuary for Wild Birds
+link: https://shopping.yahoo.com/home-garden/outdoor/articles/artisan-copper-bird-bath-costco-012000940.html
+source: Yahoo
+date: 09/16/2026, 01:20 AM, +0000 UTC
 
 title: Lawrence Costco’s opening date announced; currently hiring multiple positions
-snippet: 
+link: https://lawrencekstimes.com/2026/09/14/costco-opening-date/
 source: The Lawrence Times
 date: 09/14/2026, 07:39 PM, +0000 UTC
 
-title: Get in Line. Costco Is Rationing Motor Oil.
-snippet: 
-source: Barron's
-date: 09/14/2026, 06:30 PM, +0000 UTC
+title: New plans submitted for Costco location in Asheville
+link: 
+source: 
+date: 
 
-title: Costco is limiting how much motor oil you can buy
-snippet: 
-source: NewsNation
-date: 09/14/2026, 04:39 PM, +0000 UTC
+title: Costco-anchored development to boost Littleton's economy
+link: https://www.9news.com/article/life/style/colorado-guide/159000-square-foot-costco-coming-to-littleton/73-d92e12e4-da20-43f9-9a60-f4f0b8981d19
+source: 9News
+date: 09/15/2026, 12:52 PM, +0000 UTC
 
-title: Trump’s Crisis Sparks Rationing at Major Retailer
-snippet: 
-source: thedailybeast.com
-date: 09/14/2026, 02:51 PM, +0000 UTC
+title: 6 Kirkland Signature Items at Costco Worth Buying This Fall
+link: https://www.moneylion.com/trending/money/costco-kirkland-items-worth-buying-fall
+source: MoneyLion
+date: 09/12/2026, 02:15 PM, +0000 UTC
 
-title: Should You Buy Costco Stock Before Sept. 24?
-snippet: 
-source: The Motley Fool
-date: 09/14/2026, 05:35 PM, +0000 UTC
+title: I’ve Tried Countless Costco Products—These Are the 10 Kirkland Finds I Always Rebuy
+link: https://www.realsimple.com/kirkland-signature-costco-products-i-always-rebuy-12116561
+source: Real Simple
+date: 09/14/2026, 04:00 PM, +0000 UTC
 
-title: Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.
-snippet: 
-source: Yahoo Finance
-date: 09/14/2026, 11:42 AM, +0000 UTC
+title: Costco has 10 new stores opening in the next two months - here are the locations
+link: https://www.independent.co.uk/us/money/costco-store-openings-fall-california-b3050785.html
+source: The Independent
+date: 09/15/2026, 08:21 PM, +0000 UTC
 
-title: Costco’s New Prepared Meal Is Undeniably Classy
-snippet: 
+title: 15 Costco Kirkland Signature Frozen Foods That Use High Quality Ingredients
+link: https://www.mashed.com/2253832/high-quality-kirkland-signature-frozen-foods-from-costco/
+source: Mashed
+date: 09/15/2026, 01:23 PM, +0000 UTC
+
+title: $14,000 in Apple products stolen from Pennsylvania Costco
+link: https://www.cbsnews.com/pittsburgh/news/costco-theft-apple-products/
+source: CBS News
+date: 09/14/2026, 04:52 PM, +0000 UTC
+
+title: 5 holiday kitchen essentials you can find at Costco this month
+link: https://www.al.com/life/2026/09/5-holiday-kitchen-essentials-you-can-find-at-costco-this-month.html
+source: al.com
+date: 09/15/2026, 07:59 PM, +0000 UTC
+
+title: Costco rations oil, raise price. How many California locations affected
+link: https://www.desertsun.com/story/news/nation/california/2026/09/15/costco-limits-oil-purchases-as-iran-war-hits-supply-california/91782967007/
+source: The Desert Sun
+date: 09/15/2026, 11:29 PM, +0000 UTC
+
+title: KC’s midtown Costco has a closing date for its business center conversion. See when
+link: https://www.kansascity.com/news/local/article317252547.html
+source: kansascity.com
+date: 09/15/2026, 06:48 PM, +0000 UTC
+
+title: A New Frozen Dessert Just Hit The Shelves At Costco
+link: https://sporked.com/article/sunshine-buns-costco/
 source: Sporked
-date: 09/14/2026, 11:19 AM, +0000 UTC
+date: 09/15/2026, 05:19 PM, +0000 UTC
 
-title: 8 Common Costco Bakery Complaints From Customers
-snippet: 
-source: foodrepublic.com
-date: 09/14/2026, 01:02 PM, +0000 UTC
+title: Costco nearly doubles cost of motor oil, limits purchases
+link: https://thehill.com/policy/energy-environment/6088997-costco-nearly-doubles-cost-of-motor-oil-limits-purchases/
+source: The Hill
+date: 09/14/2026, 09:15 PM, +0000 UTC
 
-title: A reversal: Costco resubmits plans for a store at Enka Commerce Park
-snippet: 
-source: WLOS
-date: 09/14/2026, 06:51 PM, +0000 UTC
+title: Costco’s Pretty ‘Desert Rose’ Dinnerware Set Brings a Touch of the Southwest to Your Table
+link: https://dengarden.com/shopping/costcos-desert-rose-dinnerware-set
+source: Dengarden
+date: 09/15/2026, 11:25 PM, +0000 UTC
 
-title: The Pulse: A new foldable iPhone, a Costco Frankenstein head, and a spooky local musical
-snippet: 
-source: NEWS10 ABC
-date: 09/14/2026, 03:15 PM, +0000 UTC
+title: 14 New Halloween Arrivals at Costco That Will Likely Sell Out Fast
+link: https://financebuzz.com/news/halloween-arrivals-costco-to-sell-out
+source: FinanceBuzz
+date: 09/15/2026, 01:05 PM, +0000 UTC
+
+title: 5 Things A Food Editor Says You Should Never Buy At Costco
+link: https://www.southernliving.com/items-never-buy-costco-12061616
+source: Southern Living
+date: 09/12/2026, 07:00 AM, +0000 UTC
+
+title: Costco opening 10 new stores in the US and 4 in Canada as expansion continues - See where
+link: https://www.livenowfox.com/news/costco-opening-new-stores-us-canada
+source: LiveNOW from FOX
+date: 09/15/2026, 12:59 PM, +0000 UTC
+
+title: I've been a Costco executive member for 11 years. I'll always buy these 5 products there.
+link: https://www.businessinsider.com/best-things-to-buy-costco-from-executive-member-mom-2026-9
+source: Business Insider
+date: 09/14/2026, 03:11 PM, +0000 UTC
+
+title: The Oil Crisis Has Reached Costco’s Motor Oil Aisle
+link: https://finance.yahoo.com/energy/articles/oil-crisis-reached-costco-motor-155626578.html
+source: Yahoo Finance
+date: 09/15/2026, 03:56 PM, +0000 UTC
+
+title: Costco raises price for Kirkland motor oil, sets purchase limit
+link: https://apnews.com/article/costco-motor-oil-diesel-iran-amazon-kirkland-f5fafbcc6f6befe718b61f7cdf3d3e38
+source: AP News
+date: 09/14/2026, 04:20 PM, +0000 UTC
+
+title: Leading food guide names Costco’s ‘best croissants ever released’
+link: https://www.al.com/life/2026/09/leading-food-guide-names-costcos-best-croissants-ever-released.html
+source: al.com
+date: 09/15/2026, 06:52 PM, +0000 UTC
+
+title: Costco raises prices of Kirkland motor oil, limits how much shoppers can purchase
+link: https://www.livenowfox.com/news/costco-raises-prices-kirkland-motor-oil
+source: LiveNOW from FOX
+date: 09/15/2026, 02:05 PM, +0000 UTC
+
+title: Shoppers say Costco’s 5.5-pound chocolate monster head filled with gummies is to die for
+link: https://www.al.com/life/2026/09/shoppers-say-costcos-55-pound-chocolate-monster-head-filled-with-gummies-is-to-die-for.html
+source: al.com
+date: 09/14/2026, 02:39 PM, +0000 UTC
+
+title: Costco Gross Margin Pressure From Higher Fuel Costs Likely to be Offset by Tariff Refunds, RBC Says
+link: https://finance.yahoo.com/markets/stocks/articles/costco-gross-margin-pressure-higher-130500855.html
+source: Yahoo Finance
+date: 09/15/2026, 01:05 PM, +0000 UTC
+
+title: Skip The Basic Toast — One Of Costco's Best Bakery Items Makes Breakfast 10X Sweeter
+link: https://www.tastingtable.com/2252428/costcos-best-bakery-items-danishes-breakfast/
+source: Tasting Table
+date: 09/15/2026, 09:35 AM, +0000 UTC
 
 title: Costco Is Rationing a Key Product—and It's Not Toilet Paper. Experts Don't Expect the Shortage to End Soon
-snippet: 
+link: https://www.inc.com/amaya-nichole/costco-rationing-key-product-not-toilet-paper-dont-expect-shortage-to-end-soon/91404880
 source: inc.com
 date: 09/14/2026, 08:07 PM, +0000 UTC
 
-title: City Council to consider gas pump expansion at Sparks Costco location
-snippet: 
-source: KTVN
-date: 09/14/2026, 07:13 AM, +0000 UTC
-
-title: Should You Buy Costco Stock Before Sept. 24?
-snippet: 
-source: Currently.com
-date: 09/14/2026, 05:26 PM, +0000 UTC
-
 title: What’s New At Costco This Week (Featuring A Treat I’m Still In Love With)
-snippet: 
+link: https://sporked.com/article/whats-new-at-costco-this-week-9-12-2026/
 source: Sporked
 date: 09/12/2026, 03:29 PM, +0000 UTC
 
-title: Costco resubmits plans for Asheville store
-snippet: 
-source: 828 News Now
-date: 09/14/2026, 01:59 PM, +0000 UTC
+title: September 15 marks 43 years since first Costco warehouse opened in Seattle, Washington
+link: https://www.cbs8.com/video/money/consumer/september-15-marks-43-years-since-first-costco-warehouse-opened-in-seattle-washington/509-f6343528-2a6c-4ac9-aec7-4354c86fbb82
+source: cbs8.com
+date: 09/15/2026, 06:58 PM, +0000 UTC
 
-title: The best last-minute Labor Day Costco deals 2026: TVs, Apple devices, and more
-snippet: 
-source: ZDNET
-date: 09/03/2026, 07:00 AM, +0000 UTC
+title: Costco Starts Rationing Motor Oil. What It Means for Drivers
+link: https://www.newsweek.com/costco-starts-rationing-motor-oil-what-it-means-for-drivers-12437829
+source: Newsweek
+date: 09/14/2026, 01:52 PM, +0000 UTC
+
+title: Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.
+link: https://finance.yahoo.com/markets/stocks/articles/costco-hiked-dividend-13-10-114200655.html
+source: Yahoo Finance
+date: 09/14/2026, 11:42 AM, +0000 UTC
+
+title: Costco’s newest store is about to open in SoCal after years of litigation
+link: https://www.latimes.com/business/story/2026-09-12/costcos-newest-store-is-about-to-open-in-socal-after-years-of-litigation
+source: Los Angeles Times
+date: 09/12/2026, 10:00 AM, +0000 UTC
+
+title: Costco Stock Price Forecast: Here's What a $10,000 Investment Today Could Be Worth by September 2027
+link: https://finance.yahoo.com/markets/stocks/articles/costco-stock-price-forecast-heres-134500562.html
+source: Yahoo Finance
+date: 09/13/2026, 01:45 PM, +0000 UTC
+
+title: Is Costco open on Labor Day? See hours for Monday
+link: https://www.cincinnati.com/story/news/2026/09/06/costco-open-closed-labor-day-hours-2026/91578222007/
+source: Cincinnati Enquirer
+date: 09/06/2026, 07:00 AM, +0000 UTC
 
 title: Costco Labor Day Hours 2026: Find Out if Stores Are Open on Monday
-snippet: 
+link: https://www.today.com/life/holidays/costco-open-labor-day-2026-hours-closed-rcna593716
 source: TODAY.com
 date: 09/06/2026, 07:00 AM, +0000 UTC
 
 title: Best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more
-snippet: 
+link: https://mashable.com/tech/best-labor-day-costco-deals-2026-updates
 source: Mashable
-date: 09/07/2026, 12:50 PM, +0000 UTC
-
-title: Is Costco open on Labor Day? See hours for Monday
-snippet: 
-source: Cincinnati Enquirer
-date: 09/06/2026, 07:00 AM, +0000 UTC
-
-title: 10 Hidden Costco Sales You Need to Shop Before Labor Day
-snippet: 
-source: Good Housekeeping
-date: 09/03/2026, 07:00 AM, +0000 UTC
+date: 09/07/2026, 07:00 AM, +0000 UTC
 
 title: Are stores open on Labor Day 2026? Holiday hours for Costco, Target, Walmart, banks, stock markets, CVS, and more
-snippet: 
+link: https://www.fastcompany.com/91602479/are-stores-open-on-labor-day-holiday-hours-for-costco-target-walmart-banks-stock-markets-cvs-and-more
 source: Fast Company
 date: 09/07/2026, 10:30 AM, +0000 UTC
 
-title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-snippet: 
-source: abc45.com
-date: 09/05/2026, 07:00 AM, +0000 UTC
-
 title: Is Costco open on Labor Day 2026? What to know before you go to the store
-snippet: 
+link: https://www.nj.com/news/2026/08/is-costco-open-on-labor-day-2026-what-to-know-before-you-go-to-the-store.html
 source: NJ.com
 date: 08/31/2026, 07:00 AM, +0000 UTC
 
+title: The best last-minute Labor Day Costco deals 2026: TVs, Apple devices, and more
+link: https://www.zdnet.com/home-and-office/best-last-minute-labor-day-costco-sales-2026/
+source: ZDNET
+date: 09/03/2026, 07:00 AM, +0000 UTC
+
 title: 7 Costco Discounts Shoppers Should Look For On Labor Day 2026
-snippet: 
+link: https://shopping.yahoo.com/deals/articles/7-costco-discounts-shoppers-look-173900674.html
 source: Yahoo
 date: 09/01/2026, 07:00 AM, +0000 UTC
 
+title: 10 Hidden Costco Sales You Need to Shop Before Labor Day
+link: https://www.goodhousekeeping.com/home-products/a73594915/costco-labor-day-deals-september-2026/
+source: Good Housekeeping
+date: 09/03/2026, 07:00 AM, +0000 UTC
+
 title: Are Walmart, Publix, Target, Aldi open on Labor Day? Here's what's open
-snippet: 
+link: https://www.tcpalm.com/story/news/local/florida/2026/09/05/florida-grocery-stores-open-closed-labor-day-walmart-publix-target-costco-aldi-sams-club-bjs-sprouts/91491249007/
 source: Treasure Coast News
 date: 09/05/2026, 07:00 AM, +0000 UTC
 
-title: Is Publix, Costco closed on Labor Day? Stores open, closed in Florida
-snippet: 
-source: Pensacola News Journal
-date: 09/02/2026, 07:00 AM, +0000 UTC
-
-title: Walmart, Target, and Costco: Big box, big responsibility, big problem
-snippet: 
-source: Greenpeace
-date: 09/09/2026, 04:04 PM, +0000 UTC
-
-title: Is Costco closed on Labor Day in Fresno? Target? See which stores will be open
-snippet: 
-source: Fresno Bee
-date: 09/04/2026, 12:00 PM, +0000 UTC
-
 title: Most national retailers close on 2 holidays. Costco shuts down for 7.
-snippet: 
+link: https://www.businessinsider.com/costco-closed-holidays-labor-day-2026-9
 source: Business Insider
 date: 09/07/2026, 09:41 AM, +0000 UTC
 
+title: Is Costco closed on Labor Day in Fresno? Target? See which stores will be open
+link: https://www.fresnobee.com/news/local/article317105947.html
+source: Fresno Bee
+date: 09/04/2026, 12:00 PM, +0000 UTC
+
 title: Is Costco open on Labor Day 2026 in San Francisco? What’s open today, from malls to museums
-snippet: 
+link: https://secretsanfrancisco.com/labor-day-2026-store-openings/
 source: Secret San Francisco
 date: 09/07/2026, 07:41 AM, +0000 UTC
 
+title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
+link: https://wpde.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
+source: WPDE
+date: 09/05/2026, 08:11 PM, +0000 UTC
+
+title: Walmart, Target, and Costco: Big box, big responsibility, big problem
+link: https://www.greenpeace.org/usa/big3/
+source: greenpeace.org
+date: 09/09/2026, 04:04 PM, +0000 UTC
+
 title: Here is what's open on Labor Day 2026 and what's closed (LIST)
-snippet: 
-source: ABC7 Los Angeles
+link: https://abc7ny.com/post/here-is-whats-open-labor-day-2026-closed-list/19781579/
+source: ABC7 New York
 date: 09/04/2026, 07:00 AM, +0000 UTC
 
+title: Check to see if your grocery store, retailer is open Labor Day in Iowa
+link: https://www.desmoinesregister.com/story/money/business/retail/2026/09/07/labor-day-2026-closings/91564614007/
+source: The Des Moines Register
+date: 09/07/2026, 10:03 AM, +0000 UTC
+
 title: Which grocery stores are open — and closed — on Labor Day 2026?
-snippet: 
+link: https://www.nj.com/news/2026/09/which-grocery-stores-are-open-and-closed-on-labor-day-2026.html
 source: NJ.com
 date: 09/06/2026, 07:00 AM, +0000 UTC
 
 title: Which stores are open on Labor Day 2026? See the list of what's open today.
-snippet: 
+link: https://mashable.com/life/stores-open-labor-day-2026
 source: Mashable
-date: 09/07/2026, 12:04 PM, +0000 UTC
+date: 09/07/2026, 07:00 AM, +0000 UTC
 
 title: Sam's Club confirms Labor Day 2026 hours as Costco closes doors
-snippet: 
+link: https://shopping.yahoo.com/general/articles/sam-club-open-labor-day-132338830.html
 source: Yahoo
 date: 09/05/2026, 07:00 AM, +0000 UTC
 
-title: Costco will shut down for 24 hours on Sept. 7. Here’s why
-snippet: 
-source: NJ.com
-date: 08/24/2026, 07:00 AM, +0000 UTC
+title: What’s open and closed on Labor Day? From Costco to banks and UPS pickup
+link: https://nz.news.yahoo.com/open-closed-labor-day-costco-181052461.html
+source: Yahoo News New Zealand
+date: 09/07/2026, 08:24 AM, +0000 UTC
+
+title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
+link: https://cbs12.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
+source: WPEC
+date: 09/05/2026, 06:26 PM, +0000 UTC
+
+title: Labor Day 2026 shopping: Full schedule and door times for Walmart, Target, Costco, and more...
+link: https://en.as.com/latest_news/labor-day-2026-shopping-full-schedule-and-door-times-for-walmart-target-costco-and-more-f202609-n/
+source: Diario AS
+date: 09/07/2026, 10:03 AM, +0000 UTC
 
 title: Is Costco, Walmart and Target open on Labor Day?
-snippet: 
+link: https://www.app.com/story/news/2026/08/28/is-costco-walmart-and-target-open-on-labor-day/91490833007/
 source: Asbury Park Press
 date: 08/28/2026, 07:00 AM, +0000 UTC
 
 title: Is Costco open on Labor Day? Tennessee grocery store hours for 2026
-snippet: 
-source: The Commercial Appeal
+link: https://shopping.yahoo.com/deals/articles/costco-open-labor-day-tennessee-100405027.html
+source: Yahoo
 date: 09/07/2026, 10:04 AM, +0000 UTC
 
-title: Check to see if your grocery store, retailer is open Labor Day in Iowa
-snippet: 
-source: The Des Moines Register
-date: 09/07/2026, 10:03 AM, +0000 UTC
-
-title: What’s open and closed on Labor Day? From Costco to banks and UPS pickup
-snippet: 
-source: Yahoo News New Zealand
-date: 09/07/2026, 08:24 AM, +0000 UTC
-
-title: What's open and closed on Labor Day? It's different from most federal holidays
-snippet: 
-source: WTHR
-date: 09/07/2026, 12:33 PM, +0000 UTC
-
-title: Giant Costco-exclusive game day TVs start at $280 for members only
-snippet: 
-source: USA Today
-date: 08/28/2026, 07:00 AM, +0000 UTC
-
-title: Labor Day 2026 shopping: Full schedule and door times for Walmart, Target, Costco, and more...
-snippet: 
-source: Diario AS
-date: 09/07/2026, 10:03 AM, +0000 UTC
-
 title: Are grocery stores, liquor stores open for Labor Day 2026 in SC?
-snippet: 
+link: https://www.greenvilleonline.com/story/news/2026/09/03/is-costco-grocery-stores-liquor-stores-open-labor-day-2026-south-carolina/91594201007/
 source: Greenville Online
 date: 09/03/2026, 07:00 AM, +0000 UTC
 
 title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-snippet: 
-source: WPEC
-date: 09/05/2026, 06:26 PM, +0000 UTC
-
-title: Is Costco, Walmart and Target open on Labor Day?
-snippet: 
-source: Asbury Park Press
-date: 08/28/2026, 07:00 AM, +0000 UTC
+link: https://wcti12.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
+source: WCTI
+date: 09/05/2026, 06:27 PM, +0000 UTC
 
 title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-snippet: 
-source: KMTR
-date: 09/05/2026, 06:30 PM, +0000 UTC
-
-title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-snippet: 
+link: https://abc7amarillo.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
 source: KVII
 date: 09/05/2026, 06:27 PM, +0000 UTC
 
 title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-snippet: 
-source: WCTI
-date: 09/05/2026, 06:27 PM, +0000 UTC
+link: https://nbc16.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
+source: KMTR
+date: 09/05/2026, 06:30 PM, +0000 UTC
 
-title: Costco: The Valuation Re-Rating Is Just Getting Started (Q4 Earnings Preview)
-snippet: 
-source: Seeking Alpha
-date: 09/11/2026, 11:30 AM, +0000 UTC
+title: Giant Costco-exclusive game day TVs start at $280 for members only
+link: https://www.usatoday.com/story/shopping/deals/labor-day/2026/08/28/costco-exclusive-big-screen-hisense-tvs/91501588007/
+source: USA Today
+date: 08/28/2026, 07:00 AM, +0000 UTC
+
+title: Labor Day 2026 store hours: See the full list of stores open on the holiday
+link: https://www.nj.com/news/2026/09/labor-day-2026-store-hours-see-the-full-list-of-stores-open-on-the-holiday.html
+source: NJ.com
+date: 09/03/2026, 07:00 AM, +0000 UTC
+
+title: Is Costco Open on Labor Day? 2026 Holiday Hours
+link: https://dengarden.com/news/costco-labor-day-hours-2026
+source: Dengarden
+date: 09/06/2026, 07:00 AM, +0000 UTC
+
+title: Is Publix open on Labor Day? See which grocery stores are open and closed across Tampa Bay
+link: https://www.wtsp.com/article/news/local/publix-costco-walmart-open-closed-hours-labor-day-2026/67-f228e473-03ee-4ab3-a369-28c7f2a72393
+source: wtsp.com
+date: 09/07/2026, 07:00 AM, +0000 UTC
+
+title: Labor Day 2026: Are Banks, Stock Market, Target, Walmart, USPS, Costco Closed Or Open?
+link: https://www.ndtvprofit.com/world/labor-day-2026-are-banks-stock-market-target-walmart-usps-costco-closed-or-open-12012848
+source: NDTV Profit
+date: 09/07/2026, 07:00 AM, +0000 UTC
 
 title: Should You Buy Costco Stock Before Sept. 24?
-snippet: 
-source: AOL.com
+link: https://finance.yahoo.com/markets/stocks/articles/buy-costco-stock-sept-24-172622040.html
+source: Yahoo Finance
 date: 09/14/2026, 05:26 PM, +0000 UTC
 
 title: Costco (COST): Buy, Sell, or Hold Post Q2 Earnings?
-snippet: 
+link: https://finance.yahoo.com/markets/stocks/articles/costco-cost-buy-sell-hold-020718032.html
 source: Yahoo Finance
 date: 09/09/2026, 02:07 AM, +0000 UTC
 
 title: Should You Buy Costco Stock Before Sept. 24?
-snippet: 
-source: Currently.com
-date: 09/14/2026, 05:26 PM, +0000 UTC
-
-title: Should You Buy Costco Stock Before Sept. 24?
-snippet: 
+link: https://www.fool.com/investing/2026/09/14/should-you-buy-costco-stock-before-sept-24/
 source: The Motley Fool
-date: 09/14/2026, 05:35 PM, +0000 UTC
+date: 09/14/2026, 06:06 PM, +0000 UTC
 
-title: Costco asks members to help make stores better
-snippet: 
-source: thestreet.com
-date: 09/14/2026, 08:00 PM, +0000 UTC
+title: RBC Capital reiterates Costco stock rating on tariff refund outlook
+link: https://m.investing.com/news/analyst-ratings/rbc-capital-reiterates-costco-stock-rating-on-tariff-refund-outlook-93CH-4902222?ampMode=1
+source: Investing.com
+date: 09/15/2026, 03:38 PM, +0000 UTC
 
 title: Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.
-snippet: 
+link: https://finance.yahoo.com/markets/stocks/articles/costco-hiked-dividend-13-10-114200655.html
 source: Yahoo Finance
 date: 09/14/2026, 11:42 AM, +0000 UTC
 
-title: Costco Price Prediction: A $1,200 Target Comes Into Focus
-snippet: 
-source: 24/7 Wall St.
-date: 09/11/2026, 12:00 PM, +0000 UTC
+title: Costco: The Valuation Re-Rating Is Just Getting Started (Q4 Earnings Preview)
+link: https://seekingalpha.com/article/4945374-costco-stock-valuation-rerating-is-just-getting-started-q4-earnings-preview
+source: Seeking Alpha
+date: 09/11/2026, 11:30 AM, +0000 UTC
 
 title: Costco says it saw 'record-breaking' gas volumes amid rising prices
-snippet: 
-source: cnbc.com
+link: https://www.cnbc.com/2026/05/28/costco-cost-q3-2026-earnings.html
+source: CNBC
 date: 05/28/2026, 07:00 AM, +0000 UTC
 
-title: Costco Caps Kirkland Motor Oil Purchases at Two Every Seven Days
-snippet: 
-source: TechStock²
-date: 09/14/2026, 09:59 AM, +0000 UTC
-
-title: Costco (COST) Stock Looks Fully Priced On Its 107% Five Year Run
-snippet: 
-source: simplywall.st
-date: 09/10/2026, 11:30 AM, +0000 UTC
-
 title: Costco Keeps Beating and the Stock Keeps Stalling. Q4 Earnings Are the Next Test
-snippet: 
+link: https://www.tikr.com/blog/costco-keeps-beating-and-the-stock-keeps-stalling-q4-earnings-are-the-next-test
 source: TIKR.com
 date: 08/25/2026, 07:00 AM, +0000 UTC
 
+title: Costco Wholesale stock gains as warehouse expansion and sales growth support valuation
+link: https://www.ad-hoc-news.de/boerse/news/corporate-news/costco-wholesale-stock-gains-as-warehouse-expansion-and-sales-growth/70105239
+source: ad-hoc-news.de
+date: 09/15/2026, 12:13 PM, +0000 UTC
+
+title: Costco Price Prediction: A $1,200 Target Comes Into Focus
+link: https://247wallst.com/investing/2026/09/11/costco-price-prediction-a-1200-target-comes-into-focus/
+source: 24/7 Wall St.
+date: 09/11/2026, 12:00 PM, +0000 UTC
+
+title: Costco asks members to help make stores better
+link: https://www.thestreet.com/retail/costco-welcomes-member-feedback-to-help-make-stores-better
+source: thestreet.com
+date: 09/14/2026, 08:00 PM, +0000 UTC
+
+title: Costco (COST) Stock Looks Fully Priced On Its 107% Five Year Run
+link: https://simplywall.st/stocks/us/consumer-retailing/nasdaq-cost/costco-wholesale/news/costco-cost-stock-looks-fully-priced-on-its-107-five-year-ru
+source: simplywall.st
+date: 09/10/2026, 11:30 AM, +0000 UTC
+
 title: Costco Stock Is Priced For Two Good Years, Is That A Safe Bet?
-snippet: 
-source: trefis.com
+link: https://www.trefis.com/stock/cost/articles/614228/costco-stock-is-priced-for-two-good-years-is-that-a-safe-bet/2026-09-03
+source: Trefis
 date: 09/03/2026, 07:00 AM, +0000 UTC
 
+title: Should You Buy Costco Stock Before Sept. 24?
+link: https://currently.att.yahoo.com/att/buy-costco-stock-sept-24-172622040.html
+source: Currently.com
+date: 09/14/2026, 05:26 PM, +0000 UTC
+
 title: Costco: A Premium Worth Paying For Long-Term Compounding
-snippet: 
+link: https://seekingalpha.com/article/4945373-costco-a-premium-worth-paying-for-long-term-compounding
 source: Seeking Alpha
 date: 09/11/2026, 05:24 AM, +0000 UTC
 
 title: Cramer Says Costco at 49 Times Earnings Is the Mistake Loyal Shoppers Keep Making
-snippet: 
+link: https://247wallst.com/investing/2026/09/04/cramer-says-costco-at-49-times-earnings-is-the-mistake-loyal-shoppers-keep-making/
 source: 24/7 Wall St.
 date: 09/04/2026, 07:00 AM, +0000 UTC
 
 title: Costco Price Prediction: A $1,200 Target Comes Into Focus
-snippet: 
+link: https://finance.yahoo.com/markets/stocks/articles/costco-price-prediction-1-200-120056743.html
 source: Yahoo Finance
 date: 09/11/2026, 12:00 PM, +0000 UTC
 
-title: Why Costco (COST) Could Beat Earnings Estimates Again
-snippet: 
+title: What to Expect From Costco Wholesale's Q4 2026 Earnings Report
+link: https://finance.yahoo.com/markets/stocks/articles/expect-costco-wholesales-q4-2026-134037110.html
 source: Yahoo Finance
-date: 09/01/2026, 07:00 AM, +0000 UTC
+date: 07/27/2026, 07:00 AM, +0000 UTC
 
 title: Costco (COST) Stock Looks Fully Priced Despite 121% Returns And Earnings Questions
-snippet: 
+link: https://finance.yahoo.com/markets/stocks/articles/costco-cost-stock-looks-fully-151324195.html
 source: Yahoo Finance
 date: 08/18/2026, 07:00 AM, +0000 UTC
 
-title: Costco Wholesale Q3 Earnings Call Highlights
-snippet: 
+title: Why Costco (COST) Could Beat Earnings Estimates Again
+link: https://finance.yahoo.com/markets/stocks/articles/why-costco-cost-could-beat-161002140.html
 source: Yahoo Finance
-date: 05/28/2026, 07:00 AM, +0000 UTC
+date: 09/01/2026, 07:00 AM, +0000 UTC
 
-title: Q2 Earnings Highs And Lows: Costco (NASDAQ:COST) Vs The Rest Of The Non-Discretionary Retail Stocks
-snippet: 
+title: Buy, Hold or Sell Costco Stock? Key Tips Ahead of Q3 Earnings
+link: https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-costco-stock-141700337.html
 source: Yahoo Finance
-date: 08/17/2026, 07:00 AM, +0000 UTC
+date: 05/26/2026, 07:00 AM, +0000 UTC
 
-title: Costco Tops Sales Views But Earnings, Membership Numbers Fall Short
-snippet: 
-source: Investor's Business Daily
-date: 05/28/2026, 07:00 AM, +0000 UTC
-
-title: Costco’s Strong Quarter Still Leaves Investors With a Valuation Problem
-snippet: 
+title: Here's How Much Costco Stock Is Expected to Move After Earnings
+link: https://finance.yahoo.com/markets/stocks/articles/heres-much-costco-stock-expected-205335877.html
 source: Yahoo Finance
-date: 05/30/2026, 07:00 AM, +0000 UTC
+date: 05/26/2026, 07:00 AM, +0000 UTC
 
 title: Costco's Executive Penetration Could Unlock More Earnings
-snippet: 
+link: https://finance.yahoo.com/markets/stocks/articles/costcos-executive-penetration-could-unlock-120400959.html
 source: Yahoo Finance
 date: 06/30/2026, 07:00 AM, +0000 UTC
 
+title: Costco Wholesale Q3 Earnings Call Highlights
+link: https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-q3-earnings-call-230726833.html
+source: Yahoo Finance
+date: 05/28/2026, 07:00 AM, +0000 UTC
+
 title: Costco Has a Secret Growth Engine. Wall Street May Be Underestimating It.
-snippet: 
+link: https://247wallst.com/investing/2026/08/26/costco-has-a-secret-growth-engine-wall-street-may-be-underestimating-it/
 source: 24/7 Wall St.
 date: 08/26/2026, 07:00 AM, +0000 UTC
 
-title: Costco records strong results as it bulks up on protein sales
-snippet: 
-source: Grocery Dive
-date: 06/01/2026, 07:00 AM, +0000 UTC
-
-title: Costco Wholesale Corporation (NASDAQ:COST) Just Released Its Third-Quarter Earnings: Here's What Analysts Think
-snippet: 
+title: Q2 Earnings Highs And Lows: Costco (NASDAQ:COST) Vs The Rest Of The Non-Discretionary Retail Stocks
+link: https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-costco-112620933.html
 source: Yahoo Finance
-date: 05/31/2026, 07:00 AM, +0000 UTC
+date: 08/17/2026, 07:00 AM, +0000 UTC
 
 title: Costco Sales Rise as Value Offerings Draw Pressured Consumers
-snippet: 
+link: https://www.wsj.com/business/earnings/costco-profit-rises-as-value-offerings-draw-pressured-consumers-30fde86f
 source: WSJ
 date: 05/28/2026, 07:00 AM, +0000 UTC
 
-title: Here's How Much Costco Stock Is Expected to Move After Earnings
-snippet: 
-source: Investopedia
-date: 05/26/2026, 07:00 AM, +0000 UTC
-
 title: Costco Stock’s Premium Rests On A Visit Rate That Keeps Slowing
-snippet: 
-source: trefis.com
+link: https://www.trefis.com/stock/cost/articles/613538/costco-stocks-premium-rests-on-a-visit-rate-that-keeps-slowing/2026-08-28
+source: Trefis
 date: 08/28/2026, 07:00 AM, +0000 UTC
 
-title: Costco cuts Kirkland Signature prices Q3 2026 earnings
-snippet: 
-source: Yahoo Finance
-date: 06/08/2026, 07:00 AM, +0000 UTC
+title: Costco Tops Sales Views But Earnings, Membership Numbers Fall Short
+link: https://www.investors.com/news/costco-stock-earnings-q3-2026-retail-sales-consumer-spending-cost-stock/
+source: Investor's Business Daily
+date: 05/28/2026, 07:00 AM, +0000 UTC
 
-title: Costco Is Quietly Building Its Next Big Growth Engine
-snippet: 
-source: 24/7 Wall St.
-date: 08/20/2026, 07:00 AM, +0000 UTC
+title: Costco records strong results as it bulks up on protein sales
+link: https://www.grocerydive.com/news/costco-earnings-third-quarter-2026-grocery-food-protein/821550/
+source: Grocery Dive
+date: 06/01/2026, 07:00 AM, +0000 UTC
 
 title: Costco stock trades near $945 as analysts debate valuation despite strong earnings
-snippet: 
+link: https://eciks.org/24293-costco-stock-945-valuation-debate
 source: eciks.org
 date: 08/31/2026, 07:00 AM, +0000 UTC
 
-title: Why Did Costco Stock Fall Today? Because It Had ‘Little Room for Error’
-snippet: 
-source: Investopedia
-date: 07/09/2026, 07:00 AM, +0000 UTC
+title: Did Walmart and Costco Just Trigger a Major Warning for the Market?
+link: https://finance.yahoo.com/markets/stocks/articles/did-walmart-costco-just-trigger-133500438.html
+source: Yahoo Finance
+date: 06/04/2026, 07:00 AM, +0000 UTC
+
+title: Here’s Where We Stand on Costco After Its Earnings Release
+link: https://pro.thestreet.com/portfolio/heres-where-we-stand-on-costco-after-its-earnings-release
+source: TheStreet Pro
+date: 05/29/2026, 07:00 AM, +0000 UTC

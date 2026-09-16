@@ -6,14 +6,14 @@ from openai import OpenAI
 from .engineer_prompt import execute_engineer_prompt, get_market_price
 
 
-MODEL = "gpt-5.6-luna"
+MODEL = "gpt-5.1"
 PROMPT_PATH = Path(__file__).resolve().parents[2] / "research" / "actual_prompt.txt"
 OUTPUT_PATH = Path(__file__).resolve().parents[2] / "data" / "gpt_output.txt"
 
 logger = logging.getLogger(__name__)
 
 
-def run_prompt(model = "gpt-5.6-luna") -> str:
+def run_prompt(model = MODEL) -> str:
     """Send the research prompt to GPT-5.1 and return the response text."""
     logger.info("Loading research prompt from %s", PROMPT_PATH)
     prompt = PROMPT_PATH.read_text(encoding="utf-8")
@@ -41,7 +41,7 @@ def parse_probability_from_text():
                 final = temp[:2]
                 probability = float(final)
                 logger.info("Parsed probability %.4f", probability)
-                return probability
+                return probability / 100
             except ValueError:
                 logger.debug("Could not parse probability line: %r", line)
                 continue
