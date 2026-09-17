@@ -35,11 +35,10 @@ def parse_probability_from_text():
     text = OUTPUT_PATH.read_text(encoding="utf-8")
     logger.info("Parsing probability from GPT output (%d characters)", len(text))
     for line in text.splitlines():
-        if "probability:" in line or "Probability:" in line:
+        if "Probability:" in line:
             try:
-                temp = line.split("probability:")[1].strip()
-                final = temp[:2]
-                probability = float(final)
+                temp = line.split("Probability:")[1].strip()
+                probability = float(temp)
                 logger.info("Parsed probability %.4f", probability)
                 return probability / 100
             except ValueError:
@@ -49,6 +48,7 @@ def parse_probability_from_text():
     return "Nothing found. Please check the output text for the correct format."
 
 def calculate_mixmcp(probability, market_price, alpha = 0.7):
+    """Calculate the MIXMCP (Mixed Market Confidence Probability)."""
     # check if probability is an int or float
     if not isinstance(probability, (int, float)):
         logger.error("Invalid probability type: %s", type(probability).__name__)
@@ -71,7 +71,6 @@ def run_pipeline(market_ticker, company, word):
     parsed_probability = parse_probability_from_text()
     mixmcp = calculate_mixmcp(parsed_probability, get_market_price(market_ticker, word))
     logger.info("Full pipeline completed with MIXMCP %.4f", mixmcp)
-    print("Final MIXMCP:", mixmcp)
     return mixmcp
 
 

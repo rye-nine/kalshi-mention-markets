@@ -1,3 +1,9 @@
-**Final probability: 48%**
+“Labor” never appears in the provided prior transcript, even in contexts where it might plausibly show up (wage rates, employee agreement, SG&A, productivity). They discuss “higher health care costs,” “employee agreement,” “vacation days,” “payrolls,” but consistently avoid the specific term “labor.”
 
-The market’s 56% estimate appears slightly high. Recent coverage is heavily focused on **Labor Day**, but that is unlikely to drive discussion on Costco’s upcoming earnings call. The prior call discussed employee agreements, vacation costs, health care, productivity, and payroll without using “labor,” suggesting management may continue using alternative terms such as “employee costs” or “payroll.” There is no strong recent labor-relations catalyst.
+Costco management and analysts generally use accounting language like “SG&A,” “operations,” “productivity,” “payroll,” or “employee costs” rather than “labor costs” or “labor market.” With no obvious labor-related controversy or headline event in the recent news (no strikes, unionization drives, or large wage initiatives), there’s no new forcing function to pull the exact word “labor” into the script or Q&A.
+
+Some news items are about Labor Day, but those are consumer/retail calendar pieces; they don’t affect how executives talk on the earnings call, and when they do refer to the holiday it’s typically as “Labor Day,” not “labor” in isolation. The keyword here is “Labor” generally, but the more natural way it would show up in an earnings call is “labor costs,” “labor environment,” etc. Given the prior call avoided the term even when talking about employee agreements and costs, the base rate of “labor” being used verbatim in Costco calls looks low.
+
+The prediction market at 53% is effectively saying “coin flip.” Given the language pattern and lack of a labor-specific catalyst, that looks slightly too high. I’d still lean somewhat toward the market rather than make an extreme adjustment, but I would shade it down.
+
+Probability: 40

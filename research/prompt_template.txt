@@ -28,3 +28,4 @@ Analyze the evidence (transcript + news) 2. Decide if the market is too HIGH, to
 
 Be calibrated. The market is often right, but you should adjust when evidence is clear. 
 
+At the end of your response, please present the probability in the following format: "Probability: [probability]"

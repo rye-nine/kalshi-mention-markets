@@ -1,37 +1,52 @@
 {
   "Costco": [
     {
-      "title": "Costco raises motor oil prices and limits member purchases",
+      "title": "Uber Eats expands Costco delivery partnership nationwide",
       "snippet": null,
       "source": null,
       "date": null
     },
     {
-      "title": "This Artisan Copper Bird Bath at Costco Turns Any Backyard Into a Sanctuary for Wild Birds",
-      "snippet": "https://shopping.yahoo.com/home-garden/outdoor/articles/artisan-copper-bird-bath-costco-012000940.html",
+      "title": "The surprising new way to find friends and true love? Your Costco card",
+      "snippet": "https://www.usatoday.com/story/money/retail/2026/09/16/the-surprising-community-culture-of-costco/91585945007/",
       "source": {
-        "name": "Yahoo",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Leslie Leon"
+          "Jessica Guynn"
         ]
       },
-      "date": "09/16/2026, 01:20 AM, +0000 UTC"
+      "date": "09/16/2026, 11:20 PM, +0000 UTC"
     },
     {
-      "title": "Lawrence Costco\u2019s opening date announced; currently hiring multiple positions",
-      "snippet": "https://lawrencekstimes.com/2026/09/14/costco-opening-date/",
-      "source": {
-        "name": "The Lawrence Times",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://lawrencekstimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/14/2026, 07:39 PM, +0000 UTC"
-    },
-    {
-      "title": "New plans submitted for Costco location in Asheville",
+      "title": "Costco raises price of Kirkland Signature motor oil",
       "snippet": null,
       "source": null,
       "date": null
+    },
+    {
+      "title": "Costco Shoppers Are Racing To Get Their Hands On This Returning Bakery Treat",
+      "snippet": "https://www.southernliving.com/costco-returning-smores-cookies-12122358",
+      "source": {
+        "name": "southernliving.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernliving.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Melinda Salchert"
+        ]
+      },
+      "date": "09/16/2026, 02:49 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Has a New Anthropologie Copycat That\u2019s Sure To Sell Out",
+      "snippet": "https://www.allrecipes.com/costco-pandex-christmas-icon-glasses-12122124",
+      "source": {
+        "name": "Allrecipes",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.allrecipes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Josie Dlugosz"
+        ]
+      },
+      "date": "09/16/2026, 08:00 PM, +0000 UTC"
     },
     {
       "title": "Costco-anchored development to boost Littleton's economy",
@@ -46,22 +61,34 @@
       "date": "09/15/2026, 12:52 PM, +0000 UTC"
     },
     {
-      "title": "6 Kirkland Signature Items at Costco Worth Buying This Fall",
-      "snippet": "https://www.moneylion.com/trending/money/costco-kirkland-items-worth-buying-fall",
+      "title": "Midtown Costco closing Oct. 1 to transition into Business Center; what\u2019s staying, what\u2019s going",
+      "snippet": "https://www.kctv5.com/2026/09/16/midtown-costco-closing-oct-1-transition-into-business-center-whats-staying-whats-going/",
       "source": {
-        "name": "MoneyLion",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.moneylion.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "kctv5.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kctv5.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Jordan Rosenfeld"
+          "Julia Scammahorn"
         ]
       },
-      "date": "09/12/2026, 02:15 PM, +0000 UTC"
+      "date": "09/16/2026, 03:02 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Earnings May Disappoint, but There\u2019s a Special Catalyst That Could Lift the Stock",
+      "snippet": "https://www.barrons.com/articles/costco-earnings-special-dividend-3e7d6cf0",
+      "source": {
+        "name": "barrons.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ty Roush"
+        ]
+      },
+      "date": "09/16/2026, 04:53 PM, +0000 UTC"
     },
     {
       "title": "I\u2019ve Tried Countless Costco Products\u2014These Are the 10 Kirkland Finds I Always Rebuy",
       "snippet": "https://www.realsimple.com/kirkland-signature-costco-products-i-always-rebuy-12116561",
       "source": {
-        "name": "Real Simple",
+        "name": "realsimple.com",
         "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.realsimple.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
           "Ariel Klein"
@@ -82,74 +109,64 @@
       "date": "09/15/2026, 08:21 PM, +0000 UTC"
     },
     {
-      "title": "15 Costco Kirkland Signature Frozen Foods That Use High Quality Ingredients",
-      "snippet": "https://www.mashed.com/2253832/high-quality-kirkland-signature-frozen-foods-from-costco/",
+      "title": "Costco Hints Fan-Favorite Food Court Item Is Finally Coming Back",
+      "snippet": "https://parade.com/food/costco-hints-fan-favorite-food-court-item-is-finally-coming-back",
       "source": {
-        "name": "Mashed",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.mashed.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "parade.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://parade.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Sherri Mabry Gordon"
+          "Anna Quintana"
         ]
       },
-      "date": "09/15/2026, 01:23 PM, +0000 UTC"
+      "date": "09/16/2026, 11:52 PM, +0000 UTC"
     },
     {
-      "title": "$14,000 in Apple products stolen from Pennsylvania Costco",
-      "snippet": "https://www.cbsnews.com/pittsburgh/news/costco-theft-apple-products/",
+      "title": "6 Frequent Customer Complaints About Costco's Meat Department",
+      "snippet": "https://www.tastingtable.com/2256989/costco-meat-department-customer-complaints/",
       "source": {
-        "name": "CBS News",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cbsnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Tasting Table",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tastingtable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Megan Shinn"
+          "Samantha Maxwell"
         ]
       },
-      "date": "09/14/2026, 04:52 PM, +0000 UTC"
+      "date": "09/16/2026, 04:20 PM, +0000 UTC"
     },
     {
-      "title": "5 holiday kitchen essentials you can find at Costco this month",
-      "snippet": "https://www.al.com/life/2026/09/5-holiday-kitchen-essentials-you-can-find-at-costco-this-month.html",
+      "title": "Costco Has a Portable Espresso Maker for Better Coffee Beyond Your Kitchen",
+      "snippet": "https://shopping.yahoo.com/home-garden/kitchen/articles/costco-portable-espresso-maker-better-235500517.html",
       "source": {
-        "name": "al.com",
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Choya Johnson"
+        ]
+      },
+      "date": "09/16/2026, 11:55 PM, +0000 UTC"
+    },
+    {
+      "title": "What's New At Costco In September 2026: Top Finds To Grab Fast",
+      "snippet": "https://www.thetakeout.com/2260317/new-costco-finds-to-grab-september-2026/",
+      "source": {
+        "name": "The Takeout",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.thetakeout.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Maria Scinto"
+        ]
+      },
+      "date": "09/16/2026, 04:12 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco expands partnership with Uber Eats for nationwide delivery. What to know",
+      "snippet": "https://www.al.com/business/2026/09/costco-expands-partnership-with-uber-eats-for-nationwide-delivery-what-to-know.html",
+      "source": {
+        "name": "AL.com",
         "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.al.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
           "Kelly Kazek"
         ]
       },
-      "date": "09/15/2026, 07:59 PM, +0000 UTC"
-    },
-    {
-      "title": "Costco rations oil, raise price. How many California locations affected",
-      "snippet": "https://www.desertsun.com/story/news/nation/california/2026/09/15/costco-limits-oil-purchases-as-iran-war-hits-supply-california/91782967007/",
-      "source": {
-        "name": "The Desert Sun",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.desertsun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/15/2026, 11:29 PM, +0000 UTC"
-    },
-    {
-      "title": "KC\u2019s midtown Costco has a closing date for its business center conversion. See when",
-      "snippet": "https://www.kansascity.com/news/local/article317252547.html",
-      "source": {
-        "name": "kansascity.com",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kansascity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Eleanor Nash",
-          "Chris Higgins"
-        ]
-      },
-      "date": "09/15/2026, 06:48 PM, +0000 UTC"
-    },
-    {
-      "title": "A New Frozen Dessert Just Hit The Shelves At Costco",
-      "snippet": "https://sporked.com/article/sunshine-buns-costco/",
-      "source": {
-        "name": "Sporked",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sporked.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Casey Clark"
-        ]
-      },
-      "date": "09/15/2026, 05:19 PM, +0000 UTC"
+      "date": "09/16/2026, 07:26 PM, +0000 UTC"
     },
     {
       "title": "Costco nearly doubles cost of motor oil, limits purchases",
@@ -161,49 +178,22 @@
       "date": "09/14/2026, 09:15 PM, +0000 UTC"
     },
     {
-      "title": "Costco\u2019s Pretty \u2018Desert Rose\u2019 Dinnerware Set Brings a Touch of the Southwest to Your Table",
-      "snippet": "https://dengarden.com/shopping/costcos-desert-rose-dinnerware-set",
+      "title": "Lawrence Costco\u2019s opening date announced; currently hiring multiple positions",
+      "snippet": "https://lawrencekstimes.com/2026/09/14/costco-opening-date/",
       "source": {
-        "name": "Dengarden",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://dengarden.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Lauren Brown"
-        ]
+        "name": "The Lawrence Times",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://lawrencekstimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/15/2026, 11:25 PM, +0000 UTC"
+      "date": "09/14/2026, 07:38 PM, +0000 UTC"
     },
     {
-      "title": "14 New Halloween Arrivals at Costco That Will Likely Sell Out Fast",
-      "snippet": "https://financebuzz.com/news/halloween-arrivals-costco-to-sell-out",
+      "title": "Costco, Uber expanding delivery to more states",
+      "snippet": "https://www.ksl.com/article/51625054/costco-uber-expanding-delivery-to-more-states",
       "source": {
-        "name": "FinanceBuzz",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://financebuzz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Amanda Machado"
-        ]
+        "name": "KSL News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ksl.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/15/2026, 01:05 PM, +0000 UTC"
-    },
-    {
-      "title": "5 Things A Food Editor Says You Should Never Buy At Costco",
-      "snippet": "https://www.southernliving.com/items-never-buy-costco-12061616",
-      "source": {
-        "name": "Southern Living",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernliving.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Josh Miller"
-        ]
-      },
-      "date": "09/12/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco opening 10 new stores in the US and 4 in Canada as expansion continues - See where",
-      "snippet": "https://www.livenowfox.com/news/costco-opening-new-stores-us-canada",
-      "source": {
-        "name": "LiveNOW from FOX",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livenowfox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/15/2026, 12:59 PM, +0000 UTC"
+      "date": "09/17/2026, 02:17 AM, +0000 UTC"
     },
     {
       "title": "I've been a Costco executive member for 11 years. I'll always buy these 5 products there.",
@@ -218,16 +208,83 @@
       "date": "09/14/2026, 03:11 PM, +0000 UTC"
     },
     {
-      "title": "The Oil Crisis Has Reached Costco\u2019s Motor Oil Aisle",
-      "snippet": "https://finance.yahoo.com/energy/articles/oil-crisis-reached-costco-motor-155626578.html",
+      "title": "KC\u2019s midtown Costco has a closing date for its business center conversion. See when",
+      "snippet": "https://www.kansascity.com/news/local/article317252547.html",
       "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Kansas City Star",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.kansascity.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Srividya Kalyanaraman"
+          "Eleanor Nash",
+          "Chris Higgins"
         ]
       },
-      "date": "09/15/2026, 03:56 PM, +0000 UTC"
+      "date": "09/15/2026, 06:48 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Core Fourth-Quarter Earnings to Miss Estimates, Oppenheimer Says",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-core-fourth-quarter-earnings-153629911.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/16/2026, 03:36 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Buys A Professional Organizer Swears By",
+      "snippet": "https://www.southernliving.com/costco-buys-professional-organizer-12063575",
+      "source": {
+        "name": "southernliving.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.southernliving.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kait Hanson"
+        ]
+      },
+      "date": "09/16/2026, 05:25 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco resubmits plans for Asheville store at Enka Commerce Park",
+      "snippet": "https://wlos.com/news/local/a-reversal-costco-resubmits-plans-for-a-store-at-enka-commerce-park-asheville-city-council-withdraw-resubmittal-clock-tower-heritage-parkway-smokey-park-construction-not-yet-approved",
+      "source": {
+        "name": "WLOS",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://wlos.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Elijah Skipper"
+        ]
+      },
+      "date": "09/14/2026, 08:57 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco hikes motor oil prices and puts limits on how much members can buy",
+      "snippet": "https://www.cnbc.com/2026/09/14/costco-motor-oil-price-limited.html",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/14/2026, 09:29 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco submits proposal for new store in Asheville",
+      "snippet": "https://www.wyff4.com/article/costco-asheville-plans/73745275",
+      "source": {
+        "name": "WYFF",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.wyff4.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Stephanie Moore"
+        ]
+      },
+      "date": "09/16/2026, 05:00 PM, +0000 UTC"
+    },
+    {
+      "title": "Q/A: Susan Barnett on Life After Television, Living the Costco Dream, and How a Passion for Design Became a Real Estate Career",
+      "snippet": "https://www.crossingbroad.com/news/trending/susan-barnett-on-life-after-television-and-real-estate-career/",
+      "source": {
+        "name": "Crossing Broad",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.crossingbroad.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kevin Kinkead"
+        ]
+      },
+      "date": "09/16/2026, 04:29 PM, +0000 UTC"
     },
     {
       "title": "Costco raises price for Kirkland motor oil, sets purchase limit",
@@ -242,31 +299,10 @@
       "date": "09/14/2026, 04:20 PM, +0000 UTC"
     },
     {
-      "title": "Leading food guide names Costco\u2019s \u2018best croissants ever released\u2019",
-      "snippet": "https://www.al.com/life/2026/09/leading-food-guide-names-costcos-best-croissants-ever-released.html",
-      "source": {
-        "name": "al.com",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.al.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Kelly Kazek"
-        ]
-      },
-      "date": "09/15/2026, 06:52 PM, +0000 UTC"
-    },
-    {
-      "title": "Costco raises prices of Kirkland motor oil, limits how much shoppers can purchase",
-      "snippet": "https://www.livenowfox.com/news/costco-raises-prices-kirkland-motor-oil",
-      "source": {
-        "name": "LiveNOW from FOX",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.livenowfox.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/15/2026, 02:05 PM, +0000 UTC"
-    },
-    {
       "title": "Shoppers say Costco\u2019s 5.5-pound chocolate monster head filled with gummies is to die for",
       "snippet": "https://www.al.com/life/2026/09/shoppers-say-costcos-55-pound-chocolate-monster-head-filled-with-gummies-is-to-die-for.html",
       "source": {
-        "name": "al.com",
+        "name": "AL.com",
         "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.al.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
           "Kelly Kazek"
@@ -275,70 +311,49 @@
       "date": "09/14/2026, 02:39 PM, +0000 UTC"
     },
     {
-      "title": "Costco Gross Margin Pressure From Higher Fuel Costs Likely to be Offset by Tariff Refunds, RBC Says",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-gross-margin-pressure-higher-130500855.html",
+      "title": "Uber and Costco are expanding their Uber Eats delivery partnership to 47 states",
+      "snippet": "https://qz.com/uber-costco-uber-eats-delivery-expansion-47-states-091626",
       "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "qz.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://qz.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/15/2026, 01:05 PM, +0000 UTC"
+      "date": "09/16/2026, 05:19 PM, +0000 UTC"
     },
     {
-      "title": "Skip The Basic Toast \u2014 One Of Costco's Best Bakery Items Makes Breakfast 10X Sweeter",
-      "snippet": "https://www.tastingtable.com/2252428/costcos-best-bakery-items-danishes-breakfast/",
+      "title": "Can\u2019t get your hands on the viral Costco Halloween blankets? Try these alternatives",
+      "snippet": "https://shopping.yahoo.com/home-garden/home-decor/article/cant-find-costcos-viral-halloween-blankets-we-found-5-alternatives-that-are-just-as-cozy-163752655.html",
       "source": {
-        "name": "Tasting Table",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tastingtable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Luna Christina Lupus"
+          "Elizabeth Berry"
         ]
       },
-      "date": "09/15/2026, 09:35 AM, +0000 UTC"
+      "date": "09/16/2026, 10:06 PM, +0000 UTC"
     },
     {
-      "title": "Costco Is Rationing a Key Product\u2014and It's Not Toilet Paper. Experts Don't Expect the Shortage to End Soon",
-      "snippet": "https://www.inc.com/amaya-nichole/costco-rationing-key-product-not-toilet-paper-dont-expect-shortage-to-end-soon/91404880",
-      "source": {
-        "name": "inc.com",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.inc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Amaya Nichole"
-        ]
-      },
-      "date": "09/14/2026, 08:07 PM, +0000 UTC"
-    },
-    {
-      "title": "What\u2019s New At Costco This Week (Featuring A Treat I\u2019m Still In Love With)",
-      "snippet": "https://sporked.com/article/whats-new-at-costco-this-week-9-12-2026/",
+      "title": "Costco\u2019s Latest Stir Fry Is Getting Mixed Reviews",
+      "snippet": "https://sporked.com/article/costco-honey-sesame-chicken-stir-fry/",
       "source": {
         "name": "Sporked",
         "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://sporked.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Vinz Karl"
+          "Jay Wilson"
         ]
       },
-      "date": "09/12/2026, 03:29 PM, +0000 UTC"
+      "date": "09/14/2026, 12:01 PM, +0000 UTC"
     },
     {
-      "title": "September 15 marks 43 years since first Costco warehouse opened in Seattle, Washington",
-      "snippet": "https://www.cbs8.com/video/money/consumer/september-15-marks-43-years-since-first-costco-warehouse-opened-in-seattle-washington/509-f6343528-2a6c-4ac9-aec7-4354c86fbb82",
+      "title": "Costco's viral dating scene starts where the $1.50 hot dog lives",
+      "snippet": "https://www.usatoday.com/story/shopping/trending/2026/09/16/is-costco-the-newest-dating-hotspot/91792461007/",
       "source": {
-        "name": "cbs8.com",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.cbs8.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/15/2026, 06:58 PM, +0000 UTC"
-    },
-    {
-      "title": "Costco Starts Rationing Motor Oil. What It Means for Drivers",
-      "snippet": "https://www.newsweek.com/costco-starts-rationing-motor-oil-what-it-means-for-drivers-12437829",
-      "source": {
-        "name": "Newsweek",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.newsweek.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "USA Today",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.usatoday.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Giulia Carbonaro"
+          "Kasey Caminiti"
         ]
       },
-      "date": "09/14/2026, 01:52 PM, +0000 UTC"
+      "date": "09/16/2026, 04:55 PM, +0000 UTC"
     },
     {
       "title": "Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.",
@@ -353,31 +368,29 @@
       "date": "09/14/2026, 11:42 AM, +0000 UTC"
     },
     {
-      "title": "Costco\u2019s newest store is about to open in SoCal after years of litigation",
-      "snippet": "https://www.latimes.com/business/story/2026-09-12/costcos-newest-store-is-about-to-open-in-socal-after-years-of-litigation",
+      "title": "MORNING BUSINESS REPORT: Costco raises motor oil prices",
+      "snippet": "https://www.wfsb.com/video/2026/09/15/morning-business-report-costco-raises-motor-oil-prices/",
       "source": {
-        "name": "Los Angeles Times",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Ella Chakarian"
-        ]
+        "name": "WFSB",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wfsb.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/12/2026, 10:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco Stock Price Forecast: Here's What a $10,000 Investment Today Could Be Worth by September 2027",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-stock-price-forecast-heres-134500562.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Jack Delaney"
-        ]
-      },
-      "date": "09/13/2026, 01:45 PM, +0000 UTC"
+      "date": "09/15/2026, 11:55 PM, +0000 UTC"
     }
   ],
   "Costco Labor": [
+    {
+      "title": "Best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more",
+      "snippet": "https://mashable.com/tech/best-labor-day-costco-deals-2026-updates",
+      "source": {
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samantha Mangino",
+          "Lois Mackenzie"
+        ]
+      },
+      "date": "09/17/2026, 01:07 AM, +0000 UTC"
+    },
     {
       "title": "Is Costco open on Labor Day? See hours for Monday",
       "snippet": "https://www.cincinnati.com/story/news/2026/09/06/costco-open-closed-labor-day-hours-2026/91578222007/",
@@ -403,26 +416,35 @@
       "date": "09/06/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more",
-      "snippet": "https://mashable.com/tech/best-labor-day-costco-deals-2026-updates",
-      "source": {
-        "name": "Mashable",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Samantha Mangino",
-          "Lois Mackenzie"
-        ]
-      },
-      "date": "09/07/2026, 07:00 AM, +0000 UTC"
-    },
-    {
       "title": "Are stores open on Labor Day 2026? Holiday hours for Costco, Target, Walmart, banks, stock markets, CVS, and more",
       "snippet": "https://www.fastcompany.com/91602479/are-stores-open-on-labor-day-holiday-hours-for-costco-target-walmart-banks-stock-markets-cvs-and-more",
       "source": {
         "name": "Fast Company",
         "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.fastcompany.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/07/2026, 10:30 AM, +0000 UTC"
+      "date": "09/07/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "10 Hidden Costco Sales You Need to Shop Before Labor Day",
+      "snippet": "https://www.goodhousekeeping.com/what-to-buy/home-products/a73594915/costco-labor-day-deals-september-2026/",
+      "source": {
+        "name": "Good Housekeeping",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodhousekeeping.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Monique Valeris",
+          "Laura Millar"
+        ]
+      },
+      "date": "09/03/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "7 Costco Discounts Shoppers Should Look For On Labor Day 2026",
+      "snippet": "https://shopping.yahoo.com/deals/articles/7-costco-discounts-shoppers-look-173900674.html",
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/01/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Is Costco open on Labor Day 2026? What to know before you go to the store",
@@ -449,38 +471,25 @@
       "date": "09/03/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "7 Costco Discounts Shoppers Should Look For On Labor Day 2026",
-      "snippet": "https://shopping.yahoo.com/deals/articles/7-costco-discounts-shoppers-look-173900674.html",
+      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
+      "snippet": "https://abc45.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
       "source": {
-        "name": "Yahoo",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/01/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "10 Hidden Costco Sales You Need to Shop Before Labor Day",
-      "snippet": "https://www.goodhousekeeping.com/home-products/a73594915/costco-labor-day-deals-september-2026/",
-      "source": {
-        "name": "Good Housekeeping",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.goodhousekeeping.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Monique Valeris",
-          "Laura Millar"
-        ]
-      },
-      "date": "09/03/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Are Walmart, Publix, Target, Aldi open on Labor Day? Here's what's open",
-      "snippet": "https://www.tcpalm.com/story/news/local/florida/2026/09/05/florida-grocery-stores-open-closed-labor-day-walmart-publix-target-costco-aldi-sams-club-bjs-sprouts/91491249007/",
-      "source": {
-        "name": "Treasure Coast News",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.tcpalm.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Olivia Franklin"
-        ]
+        "name": "WXLV",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc45.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
       "date": "09/05/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Which stores are open and closed on Labor Day",
+      "snippet": "https://www.9news.com/article/money/business/stores-open-closed-labor-day/73-0d974fba-4dff-41d7-8fb4-6650f50483ed",
+      "source": {
+        "name": "9News",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.9news.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alex Kirkpatrick"
+        ]
+      },
+      "date": "09/07/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Most national retailers close on 2 holidays. Costco shuts down for 7.",
@@ -492,16 +501,7 @@
           "Dominick Reuter"
         ]
       },
-      "date": "09/07/2026, 09:41 AM, +0000 UTC"
-    },
-    {
-      "title": "Is Costco closed on Labor Day in Fresno? Target? See which stores will be open",
-      "snippet": "https://www.fresnobee.com/news/local/article317105947.html",
-      "source": {
-        "name": "Fresno Bee",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fresnobee.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/04/2026, 12:00 PM, +0000 UTC"
+      "date": "09/07/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Is Costco open on Labor Day 2026 in San Francisco? What\u2019s open today, from malls to museums",
@@ -516,180 +516,25 @@
       "date": "09/07/2026, 07:41 AM, +0000 UTC"
     },
     {
-      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
-      "snippet": "https://wpde.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
+      "title": "Are Walmart, Publix, Target, Aldi open on Labor Day? Here's what's open",
+      "snippet": "https://www.tcpalm.com/story/news/local/florida/2026/09/05/florida-grocery-stores-open-closed-labor-day-walmart-publix-target-costco-aldi-sams-club-bjs-sprouts/91491249007/",
       "source": {
-        "name": "WPDE",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://wpde.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/05/2026, 08:11 PM, +0000 UTC"
-    },
-    {
-      "title": "Walmart, Target, and Costco: Big box, big responsibility, big problem",
-      "snippet": "https://www.greenpeace.org/usa/big3/",
-      "source": {
-        "name": "greenpeace.org",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.greenpeace.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/09/2026, 04:04 PM, +0000 UTC"
-    },
-    {
-      "title": "Here is what's open on Labor Day 2026 and what's closed (LIST)",
-      "snippet": "https://abc7ny.com/post/here-is-whats-open-labor-day-2026-closed-list/19781579/",
-      "source": {
-        "name": "ABC7 New York",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7ny.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Treasure Coast News",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.tcpalm.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Auzinea Bacon"
-        ]
-      },
-      "date": "09/04/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Check to see if your grocery store, retailer is open Labor Day in Iowa",
-      "snippet": "https://www.desmoinesregister.com/story/money/business/retail/2026/09/07/labor-day-2026-closings/91564614007/",
-      "source": {
-        "name": "The Des Moines Register",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.desmoinesregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Lucia Cheng"
-        ]
-      },
-      "date": "09/07/2026, 10:03 AM, +0000 UTC"
-    },
-    {
-      "title": "Which grocery stores are open \u2014 and closed \u2014 on Labor Day 2026?",
-      "snippet": "https://www.nj.com/news/2026/09/which-grocery-stores-are-open-and-closed-on-labor-day-2026.html",
-      "source": {
-        "name": "NJ.com",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Katherine Rodriguez"
-        ]
-      },
-      "date": "09/06/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Which stores are open on Labor Day 2026? See the list of what's open today.",
-      "snippet": "https://mashable.com/life/stores-open-labor-day-2026",
-      "source": {
-        "name": "Mashable",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Tabitha Britt"
-        ]
-      },
-      "date": "09/07/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Sam's Club confirms Labor Day 2026 hours as Costco closes doors",
-      "snippet": "https://shopping.yahoo.com/general/articles/sam-club-open-labor-day-132338830.html",
-      "source": {
-        "name": "Yahoo",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Katherine Rodriguez"
+          "Olivia Franklin"
         ]
       },
       "date": "09/05/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "What\u2019s open and closed on Labor Day? From Costco to banks and UPS pickup",
-      "snippet": "https://nz.news.yahoo.com/open-closed-labor-day-costco-181052461.html",
+      "title": "Is Costco closed on Labor Day in Fresno? Target? See which stores will be open",
+      "snippet": "https://www.fresnobee.com/news/local/article317105947.html",
       "source": {
-        "name": "Yahoo News New Zealand",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nz.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Summer Woolley"
-        ]
+        "name": "Fresno Bee",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fresnobee.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/07/2026, 08:24 AM, +0000 UTC"
-    },
-    {
-      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
-      "snippet": "https://cbs12.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
-      "source": {
-        "name": "WPEC",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://cbs12.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/05/2026, 06:26 PM, +0000 UTC"
-    },
-    {
-      "title": "Labor Day 2026 shopping: Full schedule and door times for Walmart, Target, Costco, and more...",
-      "snippet": "https://en.as.com/latest_news/labor-day-2026-shopping-full-schedule-and-door-times-for-walmart-target-costco-and-more-f202609-n/",
-      "source": {
-        "name": "Diario AS",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.as.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Greg Heilman",
-          "Corina Gonzalez"
-        ]
-      },
-      "date": "09/07/2026, 10:03 AM, +0000 UTC"
-    },
-    {
-      "title": "Is Costco, Walmart and Target open on Labor Day?",
-      "snippet": "https://www.app.com/story/news/2026/08/28/is-costco-walmart-and-target-open-on-labor-day/91490833007/",
-      "source": {
-        "name": "Asbury Park Press",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.app.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Damon Williams"
-        ]
-      },
-      "date": "08/28/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Is Costco open on Labor Day? Tennessee grocery store hours for 2026",
-      "snippet": "https://shopping.yahoo.com/deals/articles/costco-open-labor-day-tennessee-100405027.html",
-      "source": {
-        "name": "Yahoo",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Jordan Green"
-        ]
-      },
-      "date": "09/07/2026, 10:04 AM, +0000 UTC"
-    },
-    {
-      "title": "Are grocery stores, liquor stores open for Labor Day 2026 in SC?",
-      "snippet": "https://www.greenvilleonline.com/story/news/2026/09/03/is-costco-grocery-stores-liquor-stores-open-labor-day-2026-south-carolina/91594201007/",
-      "source": {
-        "name": "Greenville Online",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.greenvilleonline.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Travis Jacque Rose",
-          "Joyce Orlando"
-        ]
-      },
-      "date": "09/03/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
-      "snippet": "https://wcti12.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
-      "source": {
-        "name": "WCTI",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://wcti12.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/05/2026, 06:27 PM, +0000 UTC"
-    },
-    {
-      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
-      "snippet": "https://abc7amarillo.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
-      "source": {
-        "name": "KVII",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7amarillo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/05/2026, 06:27 PM, +0000 UTC"
-    },
-    {
-      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
-      "snippet": "https://nbc16.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
-      "source": {
-        "name": "KMTR",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://nbc16.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/05/2026, 06:30 PM, +0000 UTC"
+      "date": "09/04/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Giant Costco-exclusive game day TVs start at $280 for members only",
@@ -705,6 +550,42 @@
       "date": "08/28/2026, 07:00 AM, +0000 UTC"
     },
     {
+      "title": "Is Publix, Costco closed on Labor Day? Stores open, closed in Florida",
+      "snippet": "https://www.pnj.com/story/news/2026/09/02/labor-day-grocery-store-hours-florida-open-closed/91572037007/",
+      "source": {
+        "name": "Pensacola News Journal",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.pnj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Samantha Neely"
+        ]
+      },
+      "date": "09/02/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Which grocery stores are open \u2014 and closed \u2014 on Labor Day 2026?",
+      "snippet": "https://www.nj.com/news/2026/09/which-grocery-stores-are-open-and-closed-on-labor-day-2026.html",
+      "source": {
+        "name": "NJ.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katherine Rodriguez"
+        ]
+      },
+      "date": "09/06/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Sam's Club confirms Labor Day 2026 hours as Costco closes doors",
+      "snippet": "https://shopping.yahoo.com/general/articles/sam-club-open-labor-day-132338830.html",
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katherine Rodriguez"
+        ]
+      },
+      "date": "09/05/2026, 07:00 AM, +0000 UTC"
+    },
+    {
       "title": "Labor Day 2026 store hours: See the full list of stores open on the holiday",
       "snippet": "https://www.nj.com/news/2026/09/labor-day-2026-store-hours-see-the-full-list-of-stores-open-on-the-holiday.html",
       "source": {
@@ -715,6 +596,88 @@
         ]
       },
       "date": "09/03/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco will shut down for 24 hours on Sept. 7. Here\u2019s why",
+      "snippet": "https://www.nj.com/news/2026/08/costco-will-shut-down-for-24-hours-on-sept-7-heres-why.html",
+      "source": {
+        "name": "NJ.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.nj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Katherine Rodriguez"
+        ]
+      },
+      "date": "08/24/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Here is what's open on Labor Day 2026 and what's closed (LIST)",
+      "snippet": "https://abc7ny.com/post/here-is-whats-open-labor-day-2026-closed-list/19781579/",
+      "source": {
+        "name": "ABC7 New York",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7ny.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Auzinea Bacon"
+        ]
+      },
+      "date": "09/04/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "What\u2019s open and closed on Labor Day? From Costco to banks and UPS pickup",
+      "snippet": "https://nz.news.yahoo.com/open-closed-labor-day-costco-181052461.html",
+      "source": {
+        "name": "Yahoo News New Zealand",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nz.news.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Summer Woolley"
+        ]
+      },
+      "date": "09/07/2026, 08:24 AM, +0000 UTC"
+    },
+    {
+      "title": "Labor Day 2026 shopping: Full schedule and door times for Walmart, Target, Costco, and more...",
+      "snippet": "https://en.as.com/latest_news/labor-day-2026-shopping-full-schedule-and-door-times-for-walmart-target-costco-and-more-f202609-n/",
+      "source": {
+        "name": "en.as.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://en.as.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Greg Heilman",
+          "Corina Gonzalez"
+        ]
+      },
+      "date": "09/07/2026, 10:03 AM, +0000 UTC"
+    },
+    {
+      "title": "Is Costco open on Labor Day? Tennessee grocery store hours for 2026",
+      "snippet": "https://shopping.yahoo.com/deals/articles/costco-open-labor-day-tennessee-100405027.html",
+      "source": {
+        "name": "Yahoo",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://shopping.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Jordan Green"
+        ]
+      },
+      "date": "09/07/2026, 10:04 AM, +0000 UTC"
+    },
+    {
+      "title": "Check to see if your grocery store, retailer is open Labor Day in Iowa",
+      "snippet": "https://www.desmoinesregister.com/story/money/business/retail/2026/09/07/labor-day-2026-closings/91564614007/",
+      "source": {
+        "name": "The Des Moines Register",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.desmoinesregister.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lucia Cheng"
+        ]
+      },
+      "date": "09/07/2026, 10:03 AM, +0000 UTC"
+    },
+    {
+      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
+      "snippet": "https://cbs12.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
+      "source": {
+        "name": "WPEC",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://cbs12.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/05/2026, 06:26 PM, +0000 UTC"
     },
     {
       "title": "Is Costco Open on Labor Day? 2026 Holiday Hours",
@@ -729,31 +692,122 @@
       "date": "09/06/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Is Publix open on Labor Day? See which grocery stores are open and closed across Tampa Bay",
-      "snippet": "https://www.wtsp.com/article/news/local/publix-costco-walmart-open-closed-hours-labor-day-2026/67-f228e473-03ee-4ab3-a369-28c7f2a72393",
+      "title": "Which stores are open on Labor Day 2026? See the list of what's open today.",
+      "snippet": "https://mashable.com/life/stores-open-labor-day-2026",
       "source": {
-        "name": "wtsp.com",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wtsp.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "Mashable",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://mashable.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Tabitha Britt"
+        ]
       },
-      "date": "09/07/2026, 07:00 AM, +0000 UTC"
+      "date": "09/07/2026, 12:04 PM, +0000 UTC"
     },
     {
-      "title": "Labor Day 2026: Are Banks, Stock Market, Target, Walmart, USPS, Costco Closed Or Open?",
-      "snippet": "https://www.ndtvprofit.com/world/labor-day-2026-are-banks-stock-market-target-walmart-usps-costco-closed-or-open-12012848",
+      "title": "Is Costco, Walmart and Target open on Labor Day?",
+      "snippet": "https://www.app.com/story/news/2026/08/28/is-costco-walmart-and-target-open-on-labor-day/91490833007/",
       "source": {
-        "name": "NDTV Profit",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.ndtvprofit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "Asbury Park Press",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.app.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Damon Williams"
+        ]
       },
-      "date": "09/07/2026, 07:00 AM, +0000 UTC"
+      "date": "08/28/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Sam\u2019s Club makes holiday decision Costco doesn\u2019t",
+      "snippet": "https://www.thestreet.com/retail/sams-club-open-labor-day-costco-closed",
+      "source": {
+        "name": "thestreet.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Maurie Backman",
+          "Celine Provini"
+        ]
+      },
+      "date": "09/05/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
+      "snippet": "https://wcti12.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
+      "source": {
+        "name": "wcti12.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://wcti12.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/05/2026, 06:27 PM, +0000 UTC"
+    },
+    {
+      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
+      "snippet": "https://abc7amarillo.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
+      "source": {
+        "name": "KVII",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://abc7amarillo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/05/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "What\u2019s open and closed on Labor Day: Costco, banks and mail services shut down",
+      "snippet": "https://wwmt.com/newsletter-daily/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend",
+      "source": {
+        "name": "WWMT",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://wwmt.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/05/2026, 07:00 AM, +0000 UTC"
     }
   ],
   "Costco earnings": [
     {
-      "title": "Should You Buy Costco Stock Before Sept. 24?",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/buy-costco-stock-sept-24-172622040.html",
+      "title": "Costco Earnings May Disappoint, but There\u2019s a Special Catalyst That Could Lift the Stock",
+      "snippet": "https://www.barrons.com/articles/costco-earnings-special-dividend-3e7d6cf0",
+      "source": {
+        "name": "barrons.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barrons.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Ty Roush"
+        ]
+      },
+      "date": "09/16/2026, 04:53 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Core Fourth-Quarter Earnings to Miss Estimates, Oppenheimer Says",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-core-fourth-quarter-earnings-153629911.html",
       "source": {
         "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/16/2026, 03:36 PM, +0000 UTC"
+    },
+    {
+      "title": "Should You Buy Costco Stock Before Sept. 24?",
+      "snippet": "https://www.fool.com/investing/2026/09/14/should-you-buy-costco-stock-before-sept-24/",
+      "source": {
+        "name": "The Motley Fool",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Jagielski"
+        ]
+      },
+      "date": "09/14/2026, 06:06 PM, +0000 UTC"
+    },
+    {
+      "title": "Why Costco (COST) Looks Like a Buy before Q4 Earnings",
+      "snippet": "https://www.tipranks.com/news/why-costco-cost-looks-like-a-buy-before-q4-earnings",
+      "source": {
+        "name": "TipRanks",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tipranks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bernard Zambonin"
+        ]
+      },
+      "date": "09/16/2026, 12:04 PM, +0000 UTC"
+    },
+    {
+      "title": "Should You Buy Costco Stock Before Sept. 24?",
+      "snippet": "https://currently.att.yahoo.com/att/buy-costco-stock-sept-24-172622040.html",
+      "source": {
+        "name": "Currently.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://currently.att.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
           "David Jagielski"
         ]
@@ -773,46 +827,67 @@
       "date": "09/09/2026, 02:07 AM, +0000 UTC"
     },
     {
-      "title": "Should You Buy Costco Stock Before Sept. 24?",
-      "snippet": "https://www.fool.com/investing/2026/09/14/should-you-buy-costco-stock-before-sept-24/",
+      "title": "Costco Wholesale (COST) Projected to Post Quarterly Earnings on Thursday",
+      "snippet": "https://www.marketbeat.com/instant-alerts/upcoming-costco-wholesale-cost-projected-to-post-quarterly-earnings-on-thursday-2026-09-17/",
       "source": {
-        "name": "The Motley Fool",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "David Jagielski"
-        ]
+        "name": "marketbeat.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.marketbeat.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/14/2026, 06:06 PM, +0000 UTC"
+      "date": "09/17/2026, 05:16 AM, +0000 UTC"
     },
     {
-      "title": "RBC Capital reiterates Costco stock rating on tariff refund outlook",
-      "snippet": "https://m.investing.com/news/analyst-ratings/rbc-capital-reiterates-costco-stock-rating-on-tariff-refund-outlook-93CH-4902222?ampMode=1",
+      "title": "Costco Heads Into Earnings With A Tougher Margin Mix",
+      "snippet": "https://finimize.com/content/costco-heads-into-earnings-with-a-tougher-margin-mix",
       "source": {
-        "name": "Investing.com",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://m.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "finimize.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://finimize.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/15/2026, 03:38 PM, +0000 UTC"
+      "date": "09/16/2026, 06:22 PM, +0000 UTC"
     },
     {
-      "title": "Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-hiked-dividend-13-10-114200655.html",
+      "title": "Costco's Fiscal Q4 Core Earnings Could Miss Street Consensus, Oppenheimer Says",
+      "snippet": "https://www.marketscreener.com/news/costco-s-fiscal-q4-core-earnings-could-miss-street-consensus-oppenheimer-says-ce785bd2df8ef724",
       "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Selena Maranjian"
-        ]
+        "name": "marketscreener.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.marketscreener.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/14/2026, 11:42 AM, +0000 UTC"
+      "date": "09/16/2026, 03:06 PM, +0000 UTC"
     },
     {
-      "title": "Costco: The Valuation Re-Rating Is Just Getting Started (Q4 Earnings Preview)",
-      "snippet": "https://seekingalpha.com/article/4945374-costco-stock-valuation-rerating-is-just-getting-started-q4-earnings-preview",
+      "title": "How Motor Oil Rationing Will Impact Costco Stock Investors",
+      "snippet": "https://simplywall.st/stocks/us/consumer-retailing/nasdaq-cost/costco-wholesale/news/how-motor-oil-rationing-will-impact-costco-stock-investors",
       "source": {
-        "name": "Seeking Alpha",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "simplywall.st",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/11/2026, 11:30 AM, +0000 UTC"
+      "date": "09/16/2026, 09:39 AM, +0000 UTC"
+    },
+    {
+      "title": "RBC Capital Reaffirms Their Hold Rating on Costco (COST)",
+      "snippet": "https://www.theglobeandmail.com/investing/markets/stocks/COST/pressreleases/4630689/rbc-capital-reaffirms-their-hold-rating-on-costco-cost/",
+      "source": {
+        "name": "theglobeandmail.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theglobeandmail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/16/2026, 11:18 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco (CTO) Q2 2025 Earnings Report - Results, Call & Slides",
+      "snippet": "https://www.tipranks.com/stocks/ch:cto/earnings/q2-2025-report",
+      "source": {
+        "name": "TipRanks",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tipranks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/16/2026, 06:23 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Wholesale stock dips ahead of September 24 earnings as Q4 sales climb",
+      "snippet": "https://www.ad-hoc-news.de/boerse/news/corporate-news/costco-wholesale-stock-dips-ahead-of-september-24-earnings-as-q4-sales/70110919",
+      "source": {
+        "name": "ad-hoc-news.de",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/16/2026, 12:42 PM, +0000 UTC"
     },
     {
       "title": "Costco says it saw 'record-breaking' gas volumes amid rising prices",
@@ -827,6 +902,90 @@
       "date": "05/28/2026, 07:00 AM, +0000 UTC"
     },
     {
+      "title": "RBC Capital reiterates Costco stock rating on tariff refund outlook",
+      "snippet": "https://m.investing.com/news/analyst-ratings/rbc-capital-reiterates-costco-stock-rating-on-tariff-refund-outlook-93CH-4902222?ampMode=1",
+      "source": {
+        "name": "Investing.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://m.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/15/2026, 03:38 PM, +0000 UTC"
+    },
+    {
+      "title": "Kroger loses billions in customer spending to Walmart, Amazon and Costco, report finds",
+      "snippet": "https://local12.com/news/local/kroger-cincinnati-grocery-losing-billions-dollars-customer-spending-walmart-amazon-costco-sales-2026",
+      "source": {
+        "name": "WKRC",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://local12.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/14/2026, 03:03 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco: The Valuation Re-Rating Is Just Getting Started (Q4 Earnings Preview)",
+      "snippet": "https://seekingalpha.com/article/4945374-costco-stock-valuation-rerating-is-just-getting-started-q4-earnings-preview",
+      "source": {
+        "name": "Seeking Alpha",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/11/2026, 11:30 AM, +0000 UTC"
+    },
+    {
+      "title": "Should You Buy Costco Stock Before Sept. 24?",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/buy-costco-stock-sept-24-172622040.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Jagielski"
+        ]
+      },
+      "date": "09/14/2026, 05:26 PM, +0000 UTC"
+    },
+    {
+      "title": "Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-hiked-dividend-13-10-114200655.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Selena Maranjian"
+        ]
+      },
+      "date": "09/14/2026, 11:42 AM, +0000 UTC"
+    },
+    {
+      "title": "Cramer Says Costco at 49 Times Earnings Is the Mistake Loyal Shoppers Keep Making",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/cramer-says-costco-49-times-194156427.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Omor Ibne Ehsan"
+        ]
+      },
+      "date": "09/04/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "What to Expect From Costco Wholesale's Q4 2026 Earnings Report",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/expect-costco-wholesales-q4-2026-134037110.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aritra Gangopadhyay"
+        ]
+      },
+      "date": "07/27/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Why Costco (COST) Could Beat Earnings Estimates Again",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/why-costco-cost-could-beat-161002140.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/01/2026, 07:00 AM, +0000 UTC"
+    },
+    {
       "title": "Costco Keeps Beating and the Stock Keeps Stalling. Q4 Earnings Are the Next Test",
       "snippet": "https://www.tikr.com/blog/costco-keeps-beating-and-the-stock-keeps-stalling-q4-earnings-are-the-next-test",
       "source": {
@@ -839,25 +998,76 @@
       "date": "08/25/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Costco Wholesale stock gains as warehouse expansion and sales growth support valuation",
-      "snippet": "https://www.ad-hoc-news.de/boerse/news/corporate-news/costco-wholesale-stock-gains-as-warehouse-expansion-and-sales-growth/70105239",
+      "title": "Costco\u2019s Strong Quarter Still Leaves Investors With a Valuation Problem",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-strong-quarter-still-leaves-151500593.html",
       "source": {
-        "name": "ad-hoc-news.de",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ad-hoc-news.de&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/15/2026, 12:13 PM, +0000 UTC"
-    },
-    {
-      "title": "Costco Price Prediction: A $1,200 Target Comes Into Focus",
-      "snippet": "https://247wallst.com/investing/2026/09/11/costco-price-prediction-a-1200-target-comes-into-focus/",
-      "source": {
-        "name": "24/7 Wall St.",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Vandita Jadeja"
+          "Dan Schmidt"
         ]
       },
-      "date": "09/11/2026, 12:00 PM, +0000 UTC"
+      "date": "05/30/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco's Executive Penetration Could Unlock More Earnings",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costcos-executive-penetration-could-unlock-120400959.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Sumit Singh"
+        ]
+      },
+      "date": "06/30/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Stock Is Priced For Two Good Years, Is That A Safe Bet?",
+      "snippet": "https://www.trefis.com/stock/cost/articles/614228/costco-stock-is-priced-for-two-good-years-is-that-a-safe-bet/2026-09-03",
+      "source": {
+        "name": "trefis.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trefis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/03/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Wholesale Q3 Earnings Call Highlights",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-q3-earnings-call-230726833.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/28/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco Wholesale Corporation (NASDAQ:COST) Just Released Its Third-Quarter Earnings: Here's What Analysts Think",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-nasdaq-cost-120449341.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/31/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco (COST) Stock Drops Despite Market Gains: Important Facts to Note",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-stock-drops-despite-214503123.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "08/27/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Costco (COST) Stock Looks Fully Priced Despite 121% Returns And Earnings Questions",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-stock-looks-fully-151324195.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Bailey Pemberton"
+        ]
+      },
+      "date": "08/18/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Costco asks members to help make stores better",
@@ -873,244 +1083,22 @@
       "date": "09/14/2026, 08:00 PM, +0000 UTC"
     },
     {
-      "title": "Costco (COST) Stock Looks Fully Priced On Its 107% Five Year Run",
-      "snippet": "https://simplywall.st/stocks/us/consumer-retailing/nasdaq-cost/costco-wholesale/news/costco-cost-stock-looks-fully-priced-on-its-107-five-year-ru",
+      "title": "Costco Caps Kirkland Motor Oil Purchases at Two Every Seven Days",
+      "snippet": "https://ts2.tech/en/costco-caps-kirkland-motor-oil-purchases-at-two-every-seven-days/",
       "source": {
-        "name": "simplywall.st",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "TechStock\u00b2",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://ts2.tech&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/10/2026, 11:30 AM, +0000 UTC"
+      "date": "09/14/2026, 09:59 AM, +0000 UTC"
     },
     {
-      "title": "Costco Stock Is Priced For Two Good Years, Is That A Safe Bet?",
-      "snippet": "https://www.trefis.com/stock/cost/articles/614228/costco-stock-is-priced-for-two-good-years-is-that-a-safe-bet/2026-09-03",
-      "source": {
-        "name": "Trefis",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trefis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/03/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Should You Buy Costco Stock Before Sept. 24?",
-      "snippet": "https://currently.att.yahoo.com/att/buy-costco-stock-sept-24-172622040.html",
-      "source": {
-        "name": "Currently.com",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://currently.att.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "David Jagielski"
-        ]
-      },
-      "date": "09/14/2026, 05:26 PM, +0000 UTC"
-    },
-    {
-      "title": "Costco: A Premium Worth Paying For Long-Term Compounding",
-      "snippet": "https://seekingalpha.com/article/4945373-costco-a-premium-worth-paying-for-long-term-compounding",
-      "source": {
-        "name": "Seeking Alpha",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://seekingalpha.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/11/2026, 05:24 AM, +0000 UTC"
-    },
-    {
-      "title": "Cramer Says Costco at 49 Times Earnings Is the Mistake Loyal Shoppers Keep Making",
-      "snippet": "https://247wallst.com/investing/2026/09/04/cramer-says-costco-at-49-times-earnings-is-the-mistake-loyal-shoppers-keep-making/",
-      "source": {
-        "name": "24/7 Wall St.",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Omor Ibne Ehsan"
-        ]
-      },
-      "date": "09/04/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco Price Prediction: A $1,200 Target Comes Into Focus",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-price-prediction-1-200-120056743.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Vandita Jadeja"
-        ]
-      },
-      "date": "09/11/2026, 12:00 PM, +0000 UTC"
-    },
-    {
-      "title": "What to Expect From Costco Wholesale's Q4 2026 Earnings Report",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/expect-costco-wholesales-q4-2026-134037110.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Aritra Gangopadhyay"
-        ]
-      },
-      "date": "07/27/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco (COST) Stock Looks Fully Priced Despite 121% Returns And Earnings Questions",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-cost-stock-looks-fully-151324195.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Bailey Pemberton"
-        ]
-      },
-      "date": "08/18/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Why Costco (COST) Could Beat Earnings Estimates Again",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/why-costco-cost-could-beat-161002140.html",
+      "title": "Costco cuts Kirkland Signature prices Q3 2026 earnings",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-cuts-kirkland-signature-prices-120100702.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/01/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Buy, Hold or Sell Costco Stock? Key Tips Ahead of Q3 Earnings",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/buy-hold-sell-costco-stock-141700337.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Sumit Singh"
-        ]
-      },
-      "date": "05/26/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Here's How Much Costco Stock Is Expected to Move After Earnings",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/heres-much-costco-stock-expected-205335877.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Aaron McDade"
-        ]
-      },
-      "date": "05/26/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco's Executive Penetration Could Unlock More Earnings",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costcos-executive-penetration-could-unlock-120400959.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Sumit Singh"
-        ]
-      },
-      "date": "06/30/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco Wholesale Q3 Earnings Call Highlights",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-q3-earnings-call-230726833.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "05/28/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco Has a Secret Growth Engine. Wall Street May Be Underestimating It.",
-      "snippet": "https://247wallst.com/investing/2026/08/26/costco-has-a-secret-growth-engine-wall-street-may-be-underestimating-it/",
-      "source": {
-        "name": "24/7 Wall St.",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Vandita Jadeja"
-        ]
-      },
-      "date": "08/26/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Q2 Earnings Highs And Lows: Costco (NASDAQ:COST) Vs The Rest Of The Non-Discretionary Retail Stocks",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/q2-earnings-highs-lows-costco-112620933.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "08/17/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco Sales Rise as Value Offerings Draw Pressured Consumers",
-      "snippet": "https://www.wsj.com/business/earnings/costco-profit-rises-as-value-offerings-draw-pressured-consumers-30fde86f",
-      "source": {
-        "name": "WSJ",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Nicholas G Miller"
-        ]
-      },
-      "date": "05/28/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco Stock\u2019s Premium Rests On A Visit Rate That Keeps Slowing",
-      "snippet": "https://www.trefis.com/stock/cost/articles/613538/costco-stocks-premium-rests-on-a-visit-rate-that-keeps-slowing/2026-08-28",
-      "source": {
-        "name": "Trefis",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trefis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "08/28/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco Tops Sales Views But Earnings, Membership Numbers Fall Short",
-      "snippet": "https://www.investors.com/news/costco-stock-earnings-q3-2026-retail-sales-consumer-spending-cost-stock/",
-      "source": {
-        "name": "Investor's Business Daily",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.investors.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Harrison Miller"
-        ]
-      },
-      "date": "05/28/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco records strong results as it bulks up on protein sales",
-      "snippet": "https://www.grocerydive.com/news/costco-earnings-third-quarter-2026-grocery-food-protein/821550/",
-      "source": {
-        "name": "Grocery Dive",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.grocerydive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Sam Silverstein"
-        ]
-      },
-      "date": "06/01/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Costco stock trades near $945 as analysts debate valuation despite strong earnings",
-      "snippet": "https://eciks.org/24293-costco-stock-945-valuation-debate",
-      "source": {
-        "name": "eciks.org",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://eciks.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "08/31/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Did Walmart and Costco Just Trigger a Major Warning for the Market?",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/did-walmart-costco-just-trigger-133500438.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Jennifer Saibil"
-        ]
-      },
-      "date": "06/04/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Here\u2019s Where We Stand on Costco After Its Earnings Release",
-      "snippet": "https://pro.thestreet.com/portfolio/heres-where-we-stand-on-costco-after-its-earnings-release",
-      "source": {
-        "name": "TheStreet Pro",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://pro.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Chris Versace"
-        ]
-      },
-      "date": "05/29/2026, 07:00 AM, +0000 UTC"
+      "date": "06/08/2026, 07:00 AM, +0000 UTC"
     }
   ]
 }
