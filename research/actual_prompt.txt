@@ -10,6 +10,8 @@ Analyze the evidence (transcript + news) 2. Decide if the market is too HIGH, to
 
 **IMPORTANT BEHAVIOR**: Do NOT treat "presence in news" or "presence in prior transcript" as a rule. Do NOT produce checkbox outputs like "Step1: YES, Step2: NO...".
 
+**CONSTRAINTS**: Treat the current date as 2026-09-11. You do not have any information past this date.
+ 
 **WHEN TO DISAGREE WITH MARKET**: Market HIGH but evidence weak, Market LOW but evidence strong, When uncertain, lean toward market price
 
 **OUTPUT**: Provide your FINAL probability (0-100) that the word will be mentioned. This is your posterior estimate after considering both market and evidence.
@@ -30,635 +32,410 @@ Be calibrated. The market is often right, but you should adjust when evidence is
 
 At the end of your response, please present the probability in the following format: "Probability: [probability]"
 
-**KEYWORD**: Labor 
+**KEYWORD**: Produce 
  
 
-**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: 0.53 
+**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: 0.99 
  
 
 **PREVIOUS EARNINGS CALL TRANSCRIPT**: 
  
-Operator: Ladies and gentlemen, thank you for standing by. My name is Abby, and I will be your conference operator today. At this time, I would like to welcome everyone to the Costco Wholesale Corporation's Third Quarter 2026 Earnings Call. [Operator Instructions] And I would now like to turn the conference over to Gary Millerchip, Chief Financial Officer. You may begin.
+Operator: Good morning, and welcome to the Kroger Company Second Quarter 26 Earnings Conference Call. Please press star 1 to raise your hand. To withdraw your question, press star 1 again. Please note this event is being recorded. I would now like to turn the conference call over to Robinson C. Quast, Vice President, Investor Relations. Please go ahead.
 
-Gary Millerchip: Good afternoon, everyone, and thank you for joining us for Costco's Third Quarter 2026 Earnings Call. I'd like to start by reminding you that these discussions will include forward-looking statements within the meaning of the Private Securities Litigation Reform Act of 1995. These statements involve risks and uncertainties that may cause actual events, results and/or performance to differ materially from those indicated by such statements. The risks and uncertainties include, but are not limited to, those outlined in today's call as well as other risks identified from time to time in the company's public statements and reports filed with the SEC. Forward-looking statements speak only as of the date they are made, and the company does not undertake to update these statements, except as required by law. Comparable sales and comparable sales excluding impacts from changes in gasoline prices and foreign exchange are intended as supplemental information and are not a substitute for net sales presented in accordance with GAAP. Before we dive into our financial results, I'm delighted to say that Ron Vachris is, once again, joining me for today's call. I'll now hand over to Ron for some opening comments.
+Robinson C. Quast: Good morning. Thank you for joining us for Kroger's second quarter 26 earnings call. I am joined today by Kroger's Chief Executive Officer, Gregory S. Foran and Chief Financial Officer, David John Christopher Kennerley. Before we begin, I want to remind you that today's discussions will include forward looking statements. We want to caution you that such statements are predictions, and actual events or results can differ materially. A detailed discussion of the many factors that we believe may have a material effect on our business on an ongoing basis is contained in our SEC filings. The Kroger company assumes no obligation to update that information. After our prepared remarks, we look forward to taking your questions. In order to cover a broad range of topics from as many of you as we can, we ask that you please limit yourself to 1 question. I will now turn the call over to Gregory.
 
-Ron Vachris: Thank you, Gary. Good afternoon, everybody, and thank you for joining us today. I'll make a few comments on current events and provide a brief update on our strategic priorities before turning the call back over to Gary. Against the backdrop of ongoing macro uncertainty, our focus is providing quality goods and services at the lowest possible price continues to resonate strongly with our members. Nowhere has this been more apparent in the third quarter than our gas business. As events in the Middle East have had a significant impact on product supply and gas prices, our focus, as always, is to be there for our members by staying in stock and offering the best value. The result was record-breaking volumes. All 3 4-week fiscal periods of the quarter set successive all-time company volume sales records with the final 5 weeks of the quarter becoming our top 5 volume weeks ever. Our gas team performed exceptionally well to manage this unprecedented demand, which requires multiple daily gas deliveries to many locations. The high consumer price sensitivity, which fueled these record volumes, also drove many members to use our gas stations for the very first time in the third quarter. We believe this will drive even greater loyalty with these members in the future as members who use our gas stations typically spend more with us in the warehouse. We're closely monitoring the longer-term inflationary impacts of higher oil prices as well as the future impacts of tariffs. Our buyers continue to demonstrate their ability to adapt and are using their significant experience and expertise to try to reduce the impact on prices for our members. Our goal is to be the first to lower prices and the last to raise them, and Gary will share some examples later in the call where we lowered prices this quarter. We're also able to bring greater value to our members through many exciting new Kirkland Signature items in the third quarter. On the topic of tariffs, we started submitting our refund claims for the IEEPA tariffs. We are doing this through the process set up by the U.S. Customs and Border Protection. These submissions will go in over what may be the next few months. And based on what other claimants have experienced, we should start receiving refunds on approved claims on a rolling basis over the following 2 to 3 months. As we've mentioned before, our plan is to return to our members, in some form, the portion of tariffs that were passed on to them. How much we return and when depends on a variety of factors, including how much refund money we receive and when it arrives as well as developments in the lawsuit filed against the company regarding the return process. Turning to progress with growth priorities. Our real estate and operations team continue to focus on increasing our pipeline of new warehouses, both domestically and internationally as we target 30-plus net new openings per year in the coming years. In the quarter, we opened 4 net new warehouses, including 3 in the U.S. and 1 additional Canadian business center. Those openings brought our total warehouse count to 928 worldwide. We currently expect to have 26 net new openings in fiscal year '26, down 2 buildings from the prior call with those 2 buildings now set to open in fiscal year '27. So far this year, we've also completed 2 relocations with 1 more planned in Q4 as we continue to relocate select high-volume warehouses to larger locations with more parking and expanded gas stations to provide a better member experience and drive more volumes in these warehouses. In digital, we're making meaningful strides to deliver a more seamless and convenient experience for our members across the warehouse and online. As a result of our investments in technology and the commitment from our employees to use this technology to deliver a great member experience, we're seeing a significant improvement in the speed of checkout. The enhancements we have made include improvements to the mobile wallet, the introduction of digital membership card quick access on the Costco app and the rollout of our shopping cart prescan tool internationally. The pay station pilot I spoke about last quarter has also been successful, and we are now incorporating this technology into our new warehouse openings and high-volume buildings. We're also enhancing the e-commerce experience for members and recently rolled out same-day delivery services in Spain and France. Same-day delivery powered by our third-party partners has become a highly effective way to deliver more convenience to our members. Average same-day delivery time in the U.S. is now less than 45 minutes, and the average member satisfaction rating is 4.8 out of 5. This part of our business is growing at an even faster rate than our digital business overall and is a strong driver of loyalty as it is often our highest spending members who are using this service. Finally, as we learn more about how consumers are embracing AI in their shopping habits, we're working with the leading AI companies to improve the visibility of our values to current and potential future Costco members. We believe AI is changing how consumers research products and has the potential to be a significant opportunity for Costco given our pricing authority and our focus on quality. With that, I'll turn it back over to Gary to discuss the results for the quarter, and I'll jump back on during Q&A to field some questions.
+Gregory S. Foran: Thank you, Robinson, and good morning, everyone. This quarter reinforced my view that we are pointed in the right direction. As I reflected on our performance in the quarter, I am pleased with our ecommerce and retail media results. I am pleased with the growth of our brands, especially in health and wellness and organic. I am pleased with the new talent we have recruited to build America's favorite grocer. I am pleased with the improvement in value we are delivering to customers and the cost savings which are funding this. Most importantly, I am pleased with our continued progress on share. Turning to our results, sales were tracking well through the quarter until our final period when we absorbed the impact of the cyclospora outbreak. Which cost us roughly 35 basis points of total company IDs without fuel. Reflecting the impact of produce categories. Our identical sales without fuel grew 0.2%. This quarter, customers continue to shop in our stores and online, and we saw traffic increase during the quarter. At the same time, the macro environment is challenging. We know that fuel over $4 has an impact on consumer spend. Lower drug prices and pharmacy reduced sales by approximately 140 basis points. The top line was soft across the industry this quarter. Despite these industry wide challenges, our teams are executing our plan. We keep the customer at the center, move with more speed, and be great item merchants. We are resolute and committed to executing our plan. We are chasing every dollar we can save, and you can see that in our profit result. Adjusted earnings per diluted share was $1.09. These results demonstrated the strength and flexibility of our operating model in a challenging sales environment and I am pleased with how our teams delivered. Our goal remains simple. We are building America's favorite grocer. Customers want value, quality, convenience, and a shopping experience they can trust. When we deliver those things consistently, we earn bigger baskets, and more trips. A lot of the work we need to do is right in front of us. We are making progress on execution across the business, but there is still work to be done. An opportunity remains inside our stores, better in-stocks, better merchandising, better standards, and better shrink management. These are not new ideas. But customers notice when we execute well. This quarter, on shelf availability reached an all time high. and our pickup perfect orders were our best ever. We also have an opportunity to become stronger merchants. Whether it is fresh foods or prepared meals, we can do a better job helping customers answer what is for dinner and creating excitement around great products in our stores. When we have done that, customers have responded. Natural and our prepared meals grew well ahead of total sales. At the same time, we have to be relentless on cost. Our teams are moving with more speed and urgency. And sourcing and savings came in ahead of plan this quarter. There is more work to do across sourcing, procurement, productivity, and simplification. Every dollar we take out is a dollar we can reinvest in areas customers will see. That is how this becomes sustainable for customers and for shareholders. Value continues to matter, and it matters more when budgets are tight. Our customer value plan is underway and progressing well. We have opportunities to strengthen our value position simplify promotions, and make it easier for customers to recognize value in our stores. This is a multiyear effort. We will have more to share. At our investor update in October. E commerce is where most of the growth in our industry will come from over the next several years, and we intend to take our share of it. We have built real capability, and our stores give us a strong advantage. The customers have choices in the bar for convenience and reliability keeps. Moving higher. Our objective is to grow ecommerce faster and more profitably. And deliver an experience customers can count on every time. And none of this works without great people. And that is why building a strong culture remains 1 of my highest priorities. Simplicity and focus matter. When the work is simpler, our associates spend more time with customers. This quarter, we welcomed Emily DeMartino, as our chief people officer. Emily brings deep experience leading people teams in large frontline organizations. And she's already shaping our focus on leadership and talent development. We are also pleased to welcome Nate Faust, as executive vice president and chief ecommerce officer. Nate has spent more than 2 decades building successful ecommerce businesses. And he brings the mix of merchandising, supply chain, and technology experience we need to accelerate our growth. We are also pleased to welcome Mary Ibbotson, as executive vice president and chief store operations officer. Mary brings extensive retail and operational leadership experience, and she will help us raise the level of execution across the enterprise. We know what great looks like in our best divisions. The opportunity now is to deliver that level of performance more consistently across the organization. The work we have underway is beginning to take hold, and we are seeing early green shoots that the improvements we are making are resonating with customers. Let me give you some more context on the environment we are operating in. Customers remained under pressure, and that has affected them broadly. Unit growth has slowed since the start of the year. Reductions in SNAP benefits, higher fuel prices, and softer consumer confidence are all putting pressure on household budgets. Customers are buying more on need. At the same time, we are still seeing them prioritize their health. We continue to see strong engagement in natural and organic, and we are responding by expanding the assortment across the store. During the quarter, we added more than 600 new natural and organic items, giving customers more healthy choices at great value. We are also finding new ways to make health and wellness more accessible and convenient. In August, we launched a new grocery and prescription delivery offering with Instacart. Allowing customers to combine groceries and eligible prescriptions into a single order across nearly all our banners. it is another example of how we are using the strength of our ecosystem to reduce friction, and improve service. Cyclospora also affected results late in the quarter. While the categories impacted were limited, customers responded more broadly across our produce department. Our teams moved quickly, followed established protocols, and worked closely with suppliers and regulators. Food safety is our highest priority. And protecting consumer trust matters. We also remain disciplined taking unnecessary costs out while delivering greater value to customers. Those priorities go hand in hand and supported strong gross margin performance despite top line challenges. The formula is simple. Savings fund value. Value earns a trip. And the trip is what grows this business. Ecommerce had a strong quarter. During the quarter, adjusted ecommerce sales grew 20% and combined with the continued strength of retail media, we delivered our second consecutive quarter of profitable ecommerce growth. Also attracting new customers, up 20% versus last year, led by strong engagement during online deal days. We have renewed our focus on in store fulfillment and fast delivery. And we are seeing encouraging growth in delivery orders in less than an hour. Demand continues to shift towards faster fulfillment and we are positioning our network to meet it. Retail media grew 24% during the quarter, our best since 2021 with media up 88 basis points. Stronger collaboration between our merchandising and media teams, expanded advertising inventory, and optimization efforts, improved visibility, and conversion for our brand partners. Our brands remain a real point of difference With 35 plants, we control the costs and quality in a way most retailers cannot. Customers are looking for value, but they are not willing to compromise on quality. Our brands answer both, and the momentum shows it. Particularly in private selection and simple truth. Private selection sales increased more than 14% during the quarter, driven by strong customer response to new products. Including more ready to heat and ready-to-eat meals. Products like our Mandarin Orange Chicken, an Italian inspired gnocchi alla sorrentina, are resonating with customers and reinforce the strength of our premium convenient meal offerings. Across the portfolio, our brand sales grew faster than national brands. And penetration increased approximately 50 basis points. Looking ahead, we are also expanding SmartWay. Our opening price point brand. With more items, broader coverage across the store, and improved visibility both in store and online. Earlier this quarter, we expanded our loyalty program and rebranded FuelPoints as SimplyPoints. Customers can now use points for savings at the pump. Or apply them directly to their grocery bill in store or online. What I like about this approach is that it gives customers more flexibility to decide where the value matters most. More ways to earn, more flexibility in how customers use them, That is what a loyalty program should do. Let me also briefly touch on our planned acquisition of Giant Eagle. At its core, this is about serving more customers in more communities with the value, quality, and convenience they expect. We have a great deal of respect for the Giant Eagle team and the business they have built. Like Kroger, they have strong local relationships, trusted brands, and a long history of serving their customers. We believe this combination creates a stronger business for customers associates, and the communities we serve. We continue to expect the transaction to close in 2027 and remain focused on working through the regulatory review process. Stepping back, we see clear opportunities to strengthen our sales momentum and we are going after them. Item by item, we controlled what we could control. We managed costs, We strengthened value for customers. We grew our ecommerce business profitably. And we delivered our profit goals in a quarter where the top line made that hard to do. I have always believed periods like this reward the operators who stay disciplined and keep doing it right by the customer. That is where our focus is. And it is why I like our position going into the back half of the year. In October, we will hold our investor update. We will lay out the long term framework. How we grow sales in store and online, how we fund the customer experience through cost savings, and what that means for the earnings power of this company. I am looking forward to it. The work is never done, and that suits us. A little better every day. In a lot of places. At once. I will now turn the call over to David.
 
-Gary Millerchip: Thanks, Ron. In today's press release, we reported operating results for the third quarter of fiscal year 2026, the 12 weeks ending May 10. As usual, we published a slide deck under Events & Presentations on our investor website with supplemental information to support today's press release. Net income for the third quarter came in at $2.192 billion or $4.93 per diluted share, up 15% from $1.903 billion or $4.28 per diluted share last year. Net sales for the third quarter were $69.15 billion, an increase of 11.6% from $61.96 billion in Q3 2025. Comparable sales were up 9.8% and 6.6% adjusted for gas price inflation and FX. Excluding gas sales entirely and adjusting for the impact of foreign exchange, comparable sales were also up 6.6%. Digitally enabled comparable sales were up 21.5% and 20.8% adjusting for FX. Our segment breakout of comparable sales is disclosed in both our earnings release and the supplemental slide deck. In terms of Q3 comp sales metrics, FX positively impacted sales by approximately 1%, while gas price inflation positively impacted sales by approximately 2.2%. Traffic or shopping frequency increased 2.4% worldwide. Our average transaction or ticket was up 7.3% worldwide and 4.2%, excluding gas price inflation and changes in FX. Moving down the income statement to membership fee income. We reported membership fee income of $1.373 billion, an increase of $133 million or 10.7% year-over-year. Adjusting for FX, the increase was 9.9%. The September 2024 U.S. and Canada membership fee increase accounted for a little more than 1/4 of membership income growth. Excluding the membership fee increase and FX, membership income grew 7% year-over-year. This was driven by continued growth in our membership base and upgrades to Executive Memberships. At Q3 end, we had 41.2 million paid Executive Memberships, up 9.6% versus last year. This quarter, we launched our Executive Member program in China and have seen strong early adoption in the market. We ended the quarter with 82.9 million total paid members, up 4.1% versus last year and 148.5 million cardholders, up 4% year-over-year. In terms of renewal rates, at Q3 end, our U.S. and Canada renewal rate was 92.2%, up 10 basis points from last quarter, and the worldwide rate came in at 89.7%, unchanged from last quarter. As previously shared, members who sign up online, on average, renew at a slightly lower rate than warehouse sign-ups. And as this population has grown as a percentage of our total base, this creates some downward pressure on the overall renewal rate. In Q3, it was pleasing to see that our focus on increasing the renewal rates of these members through targeted digital communications and retention strategies more than offset the negative impact from this mix change in our membership base. Turning to gross margin. Our reported rate was lower year-over-year by 21 basis points, coming in at 11.04% compared to 11.25% last year. Excluding gas inflation, the gross margin rate was higher by 1 basis point. Core was lower by 46 basis points and lower by 29 basis points, excluding gas inflation. In terms of core margins on their own sales, our core-on-core margins were lower by 9 basis points. This decrease was due to slightly lower margins in fresh and food and sundries, where we invested in lower prices for our members on several everyday items such as eggs and beef. Transportation costs were also a headwind in the quarter due to higher gas prices. The significant difference between reported core margins and core-on-core margins was primarily due to mix changes as we saw gas, e-commerce and pharmacy sales grow at a faster pace than core merchandising sales. Ancillary and other businesses gross margin was higher by 9 basis points and 14 basis points, excluding gas inflation. This was driven by higher sales penetration in e-commerce and pharmacy, partially offset by a lower gross margin rate in gas. LIFO positively impacted the rate by 14 basis points, both with and without gas inflation. We had a $44 million LIFO charge in Q3 this year compared to a $130 million charge in Q3 last year. This quarter's gross margin rate benefited 2 basis points from lapping the catch-up accrual in Q3 last year for the increased employee vacation days included in our March 2025 employee agreement. Moving on to SG&A. Our reported SG&A rate was lower or better year-over-year by 20 basis points, coming in at 8.96% compared to last year's 9.16%. Excluding gas inflation, SG&A was lower or better by 2 basis points year-over-year. The operations component of SG&A was lower or better by 12 basis points, but worse or higher by 3 basis points, excluding the impact of gas inflation as underlying improvements in productivity were offset by higher health care costs. Central was lower or better by 3 basis points and lower by 1 basis point, excluding the impact of gas inflation. Equity compensation was flat and higher or worse by 1 basis point, excluding gas. This quarter, SG&A also benefited 5 basis points from lapping the catch-up accrual in Q3 last year for higher vacation days in our 2025 employee agreement. Below the operating income line, interest expense was $32 million compared to $35 million last year. Interest income was $130 million versus $95 million last year, driven by higher cash balances, and FX and other was a $25 million benefit versus a $10 million loss last year, largely due to changes in FX. In terms of income taxes, our tax rate in Q3 was 25.4% compared to 26.2% in Q3 last year. Turning now to some key items of note in the quarter. Capital expenditure in Q3 was $1.41 billion. We estimate CapEx for the full year will be approximately $6.5 billion as we continue to invest in building a larger pipeline of new warehouses, remodeling our existing warehouses to drive continued growth in high-volume buildings, expanding our depot network to support operational efficiency and enhancing the member digital experience. In terms of merchandising highlights, as Ron mentioned in his opening comments, gas prices had a major impact on the quarter with our members allocating a greater proportion of their total spend to gas. At the same time, we saw very robust comp sales results, excluding gas, as our combination of merchandising quality, value and newness continue to resonate with members. Fresh comparable sales were up high single digits in the quarter, led by meat and bakery. In meat, we saw strength in both premium cuts of beef and lower-cost proteins such as ground beef and poultry. In bakery, we continue to see success with the launch of exciting new items, including a variety of seasonal pastries and cookies. Nonfoods comp sales were up high single digits in Q3. Top-performing departments were gold and jewelry, small electrics, tires, home furnishings, majors and health and beauty. Self-care and wellness items performed extremely well during the quarter, including fragrances and hair and skin products in the health and beauty and small appliances departments. We also saw members wanting to splurge on higher-value self-care items where the quality and value is compelling. For example, we experienced almost 50% sales growth in saunas and massage chairs during the quarter. In food and sundries, comp sales grew mid-single digits, led by packaged foods and candy. While egg price deflation was a headwind to sales, this was partially offset by significant growth in other items such as protein snacks and protein bars. Kirkland Signature is also driving growth in food and sundries. We continue to innovate with new KS items, offering savings of at least 15% to 20% to a national brand equivalent with equal or better quality. Q3 launches included our KS Energy Drink, KS Ultra Filtered Milk, KS Sea Salt Popcorn and KS Oven Roasted Chicken Dog Food. Our goal is to be the first to lower prices where we see opportunities to do so. And a few examples this quarter included KS Crispy Wings from $16.99 to $14.99, KS Milk Chocolate Almonds from $19.99 to $18.99, KS Golf Balls from $32.99 to $29.99 and KS King Size Sheets from $89.99 to $79.99. In ancillary businesses, comp sales were up mid-20s. Pharmacy led the way and saw significant market share gains in the quarter. In addition to our experienced pharmacists taking great care of our members, a number of factors are contributing to this growth. These include increased GLP-1 demand and inclusion of Wegovy and Ozempic in our member prescription program, great value on pet medications, acceptance of Medicare D over-the-counter flex cards and expansion of our mail order and specialty pharmacy offerings. Gas comps were positive high 20s, driven by a price-per-gallon increase year-over-year as well as an acceleration in volumes. Turning now to inflation. Overall, inflation increased slightly in Q3, largely because of higher gas prices. This was offset by lower inflation in food and sundries and fresh, primarily due to deflation in produce, eggs and dairy. Inflation increased slightly in nonfoods, and we are anticipating further inflation in a number of nonfood categories as higher resin costs start to flow into cost of goods. As always, our buyers are working hard to mitigate the impact of cost increases. The supply chain is generally stable, and our merchants feel good about our inventory position heading into the summer. We have relatively low inventory exposure to shipping issues stemming from the situation in the Middle East, but we continue to monitor the situation closely. In digital, we saw strong member engagement in Q3 with site and app traffic up 37%. Pharmacy, gold and jewelry, home furnishings, tires, special events, housewares and majors all grew double digits year-over-year. Delivering a more personalized experience for our members is a key focus, and we continue to make progress in this area. In Q3, our personalized product recommendation carousels delivered conversion rates 3x better than our typical conversion rates and contributed just under $0.5 billion of e-commerce sales. As Ron shared earlier on the call, with consumers increasingly using AI to research products and services, we believe this has the potential to be a significant sales opportunity for Costco. We're now leveraging AI to enhance our product pages online, which, in turn, is increasing our relevance with the large language models. While the volume of traffic generated from AI search is still low, we saw triple-digit growth in Q3, and this activity has the highest conversion rate of all traffic coming to our site. Finally, as we accelerate our digital capabilities, we are also broadening our reach in retail media. Q3 marked the launch of a new collaboration with Google Commerce Media and YouTube. Launching this partnership will make it easier for brands and agencies to collaborate with Costco retail media and is a significant milestone on our journey towards increasing our share of retail media revenue. That concludes our prepared remarks. In terms of upcoming releases, we will announce our May sales results for the 4 weeks ending Sunday, May 31, on Wednesday, June 3, after market close. We'll now open the line up for questions.
+David John Christopher Kennerley: Thank you, Gregory, and good morning, everyone. Gregory outlined the priorities that are shaping our business and this quarter's results reflect both the progress we are making and the areas where we see opportunity. Sales were softer than we planned, and we still delivered the profit we committed to. Gross margins improved, e commerce profitability improved, We improved value for customers out of savings and we managed margins responsibly. This quarter, we achieved identical sales growth without fuel of 0.2%. Let me walk through what drove that number starting with where we grew. Natural foods, meat and seafood, and bakery all delivered strong results in the quarter. Within pharmacy, the core business was healthy Scripts grew, and we saw continued momentum in GLP-1 medications. We continue to see impacts from the Inflation Reduction Act, which was an approximately 140 basis point headwind to identical sales without fuel and the ongoing shift from brand to generic prescriptions reduced sales by approximately 60 basis points. Outside of pharmacy, the impact from cyclospora 35-basis-point headwind to company IDs without fuel from produce alone. And the lingering effect of egg deflation was another 30 basis point headwind. Taken together, these headwinds represented a 265 basis point drag on identical sales without fuel in the quarter. In terms of units, grocery units decelerated slightly compared to the first quarter, driven by many of the factors Gregory covered earlier. This was partially offset by overall food inflation, which was modestly higher than the first quarter. But what is important is that we continue to perform better than Circana's rest of market, a benchmark of traditional grocery competitors. Against this backdrop, we stayed focused on delivering value for customers working with suppliers to optimize cost, strengthening our value proposition versus competitors and managing margins responsibly. Our FIFO gross margin rate, excluding rent, depreciation and amortization and fuel, increased 13 basis points versus the second quarter of last year. This improvement was primarily driven by e-commerce profitability, media, pharmacy mix, tariff refunds and sourcing initiatives. These benefits were partially offset by higher shrink, increased transportation costs and investments in customer value. We continue to expect our FIFO gross margin rate to be positive, on a full year basis as cost savings initiatives ramp throughout the balance of the year. Our operating, general and administrative rate increased 33 basis points versus the second quarter of last year driven by deliberate investments in associate wages, increased health care costs and sales deleverage. Partially offset by lower incentive plan costs and ongoing productivity initiatives. Our adjusted FIFO operating profit in the quarter was $1.1 billion. Adjusted EPS was $1.09 representing 5% growth versus last year. Let me also address tariffs. As we have previously discussed, our exposure is more limited than many of our competitors. Reflecting the fact that the majority of what we sell is food sourced domestically. We did receive tariff refunds in the quarter, but they were not a meaningful driver of results, and they were fully reinvested back in value. While sales were soft in the quarter, earnings continued to benefit from gross profit improvement cost savings, fuel contribution and the progress we are making in e commerce and media. Cost savings remain a core pillar of our long term strategy. They are how we fund investments in customer value, while protecting the long term earnings power of the business. In the second quarter, we again delivered savings above our plan with broad based contributions across both cost of goods sold and goods not for resale initiatives. We continue to see meaningful runway across sourcing, procurement, simplification and productivity and we expect savings to build through the balance of the year. We look forward to sharing more specific long term targets at our Investor Update in October. Turning to Fuel. Fuel remains an important contributor to our financial model. While industry fuel demand remained under pressure, our gallons increased in the quarter. Outperforming the broader market by approximately 25 basis points. Gallon performance continues to be driven by our fuel rewards which we supported with additional promotions in the quarter. Fuel redemptions increased nearly 6% versus last year. Our gallon performance combined with higher margins per gallon in a more volatile energy market, drove modestly higher fuel profitability. In the quarter. Our associates are central to how we execute and investing in them is directly tied to the customer experience we deliver. Competitive wages and benefits remain the foundation and we are seeing positive results from those investments. Retail store retention continues to improve, exceeding our goal helping us better serve our customers. That stability matters financially. Experienced associates are more productive, and we spend less on hiring and training. Now turning to capital allocation. We continue to allocate capital towards projects that strengthen the business over the long term. During the quarter, we completed 12-major-store projects building density in markets, expanding our ability to serve customers and supporting future growth. Kroger generated solid adjusted free cash flow this quarter, driven by our operating results. Free cash flow is important to our model, providing liquidity to our operations and allowing us to maintain a strong balance sheet. At the end of the second quarter, Kroger's net debt to adjusted EBITDA was 1.91 compared to our net total debt to adjusted EBITDA target ratio range of 2.3 to 2.5. Over time, we expect to move back toward our target leverage ratio. We view this flexibility as a strategic asset. It gives us optionality to invest in high return opportunities while maintaining our commitment to investment grade credit. Through the first half of the year, we repurchased a approximately $1.2 billion of shares under our existing $2 billion authorization. Given our strong free cash flow generation and balance sheet flexibility, we remain well positioned to complete the remaining repurchases during the second half of the year. Our capital allocation framework is grounded in improving ROIC, and that discipline guides every investment decision we make. It is how we fuel our investment in growth and generate long term returns for shareholders. Now let me turn to our outlook. We are lowering our full year identical sales without fuel guidance to a new range of 0.2% to 0.8% from our initial range of 1% to 2%. The update reflects our first half results together with pressures that remain in the balance of year. In the opening weeks of the third quarter, we continue to see lingering impacts from Cyclospora, Trends are improving, but we have taken a cautious view of how long the impact may last, and our outlook assumes some headwind to sales without fuel in the quarter. We expect additional sales headwinds in the fourth quarter, the identical sales without fuel impact from the Inflation Reduction Act is projected to accelerate to approximately 150 basis points as new high cost drugs including GLP-1s, are added to the formulary in January. As is the case this year, we expect the pharmacy headwind to have no impact on profit in the fourth quarter, or in 2027. Beyond Pharmacy, we expect 2 headwinds related to prior year comparisons. We will begin to cycle the sales benefit from our new third party delivery partnerships, which began last October. We also expect to cycle significant weather related sales benefits from last year which will weigh on identical sales excluding fuel in the fourth quarter. As a result, we anticipate ID sales without fuel Will be slightly better in Q3 than in Q4. Despite a lower sales outlook, we are maintaining our full year guidance for adjusted FIFO operating profit of $5 billion to $5.2 billion and adjusted net earnings per diluted share of $5.10 to $5.30 We have many levers in our financial model, that provide us flexibility and allow us to deliver earnings growth despite top line pressure. And we have clear visibility into the drivers of our earnings growth ahead. Through the back half of the year, we expect consistent year over year earnings growth between the third and fourth quarters. We expect cost saving initiatives to build through the second half along with pharmacy margin contribution further improvement in e commerce profitability and continued growth in our Media business. And as I mentioned earlier, we resumed share repurchases this quarter following the announcement of our planned acquisition of Giant Eagle. We expect share repurchases to support earnings per share growth over the remainder of the year. These are drivers largely within our control. We have strong plans in place, and they are the basis for our confidence in the full year outlook. The second quarter demonstrated what that discipline looks like in practice. We managed margins against a softer top line and delivered the profit we committed to. We expect to do the same through the balance of the year. Our priorities are unchanged invest in the business for long term growth manage margins with discipline and generate strong free cash flow that supports attractive returns for shareholders. And with that, we look forward to your questions.
 
-Operator: [Operator Instructions] And our first question comes from the line of Michael Lasser with UBS.
+Operator: We will now begin the question and answer session. Please limit yourself to 1 question. If you would like to ask a question, please press star 1 again. We ask that you pick up your handset when asking a question for optimum sound quality, and if muted locally, please remember to unmute your device. Please standby while we compile the Q and A roster. Your first question comes from the line of Michael Lasser with UBS. Your line is open. Please go ahead.
 
-Michael Lasser: Recognizing and fully understanding you do not provide guidance, but given that new membership growth is a critical driver of your overall same-store sales growth as these new customers ramp their usage of the warehouses and this metric has slowed to 4.1%, which is the lowest level in some time, should we keep our expectations around your same-store sales growth outlook for at least the near term pretty modest, especially when you consider that you will be lapping some of the changes to the club hours in the coming weeks?
+Michael Lasser: Good morning. Thank you so much for taking my question. Your clear message this morning has been that you can fund price investments almost on a 1-for-1 basis through the savings that you are gonna realize from the business. Now with that being said, how much did you invest in price in the second quarter Where does Kroger's price gaps stand today? Where do they need to be? And what is been the impact of those price investments, especially in light of what seems like a cautionary outlook for the back half of the year. Sorry. So many multilayered questions in there. Thank you so much.
 
-Gary Millerchip: Michael, thanks for the question. I guess I'll cover that in a couple of different parts. I think first of all, maybe taking a step back on the main part of your question around membership and what we're seeing there in terms of growth. Overall, we were pleased with the results in the quarter. As I think you heard us say in the prepared remarks, we were -- when we look at membership growth, if you back out the fee increase and foreign exchange, we were up 7% overall. A big part of that was due to the continued engagement we see with Executive Members growing, and that was up over 9% during the quarter. And so maybe that's the first point to tie to your comment around sales. As you perhaps know, when we see members who are executive level, they generally spend more with us and visit more frequently. So that's a really positive dynamic in terms of impact and potential for future health and growth in terms of membership spending. And then as you mentioned, we saw paid membership growth of just over 4%. So those 2 together were what combined to create the 7% growth in the membership rate. We were also pleased to see that the renewal rate has sort of normalized, if you like, now as we started to now see the mix maturing of digital members coming into the membership renewal rate. And as we start to implement the benefits of -- or see the benefits, I should say, of more targeted marketing and retention strategies driving a leveling out, if you like, of that membership renewal rate. And our goal, of course, is to continue to improve that rate as we execute more of those communication and targeting marketing efforts with our members. As you mentioned, we have seen some slowing in the year-over-year membership growth in recent quarters. We attribute that to a number of factors. One would be that we've been opening or we haven't been opening new warehouses in major new markets. So if you think about some of the growth we've had in prior years in Asia, in particular, when we open new warehouses in Japan and in China, as an example, we tend to see an outsized growth in membership. But often, the renewal rate on those members is much lower because we have a big element of new consumers coming into the membership to really explore the experience and have a look at what we offer and often coming from a much longer distance and further away from the warehouse. So we haven't seen a major new opening in the new international market for a while, which definitely has an impact. And we are cycling some stronger growth from sign-ups from a year ago as well. So we think the sort of the 4% to 5% is a more normal rate of growth when you don't have the benefit of a large increase that's linked to some kind of special event like COVID or a new market entry. But overall, I'd say with the renewal rate leveling out and with the year-over-year growth that we're seeing in new member sign-ups, we feel good about the health of membership, and we think there's a lot of opportunity for continued growth in the future as well.
+Gregory S. Foran: Leah. Hi, Michael. it is Gregory. Thanks for your question, and thanks for your interest in you know, we, like you, have a lot of interest in making sure that our customer value plan plays out. there is a number of points you have raised. Just to reiterate, yeah, we can fund it, and really, this quarter is a demonstration of that even though we have seen that the consumer has been pretty disciplined in terms of how they have spent as they have dealt with gas and fuel and then, of course, cyclospora. We are happy with that funding. Being very measured about how we do this. Measured because the value proposition actually has to get layered in with running better stores and also making sure that our ecommerce offer is hitting. Where we want. So we will share some more when we get to October in terms of how we see that playing out. We are not providing exact figures on the investment, but we have invested geographically. And I have also been very pleased with how the merchants have been managing you know, our value generally And what I have seen over this quarter is that our pricing relative to some of our competitors on what we call our white label, our basic shelf price. Has actually improved. And then finally, the other measure that I take a lot of interest in is market share. And we spend a lot of time looking at that each week, each 4 week period. We wanna open up that gap on what we call rest of market We have done that gap We have we have done that. We have maintained that gap Through Q2. And I think that is a pretty good performance when you consider that probably our fresh mix is more heavily weighted, and we have had to deal with cyclospora particularly in light of the fact that impacted us when most of the other retailers had already completed their quarter. So I hope that answers your questions. David, you wanna add anything?
 
-Michael Lasser: And just as it relates to the same-store sales growth, given that that is a critical pipeline, especially as you lap some of the big outsized drivers over the last few years.
+David John Christopher Kennerley: Leah. Mike, I just think 1 thing to add. We were pleased with the FIFO gross margin performance this quarter. I think that demonstrates for us the ability to invest in value you know, offset it with savings, and that is gonna be the model going forward. You know, we are confident in the FIFO gross outlook through the balance of the year. And as we update you guys in October, that is gonna be the model. You know? Generate savings. Invest in value, expand the margins over time.
 
-Gary Millerchip: Yes. I mean, I think in general, I would say, as you mentioned, we don't give guidance on what we expect future trends to look like. We do expect to continue to grow our market share as we deliver great value for members and continue to provide great quality items. I would say, in broad terms, what we're seeing at the moment is just a continuation, I should say, of the trends that we've seen in really the last year or so, members being very willing and having the capacity to spend, but have very high expectations around quality, value and newness. And our value proposition seems to be resonating really well in that regard. As you know, we've been cycling some fairly major gift card programs and gold sales is now being cycled year-over-year. And yet as you look at the recent results that we've seen in our sales, we continue to comp, excluding gas, in that 6% to 7% range, and we haven't really seen any variation from that performance as you look at our membership spend and membership growth over the last year or so.
+Operator: Your next question comes from the line of Robbie Ohmes with Bank of America. Your line is open. Please go ahead.
 
-Operator: And our next question comes from the line of Simeon Gutman with Morgan Stanley.
+Robert Ohmes: Oh, hi. Thanks for taking my question. Gregory, I was hoping you could talk about just inflation pressures in general or lack of them What are you thinking could happen with the grocery industry? Obviously, with diesel prices going up a lot and things, what is what is the inflation outlook for you guys and your assumption for the industry for the for back half of the year And how do you see that playing out?
 
-Pedro Gil Garcia Alejo: This is Pedro Gil on for Simeon. I would like to ask you first about the core-on-core margin, which was down 9 basis points as you're lapping against some of the very strong gains that started 4 quarters ago, more or less. Should we recognize this as a sign that you're taking strategically a more aggressive value posture to gain share and capitalize on some of the trends in the consumer out there? And are you seeing something similar from the competition?
+Gregory S. Foran: Leah. Thanks for your question, and it is something that weighs on my mind. And as I see what is happening, particularly with gas prices, diesel prices, You know, historically, when you get an environment like this, you see it start to flow through. When we are taking a very measured approach because you know, as David just shared, we have got a lot of active work underway at the moment in terms of cost savings. You know, some of that is built around what we call our COGS. And what we wanna do is make sure that the great work that is happening in that area just is not if you like, frutted away as we then have to deal with price increases. So there is you know, some really good work that the teams are doing in this area, but I would expect that pressure is actually going to mount And we have seen a little bit more in Q2 than what we saw in Q1. But I am very pleased with the way the teams are managing cost and retail. And I would reiterate again that actually our value proposition Improved in Q2. Vis a vis our competitors. And that is what I wanna see And on top of that, the more definitive value proposition that we are starting to roll out has also come into play. So you know, there is some good managing of margins and costs in this business And I mean what I said in the in the call that I am very pleased with how the teams have managed it. David, what do you wanna layer in terms of inflation?
 
-Gary Millerchip: Yes. Thanks for the question. I would probably take a step back as we've shared before on gross margin when we talk about the rate year-over-year. We look at it overall and look at the quarter and the focus for us is really on the gross margin rate ex gas inflation or deflation. And during the quarter, we saw a 1 basis point improvement in the results. If you recall, you mentioned a moment ago, we're actually cycling 2 years' worth of, I think, the highest growth we've seen in gross margin rate in fiscal year 2025 and 2024 in Q3 in particular. But as we shared previously, we -- while we provide the detailed breakdown of our gross margin rate, we really do tend to focus on that measure of gross margin overall, excluding gas inflation or deflation because we tend to manage the business more holistically than looking at one individual component of the gross margin. With that being said, there were a lot of moving parts during the current quarter. First of all, we had higher top line growth overall, but that came with a significant shift in the composition of sales. So we had higher sales in gas, and added to e-commerce and pharmacy, that did create a fairly significant shift in the mix. So that has an impact on the core rate overall. In terms of core-on-core, we knew we were cycling in the quarter a fairly large LIFO charge from last year. So we saw it as an opportunity recognizing that our members are dealing with higher gas prices to really invest in increasing value for the member, partly through the widening of our value in gas in the market to drive volume growth and more gallons and traffic to our gas stations. But also in everyday prices, as I mentioned in prepared remarks, with eggs and meat, in particular, really keeping the value very strong for our members. So we saw the opportunity to do that because of the benefits that we were cycling from the prior year, and we felt that was the right thing to do to continue to drive top line growth in the business and deliver value for our members. I would say, in general, to the final part of your question, we tend to view ourselves as our toughest competitor. So really, the majority of the price investments that we're making are because we really want to ensure that we're delivering that great value for our members and where we have the opportunities to invest to drive top line growth while continuing to sustain our gross margins, then we look for the opportunity to do that.
+David John Christopher Kennerley: Thanks, Gregory. Couple of couple of things. So Robbie, our outlook broadly remains the same. So, you know, our range is within this 1 to 2.5 range for the balance of the year. As Greg said, I do think we will see a bit more pressure in the second half than we have seen in the first half. But I expect us to be below CPI Our focus, as we said, is about working with suppliers take cost out, use that money to reinvest into value, and protect margins. And so, I expect the margin growth FIFO gross margins to remain positive. So we think we can manage it. But we do expect a little bit more pressure in the balance of the year. Your next question comes from the line of Edward Kelly with Wells Fargo.
 
-Pedro Gil Garcia Alejo: Okay. Great. That's helpful. And as a follow-up, if I could ask you about the composition of your comp between traffic and ticket, the ticket component is particularly meaningful. If you could parse out for us, how much of that is same SKU comparable pricing versus mix versus larger baskets, that would be very helpful.
+Operator: Your line is open. Please go ahead.
 
-Gary Millerchip: Yes, it's really a combination of all of the above. We're seeing an increased number of items in the basket. We're seeing some inflation in the basket. But remember, for us, part of the inflation is moving items to higher -- bigger size items or better quality items at higher value. So we don't tend to parse out the individual elements, but it would be a combination of both.
+Edward Kelly: Yes. Hi. Good morning, everyone. I wanted to ask you about the pricing strategy and, you know, the shift that you are looking to take here in terms of simplifying pricing and improving the value perception at shelf. Can you just talk a little bit more about, you know, what you are looking to do there? How much of that involves, you know, less deals, better shelf price, How does it change the way that you deal with vendors around that? And then pulling something like that off know, how do you think about the way customers respond? Maybe customers that, you know, have become accustomed to you know, looking for, you know, deals on, like, multipack, for instance. Versus you know, versus just better shelf price? Just curious as to how you are thinking about all that.
 
-Operator: And our next question comes from the line of Christopher Horvers with JPMorgan.
+Gregory S. Foran: Leah. Thanks, Edward. it is a great question. And as you have laid out in that question, there are many layers to this. And averages actually do not get you to the right answer. You know, having been at this retail game now for a number of decades, I think I am in the fifth decade. I guess I have seen a number of these things play out. Number 1, you do not do this in 5 minutes. Or a quarter or even a year. This is a multiyear program. Number 2, there is a degree of common sense that plays out here that says, you know, a customer has got options. They can turn left and they can go turn right. What sort of gap do you want on the basket? Between yourself and your competitors? And that takes into account many aspects, the quality of assortment, the service, the quality of the shopping environment, quality of fresh foods, We know what that gap should be. And that is what we are working towards. You do not do it all at once. Because you cannot fund it. All at once. And we have been quite deliberate about how we think about that. We generate savings through a combination of COGS through imports, for goods not for resale, through reductions in headcount in the business because we have got more efficient at doing things. And we apply those savings to our shelf prices, and at the same time, we glide down a bit like you do when you are flying a plane, To get from 40 thousand feet to sea level, you take it down sort of 1 thousand feet at a time. You do not take too long to do it. You do not try and do it too quickly. And you come up with a promotional mix that makes sense. And once again, through having done this for a number of years, we know what that number is. So this gets done by geography. We are well underway. We are encouraged, actually, by the results. That we are getting. And, you know, what does good look like? Good looks like you know, do we sell more units? Do we get more customers engaged in e commerce? We track what competitors do when we do this. And it is about positioning Kroger as a really good value option. Out there in the marketplace. We are not in the game of being the cheapest because we do not have the lowest costs. But we can provide the best value. And all of these points are woven into our approach. And you know, we have made good progress, and you will continue to see us progress this approach. We are happy with it. And we will share more in October.
 
-Christopher Horvers: So I wanted to pick up the pricing thread. You mentioned in the prepared remarks running prices lower ahead of expected cost declines. One of your peers talked about sort of eating some tariffs, maybe passing through the price earlier even though they had pre-tariff inventory. So my big question is, is there a change in the rationality of the overall market? Or is this simply just something opportunistic in a moment in time given the backdrop that we're sitting in?
+Operator: Your next question comes from the line of John Heinbockel with Guggenheim Securities. Your line is open. Please go ahead.
 
-Gary Millerchip: Yes. I think, Chris, I'd answer the question in a couple of ways, and Ron may want to add some color commentary as well. I think maybe taking a step back and talking about the competitive landscape, we think of the market as being very rational currently. We tend to be our own biggest competitor with our goal being always to maintain that pricing authority and to be there for our members. And as I mentioned a moment ago, because of the impact of higher gas prices, we felt it was important to continue to deliver more value for our members. Really, maybe the broader comment I would make, too, is around as you think about the impact on gross margin for us, I think I've shared this in a couple of prior quarters when we were seeing higher core-on-core margin improvement. The rate for us will fluctuate quarter-to-quarter. We really would encourage you not to get too fixated on one individual quarter or one element of gross margin. We tend to manage it more holistically and look at how can we keep investing and driving value and driving top line for our members. This quarter, as I mentioned, we invested more in some everyday items like beef and eggs because we have the opportunity to do that with the LIFO charge that we're cycling, and we were also able to widen our gaps in gas. But overall, when we look at the trajectory of our gross margin rate over the last sort of 12 to 24 months, generally, it's been stable, and I'm talking about the gross margin rate ex gas inflation or deflation. It's generally been stable, a slight improvement sort of in the mid-single-digit range. And really, our Q3 result was very much in line with that trajectory, and we have the opportunity to be -- have that capacity to be able to invest more in value for our members as we were seeing the impact for them on gas prices.
+John Heinbockel: Gregory, 2 related questions building on that last answer. When you think about obviously, you have gotta move the reality of the price gaps down. But when you think about perception, the survey work you do, perception versus reality, how big do you think that gap is How do you begin to change that? Know, is that partly a marketing issue? And then I assume you do have right. You have got some businesses where food volumes are positive. And I guess, what are the commonalities there?
 
-Ron Vachris: And this is Ron. To add to what Gary said, the moves that we've made on pricing were strategic, not reactionary. I mean these are things that you -- we will see. One of your examples was you saw some inventory that we had during higher tariffs. Now we're getting the lower-priced goods in. We may go down earlier in those to get into those lower-priced goods quicker. We're down quick on eggs when those -- that commodity started dropping. So we do -- we just use this as a lever. We've always talked long-standingly that we're the first to come down and the last to go up. And this period was a good example of that is getting into lower cost goods where we can and lowering prices for our members.
+Gregory S. Foran: Hi, John. Good to talk to you again. 2 very good questions. Perception versus reality. I would say to you, once again, having done this before, it takes a bit of time. So initially, when you take action on your shelf prices, actually, your sales go down. For the obvious reason that the item costs less. Over time, customers begin to understand what you are doing, and they start putting items in your basket. And, yes, part of this is coming up with the right marketing package and that is something that we continue to refine and work on, and you will see some more from us in that space soon. I would say to you that over time, my experience has been that perception does equal reality. You can fool some of the customers some of the time, but you cannot fool them all the time. I know anecdotally as I get around stores, and I have probably done just over 100 now, But I also know from the research that we have done in 84.51, some of our customers understand our promotional package but well over half do not. And so once again, we have got to balance it carefully. Because some of the ones who do understand the package are some of our best customers, and we have got to glide path this approach sensibly and carefully. But we do understand how to do that. You know, there are some real highlights in our package in terms of what is working. I would say to you that 1 of the things that I really like is the excitement that we are starting to generate in the business around selling items. And, you know, when I get into a couple of categories, it might be deli and bakery, and I see that we are actually gaining market share in both dollars and units. I sort of know why that is working. And it is to do with some fantastic items that we have in that business. Or the excitement that we had in the organization when we worked out how many chickens rotisserie chickens we sold last week. Between the hours of 7PM and 8PM. Actually, our sales during that particular hour were up 72% on where they were previously. So it is about having great items, it is about getting our stores engaged. Around these particular items. Built into that is what we are doing with our brands. And as we accelerate that, I would say that also puts a bit of pressure on the top line because you deflate your sales. Good for profit. So I am happy with what I am seeing, around the business. This is not going to happen in 5 minutes. But I would say to you, give us a year, We will be a lot better than what we look today. Give us another year after that. It will even be better. I am feeling happy with the progress after just sort of being in this business 200 days. Your next question comes from the line of Kelly Bania with BMO Capital Markets.
 
-Christopher Horvers: That makes sense. And then as a follow-up, historically, we've thought about a total comp of 4% to 5% to start to see core leverage on SG&A. You did something like a 9%, I think, because FX helps, but you actually delevered 3 basis points. So is there something changing there? You mentioned health care costs to what extent maybe freight impacted that flow-through? And any commentary about how we should think about the future?
+Operator: Your line is open. Please go ahead.
 
-Gary Millerchip: Yes. And just briefly on SG&A, I wouldn't see anything has really changed in our view of that. If you look at the key components in operations, we were probably about mid-single-digit leverage in core operations, but with the health care cost increases and a couple of small onetime items, they more than offset that impact. And then in central, we also had a couple of legal settlements and reserves that would have impacted the central numbers as well. So of course, there's always the possibility that these items can occur unexpected each quarter. But outside of those, we would have seen a reasonable amount of leverage during the quarter and more consistent with that idea of mid-single-digit comps delivering some level of leverage. To your point, it would be excluding gas, of course. We typically don't see the same level of leverage on gas. But on the core operations, that's what we'd expect to see.
+Kelly Bania: Hi. Good morning, and thanks for taking our question. Gregory, just to just to kind of level set, you called out the incremental pharmacy headwinds quarter over quarter, which I think totals to about 30-basis-points. So I guess just doing the math, the rest of the quarter over quarter deceleration in comps is about 50-basis-points, and I guess you outlined the Cyclospora. Which is a large chunk of that. So I just wanna make sure I have that math right. there is just a lot of moving pieces here. So I was hoping maybe you would be willing to kinda just level set on what is that what does that core grocery comp x pharmacy And how is that you mentioned kind of some of the fresh categories maybe clouding the picture of market share. Could you just add a little more color on how you feel about market share and what that fresh versus nonfresh dynamic looks like. Leah.
 
-Operator: And the next question comes from the line of Oliver Chen with TD Cowen.
+Gregory S. Foran: Great questions, Kelly, and we will dissect this as best we can when we do not disclose. Every single piece of data. But look. David and I have been chatting about this. And, I think you will be in a place to answer this 1.
 
-Oliver Chen: Gary, as we think about retail media, your business model is quite different with the SKU efficiency from other players. What are the parameters and/or guardrails you're thinking of in balancing the member satisfaction against the big opportunity? And it sounds like you're at a nice turning point with that opportunity. Also, Ron, as you continue to push for innovation and being your own best enemy against great multiyear performance, what -- are there trade-offs in terms of expenditures? Or not really? It's very capital light in terms of improving the checkout and automation as well as implementing AI to further make customers happier yet using technology and distribution and speed?
+David John Christopher Kennerley: Leah. Okay. So Kelly, let me let me try and unpack this 1 for you. So the inflation reduction act, obviously, you know, we would been pretty clear that would have an impact was a 140-basis-point impact to ID sales in the quarter. That was about 10-basis-points worse than Q1. And in the balance of the year, we expect it to get worse again largely as a result of new drugs coming into the formulary starting in January. No profit impact. To stress. We then had brand generic. So we are seeing a greater shift towards generic. And away from branded. That obviously hurts the sales. Again, no impact on the profit, and that was about 60-basis-points. Eggs, you know, we saw it moderate, but it is still about a 30-basis-point impact to ID sales. We then had on Cyclospora a 35-basis-point impact to total company IDs Just to stress, that is really the impact from produce alone. So when you add all of those things up, you know, that is roughly a 265 basis point headwind to the sort of comparable point versus last year? Just in terms of the market share, and then, you know, I will hand it back to Gregory for any additional comments. The point on the market share is 1 of the things we are really pleased about through the first half of the year, and it was 1 of our objectives, was to widen the gap to Circana's rest of market. So you know, that sort of grocery competitive set. And we have done that, and we are really, really pleased about that. We maintained the gap that we saw in Q1 in Q2. And the point is we have got largely a higher fresh mix so we were more impacted or our hypothesis, we were more by cyclospora So our ability to hold that gap we are really encouraged about. And when you break it down category by category, and look at our market share versus the Circana rest of market, Really pleased with it on a category by category basis.
 
-Gary Millerchip: Thanks, Oliver. On the retail media question, I think for us, it's fairly simple, and the member always comes first. So it's one of the reasons why our focus with retail media, first and foremost, was to build more of the personalization capabilities to be able to deliver more relevant messaging to members that help improve the experience to save our members time and money. And as we're starting to implement those capabilities, we were also parallel introducing some media activity on third-party sites to really build the capability and to show our CPG partners what was possible with Costco and retail media. As we're now sort of scaling up those personalization capabilities, we'll continue to look at retail media through that lens. So how does retail media help us deliver more value, more relevant experiences for our members and how can our CPG partners participate in that to deliver a better investment, a better return on their marketing spend. So as we are introducing more of those capabilities, we would expect retail media to ramp up and increase the value we generate there, but it would definitely be through the lens of the member experience and member value. And of course, everything we do, 80% to 90% of that value is reinvested in the member to deliver more value for them and better pricing so we can drive top line sales.
+Gregory S. Foran: I think that is exactly right, David. And you know, so far as we get into Q3, it is where we would expect to be. You know, we are still seeing a little bit of hangover from cyclospora, but each week, that lessens. And Q3 is where we want it to be.
 
-Ron Vachris: And again, on my question about the technology spend, I would consider it capital light from what we're seeing. We're seeing great returns on the investments. Gary spoke about the sales that we're leveraging on e-commerce. Yes, there's a cost of that AI, but it's being offset by greater sales and great leverage that we're seeing there as well. In the operations side of things, the technology we're using on the front end has been very accretive to higher productivity. I think his point on SG&A leverage is a good reflection of the benefits we're seeing with shorter lines, faster throughput for our members and, in turn, lowering our payrolls in these areas as well. So we see it not as any heavy lift for us in capital at this point.
+Operator: Your next question comes from the line of Leah Jordan with Goldman Sachs. Your line is open. Please go ahead.
 
-Operator: And our next question comes from the line of Chuck Grom with Gordon Haskett.
+Leah Jordan: Hi, good morning. Thank you for taking our question. On the fuel margin, can you talk about what is baked into the guide for the back half versus the front half? And how much of a tailwind has this been versus your initial plan for the year? And how do you think about lapping this heading into next year?
 
-Charles Grom: So about $45 in cash per share on the balance sheet. Can you zoom out, help us think about capital allocation, including plans for a special dividend and also how you may look to deploy future tariff refunds?
+David John Christopher Kennerley: Leah. Thanks for the questions. David here. So as I think about Q2, couple of things. We saw gallons up slightly. We outperformed the market on gallons, so we were pleased about that. If you look at CPG, so our sort of profit per gallon, we were, again, up slightly. When you think about total fuel profit, year over year, actually, it was not a huge tailwind for us. It was basically kind of I am gonna call it low single digit profit growth on the fuel business. As we built into our guidance for the balance of the year, we are expecting and we have baked into that fuel margins will be softer than H1, and that is what we have got in the outlook. Obviously, there is a huge amount of volatility in the fuel business. Which makes it difficult to call. But our expectation is softer than we are seeing in H1.
 
-Gary Millerchip: Sure. Thanks, Chuck. Yes, on the capital and sort of financial strategy, really very consistent in our mind. Our #1 priority, of course, is to keep investing in the business to drive growth. And you heard me share in the prepared remarks, we are really focused on accelerating new warehouses, remodeling warehouses where we have the opportunity to really expand capacity and support continued growth, particularly in those capital constrained -- sorry, those capacity-constrained locations, expanding the depot network. We're also doing some investments in manufacturing capabilities where they can support KS growth, things like expanding hot dog capacity and coffee roasting in some of these areas. And then, of course, digital member engagement and investing in technology capabilities there to enhance the member experience. As we make those investments, as that being the top priority, we're also growing the regular dividend over time, as you know, and we sort of continue to buy back stock at a level that avoids dilution from the executive stock grants that we issue each year. We are in a position, as you mentioned, where we continue to generate excess cash beyond those priorities. And we believe that at our current valuation, special dividend is typically the most effective way to return excess cash without giving up the flexibility to keep investing in growth where we see opportunities to do that. Our cash balances continue to grow, and we'll obviously evaluate what we think is the appropriate timing and approach to deal with that situation. It's important to remember the last time we did a special dividend, the stock price was materially lower than it is today. So to be at a similar yield, I should say, our cash would need to be at a higher level than it was at the last special dividend. But we'll continue to review those options with our Board, but no plan to share at the present time. But obviously, we'll keep investors posted as we continue to evaluate.
+Operator: Your next question comes from the line of Simeon Gutman with Morgan Stanley. Your line is open. Please go ahead.
 
-Charles Grom: Okay. Great. Fair enough. And then just on real estate, you talked about, I think, relocating 3 stores this quarter or maybe this year. Can you just help us think about the opportunity set and just remind us what the threshold from a sales volume you typically do when you want to relocate a club?
+Simeon Gutman: Gregory, hey, David. So, Gregory, we have a turnaround agenda or transformation, and I am sure you will get more meat on it in October. The competitive and consumer backdrop feels like it is getting a little more difficult. And so at the quarter, you know, sales weakened, but you are holding profit well. Can you help us reconcile those 2 things at this stage of your turnaround? How do you think about the trade off between protecting near term profits and making the investments necessary to improve the customer proposition and then, obviously, gain market share. Thanks.
 
-Ron Vachris: It's really based on the existing facility. And we have some that are -- our earlier Price Club locations in the Northeast that were smaller facilities with 500 parks that when they hit a threshold of the average volume of the warehouse, that we're seeing in the U.S., it is triggering time that we see opportunities to grow the sales in that market. So it's hard to say that there's any one dollar amount around the world that we use to trigger that. It truly is the size of the business and the size of the facility and how we're servicing our members in the gas stations, parking lots and the traffic inside the warehouse. So it is a moving target as we see.
+Gregory S. Foran: Hi, Simeon. Good to get your question. Leah. It is getting a little bit tighter out there, and I would say that what we are seeing is the consumer continues to be disciplined. They are not absent. They are turning up to the stores, but they are pretty disciplined about what they buy. I actually do not mind that. I like the fact that it is getting tight and tough, because I think those conditions create opportunities if you have got a good plan and you have got a great team. To execute. That team is coming together, and I am pleased with how that is looking. The other thing I would say to you is that 200 days into the job, I actually see even more opportunities than what I thought when I started. So I spend any time sort of going, I am not sure how we are going to fund this, how we are going to make it work. You know, whether it is what I am seeing with unknown shrinkage, whether what I see with out of stocks, whether it is what I see with goods not for resale, whether I see cost of goods, imports, Actually, all of those things are actually bigger than what I what I thought. After 30 days. And I am really pleased with the discipline that we got in the business in terms of going after them. So it is tough. You have got to deal with the environment and conditions that we are playing in. I actually think that is to our advantage at the moment. We are assembling a team that I think will be a world class team of retailers. We are clear on the plan, and we know how to execute it, and we did exactly that. In Q2. And I am pretty comfortable that we will do it in Q3 and Q4. So I see the buckets of money. I know that we can get after them, and I am feeling very good about the business.
 
-Operator: And our next question comes from the line of Scot Ciccarelli with Truist.
+Operator: Your next question comes from the line of Tom Palmer with JPMorgan. Your line is open. Please go ahead.
 
-Scot Ciccarelli: It seems like 2 of your biggest competitors worldwide, but certainly in the U.S., Walmart and Amazon, continue to ratchet up the competitive bar, if you will, in delivery speeds. Given that fact and the potential increase in agentic commerce, it seems like delivery capabilities and speed will become even more important over time. So do you think Costco will ultimately need to build out your own 1P delivery infrastructure? Or do you think you can fully rely on third-party partners to compete in that kind of environment?
+Tom Palmer: Good morning, and thanks for the question. I did wanna dive a little bit into the gross margin that we saw in the second quarter. There were kind of 4 bucketed items in the press release. Right? The e-comm profitability, pharma sourcing, and the tariff refunds. Could you maybe frame their order of importance in terms of driving that margin expansion this quarter? And then I think it would be helpful if you could maybe quantify in some form the tariff refund either in dollars or whether the magnitude you know, swung gross margin ex fuel from you know, flatter to positive? Thank you.
 
-Ron Vachris: I think that we will continue to look at that. As you know, a few years back in 2020, we went ahead and made an acquisition to get into the big and bulky delivery because we felt that there was a significant opportunity in shortening the delivery times there. That has been very productive for the company, and we deliver a great example as far as that goes. Currently, now on our same-day delivery process, we have great -- have very good third-party partners that are, as I spoke to on the opening comments, are high satisfaction of our members, and we're averaging 45 minutes or less should a member require something to be delivered that quickly. So at the current time, we're happy with the partners that we have. We continue to evaluate that and look at how we can improve delivery times across the network and across the world. So that will be continue to be reviewed if we need to get further vertically integrated in that business.
+David John Christopher Kennerley: Hey, Tom. Thanks for the for the question. So we were pleased with FIFO gross in the quarter. You know, we would always communicated that you know, our plan was to grow FIFO gross on a full year basis. We feel good that we are gonna be able to do that through quarter 3 and quarter 4. And I think as I reflect on kind of the model, and this will be the go forward model, it is about take cost out, invest in the business, but also grow margins over time. So know, we expect to do that through the balance of the year. And, obviously, we will talk more about our multiyear plans October. So as I think about gross margin, I think a few things to think about. We were pleased with the e comm performance. That was a positive. Our media performance, as we said, you know, best performance in, I think, 5 years. And then the pharmacy mix, as well as good sourcing savings. So that is kind of broadly in terms of sort of order of importance. I wanna stress they were all you know, pretty decent performance. it is not like any of these were small On the negative, we did see some shrink downside mainly in fresh. Some of that, not all of that, was related to cyclospora. So cyclospora definitely impacted us. More than we expected on the shrink side. And then the other thing, you know, obviously, with increasing fuel costs, we did see a headwind relating to in our transportation line from fuel. Sort of similar impact to what we saw in Q1, And obviously, that could be a headwind that we need to offset through the balance of the year. In terms of tariffs, I would I am not going to-- we are not going to quantify the number, but I am gonna tell you the way we think about it. Number 1, the number was pretty modest. And the way we think about that is if we get tariffs, we will spend it. If we do not get tariffs, we will not spend it. So you know, overall, it was a neutral impact to gross margin because we reinvest that money back, and that is gonna be the model going forward if we are to get any further refunds.
 
-Operator: And our next question comes from the line of Zhihan Ma with Bernstein.
+Operator: Your next question comes from the line of Gregory Melich with Evercore. Your line is currently opening. Please go ahead.
 
-Zhihan Ma: I have one on traffic. Understanding there was a lot of calendar shifts in Q3, but it looks like traffic was kind of below the historical trend, at least for the first part of Q3 and then started growing into April. Can you help us understand, one, how much of the April acceleration was benefiting from the gas inflation and driving more traffic into stores? And two, is there a structural way to further improve traffic, especially given a lot of your stores may already be at capacity so you may not physically be able to attract more traffic growth from here?
+Analyst: Hi. Thanks. I wanted to go, back, I think, in prepared comments. You said traffic was positive in the quarter. Could you help unpack that a little bit as to the sequential change in that And then if that is the case, it seems like ticket was down. Was that what was driving that? Was it mix, items, basket? Inflation?
 
-Gary Millerchip: Sure. Yes. Thanks for the question. On traffic, I would say it's important to sort of think in our minds, take a step back and look at the last 12 months or so because we have seen a mix change over time. If you think back a year or so ago, we were sort of flat to slightly negative on basket size, and we've seen an increase in basket, and we were -- in traffic, we were probably up mid-single digits. And what we've seen is the continuation of the same overall comp trend that we were seeing then. But we've seen -- as we cycled some of those lower average basket size, we've seen basket sizes increase, and we've seen traffic continue to grow up a couple -- 2% roughly, I think, on average, if you look at recent monthly results compared to that 5%. So still growing healthily, but definitely a little bit lower than it was and sort of a normalization, if you like, over 2 years of those 2 numbers looking more close together. I think it's a little bit difficult to look at individual months and try and piece too much together from those. I do think there's a lot of work that we've done over recent quarters to create more opportunity for members to visit more frequently, whether it was the extended hours for our gas stations before the recent growth in gas that we've seen with higher prices, the extended operating hours in our warehouses that we launched just under a year ago as well. The work that Ron mentioned earlier around remodeling and expanding warehouses to create more capacity, whether it's the parking lots or the gas stations and more capacity there as well. So I think there's a lot of focus to make sure that we maintain that trajectory in traffic, but I do think there's going to be puts and takes in individual months just because of some of the different dynamics, as you mentioned, around members changing behavior. And I think of the period you were talking about as an example, we definitely had a period of time where members were stocking up on items as they were concerned about the impacts of what tariffs might mean on costs. And I think you see some of that showing up in the individual month-to-month data. But overall, we feel good about the traffic growth that we're seeing when we look at it on a 2-year basis and on an individual year basis as well.
+Gregory S. Foran: Leah. Thanks, Gregory. Good question. Yep. We did have traffic up slightly. And we are pleased with that and ticket was down. And I think you have picked the key items here. I think the customer is pretty disciplined. You know, Snap has an impact. Gas had an impact. Less item in the basket. What I would say is that where we are running our value proposition actually, we went against that trend in terms of getting the extra items in the basket. So overall, you are correct. Yep.
 
-Ron Vachris: To add to what Gary is saying, as you spoke about in our capital expenditures, acquisitions of adjacent properties to our warehouses, expanding parking lots, the technology throughput is also a key driver of traffic. If we can get members processed through much quicker, we're turning parking spaces much faster, that is resulting in better traffic in those high-volume warehouses. And then we strategically look at infill locations. We've proven that when we open a building in an existing market, our build back in the existing buildings when we relieve the pressure comes very nicely. And so we see great build back of traffic in those warehouses that are relieved of the volume as we infill strategically around the world.
+Operator: Your next question comes from the line of Krisztina Katai with Deutsche Bank. Your line is open. Please go ahead.
 
-Gary Millerchip: Maybe just mention too, you asked about gas. Just to confirm, you didn't say this, but I wanted to make sure I clarified. Gas traffic isn't included in our traffic number. I would say that, generally speaking, a little less than half of our members are visiting the warehouse when they visit the gas station. I wouldn't say we've seen a dramatic change when you look at our results in the third quarter around traffic overall as a result of that. We think that's partly because a lot of members are increasing their frequency of visiting the gas station to top up in between what would have normally been a gap between getting the tank to empty because of the concern about what might the gas price be tomorrow. But we do think, over time, it's a great way to build loyalty. When we look at our members that are engaged in gas with us, they are generally visiting more frequently overall. They're spending more with us overall, and they're also renewing at a higher rate. So we do think it's a good healthy barometer of long-term growth for the business as we continue to drive engagement in gas.
+Krisztina Katai: Hi, good morning. Thanks for taking the question. Gregory, a lot of the discussion today has focused on value, but some of the strongest examples that you highlighted included deli bakery prepared foods, think rotisserie chicken, and private brands. When you look at the categories that are gaining with dollar and unit share, what is proving most important for the customer? What are some of the most important characteristics that you would find and how does that what does that suggest about progress future growth Maybe more sort of merchandising driven than price driven. And then I wanted to ask a follow-up, I do not know if I heard this, but what did you assume in the back half of the year incremental diesel and freight cost? Thank you.
 
-Operator: And our next question comes from the line of Peter Benedict with Baird.
+Gregory S. Foran: Great. Thanks, Christine. I will take the first bit, and David, if you can pick up diesel freight costs, etcetera. You know, what we are what we are seeing is pretty much, if anything, has a natural organic protein health component to it, Christina. that is working extremely well. We also see where we do a great value proposition. That works extremely well. So you know, an item that we got on to just recently was a $20-sushi-plate. And we do pretty well with sushi. I think we may be just about the biggest seller of sushi in America. And we do well with that. it is in a number of our stores. We then introduce an item which is $20, sort of a family pack I think it took about 3 weeks for that item to get over $1 million. And you know, the excitement that I see as I get around is palpable. So anything sort of that has to do with health, organic, etcetera, works. Anything that is answering a customer's question around value, what is for dinner, is working well. You know, we launched a range of private selection frozen meals that I spoke about. They are just absolutely taken off. They are they are exceptional quality, great value. Customers, as I said, they are not absent. They are just disciplined. And as a retailer, it is our job to be their agent, and that is exactly what we charge our merchants with doing. David?
 
-Peter Benedict: I know we're going to get the May numbers next week, but just curious if you could comment on kind of any behavioral changes or changes in trend that maybe you've seen thus far. It's obviously a dynamic environment out there. So kind of attuned to that. And as related to that, maybe a bigger picture question around GLP-1s. You talked about it in the prepared remarks. I'm curious how it's influencing either any category performance that you've got or maybe how you're thinking about leaning into different categories as you think out over the next several months and years?
+David John Christopher Kennerley: Leah. Let me just Christina, cover the question on diesel and freight. So the important thing for us is we expect gross margin to be positive through the second half of the year. We have assumed that we will get some incremental headwinds from diesel and freight costs through the balance of the year. But that is embedded in the outlook. Of positive FIFO growth through the balance of year and on a full year basis.
 
-Gary Millerchip: Yes. Thanks, Peter. As you mentioned, we will release sales next week, so I won't get into any sort of short-term trends. But I'll maybe just bridge back to a couple of comments I made earlier is we're generally really not seeing any major change in our members' behavior. I certainly -- well, I'll caveat that with gas, of course. Gas prices are very much on members' minds and they've had a major impact on our overall growth in gas and have also, for sure, become a bigger percentage of a member's total spend in the month because of the higher prices of gas that are in the market today. We've widened our gaps in terms of price to make sure we're there for our members, but we know that's something that's very high on our members' minds. But in terms of core merchandising, really very, very consistent. I think that quality, value and newness are extremely important, and that's the things that our buyers are focused on every day, and we continue to see that combination of items that offer every day great value are doing really well and items that are bringing newness and excitement are doing really well. A couple of examples of that in -- and it's across all 3 of our nonfoods, food and sundries and fresh, I would say. In nonfoods, the everyday shows up in tires and majors and health and beauty where we have great value for our members that they can take advantage of every day. And on the excitement side, finding new gold items for members to take advantage of special events. I mentioned some of the self-care items that we're selling in health and beauty and small appliances. They're really the areas where I see members taking advantage of some opportunities to treat themselves at great values. But similar things in fresh as well with premium meat still doing extremely well because of the value and quality that we offer, but unit growth extremely strong in ground beef and poultry as well with the everyday value that we're offering. I think in terms of GLP-1s, the biggest thing we're seeing, of course, is that the value that we're offering in our pharmacy is really helping members take advantage of those drugs in a very cost-effective way. I think I called out in our prepared remarks, one of the things that we're seeing in food and sundries where we're really leaning in is kind of anything protein right now is doing extremely well. So protein snacks, protein bars, beef sticks. We launched our own Kirkland Signature Beef Stick that's doing tremendous volume and offering tremendous value to our members. So that's an example of an area where we're really leaning into those items because of what we're seeing with our members and the value and quality they're looking for.
+Operator: Your next question comes from the line of Rupesh Parikh with Oppenheimer. Your line is open. Please go ahead.
 
-Ron Vachris: And on the merchandising front, I've had an opportunity this last quarter to meet with several of the larger CPGs with Sarah, our Head Merchant. And I got to tell you that they're making some nice pivots based on the needs of the GLP customer. And as Gary mentioned, proteins, we just launched a Kirkland Signature Ultra Filtered Protein Milk in our dairy that has just taken off extremely, extremely strong, things with fiber, magnesium. So I think our buyers are right on top of the halo effect of GLPs and the needs of the members. And I'm quite impressed with what I'm seeing from the CPGs, the rather big ones, and how they're pivoting to the future potential opportunities there. So there is quite a potential opportunity, and I feel we're on the front side of that.
+Rupesh Parikh: Good morning, and thanks for taking my question. Just going back to your new store strategy and M&A, just given the Giant Eagle acquisition, should we think about balancing organic store growth versus M&A? And then second, you know, as we are in a weaker backdrop, does that at all impact how aggressive you are in store growth?
 
-Operator: And our next question comes from the line of Rupesh Parikh with Oppenheimer.
+David John Christopher Kennerley: Rupesh, let me take that 1. You know, we 1 of the things I think we had 12 major store projects go live this quarter, combination of new stores, major remodels, etcetera. You know, you know, it is gonna be a clear element of our strategy going forward, which is to open more stores. You know, we are gonna do that both in geographies that we think are high growth, but we are also going to do that in places where we exist already but we feel that we have an opportunity to give consumers the opportunity to see Kroger stores and take share from competitors. So I think there is 2 angles to organic store growth. From an M&A perspective, you know, a bit like Giant Eagle, we are gonna evaluate things as they come. We are gonna be extremely disciplined about it. Gregory already commented on Giant Eagle. At the end of the day, this is about customers, new customers in geographies where we do not play. We will continue to look at things, but we are also going to be extremely disciplined about capital allocation and making sure we get really good returns.
 
-Rupesh Parikh: Just going back to your commentary on AI search. I was just curious if you're seeing any benefits in any particular categories or services in terms of the traffic and conversion.
+Operator: Your final question comes from the line of Scott Marks with Jefferies. Your line is open. Please go ahead.
 
-Gary Millerchip: I think it's pretty broad-spread, Rupesh. It's -- as we mentioned earlier, it's still very early days for us. But as we've started to work on updating our product pages to ensure that they're reflecting and translating through those large language models so our value and our quality is showing up. As you can imagine, with the commitment we have to being great value for our members and with the commitment to quality, so member reviews and feedback generally on the products that we're selling is relatively positive compared to alternatives. Those generally resonate well with those large language models. And so I would say it's kind of when our members are searching for those items, we're showing up more consistently and have plans to ensure that we show up more consistently in the future. And we think it's an opportunity as we continue to evolve our strategy there to ensure that we're getting at least our fair share of that activity as members change behavior.
+Scott Marks: Hey. Good morning, all. Thanks very much for squeezing us in here. To come back to the topic of inflation for a second. Specifically, we have heard more recently from a number of suppliers, larger suppliers, that they intend to take pricing to offset their own inflationary input pressures. And they are willing to do so at the expense of volume. In fact, they are actually assuming that they may actually see their own elasticity maybe a little bit worse than what they have been historically. So wondering if you can maybe just comment on that a little bit and help us understand what the conversations are like with suppliers and what levers you have in your toolkit as you work through work through these negotiations with them to try to help maintain that value for the customer. Thank you.
 
-Ron Vachris: Good example of categories would be like appliances. We've got a good value on appliances, a very good everyday value, but our real big value is in an all-in pricing that our prices include delivery, installation, haul away. Regular search didn't show all that value. Now with these large language models, they're able to look at the entire value such as tires that installations included, road hazards included, nitrogen included. So we feel we're very bullish on this AI search and the strength it's going to bring to telling the whole Costco story about the true value of what we offer.
+Gregory S. Foran: Leah. Thanks, Scott. We have got a number of things in our toolkit to answer that first 1 of them is we got a pretty extensive our brands program. And 1 which resonates well with customers, whether you are talking about opening price points and you are seeing us expand our range of SmartWay products there, you know, circa from about 130, we will get that up to 1 thousand. Over the next year and a bit. Some of those are already hitting the shelves, and we are very pleased with how they both look and taste and feel. Then, of course, we have got Kroger. We have got private selection. We have got simple truth. So this extensive portfolio where we picked up another 50-basis-points of penetration. We will talk some more with you in October about how we see that rolling out. So customers have choices, and it is up to us to provide them with that choice. Our job is to be the customer's agent. And we wanna be fair, and open and have great relationships with all our suppliers. But at the same time, we have to also represent the consumer. And if price increases are justified and make sense, then I am happy that as a team of merchants, we sit down and we work through those. What we do not wanna get in is a situation where people can just turn up and put prices up. And not have full justification. For that sort of increase I am not in the game of using inflation as a way of generating extra sales. I am in a game of generating great comp sales, ID sales, because we represent terrific value to the customer, and they trust that Kroger is their representative in creating great value. So we will deal with that as it comes along. I would say that our relationships with suppliers is very good and very healthy. I really like the way that, you know, Mary Ellen and Mike and Carl are managing with Edward as part of our business. And I think we are in a good spot. I would want to, at this stage, thank everyone for your continued interest in Kroger and know that we really value that. And finally, on September 11 we paused to remember those lost and to thank first responders and service members who protect our communities every day. Thank you all for joining us.
 
-Rupesh Parikh: Great. And then my follow-up question, just on the fuel business. So you guys have seen a significant increase in volumes. How do you think about opportunities to increase throughput? And what may be, going forward, is maybe more of a permanent increase in your fuel volumes related to recent changes in behavior?
-
-Gary Millerchip: Yes. Thanks, Rupesh. Yes, it's a little bit difficult to predict, obviously, what's going to happen with gas prices. I think we believe that by widening our gaps and delivering more value for our members, I mentioned it a little bit earlier on the call, we see, over time, members that engage with us in gas are generally visiting more frequently, shopping more, buying more and also renewing at a higher rate. So we think the fact that we've got more members visiting our gas stations more consistently, and even as Ron mentioned in some of his prepared remarks, we're seeing some members that have been members for some time but are using the gas stations for the first time, we think that's also an encouraging sign for long-term loyalty. So I think on gas itself, it's a little bit more difficult to predict because often what we find is when gas prices are higher, members are willing to either travel a little bit further or recognize that it might take them a little bit longer to fill up because of how busy our gas pumps are. So we can see that change over time based on how prices change on gas, but we believe that members engaging with gas with us is a great reminder and reinforcement of the overall value that we offer and is likely to drive long-term loyalty based on what we've seen historically with members that buy gas from us versus those that don't.
-
-Operator: And our next question comes from the line of Greg Melich with Evercore ISI.
-
-Gregory Melich: I'd love to unpack a little bit more on disinflation and inflation. Is it still running roughly 1% across the box, Gary? Is that a fair estimate? Because you said there were some good guys and some bad guys in the quarter.
-
-Gary Millerchip: Yes, it was a little bit higher in the quarter, Greg. So sort of low to mid-single digits is what we've kind of shared in the past. But really most of the increase, if not all of the increase in the inflation rate, we include gas in that number, and gas was, for sure, as you might imagine, the largest part of the inflation. If I break it down a little bit more for you between some of the categories and items, I mentioned in prepared remarks, fresh and food and sundries were a bit lower during the quarter. That was largely on the back of produce, eggs and dairy all being deflationary. We are still seeing inflation in beef, deli and areas like candy. So there's definitely puts and takes in food and sundries, but the net impact was a slight reduction in fresh and food and sundries during the quarter. Nonfoods was a little bit higher during the quarter. Some of that was really as we're seeing higher cost of memory chips in computers having an impact on the sort of cost of items in majors. Now we took the opportunity to buy forward some items there to try and mitigate and minimize the impact for our members, but that's definitely something that we're seeing in the cost of the items. And then the secondary in nonfoods that we see, particularly if oil prices remain at elevated levels, is likely to see some increases in items that have sort of plastic components or polyester or cotton because of the impact of higher resin costs.
-
-Gregory Melich: Got it. And then maybe a follow-up on gas. You said you widened your price gaps in gasoline. Did the penny profit slip as part of that? Or is it basically just as everybody took prices up, you guys took it up less?
-
-Gary Millerchip: Our profit was a little bit higher year-over-year, but as a rate of sales, obviously, was significantly lower.
-
-Operator: And our next question comes from the line of John Heinbockel with Guggenheim Partners.
-
-John Heinbockel: Maybe Ron, two related questions. What does the club pipeline look -- and I know it's multiyear, club pipeline look like in Europe and Asia, let's say, over the next 3 years, right? And where is there the sort of the greatest backlog of clubs coming? And then secondly, when you think about capacity in Canada, right, where you've got some very high AUVs. I know you've been adding clubs. What does the capacity dynamic look like in that country?
-
-Ron Vachris: Okay. In Canada, yes, we have a lot of upside potential. We've got some clubs. We've got the next 3 to 5 years charted out. And so we see consistent strong growth in Canada for at least the next 5 years, and then we'll have to come back and evaluate where we're going. In Asia, great opportunities remain in China, in Korea and in Japan. Taiwan, we do see opportunity for a few more locations in that region, but we think primarily those other 3 big countries have the greatest potential for us as well. Europe, we're still very young in France, and we see that coming. Spain has got the shorter leeway that we see significant growth in Spain over the next 3 years as well. And the U.K. has been very strong for us the last 3 years. So I think we see some very good things coming in the U.K. as well. So we see very strong international expansion over the next 5 to 10 years, and those countries would probably be the leaders outside of North America.
-
-Operator: And our final question comes from the line of Chris Nardone with Bank of America.
-
-Christopher Nardone: So on the Executive Membership strength relative to recent trends, are you seeing more customers trade up from Gold into Executive? Or is the recent strength more driven by new customers choosing the higher tier membership? And then just as a related follow-up, with the spike in gas prices, are you seeing new membership acquisition improve as you move through the spring season?
-
-Gary Millerchip: Yes. Thanks for the questions, Chris. On the executive membership, it's a combination of both. So we're definitely seeing increase in membership upgrades from Gold membership, but we're also seeing a higher penetration of new members signing up for executive membership with the extra benefits that we offered, particularly the extended opening hours and the $10 per month on Instacart if you spend over a certain level. Sorry, what was the second part of the question? Yes, I don't know we could attribute to any individual factor, but we're certainly seeing year-over-year growth in new member sign-ups, as I mentioned earlier on the call. So we're pleased with that momentum. And obviously, we were cycling some higher growth last year as well, as I've referred to. So we're encouraged by the growth that we're seeing there. I wouldn't necessarily say we would attribute it to any one individual factor, but definitely seeing continued growth in new member sign-ups year-over-year.
-
-Christopher Nardone: Okay. And then just the China executive rollout, how is that going relative to your expectations? And if you could just remind us where you could still roll out this program in some of your other international markets over time?
-
-Gary Millerchip: Yes. Overall, we've been very pleased. I think it's ahead of our expectations in China. We obviously launched with high expectations, believing it would be a great value for our members, but we've seen a higher level of activity than we initially have expected. I would say today, with China, we have Executive Membership in most of our markets where we have a sort of a level of warehouses over the sort of the 7 number that we have in China. There are some individual countries where we wouldn't have Executive Membership today. And certainly, over time, if we grow that presence, that may make sense. But I think at the moment, we feel like we've got Executive Membership in the markets where it makes sense.
-
-Operator: And ladies and gentlemen, that concludes our question-and-answer session and today's conference call. We thank you for your participation, and you may now disconnect. 
+Operator: This concludes today's call. Thank you for attending. You may now disconnect. 
  
 
 **RECENT NEWS**: 
 
-title: Uber Eats expands Costco delivery partnership nationwide
+title: Kroger stops selling Red Bull nationwide
 link: 
 source: 
 date: 
 
-title: The surprising new way to find friends and true love? Your Costco card
-link: https://www.usatoday.com/story/money/retail/2026/09/16/the-surprising-community-culture-of-costco/91585945007/
-source: USA Today
-date: 09/16/2026, 11:20 PM, +0000 UTC
-
-title: Costco raises price of Kirkland Signature motor oil
-link: 
-source: 
-date: 
-
-title: Costco Shoppers Are Racing To Get Their Hands On This Returning Bakery Treat
-link: https://www.southernliving.com/costco-returning-smores-cookies-12122358
-source: southernliving.com
-date: 09/16/2026, 02:49 PM, +0000 UTC
-
-title: Costco Has a New Anthropologie Copycat That’s Sure To Sell Out
-link: https://www.allrecipes.com/costco-pandex-christmas-icon-glasses-12122124
-source: Allrecipes
-date: 09/16/2026, 08:00 PM, +0000 UTC
-
-title: Costco-anchored development to boost Littleton's economy
-link: https://www.9news.com/article/life/style/colorado-guide/159000-square-foot-costco-coming-to-littleton/73-d92e12e4-da20-43f9-9a60-f4f0b8981d19
-source: 9News
-date: 09/15/2026, 12:52 PM, +0000 UTC
-
-title: Midtown Costco closing Oct. 1 to transition into Business Center; what’s staying, what’s going
-link: https://www.kctv5.com/2026/09/16/midtown-costco-closing-oct-1-transition-into-business-center-whats-staying-whats-going/
-source: kctv5.com
-date: 09/16/2026, 03:02 PM, +0000 UTC
-
-title: Costco Earnings May Disappoint, but There’s a Special Catalyst That Could Lift the Stock
-link: https://www.barrons.com/articles/costco-earnings-special-dividend-3e7d6cf0
-source: barrons.com
-date: 09/16/2026, 04:53 PM, +0000 UTC
-
-title: I’ve Tried Countless Costco Products—These Are the 10 Kirkland Finds I Always Rebuy
-link: https://www.realsimple.com/kirkland-signature-costco-products-i-always-rebuy-12116561
-source: realsimple.com
-date: 09/14/2026, 04:00 PM, +0000 UTC
-
-title: Costco has 10 new stores opening in the next two months - here are the locations
-link: https://www.independent.co.uk/us/money/costco-store-openings-fall-california-b3050785.html
-source: The Independent
-date: 09/15/2026, 08:21 PM, +0000 UTC
-
-title: Costco Hints Fan-Favorite Food Court Item Is Finally Coming Back
-link: https://parade.com/food/costco-hints-fan-favorite-food-court-item-is-finally-coming-back
-source: parade.com
-date: 09/16/2026, 11:52 PM, +0000 UTC
-
-title: 6 Frequent Customer Complaints About Costco's Meat Department
-link: https://www.tastingtable.com/2256989/costco-meat-department-customer-complaints/
-source: Tasting Table
-date: 09/16/2026, 04:20 PM, +0000 UTC
-
-title: Costco Has a Portable Espresso Maker for Better Coffee Beyond Your Kitchen
-link: https://shopping.yahoo.com/home-garden/kitchen/articles/costco-portable-espresso-maker-better-235500517.html
-source: Yahoo
-date: 09/16/2026, 11:55 PM, +0000 UTC
-
-title: What's New At Costco In September 2026: Top Finds To Grab Fast
-link: https://www.thetakeout.com/2260317/new-costco-finds-to-grab-september-2026/
-source: The Takeout
-date: 09/16/2026, 04:12 PM, +0000 UTC
-
-title: Costco expands partnership with Uber Eats for nationwide delivery. What to know
-link: https://www.al.com/business/2026/09/costco-expands-partnership-with-uber-eats-for-nationwide-delivery-what-to-know.html
-source: AL.com
-date: 09/16/2026, 07:26 PM, +0000 UTC
-
-title: Costco nearly doubles cost of motor oil, limits purchases
-link: https://thehill.com/policy/energy-environment/6088997-costco-nearly-doubles-cost-of-motor-oil-limits-purchases/
-source: The Hill
-date: 09/14/2026, 09:15 PM, +0000 UTC
-
-title: Lawrence Costco’s opening date announced; currently hiring multiple positions
-link: https://lawrencekstimes.com/2026/09/14/costco-opening-date/
-source: The Lawrence Times
-date: 09/14/2026, 07:38 PM, +0000 UTC
-
-title: Costco, Uber expanding delivery to more states
-link: https://www.ksl.com/article/51625054/costco-uber-expanding-delivery-to-more-states
-source: KSL News
-date: 09/17/2026, 02:17 AM, +0000 UTC
-
-title: I've been a Costco executive member for 11 years. I'll always buy these 5 products there.
-link: https://www.businessinsider.com/best-things-to-buy-costco-from-executive-member-mom-2026-9
-source: Business Insider
-date: 09/14/2026, 03:11 PM, +0000 UTC
-
-title: KC’s midtown Costco has a closing date for its business center conversion. See when
-link: https://www.kansascity.com/news/local/article317252547.html
-source: Kansas City Star
-date: 09/15/2026, 06:48 PM, +0000 UTC
-
-title: Costco Core Fourth-Quarter Earnings to Miss Estimates, Oppenheimer Says
-link: https://finance.yahoo.com/markets/stocks/articles/costco-core-fourth-quarter-earnings-153629911.html
-source: Yahoo Finance
-date: 09/16/2026, 03:36 PM, +0000 UTC
-
-title: Costco Buys A Professional Organizer Swears By
-link: https://www.southernliving.com/costco-buys-professional-organizer-12063575
-source: southernliving.com
-date: 09/16/2026, 05:25 PM, +0000 UTC
-
-title: Costco resubmits plans for Asheville store at Enka Commerce Park
-link: https://wlos.com/news/local/a-reversal-costco-resubmits-plans-for-a-store-at-enka-commerce-park-asheville-city-council-withdraw-resubmittal-clock-tower-heritage-parkway-smokey-park-construction-not-yet-approved
-source: WLOS
-date: 09/14/2026, 08:57 PM, +0000 UTC
-
-title: Costco hikes motor oil prices and puts limits on how much members can buy
-link: https://www.cnbc.com/2026/09/14/costco-motor-oil-price-limited.html
-source: CNBC
-date: 09/14/2026, 09:29 PM, +0000 UTC
-
-title: Costco submits proposal for new store in Asheville
-link: https://www.wyff4.com/article/costco-asheville-plans/73745275
-source: WYFF
-date: 09/16/2026, 05:00 PM, +0000 UTC
-
-title: Q/A: Susan Barnett on Life After Television, Living the Costco Dream, and How a Passion for Design Became a Real Estate Career
-link: https://www.crossingbroad.com/news/trending/susan-barnett-on-life-after-television-and-real-estate-career/
-source: Crossing Broad
-date: 09/16/2026, 04:29 PM, +0000 UTC
-
-title: Costco raises price for Kirkland motor oil, sets purchase limit
-link: https://apnews.com/article/costco-motor-oil-diesel-iran-amazon-kirkland-f5fafbcc6f6befe718b61f7cdf3d3e38
-source: AP News
-date: 09/14/2026, 04:20 PM, +0000 UTC
-
-title: Shoppers say Costco’s 5.5-pound chocolate monster head filled with gummies is to die for
-link: https://www.al.com/life/2026/09/shoppers-say-costcos-55-pound-chocolate-monster-head-filled-with-gummies-is-to-die-for.html
-source: AL.com
-date: 09/14/2026, 02:39 PM, +0000 UTC
-
-title: Uber and Costco are expanding their Uber Eats delivery partnership to 47 states
-link: https://qz.com/uber-costco-uber-eats-delivery-expansion-47-states-091626
-source: qz.com
-date: 09/16/2026, 05:19 PM, +0000 UTC
-
-title: Can’t get your hands on the viral Costco Halloween blankets? Try these alternatives
-link: https://shopping.yahoo.com/home-garden/home-decor/article/cant-find-costcos-viral-halloween-blankets-we-found-5-alternatives-that-are-just-as-cozy-163752655.html
-source: Yahoo
-date: 09/16/2026, 10:06 PM, +0000 UTC
-
-title: Costco’s Latest Stir Fry Is Getting Mixed Reviews
-link: https://sporked.com/article/costco-honey-sesame-chicken-stir-fry/
-source: Sporked
-date: 09/14/2026, 12:01 PM, +0000 UTC
-
-title: Costco's viral dating scene starts where the $1.50 hot dog lives
-link: https://www.usatoday.com/story/shopping/trending/2026/09/16/is-costco-the-newest-dating-hotspot/91792461007/
-source: USA Today
-date: 09/16/2026, 04:55 PM, +0000 UTC
-
-title: Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.
-link: https://finance.yahoo.com/markets/stocks/articles/costco-hiked-dividend-13-10-114200655.html
-source: Yahoo Finance
-date: 09/14/2026, 11:42 AM, +0000 UTC
-
-title: MORNING BUSINESS REPORT: Costco raises motor oil prices
-link: https://www.wfsb.com/video/2026/09/15/morning-business-report-costco-raises-motor-oil-prices/
-source: WFSB
-date: 09/15/2026, 11:55 PM, +0000 UTC
-
-title: Best Labor Day Costco deals: Shop Dell laptops, Bose headphones, Apple iPads, and more
-link: https://mashable.com/tech/best-labor-day-costco-deals-2026-updates
-source: Mashable
-date: 09/17/2026, 01:07 AM, +0000 UTC
-
-title: Is Costco open on Labor Day? See hours for Monday
-link: https://www.cincinnati.com/story/news/2026/09/06/costco-open-closed-labor-day-hours-2026/91578222007/
-source: Cincinnati Enquirer
-date: 09/06/2026, 07:00 AM, +0000 UTC
-
-title: Costco Labor Day Hours 2026: Find Out if Stores Are Open on Monday
-link: https://www.today.com/life/holidays/costco-open-labor-day-2026-hours-closed-rcna593716
-source: TODAY.com
-date: 09/06/2026, 07:00 AM, +0000 UTC
-
-title: Are stores open on Labor Day 2026? Holiday hours for Costco, Target, Walmart, banks, stock markets, CVS, and more
-link: https://www.fastcompany.com/91602479/are-stores-open-on-labor-day-holiday-hours-for-costco-target-walmart-banks-stock-markets-cvs-and-more
-source: Fast Company
-date: 09/07/2026, 07:00 AM, +0000 UTC
-
-title: 10 Hidden Costco Sales You Need to Shop Before Labor Day
-link: https://www.goodhousekeeping.com/what-to-buy/home-products/a73594915/costco-labor-day-deals-september-2026/
-source: Good Housekeeping
-date: 09/03/2026, 07:00 AM, +0000 UTC
-
-title: 7 Costco Discounts Shoppers Should Look For On Labor Day 2026
-link: https://shopping.yahoo.com/deals/articles/7-costco-discounts-shoppers-look-173900674.html
-source: Yahoo
-date: 09/01/2026, 07:00 AM, +0000 UTC
-
-title: Is Costco open on Labor Day 2026? What to know before you go to the store
-link: https://www.nj.com/news/2026/08/is-costco-open-on-labor-day-2026-what-to-know-before-you-go-to-the-store.html
-source: NJ.com
-date: 08/31/2026, 07:00 AM, +0000 UTC
-
-title: The best last-minute Labor Day Costco deals 2026: TVs, Apple devices, and more
-link: https://www.zdnet.com/home-and-office/best-last-minute-labor-day-costco-sales-2026/
-source: ZDNET
-date: 09/03/2026, 07:00 AM, +0000 UTC
-
-title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-link: https://abc45.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
-source: WXLV
-date: 09/05/2026, 07:00 AM, +0000 UTC
-
-title: Which stores are open and closed on Labor Day
-link: https://www.9news.com/article/money/business/stores-open-closed-labor-day/73-0d974fba-4dff-41d7-8fb4-6650f50483ed
-source: 9News
-date: 09/07/2026, 07:00 AM, +0000 UTC
-
-title: Most national retailers close on 2 holidays. Costco shuts down for 7.
-link: https://www.businessinsider.com/costco-closed-holidays-labor-day-2026-9
-source: Business Insider
-date: 09/07/2026, 07:00 AM, +0000 UTC
-
-title: Is Costco open on Labor Day 2026 in San Francisco? What’s open today, from malls to museums
-link: https://secretsanfrancisco.com/labor-day-2026-store-openings/
-source: Secret San Francisco
-date: 09/07/2026, 07:41 AM, +0000 UTC
-
-title: Are Walmart, Publix, Target, Aldi open on Labor Day? Here's what's open
-link: https://www.tcpalm.com/story/news/local/florida/2026/09/05/florida-grocery-stores-open-closed-labor-day-walmart-publix-target-costco-aldi-sams-club-bjs-sprouts/91491249007/
-source: Treasure Coast News
-date: 09/05/2026, 07:00 AM, +0000 UTC
-
-title: Is Costco closed on Labor Day in Fresno? Target? See which stores will be open
-link: https://www.fresnobee.com/news/local/article317105947.html
-source: Fresno Bee
+title: Kroger, Costco, Aldi among grocers who received letters from DOJ as beef price investigation expands
+link: https://www.clickondetroit.com/news/local/2026/09/04/kroger-costco-aldi-among-grocers-who-received-letters-from-doj-as-beef-price-investigation-expands/
+source: ClickOnDetroit
 date: 09/04/2026, 07:00 AM, +0000 UTC
 
-title: Giant Costco-exclusive game day TVs start at $280 for members only
-link: https://www.usatoday.com/story/shopping/deals/labor-day/2026/08/28/costco-exclusive-big-screen-hisense-tvs/91501588007/
-source: USA Today
-date: 08/28/2026, 07:00 AM, +0000 UTC
-
-title: Is Publix, Costco closed on Labor Day? Stores open, closed in Florida
-link: https://www.pnj.com/story/news/2026/09/02/labor-day-grocery-store-hours-florida-open-closed/91572037007/
-source: Pensacola News Journal
+title: Kroger taps Walmart tech veteran as store operations chief
+link: https://www.grocerydive.com/news/kroger-mark-ibbotson-chief-store-operations/829501/
+source: Grocery Dive
 date: 09/02/2026, 07:00 AM, +0000 UTC
 
-title: Which grocery stores are open — and closed — on Labor Day 2026?
-link: https://www.nj.com/news/2026/09/which-grocery-stores-are-open-and-closed-on-labor-day-2026.html
-source: NJ.com
-date: 09/06/2026, 07:00 AM, +0000 UTC
+title: Where did the Boar's Head go? Deli brand, Kroger won't say
+link: https://www.cincinnati.com/story/grocery/2026/09/10/boars-head-shortages-raise-questions-at-kroger/91684911007/
+source: Cincinnati Enquirer
+date: 09/10/2026, 03:42 PM, +0000 UTC
 
-title: Sam's Club confirms Labor Day 2026 hours as Costco closes doors
-link: https://shopping.yahoo.com/general/articles/sam-club-open-labor-day-132338830.html
-source: Yahoo
-date: 09/05/2026, 07:00 AM, +0000 UTC
+title: Kroger has lost $12B in CPG spending
+link: https://www.supermarketnews.com/grocery-trends-data/kroger-has-lost-12b-in-cpg-spending
+source: Supermarket News
+date: 09/10/2026, 07:00 AM, +0000 UTC
 
-title: Labor Day 2026 store hours: See the full list of stores open on the holiday
-link: https://www.nj.com/news/2026/09/labor-day-2026-store-hours-see-the-full-list-of-stores-open-on-the-holiday.html
-source: NJ.com
-date: 09/03/2026, 07:00 AM, +0000 UTC
+title: Kroger responds after viral TikTok appears to show bugs near produce at store in Dearborn
+link: https://www.cbsnews.com/detroit/news/kroger-dearborn-bugs-produce-video-tiktok/
+source: CBS News
+date: 08/01/2026, 07:00 AM, +0000 UTC
 
-title: Costco will shut down for 24 hours on Sept. 7. Here’s why
-link: https://www.nj.com/news/2026/08/costco-will-shut-down-for-24-hours-on-sept-7-heres-why.html
-source: NJ.com
+title: LIST: Here's all the food under recall in the US
+link: https://www.wusa9.com/article/money/personal-finance/recalls/list-food-recalls-us-produce-frozen-pantry/65-b4eeea4a-2820-42f6-a861-64faecfbf37c
+source: WUSA9
 date: 08/24/2026, 07:00 AM, +0000 UTC
 
-title: Here is what's open on Labor Day 2026 and what's closed (LIST)
-link: https://abc7ny.com/post/here-is-whats-open-labor-day-2026-closed-list/19781579/
-source: ABC7 New York
-date: 09/04/2026, 07:00 AM, +0000 UTC
+title: Viral TikTok appears to show bugs near produce at Dearborn Kroger
+link: https://www.cbsnews.com/detroit/video/viral-tiktok-appears-to-show-bugs-near-produce-at-dearborn-kroger/
+source: CBS News
+date: 08/01/2026, 07:00 AM, +0000 UTC
 
-title: What’s open and closed on Labor Day? From Costco to banks and UPS pickup
-link: https://nz.news.yahoo.com/open-closed-labor-day-costco-181052461.html
-source: Yahoo News New Zealand
-date: 09/07/2026, 08:24 AM, +0000 UTC
+title: Macon remembers Kroger produce manager, a familiar face for 46 years
+link: https://wgxa.tv/news/local/forsyth-road-kroger-mourns-longtime-produce-manager
+source: WGXA
+date: 06/03/2026, 07:00 AM, +0000 UTC
 
-title: Labor Day 2026 shopping: Full schedule and door times for Walmart, Target, Costco, and more...
-link: https://en.as.com/latest_news/labor-day-2026-shopping-full-schedule-and-door-times-for-walmart-target-costco-and-more-f202609-n/
-source: en.as.com
-date: 09/07/2026, 10:03 AM, +0000 UTC
+title: Kroger announces agreement to acquire Giant Eagle
+link: https://www.producegrower.com/news/kroger-acquires-giant-eagle/
+source: producegrower.com
+date: 07/02/2026, 07:00 AM, +0000 UTC
 
-title: Is Costco open on Labor Day? Tennessee grocery store hours for 2026
-link: https://shopping.yahoo.com/deals/articles/costco-open-labor-day-tennessee-100405027.html
-source: Yahoo
-date: 09/07/2026, 10:04 AM, +0000 UTC
-
-title: Check to see if your grocery store, retailer is open Labor Day in Iowa
-link: https://www.desmoinesregister.com/story/money/business/retail/2026/09/07/labor-day-2026-closings/91564614007/
-source: The Des Moines Register
-date: 09/07/2026, 10:03 AM, +0000 UTC
-
-title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-link: https://cbs12.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
-source: WPEC
-date: 09/05/2026, 06:26 PM, +0000 UTC
-
-title: Is Costco Open on Labor Day? 2026 Holiday Hours
-link: https://dengarden.com/news/costco-labor-day-hours-2026
-source: Dengarden
-date: 09/06/2026, 07:00 AM, +0000 UTC
-
-title: Which stores are open on Labor Day 2026? See the list of what's open today.
-link: https://mashable.com/life/stores-open-labor-day-2026
-source: Mashable
-date: 09/07/2026, 12:04 PM, +0000 UTC
-
-title: Is Costco, Walmart and Target open on Labor Day?
-link: https://www.app.com/story/news/2026/08/28/is-costco-walmart-and-target-open-on-labor-day/91490833007/
-source: Asbury Park Press
-date: 08/28/2026, 07:00 AM, +0000 UTC
-
-title: Sam’s Club makes holiday decision Costco doesn’t
-link: https://www.thestreet.com/retail/sams-club-open-labor-day-costco-closed
+title: Kroger and Albertsons make key moves to take on Amazon, Walmart
+link: https://www.thestreet.com/retail/kroger-and-albertsons-make-key-moves-to-take-on-amazon-walmart
 source: thestreet.com
-date: 09/05/2026, 07:00 AM, +0000 UTC
+date: 09/10/2026, 07:00 AM, +0000 UTC
 
-title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-link: https://wcti12.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
-source: wcti12.com
-date: 09/05/2026, 06:27 PM, +0000 UTC
+title: For Northeast Ohio shoppers, groceries are personal. So is the Kroger deal
+link: https://www.cleveland.com/news/2026/07/for-northeast-ohio-shoppers-groceries-are-personal-so-is-the-kroger-deal.html
+source: Cleveland.com
+date: 07/01/2026, 07:00 AM, +0000 UTC
 
-title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-link: https://abc7amarillo.com/news/nation-world/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
-source: KVII
-date: 09/05/2026, 07:00 AM, +0000 UTC
+title: Taylor Farms recalls product sold at Kroger stores in South Carolina
+link: https://www.wyff4.com/article/south-carolina-kroger-recall-taylor-farms/73394271
+source: WYFF
+date: 08/10/2026, 07:00 AM, +0000 UTC
 
-title: What’s open and closed on Labor Day: Costco, banks and mail services shut down
-link: https://wwmt.com/newsletter-daily/whats-open-and-closed-labor-day-costco-banks-mail-services-shut-down-labor-day-weekend
-source: WWMT
-date: 09/05/2026, 07:00 AM, +0000 UTC
+title: Kroger providing memberships, 20% off produce to those receiving government assistance
+link: https://www.wkyt.com/2026/01/01/kroger-providing-memberships-20-off-produce-those-receiving-government-assistance/
+source: WKYT
+date: 01/01/2026, 08:00 AM, +0000 UTC
 
-title: Costco Earnings May Disappoint, but There’s a Special Catalyst That Could Lift the Stock
-link: https://www.barrons.com/articles/costco-earnings-special-dividend-3e7d6cf0
-source: barrons.com
-date: 09/16/2026, 04:53 PM, +0000 UTC
+title: Kroger offers Wisconsin shoppers using food assistance 20% off produce
+link: https://www.jsonline.com/story/grocery/2025/12/29/kroger-to-offer-wisconsin-customers-using-food-ass20-off-produce-for-customers-using-food-assistance/87946753007/
+source: Milwaukee Journal Sentinel
+date: 12/29/2025, 08:00 AM, +0000 UTC
 
-title: Costco Core Fourth-Quarter Earnings to Miss Estimates, Oppenheimer Says
-link: https://finance.yahoo.com/markets/stocks/articles/costco-core-fourth-quarter-earnings-153629911.html
-source: Yahoo Finance
-date: 09/16/2026, 03:36 PM, +0000 UTC
-
-title: Should You Buy Costco Stock Before Sept. 24?
-link: https://www.fool.com/investing/2026/09/14/should-you-buy-costco-stock-before-sept-24/
-source: The Motley Fool
-date: 09/14/2026, 06:06 PM, +0000 UTC
-
-title: Why Costco (COST) Looks Like a Buy before Q4 Earnings
-link: https://www.tipranks.com/news/why-costco-cost-looks-like-a-buy-before-q4-earnings
-source: TipRanks
-date: 09/16/2026, 12:04 PM, +0000 UTC
-
-title: Should You Buy Costco Stock Before Sept. 24?
-link: https://currently.att.yahoo.com/att/buy-costco-stock-sept-24-172622040.html
-source: Currently.com
-date: 09/14/2026, 05:26 PM, +0000 UTC
-
-title: Costco (COST): Buy, Sell, or Hold Post Q2 Earnings?
-link: https://finance.yahoo.com/markets/stocks/articles/costco-cost-buy-sell-hold-020718032.html
-source: Yahoo Finance
-date: 09/09/2026, 02:07 AM, +0000 UTC
-
-title: Costco Wholesale (COST) Projected to Post Quarterly Earnings on Thursday
-link: https://www.marketbeat.com/instant-alerts/upcoming-costco-wholesale-cost-projected-to-post-quarterly-earnings-on-thursday-2026-09-17/
-source: marketbeat.com
-date: 09/17/2026, 05:16 AM, +0000 UTC
-
-title: Costco Heads Into Earnings With A Tougher Margin Mix
-link: https://finimize.com/content/costco-heads-into-earnings-with-a-tougher-margin-mix
-source: finimize.com
-date: 09/16/2026, 06:22 PM, +0000 UTC
-
-title: Costco's Fiscal Q4 Core Earnings Could Miss Street Consensus, Oppenheimer Says
-link: https://www.marketscreener.com/news/costco-s-fiscal-q4-core-earnings-could-miss-street-consensus-oppenheimer-says-ce785bd2df8ef724
-source: marketscreener.com
-date: 09/16/2026, 03:06 PM, +0000 UTC
-
-title: How Motor Oil Rationing Will Impact Costco Stock Investors
-link: https://simplywall.st/stocks/us/consumer-retailing/nasdaq-cost/costco-wholesale/news/how-motor-oil-rationing-will-impact-costco-stock-investors
-source: simplywall.st
-date: 09/16/2026, 09:39 AM, +0000 UTC
-
-title: RBC Capital Reaffirms Their Hold Rating on Costco (COST)
-link: https://www.theglobeandmail.com/investing/markets/stocks/COST/pressreleases/4630689/rbc-capital-reaffirms-their-hold-rating-on-costco-cost/
-source: theglobeandmail.com
-date: 09/16/2026, 11:18 AM, +0000 UTC
-
-title: Costco (CTO) Q2 2025 Earnings Report - Results, Call & Slides
-link: https://www.tipranks.com/stocks/ch:cto/earnings/q2-2025-report
-source: TipRanks
-date: 09/16/2026, 06:23 AM, +0000 UTC
-
-title: Costco Wholesale stock dips ahead of September 24 earnings as Q4 sales climb
-link: https://www.ad-hoc-news.de/boerse/news/corporate-news/costco-wholesale-stock-dips-ahead-of-september-24-earnings-as-q4-sales/70110919
-source: ad-hoc-news.de
-date: 09/16/2026, 12:42 PM, +0000 UTC
-
-title: Costco says it saw 'record-breaking' gas volumes amid rising prices
-link: https://www.cnbc.com/2026/05/28/costco-cost-q3-2026-earnings.html
-source: CNBC
-date: 05/28/2026, 07:00 AM, +0000 UTC
-
-title: RBC Capital reiterates Costco stock rating on tariff refund outlook
-link: https://m.investing.com/news/analyst-ratings/rbc-capital-reiterates-costco-stock-rating-on-tariff-refund-outlook-93CH-4902222?ampMode=1
-source: Investing.com
-date: 09/15/2026, 03:38 PM, +0000 UTC
-
-title: Kroger loses billions in customer spending to Walmart, Amazon and Costco, report finds
-link: https://local12.com/news/local/kroger-cincinnati-grocery-losing-billions-dollars-customer-spending-walmart-amazon-costco-sales-2026
-source: WKRC
-date: 09/14/2026, 03:03 PM, +0000 UTC
-
-title: Costco: The Valuation Re-Rating Is Just Getting Started (Q4 Earnings Preview)
-link: https://seekingalpha.com/article/4945374-costco-stock-valuation-rerating-is-just-getting-started-q4-earnings-preview
-source: Seeking Alpha
-date: 09/11/2026, 11:30 AM, +0000 UTC
-
-title: Should You Buy Costco Stock Before Sept. 24?
-link: https://finance.yahoo.com/markets/stocks/articles/buy-costco-stock-sept-24-172622040.html
-source: Yahoo Finance
-date: 09/14/2026, 05:26 PM, +0000 UTC
-
-title: Costco Hiked Its Dividend by 13%. Here Is What a $10,000 Investment Earns Annually.
-link: https://finance.yahoo.com/markets/stocks/articles/costco-hiked-dividend-13-10-114200655.html
-source: Yahoo Finance
-date: 09/14/2026, 11:42 AM, +0000 UTC
-
-title: Cramer Says Costco at 49 Times Earnings Is the Mistake Loyal Shoppers Keep Making
-link: https://finance.yahoo.com/markets/stocks/articles/cramer-says-costco-49-times-194156427.html
-source: Yahoo Finance
-date: 09/04/2026, 07:00 AM, +0000 UTC
-
-title: What to Expect From Costco Wholesale's Q4 2026 Earnings Report
-link: https://finance.yahoo.com/markets/stocks/articles/expect-costco-wholesales-q4-2026-134037110.html
-source: Yahoo Finance
+title: 1.6 million cartons of eggs recalled at Kroger and other stores over salmonella risk, FDA says
+link: https://www.cbsnews.com/news/egg-recall-salmonella-midwest-poultry-kroger/
+source: CBS News
 date: 07/27/2026, 07:00 AM, +0000 UTC
 
-title: Why Costco (COST) Could Beat Earnings Estimates Again
-link: https://finance.yahoo.com/markets/stocks/articles/why-costco-cost-could-beat-161002140.html
-source: Yahoo Finance
-date: 09/01/2026, 07:00 AM, +0000 UTC
+title: Kroger launches new discount program
+link: https://www.grocerydive.com/news/kroger-SNAP-program-verified-savings-discount-loyalty-produce/808736/
+source: Grocery Dive
+date: 01/05/2026, 08:00 AM, +0000 UTC
 
-title: Costco Keeps Beating and the Stock Keeps Stalling. Q4 Earnings Are the Next Test
-link: https://www.tikr.com/blog/costco-keeps-beating-and-the-stock-keeps-stalling-q4-earnings-are-the-next-test
-source: TIKR.com
-date: 08/25/2026, 07:00 AM, +0000 UTC
+title: Publix is expanding in central KY. Are they cheaper than Kroger? We checked
+link: https://www.kentucky.com/news/business/article316064122.html
+source: Lexington Herald Leader
+date: 07/14/2026, 07:00 AM, +0000 UTC
 
-title: Costco’s Strong Quarter Still Leaves Investors With a Valuation Problem
-link: https://finance.yahoo.com/markets/stocks/articles/costco-strong-quarter-still-leaves-151500593.html
-source: Yahoo Finance
+title: Kroger is working with suppliers to optimize costs
+link: https://www.supplychaindive.com/news/kroger-is-working-with-suppliers-to-optimize-costs/823545/
+source: Supply Chain Dive
+date: 06/24/2026, 07:00 AM, +0000 UTC
+
+title: What to know about the Giant Eagle and Kroger grocery and pharmacy merger
+link: https://www.wesanews.org/economy-business/2026-07-02/giant-eagle-kroger-merger-pharmacy-grocery
+source: 90.5 WESA
+date: 07/02/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Rolls Out Verified Savings Program With Produce Discounts for SNAP, WIC Shoppers
+link: https://progressivegrocer.com/kroger-rolls-out-verified-savings-program-produce-discounts-snap-wic-shoppers
+source: Progressive Grocer
+date: 01/02/2026, 08:00 AM, +0000 UTC
+
+title: Kroger introduces discounts on produce and memberships for SNAP, WIC and Medicaid shoppers
+link: https://www.houstonchronicle.com/news/houston-texas/trending/article/kroger-snap-produce-discount-21270269.php
+source: Houston Chronicle
+date: 01/03/2026, 08:00 AM, +0000 UTC
+
+title: Kroger rolls out program providing discount on produce to customers receiving government assistance
+link: https://www.whio.com/news/local/kroger-rolls-out-program-providing-discount-produce-customers-receiving-government-assistance/44PHG4YO6BDH7O6VZUTS36XUXA/
+source: WHIO TV
+date: 12/31/2025, 08:00 AM, +0000 UTC
+
+title: Grocer rivalries are Texas-shaped as new stores open in Lone Star State
+link: https://www.marketplace.org/story/2026/03/09/heb-vs-kroger-inside-texass-supermarket-rivalries
+source: marketplace.org
+date: 03/09/2026, 07:00 AM, +0000 UTC
+
+title: Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know
+link: https://people.com/kroger-chicken-product-gets-public-health-alert-over-undeclared-egg-allergen-12008725
+source: people.com
+date: 06/29/2026, 07:00 AM, +0000 UTC
+
+title: Kroger in midst of 19M egg recall
+link: https://www.supermarketnews.com/recalls/kroger-in-midst-of-19m-egg-recall
+source: Supermarket News
+date: 07/24/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Launches ‘Verified Savings’ Program to Cut Produce Costs
+link: https://www.thepacker.com/news/retail/kroger-launches-verified-savings-program-cut-produce-costs
+source: The Packer
+date: 12/30/2025, 08:00 AM, +0000 UTC
+
+title: Kroger forced to make costly store fix after federal lawsuit
+link: https://www.thestreet.com/retail/kroger-forced-to-make-costly-store-fix-after-federal-lawsuit
+source: thestreet.com
 date: 05/30/2026, 07:00 AM, +0000 UTC
 
-title: Costco's Executive Penetration Could Unlock More Earnings
-link: https://finance.yahoo.com/markets/stocks/articles/costcos-executive-penetration-could-unlock-120400959.html
-source: Yahoo Finance
-date: 06/30/2026, 07:00 AM, +0000 UTC
+title: Kroger providing memberships, 20% off produce to those receiving government assistance
+link: https://www.25newsnow.com/video/2026/01/01/kroger-providing-memberships-20-off-produce-those-receiving-government-assistance/
+source: WEEK | 25 News Now
+date: 01/01/2026, 08:00 AM, +0000 UTC
 
-title: Costco Stock Is Priced For Two Good Years, Is That A Safe Bet?
-link: https://www.trefis.com/stock/cost/articles/614228/costco-stock-is-priced-for-two-good-years-is-that-a-safe-bet/2026-09-03
-source: trefis.com
+title: Kroger Names Patrick Haines Vice President of Fresh Foods Sourcing
+link: https://www.andnowuknow.com/buyside-news/kroger-names-patrick-haines-vice-president-fresh-foods-sourcing/melissa-de-leon-chavez/102773
+source: AndNowUKnow
+date: 02/12/2026, 06:41 PM, +0000 UTC
+
+title: Fruit puree pouches recalled at Kroger, Target, Meijer over plastic risk
+link: https://www.usatoday.com/story/grocery/stores/2026/07/22/fruit-puree-pouches-recalled-kroger-meijer-target/91005782007/
+source: USA Today
+date: 07/23/2026, 07:00 AM, +0000 UTC
+
+title: Feds: Former Kroger buyer pleads guilty to charges related to produce 'kickback scheme'
+link: https://www.wlwt.com/article/former-kroger-buyer-pleads-guilty-to-charges-related-to-kickback-scheme/69425875
+source: WLWT
+date: 11/13/2025, 08:00 AM, +0000 UTC
+
+title: Kroger announces leadership updates
+link: https://www.producegrower.com/news/kroger-leadership-updates-produce-retailer/
+source: producegrower.com
+date: 01/22/2026, 08:00 AM, +0000 UTC
+
+title: Salad Days expands hydroponic lettuce distribution to Madiso...
+link: https://www.onlinemadison.com/gomadco/salad-days-expands-hydroponic-lettuce-distribution-to-madison-kroger-stores-0d1cd99a
+source: Madison County Journal
+date: 07/08/2026, 07:00 AM, +0000 UTC
+
+title: East Cobb Biz Scene: Kroger unveils 2 new store renovations
+link: https://eastcobbnews.com/east-cobb-biz-scene-kroger-unveils-2-new-store-renovations/
+source: East Cobb News
+date: 07/19/2026, 07:00 AM, +0000 UTC
+
+title: USA: Supermarkets Kroger & Publix fail to respond to allegations of worker abuse in lawsuit against supplier Jackson Farming Company
+link: https://www.business-humanrights.org/en/latest-news/usa-supermarkets-kroger-publix-fail-to-respond-to-allegations-of-worker-abuse-in-lawsuit-against-supplier-jackson-farming-company/
+source: business-humanrights.org
+date: 05/19/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Names Patrick Haines Vice President of Fresh Foods Sourcing
+link: https://www.delimarketnews.com/shop-talk/kroger-names-patrick-haines-vice-president-fresh-foods-sourcing/melissa-de-leon-chavez/fri-02132026-0836/21009
+source: Deli Market News
+date: 02/13/2026, 08:00 AM, +0000 UTC
+
+title: Inside Kroger's AI-driven network transformation
+link: https://www.fierce-network.com/modernization/inside-krogers-ai-driven-network-transformation
+source: fierce-network.com
+date: 05/11/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Set to Report Q2 Earnings: What Should Investors Expect?
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-set-report-q2-earnings-164700226.html
+source: finance.yahoo.com
+date: 09/10/2026, 04:47 PM, +0000 UTC
+
+title: Kroger (KR) Stock Looks Fair On Earnings While Returns Stay Strong
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-fair-043052519.html
+source: finance.yahoo.com
+date: 09/02/2026, 07:00 AM, +0000 UTC
+
+title: Kroger (KR) Earnings Expected to Grow: Should You Buy?
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-earnings-expected-grow-140001465.html
+source: finance.yahoo.com
+date: 09/04/2026, 07:00 AM, +0000 UTC
+
+title: Kroger (KR) Reports Q2: Everything You Need To Know Ahead Of Earnings
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-reports-q2-everything-030052784.html
+source: finance.yahoo.com
+date: 09/09/2026, 07:00 AM, +0000 UTC
+
+title: Ahead of Kroger Earnings, Here's What Barchart Data Says Comes Next for KR Stock
+link: https://www.barchart.com/story/news/4547141/ahead-of-kroger-earnings-here-s-what-barchart-data-says-comes-next-for-kr-stock
+source: Barchart.com
+date: 09/10/2026, 07:00 AM, +0000 UTC
+
+title: How Will Kroger Stock React To Its Upcoming Earnings?
+link: https://www.trefis.com/stock/kr/articles/614506/how-will-kroger-stock-react-to-its-upcoming-earnings-3/2026-09-08
+source: Trefis
+date: 09/08/2026, 11:48 AM, +0000 UTC
+
+title: Kroger Could Miss Quarterly Identical Sales Views Amid Challenging Grocery Backdrop, Oppenheimer Says
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-could-miss-quarterly-identical-184440166.html
+source: finance.yahoo.com
 date: 09/03/2026, 07:00 AM, +0000 UTC
 
-title: Costco Wholesale Q3 Earnings Call Highlights
-link: https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-q3-earnings-call-230726833.html
-source: Yahoo Finance
-date: 05/28/2026, 07:00 AM, +0000 UTC
+title: Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-miss-despite-122500636.html
+source: finance.yahoo.com
+date: 06/19/2026, 07:00 AM, +0000 UTC
 
-title: Costco Wholesale Corporation (NASDAQ:COST) Just Released Its Third-Quarter Earnings: Here's What Analysts Think
-link: https://finance.yahoo.com/markets/stocks/articles/costco-wholesale-corporation-nasdaq-cost-120449341.html
-source: Yahoo Finance
-date: 05/31/2026, 07:00 AM, +0000 UTC
+title: Dear Kroger Stock Fans, Mark Your Calendars for September 11
+link: https://finance.yahoo.com/markets/stocks/articles/dear-kroger-stock-fans-mark-140002214.html
+source: finance.yahoo.com
+date: 09/05/2026, 07:00 AM, +0000 UTC
 
-title: Costco (COST) Stock Drops Despite Market Gains: Important Facts to Note
-link: https://finance.yahoo.com/markets/stocks/articles/costco-cost-stock-drops-despite-214503123.html
-source: Yahoo Finance
+title: Kroger earnings on deck: Can new CEO navigate pricing pressure?
+link: https://www.investing.com/news/earnings/kroger-earnings-on-deck-can-new-ceo-navigate-pricing-pressure-93CH-4896159
+source: Investing.com
+date: 09/10/2026, 01:42 PM, +0000 UTC
+
+title: What You Need To Know Ahead of Kroger’s Earnings Release
+link: https://finance.yahoo.com/markets/stocks/articles/know-ahead-kroger-earnings-release-123957014.html
+source: finance.yahoo.com
+date: 07/27/2026, 07:00 AM, +0000 UTC
+
+title: Kroger (KR) Earnings Expected to Grow: Should You Buy?
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-earnings-expected-grow-140002623.html
+source: finance.yahoo.com
+date: 06/11/2026, 07:00 AM, +0000 UTC
+
+title: Kroger (KR) Stock Declines While Market Improves: Some Information for Investors
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-declines-while-220002260.html
+source: finance.yahoo.com
 date: 08/27/2026, 07:00 AM, +0000 UTC
 
-title: Costco (COST) Stock Looks Fully Priced Despite 121% Returns And Earnings Questions
-link: https://finance.yahoo.com/markets/stocks/articles/costco-cost-stock-looks-fully-151324195.html
-source: Yahoo Finance
-date: 08/18/2026, 07:00 AM, +0000 UTC
+title: Kroger Earnings Preview: The 1% Sales Floor and $1.8 Billion Buyback Test
+link: https://ts2.tech/en/kroger-earnings-preview-the-1-sales-floor-and-1-8-billion-buyback-test/
+source: ts2.tech
+date: 09/11/2026, 12:11 AM, +0000 UTC
 
-title: Costco asks members to help make stores better
-link: https://www.thestreet.com/retail/costco-welcomes-member-feedback-to-help-make-stores-better
-source: thestreet.com
-date: 09/14/2026, 08:00 PM, +0000 UTC
+title: Kroger (KR) Rises Higher Than Market: Key Facts
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-rises-higher-market-220002317.html
+source: finance.yahoo.com
+date: 08/21/2026, 07:00 AM, +0000 UTC
 
-title: Costco Caps Kirkland Motor Oil Purchases at Two Every Seven Days
-link: https://ts2.tech/en/costco-caps-kirkland-motor-oil-purchases-at-two-every-seven-days/
-source: TechStock²
-date: 09/14/2026, 09:59 AM, +0000 UTC
+title: Kroger’s comp sales underwhelm as Foran focuses on store improvements
+link: https://www.grocerydive.com/news/kroger-earnings-first-quarter-2026-ecommerce-pharmacy/823246/
+source: Grocery Dive
+date: 06/18/2026, 07:00 AM, +0000 UTC
 
-title: Costco cuts Kirkland Signature prices Q3 2026 earnings
-link: https://finance.yahoo.com/markets/stocks/articles/costco-cuts-kirkland-signature-prices-120100702.html
-source: Yahoo Finance
-date: 06/08/2026, 07:00 AM, +0000 UTC
+title: Kroger (KR) Stock Looks Fairly Valued On Current Earnings
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-fairly-210953904.html
+source: finance.yahoo.com
+date: 07/31/2026, 07:00 AM, +0000 UTC
+
+title: Kroger’s Grocery Turnaround Hits a Wall
+link: https://foodinstitute.com/retail/kroger-grocery-turnaround-hits-wall/
+source: The Food Institute
+date: 09/01/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Earnings: What To Look For From KR
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-earnings-look-kr-030050942.html
+source: finance.yahoo.com
+date: 06/16/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Q1 Earnings Call Focuses on Cost, Price and E-Commerce
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-call-focuses-094500999.html
+source: finance.yahoo.com
+date: 06/23/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Set to Report Q2 Earnings: What Should Investors Expect?
+link: https://www.zacks.com/stock/news/2987945/kroger-set-to-report-q2-earnings-what-should-investors-expect
+source: Zacks Investment Research
+date: 09/10/2026, 04:02 PM, +0000 UTC
+
+title: Kroger (KR) Q1 Earnings Miss Estimates
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-q1-earnings-miss-115502470.html
+source: finance.yahoo.com
+date: 06/18/2026, 07:00 AM, +0000 UTC
+
+title: KR Stock In Focus: Wells Fargo Flags ‘Choppy’ Road Ahead As Kroger Faces Flat Q2 Earnings Growth
+link: https://finance.yahoo.com/markets/stocks/articles/kr-stock-focus-wells-fargo-114752728.html
+source: finance.yahoo.com
+date: 06/22/2026, 07:00 AM, +0000 UTC

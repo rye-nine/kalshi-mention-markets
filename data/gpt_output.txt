@@ -1,9 +1,21 @@
-“Labor” never appears in the provided prior transcript, even in contexts where it might plausibly show up (wage rates, employee agreement, SG&A, productivity). They discuss “higher health care costs,” “employee agreement,” “vacation days,” “payrolls,” but consistently avoid the specific term “labor.”
+The keyword is “Produce” (capitalization doesn’t matter; “produce” vs “Produce” are equivalent).
 
-Costco management and analysts generally use accounting language like “SG&A,” “operations,” “productivity,” “payroll,” or “employee costs” rather than “labor costs” or “labor market.” With no obvious labor-related controversy or headline event in the recent news (no strikes, unionization drives, or large wage initiatives), there’s no new forcing function to pull the exact word “labor” into the script or Q&A.
+In the last call, “produce” appeared multiple times (e.g., “produce categories,” “our produce department”). It’s a core grocery category and central to Kroger’s narrative around:
 
-Some news items are about Labor Day, but those are consumer/retail calendar pieces; they don’t affect how executives talk on the earnings call, and when they do refer to the holiday it’s typically as “Labor Day,” not “labor” in isolation. The keyword here is “Labor” generally, but the more natural way it would show up in an earnings call is “labor costs,” “labor environment,” etc. Given the prior call avoided the term even when talking about employee agreements and costs, the base rate of “labor” being used verbatim in Costco calls looks low.
+- Cyclospora and food safety issues specifically impacting produce.
+- Category mix and comps (produce vs meat, bakery, etc.).
+- Ongoing recalls and public-health stories in the recent news tied directly to produce (bugs in produce, Taylor Farms recall, egg recalls plus broader fresh-food safety context).
+- Kroger’s discount programs explicitly targeting produce for SNAP/WIC/Medicaid shoppers (20% off produce, “Verified Savings” on produce), which are promoted heavily in 2026 coverage.
 
-The prediction market at 53% is effectively saying “coin flip.” Given the language pattern and lack of a labor-specific catalyst, that looks slightly too high. I’d still lean somewhat toward the market rather than make an extreme adjustment, but I would shade it down.
+Given that:
 
-Probability: 40
+- Category performance (fresh, produce) is routinely broken out on calls.
+- Management just had a produce-related contamination issue materially impacting IDs – analysts will almost certainly ask about it again.
+- External news flow around food safety and produce discount programs raises the salience of the word “produce” for both prepared remarks and Q&A.
+- “Produce” is a standard, almost unavoidable term when discussing fresh food mix in grocery earnings.
+
+With a market-implied probability of 99%, I see no strong reason to shade much lower. There is minimal scenario mass where they avoid the literal word “produce” given their business mix and current issues.
+
+My own estimate: essentially in line, very slightly below the market to account for residual wording risk.
+
+Probability: 98

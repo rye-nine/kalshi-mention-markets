@@ -1,6 +1,7 @@
 import json
 import logging
 import os
+import re
 from datetime import date as date_type
 from datetime import datetime
 from pathlib import Path
@@ -12,6 +13,7 @@ import ssl
 import certifi
 from urllib.error import URLError
 import pickle
+import time
 
 
 
@@ -27,6 +29,64 @@ PROMPT_ACTUAL = Path(__file__).resolve().parents[2] / "research" / "actual_promp
 KALSHI_API_ENDPOINT = "https://api.elections.kalshi.com/trade-api/v2"
 
 logger = logging.getLogger(__name__)
+
+
+
+def get_information(market_ticker):
+	"""Return the company and word associated with a Kalshi mention market."""
+	if not isinstance(market_ticker, str) or not market_ticker.strip():
+		raise ValueError("market_ticker must not be empty.")
+
+	ticker = market_ticker.strip()
+	request = Request(
+		f"{KALSHI_API_ENDPOINT}/markets/{ticker}",
+		headers={"Accept": "application/json"},
+	)
+	context = ssl.create_default_context(cafile=certifi.where())
+	try:
+		with urlopen(request, context=context) as response:
+			payload = json.load(response)
+	except HTTPError as error:
+		raise RuntimeError(
+			f"Kalshi request failed ({error.code}) for market {ticker!r}: {error.reason}"
+		) from error
+
+	market = payload.get("market", {})
+	market_title = str(market.get("title", "")).strip()
+	rules_primary = str(market.get("rules_primary", "")).strip()
+	company_match = re.search(
+		r"(?:any|each)\s+(.+?)\s+representative",
+		rules_primary,
+		re.IGNORECASE,
+	)
+	if not company_match:
+		company_match = re.search(
+			r"Will\s+(.+?)\s+mention\b",
+			market_title,
+			re.IGNORECASE,
+		)
+	company = company_match.group(1).strip() if company_match else ""
+	custom_strike = market.get("custom_strike")
+	custom_word = custom_strike.get("Word") if isinstance(custom_strike, dict) else None
+	word_candidates = (custom_word, market.get("subtitle"), market.get("yes_sub_title"))
+	word = next(
+		(
+			str(candidate).strip()
+			for candidate in word_candidates
+			if candidate and str(candidate).strip().casefold() not in {"yes", "no"}
+		),
+		"",
+	)
+	word = word.strip('"\'')
+
+	if not company or not word:
+		raise LookupError(
+			f"Kalshi market {ticker!r} does not contain a company and word."
+		)
+
+	information = {"company": company, "word": word}
+	logger.info("Resolved market %r to %s.", ticker, information)
+	return information
 
 def clear_all_files():
 	"""Clear the contents of all relevant files."""
@@ -133,8 +193,6 @@ def query_serp(company, keyword, date=None):
 	logger.info("Incorporated %d search results into %s.", result_count, DUMP_PATH)
 	return results
 
-
-
 def _roic_get(path, params, api_key):
 	logger.info("Calling ROIC API path=%s params=%s.", path, params)
 	query = urlencode(params)
@@ -167,66 +225,39 @@ def _roic_get(path, params, api_key):
 	return payload
 
 
-def get_market_price(market_ticker, word):
-	"""Return the latest YES price for the matching market, in dollars."""
-	logger.info("Looking up Kalshi market price for ticker=%r word=%r.", market_ticker, word)
+def get_market_price(market_ticker):
+	"""Return the latest YES price for a market ticker, in dollars."""
+	logger.info("Looking up Kalshi market price for ticker=%r.", market_ticker)
 	if not isinstance(market_ticker, str) or not market_ticker.strip():
 		raise ValueError("market_ticker must not be empty.")
-	if not isinstance(word, str) or not word.strip():
-		raise ValueError("word must not be empty.")
 
-	search_word = word.strip().casefold()
-	cursor = None
-	context = ssl.create_default_context(cafile=certifi.where())
-
-	while True:
-		params = {
-			"event_ticker": market_ticker.strip(),
-			"limit": 1000,
-		}
-		if cursor:
-			params["cursor"] = cursor
-		request = Request(
-			f"{KALSHI_API_ENDPOINT}/markets?{urlencode(params)}",
-			headers={"Accept": "application/json"},
-		)
-		logger.debug("Fetching Kalshi market page with params=%s.", params)
-		try:
-			with urlopen(request, context=context) as response:
-				payload = json.load(response)
-		except HTTPError as error:
-			raise RuntimeError(
-				f"Kalshi request failed ({error.code}) for event "
-				f"{market_ticker!r}: {error.reason}"
-			) from error
-
-		for market in payload.get("markets", []):
-			market_text = " ".join(
-				str(market.get(field, ""))
-				for field in ("yes_sub_title", "subtitle", "ticker")
-			).casefold()
-			if search_word in market_text:
-				price = market.get("last_price_dollars")
-				if price is None:
-					legacy_price = market.get("last_price")
-					price = legacy_price / 100 if legacy_price is not None else None
-				if price is None:
-					raise RuntimeError(
-						f"Kalshi market {market.get('ticker', '<unknown>')!r} "
-						"does not have a latest YES price."
-					)
-				logger.info("Found matching Kalshi market %r for word %r with price %s.", market.get("ticker"), word, price)
-				return float(price)
-
-		cursor = payload.get("cursor")
-		if not cursor:
-			break
-
-	logger.warning("No Kalshi market found containing %r for event %r.", word, market_ticker)
-	raise LookupError(
-		f"Kalshi could not find a market containing {word!r} "
-		f"for event {market_ticker!r}."
+	ticker = market_ticker.strip()
+	request = Request(
+		f"{KALSHI_API_ENDPOINT}/markets/{ticker}",
+		headers={"Accept": "application/json"},
 	)
+	context = ssl.create_default_context(cafile=certifi.where())
+	try:
+		with urlopen(request, context=context) as response:
+			payload = json.load(response)
+	except HTTPError as error:
+		raise RuntimeError(
+			f"Kalshi request failed ({error.code}) for market "
+			f"{ticker!r}: {error.reason}"
+		) from error
+
+	market = payload.get("market", {})
+	price = market.get("last_price_dollars")
+	if price is None:
+		legacy_price = market.get("last_price")
+		price = legacy_price / 100 if legacy_price is not None else None
+	if price is None:
+		raise RuntimeError(
+			f"Kalshi market {ticker!r} does not have a latest YES price."
+		)
+
+	logger.info("Found Kalshi market %r with price %s.", ticker, price)
+	return float(price)
 
 
 def _as_datetime(value):
@@ -247,6 +278,7 @@ def _as_datetime(value):
 
 def get_prior_earnings_call(company, date=None):
 	"""Fetch the latest earnings-call transcript available at ``date``."""
+	time.sleep(60) # because we keep spamming :(
 	logger.info("Fetching prior earnings call for company=%r date=%r.", company, date)
 	api_key = os.environ.get("ROIC_API_KEY")
 	if not api_key:
@@ -346,7 +378,7 @@ def format_news():
 	logger.info("Formatted %d news articles into a prompt string of length %d.", len(formatted_articles), len(formatted_output))
 	return formatted_output
 
-def input_context(market_ticker, word):
+def input_context(market_ticker, word, date = None, prior_market_price = None):
 	logger.info("Building prompt input context for market_ticker=%r word=%r.", market_ticker, word)
 	 # erase all content from actual_prompt.txt before writing new prompt
 	with open(PROMPT_TEMPLATE, "r", encoding="utf-8") as source:
@@ -355,6 +387,14 @@ def input_context(market_ticker, word):
 	with open(PROMPT_ACTUAL, "w", encoding="utf-8") as destination:
 		destination.write(content)
 	logger.info("Loaded template from %s and initialized %s.", PROMPT_TEMPLATE, PROMPT_ACTUAL)
+
+	if date is not None:
+		with open(PROMPT_ACTUAL, "r+", encoding="utf-8") as file:
+			lines = file.readlines()
+			lines.insert(12, f"**CONSTRAINTS**: Treat the current date as {date}. You do not have any information past this date.\n \n")
+			file.seek(0)
+			file.writelines(lines)
+			file.truncate()
 	
 	with open(PRIOR_TRANSCRIPT_PATH, "r", encoding="utf-8") as f:
 		data = json.load(f)
@@ -365,9 +405,10 @@ def input_context(market_ticker, word):
 		)
 	logger.info("Prepared transcript excerpt with %d entries.", len(data.get("transcript", [])))
 
+	price_to_add = get_market_price(market_ticker) if (prior_market_price is None) else prior_market_price
 
 	text_to_add = f"""**KEYWORD**: {word} \n \n
-**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: {get_market_price(market_ticker, word)} \n \n
+**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: {price_to_add} \n \n
 **PREVIOUS EARNINGS CALL TRANSCRIPT**: \n 
 {transcript_text} \n \n
 **RECENT NEWS**: \n
@@ -379,7 +420,7 @@ def input_context(market_ticker, word):
 
 	return text_to_add
 
-def execute_engineer_prompt(market_ticker, company, word):
+def execute_engineer_prompt(market_ticker, company, word, date = None, prior_market_price = None):
 	"""Execute the engineer prompt with the given market ticker, company, and name."""
 	logger.info("Executing engineer prompt for market_ticker=%r company=%r word=%r.", market_ticker, company, word)
 	# Clear all relevant files before starting
@@ -387,15 +428,15 @@ def execute_engineer_prompt(market_ticker, company, word):
 
 	# Query SerpAPI for news articles
 	logger.info("Querying news for %r.", company)
-	query_serp(company, word)
+	query_serp(company, word, date=date)
 
 	# Fetch the prior earnings call transcript
 	logger.info("Fetching prior earnings call for %r.", company)
-	get_prior_earnings_call(company)
+	get_prior_earnings_call(company, date=date)
 
 	# Prepare the input context for the prompt
 	logger.info("Preparing prompt input context.")
-	input_context(market_ticker, word)
+	input_context(market_ticker, word, date=date, prior_market_price=prior_market_price)
 
 	logger.info("Engineer prompt execution completed successfully.")
 	return "Engineer prompt executed successfully."

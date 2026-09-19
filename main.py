@@ -68,7 +68,7 @@ def main():
 	if result is not None:
 		logger.debug("Serializing result from %s", function_name)
 		print(json.dumps(result, indent=2, default=str))
-		print(f"Output type: {type(result).__name__}")
+		#print(f"Output type: {type(result).__name__}")
 
 if __name__ == "__main__":
 	main()
