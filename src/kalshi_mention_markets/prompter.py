@@ -62,7 +62,7 @@ def calculate_mixmcp(probability, market_price, alpha = 0.7):
     return mixmcp
 
 
-def run_pipeline(market_ticker, alpha = 0.7, market_price = None, date = None, prior_market_price = None):
+def run_pipeline(market_ticker, alpha = 0.7, market_price = None, date = None):
     """Market price should only be provided if we're using historical data. If not provided, the current market price will be fetched from Kalshi."""
 
     """Get necessary information for the market and run the entire research pipeline."""
@@ -72,7 +72,7 @@ def run_pipeline(market_ticker, alpha = 0.7, market_price = None, date = None, p
     """Run the entire research pipeline."""
 
     logger.info("Starting full pipeline for company %r, event %r, word %r", company, market_ticker, word)
-    execute_engineer_prompt(market_ticker, company, word, date=date, prior_market_price=prior_market_price)
+    execute_engineer_prompt(market_ticker, company, word, date=date, prior_market_price=market_price)
     # print all the text in the prompt output file
     run_prompt()
     parsed_probability = parse_probability_from_text()

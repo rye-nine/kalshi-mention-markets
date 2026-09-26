@@ -1,21 +1,24 @@
-The keyword is “Produce” (capitalization doesn’t matter; “produce” vs “Produce” are equivalent).
+The word “produce” does not appear even once in the prior earnings call transcript, despite extensive discussion of fresh food, Our Brands, e‑commerce, and store execution. Management consistently used “fresh,” “fresh food,” “Our Brands,” “assortment,” and specific items (e.g., Garlic and Herb Rotisserie Chicken, Watermelon) rather than the department label “produce.”
 
-In the last call, “produce” appeared multiple times (e.g., “produce categories,” “our produce department”). It’s a core grocery category and central to Kroger’s narrative around:
+In the recent news flow, “produce” appears mainly in operational or PR contexts (recalls, discounts for SNAP/WIC shoppers, kickback scheme, leadership in fresh sourcing), not as a central investor-theme word like “eCommerce,” “media,” “fresh,” or “pharmacy” that you’d expect to be repeated verbatim in the scripted remarks. Even articles that focus on the discount program frame it more as “Verified Savings,” “fresh” and “produce discounts” for food-assistance shoppers; on calls, that’s likely to be summarized under “fresh” and “affordability/value,” not necessarily by department name.
 
-- Cyclospora and food safety issues specifically impacting produce.
-- Category mix and comps (produce vs meat, bakery, etc.).
-- Ongoing recalls and public-health stories in the recent news tied directly to produce (bugs in produce, Taylor Farms recall, egg recalls plus broader fresh-food safety context).
-- Kroger’s discount programs explicitly targeting produce for SNAP/WIC/Medicaid shoppers (20% off produce, “Verified Savings” on produce), which are promoted heavily in 2026 coverage.
+Kroger’s current strategic narrative, per both the Q1 call and pre‑Q2 coverage, is about:
 
-Given that:
+- Cost savings vs operating costs outpacing sales  
+- Price investments/affordability  
+- eCommerce and retail media profitability and growth  
+- Pharmacy dynamics (GLP‑1s, IRA, brand‑to‑generic mix)  
+- Store execution and footprint
 
-- Category performance (fresh, produce) is routinely broken out on calls.
-- Management just had a produce-related contamination issue materially impacting IDs – analysts will almost certainly ask about it again.
-- External news flow around food safety and produce discount programs raises the salience of the word “produce” for both prepared remarks and Q&A.
-- “Produce” is a standard, almost unavoidable term when discussing fresh food mix in grocery earnings.
+All of these can be discussed in detail without ever using the word “produce,” and recent behavior shows they already do exactly that. Analysts’ questions are focused on price, volumes, units, costs, e‑commerce, and pharmacy — not on “produce” as a discrete topic. Even if fresh fruits/vegetables or recalls come up, generic phrasing like “fresh,” “fresh foods,” “fruit and vegetables,” or “fresh categories” is at least as likely as the specific department label “produce.”
 
-With a market-implied probability of 99%, I see no strong reason to shade much lower. There is minimal scenario mass where they avoid the literal word “produce” given their business mix and current issues.
+Given:
 
-My own estimate: essentially in line, very slightly below the market to account for residual wording risk.
+- Zero usage in the last call  
+- Strategy language favoring “fresh” over “produce”  
+- News mentions that don’t obviously force “produce” into the investor narrative  
+- A roughly 50/50 market price (0.49)  
 
-Probability: 98
+I see the market as slightly too high. I’d shade modestly lower but stay near the market given residual uncertainty and the possibility an analyst explicitly says “produce.”
+
+Probability: 40

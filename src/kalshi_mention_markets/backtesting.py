@@ -15,13 +15,15 @@ from .prompter import run_pipeline
 
 logger = logging.getLogger(__name__)
 
-SEED = 42 # Fixed seed for reproducibility in random selection of historical prices
+SEED = 670 # Fixed seed for reproducibility in random selection of historical prices
 
 # just make sure the seed works
 
 # PRESETS:
-MIN_EDGE = 0.09
-SELL_AT_DISTANCE = 0.03
+MIN_EDGE = 0.03
+SELL_AT_DISTANCE = 0.01
+
+ALPHA = 0.7  # Weight for market price in MIXMCP calculation
 
 @dataclass
 class earnings_call:
@@ -136,8 +138,22 @@ def random_historical_yes_price(market_ticker, seed=42) -> tuple[datetime, float
 	logger.info("Selected %s at %s with YES price %.4f", market_ticker, timestamp, price)
 	return timestamp, price
 
+def determine_kelly(market_price, probability, multiplier=1.0):
+	# we already assume that an edge is present, so we don't need to check for that here
+	if not (0 < market_price < 1):
+		raise ValueError(f"market_price must be between 0 and 1, got {market_price}")
+	if not (0 < probability < 1):
+		raise ValueError(f"probability must be between 0 and 1, got {probability}")
 
-def simulate_trade(market_ticker, timestamp=None):
+	if probability > market_price:
+		# Buy YES
+		kelly_fraction = (probability - market_price) / (1 - market_price)
+	else:
+		# Buy NO
+		kelly_fraction = (market_price - probability) / market_price
+	return kelly_fraction * multiplier
+
+def simulate_trade(market_ticker, available_capital, timestamp=None):
 	market, candlesticks = _historical_market_data(market_ticker)
 	entry_timestamp = _parse_timestamp(
 		market["open_time"] if timestamp is None else timestamp
@@ -162,26 +178,43 @@ def simulate_trade(market_ticker, timestamp=None):
 			f"No historical market price is available at or after timestamp {entry_timestamp}."
 		)
 	entry_price = _yes_close_dollars(entry_candlestick)
+	# if not 0.50 <= entry_price <= 0.70:
+	# 	logger.info("No trade at %s: price %.4f is outside the 0.50-0.70 range", entry_timestamp, entry_price)
+	# 	logger.info("Trade summary for %s: trade_count=0 details=[]", market_ticker)
+	# 	return 0.0, 0, f"Trade was not made. Market price was {entry_price} and so our probability was not calculated."
 	probability = run_pipeline(
-		market_ticker,
+		market_ticker=market_ticker,
+		alpha=ALPHA,
 		market_price=entry_price,
 		date=entry_timestamp.date().isoformat(),
-		prior_market_price=entry_price,
 	)
 	if not isinstance(probability, (int, float)):
 		raise ValueError(f"run_pipeline returned a non-numeric probability: {probability!r}")
 
 	if abs(probability - entry_price) < MIN_EDGE:
 		logger.info("No trade at %s: probability %.4f, price %.4f", entry_timestamp, probability, entry_price)
-		return 0.0
+		logger.info("Trade summary for %s: trade_count=0 details=[]", market_ticker)
+		return 0.0, 0, f"Trade was not made. Market price was {entry_price} and our probability was {probability}, so our edge was too small."
 
-	bought_yes = probability < entry_price
-	entry_cost = entry_price if bought_yes else 1 - entry_price
+	bought_yes = probability > entry_price
+	position_price = entry_price if bought_yes else 1 - entry_price
+	kelly_fraction = determine_kelly(entry_price, probability)
+	buy_amount = kelly_fraction * available_capital
+	contract_count = buy_amount / position_price
+	trade_details = {
+		"side": "YES" if bought_yes else "NO",
+		"buy_price": position_price,
+		"buy_amount": buy_amount,
+		"bought_at": entry_timestamp,
+		"sold": False,
+		"sell_price": None,
+		"profit": None,
+	}
 	logger.info(
 		"Bought %s at %s for %.4f with estimated probability %.4f",
 		"YES" if bought_yes else "NO",
 		entry_timestamp,
-		entry_cost,
+		buy_amount,
 		probability,
 	)
 
@@ -191,12 +224,27 @@ def simulate_trade(market_ticker, timestamp=None):
 			continue
 		current_price = _yes_close_dollars(candlestick)
 		if abs(current_price - probability) <= SELL_AT_DISTANCE:
-			profit = current_price - entry_price if bought_yes else entry_price - current_price
+			profit_per_contract = current_price - entry_price if bought_yes else entry_price - current_price
+			profit = contract_count * profit_per_contract
+			trade_details["sold"] = True
+			trade_details["sell_price"] = current_price
+			trade_details["profit"] = profit
 			logger.info("Sold at %s for profit %.4f", current_timestamp, profit)
-			return profit
+			logger.info(
+				"Trade summary for %s: trade_count=1 details=%s",
+				market_ticker,
+				trade_details,
+			)
+			return profit, 1, f"Trade was made. We were able to sell out before market concluded. Profit {profit}"
 
 	logger.info("Market %s resolved before reaching the sell distance.", market.get("ticker", market_ticker))
-	return -entry_cost
+	trade_details["profit"] = -buy_amount
+	logger.info(
+		"Trade summary for %s: trade_count=1 details=%s",
+		market_ticker,
+		trade_details,
+	)
+	return -buy_amount, 1, f"Trade was made. We were not able to sell out before market concluded. Profit {-buy_amount}"
 
 # TEST EARNINGS CALL:
 
@@ -206,14 +254,23 @@ call = earnings_call(
 	timestamp = random_historical_yes_price(MARKET_TICKERS[0], seed=SEED)[0]
 )
 
-def simulate_earnings_call(earnings_call=call):
-	total_profit = 0.0
+def simulate_earnings_call(starting_capital = 104.74, earnings_call=call):
+	if not isinstance(starting_capital, (int, float)):
+		raise ValueError("starting_capital must be a number. Got a {}".format(type(starting_capital).__name__))
+	capital_to_track = starting_capital
+	total_trades = 0
+	trade_messages = []
 	for market_ticker in earnings_call.market_tickers:
 		try:
-			profit = simulate_trade(market_ticker, earnings_call.timestamp)
-			total_profit += profit
+			profit, result, message = simulate_trade(market_ticker, capital_to_track, earnings_call.timestamp)
+			capital_to_track += profit
+			total_trades += result
+			changed_message = f"Market {market_ticker}: {message}\n"
+			trade_messages.append(changed_message)
 		except Exception as e:
 			logger.error("Error simulating trade for market %s: %s", market_ticker, e)
-	return total_profit
+	logger.info("Presets used: MIN_EDGE=%.2f, SELL_AT_DISTANCE=%.2f", MIN_EDGE, SELL_AT_DISTANCE)
+	return capital_to_track, total_trades, trade_messages
 
-
+def backtest(earnings_event_list, starting_capital):
+	return "bruh"
