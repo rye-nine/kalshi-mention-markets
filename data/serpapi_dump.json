@@ -1,374 +1,229 @@
 {
-  "Kroger": [
+  "AutoZone": [
     {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "Kroger names Mark Ibbotson Executive Vice President and Chief Store Operations Officer",
-      "snippet": "https://ir.kroger.com/news/news-details/2026/Kroger-names-Mark-Ibbotson-Executive-Vice-President-and-Chief-Store-Operations-Officer/default.aspx",
+      "title": "Sheriff posts photos of 27 suspected of ransacking AutoZone during East L.A. street takeovers",
+      "snippet": "https://www.latimes.com/california/story/2026-08-16/27-suspected-of-ransacking-autozone-during-east-la-street-takeovers",
       "source": {
-        "name": "Kroger",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ir.kroger.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "latimes.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.latimes.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Zahniser"
+        ]
       },
-      "date": "09/02/2026, 07:00 AM, +0000 UTC"
+      "date": "08/16/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
+      "title": "Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O'Reilly Automotive Slips",
+      "snippet": "https://247wallst.com/investing/2026/08/20/advance-auto-parts-plunges-21-as-revenue-miss-overshadows-earnings-beat-autozone-falls-4-oreilly-automotive-slips/",
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "David Moadel, M.Ed."
+        ]
+      },
+      "date": "08/20/2026, 07:00 AM, +0000 UTC"
     }
   ],
-  "Kroger Deflation": [
+  "AutoZone Tax Refund": [
     {
-      "title": "America\u2019s biggest grocery store chain slashes prices on thousands of items as affordability war ramps up",
-      "snippet": "https://nypost.com/2026/05/25/lifestyle/kroger-slashes-prices-on-thousands-of-items/",
+      "title": "AutoZone 3rd Quarter Total Company Same Store Sales",
+      "snippet": "https://www.globenewswire.com/news-release/2026/05/26/3300920/0/en/autozone-3rd-quarter-total-company-same-store-sales-increase-3-9-domestic-same-store-sales-increase-4-1-eps-of-38-07.html",
       "source": {
-        "name": "New York Post",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://nypost.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "GlobeNewswire",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.globenewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/26/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O'Reilly Automotive Slips",
+      "snippet": "https://247wallst.com/investing/2026/08/20/advance-auto-parts-plunges-21-as-revenue-miss-overshadows-earnings-beat-autozone-falls-4-oreilly-automotive-slips/",
+      "source": {
+        "name": "24/7 Wall St.",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Ben Cost"
+          "David Moadel, M.Ed."
         ]
       },
-      "date": "05/25/2026, 07:00 AM, +0000 UTC"
+      "date": "08/20/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Reports First Quarter 2026 Results; Greg Foran Shares",
-      "snippet": "https://www.delimarketnews.com/whats-store/kroger-reports-first-quarter-2026-results-greg-foran-shares/deli-staff/thu-06252026-0830/21792",
+      "title": "AutoZone opens second Flower Mound location | Dallas - Fort Worth",
+      "snippet": "https://communityimpact.com/flower-mound-highland-village-argyle/business/autozone-opens-second-flower-mound-location/",
       "source": {
-        "name": "Deli Market News",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.delimarketnews.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "06/25/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger Stock Outlook Hinges on Digital Growth & Private-Label Strength",
-      "snippet": "https://www.theglobeandmail.com/investing/markets/stocks/KR/pressreleases/2628851/kroger-stock-outlook-hinges-on-digital-growth-private-label-strength/",
-      "source": {
-        "name": "The Globe and Mail",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.theglobeandmail.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "06/24/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger CEO pledges key changes to boost customer loyalty",
-      "snippet": "https://www.thestreet.com/retail/kroger-ceo-pledges-key-changes-to-boost-customer-loyalty",
-      "source": {
-        "name": "thestreet.com",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Community Impact",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://communityimpact.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Patricia Battle",
-          "Celine Provini"
+          "Connor Pittman"
         ]
       },
-      "date": "03/09/2026, 07:00 AM, +0000 UTC"
+      "date": "03/11/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger CEO says half its customers are under financial strain",
-      "snippet": "https://www.foxbusiness.com/lifestyle/kroger-ceo-says-half-its-customers-are-under-financial-strain",
+      "title": "Man Puts His Mazda Filter in a New Box. Then He Tries To Get AutoZone To Refund It",
+      "snippet": "https://www.motor1.com/news/802850/mazda-autozone-return/",
       "source": {
-        "name": "Fox Business",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.foxbusiness.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Motor1.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.motor1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Daniella Alessandra Genovese"
+          "Chad Swiatecki"
         ]
       },
-      "date": "01/16/2023, 08:00 AM, +0000 UTC"
+      "date": "07/28/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger: Sales dip due to deflation, not rivals",
-      "snippet": "https://www.wcpo.com/money/local-business-news/kroger-growth-streak-ends-at-52-quarters",
+      "title": "AutoZone Joins Retailers Stifled by U.S. Tax Refund Delays",
+      "snippet": "https://www.bloomberg.com/news/articles/2017-05-23/autozone-joins-retailers-stifled-by-delayed-u-s-tax-returns",
       "source": {
-        "name": "wcpo.com",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcpo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Bloomberg",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Dan Monk"
+          "Gabrielle Coppola"
         ]
       },
-      "date": "03/02/2017, 08:00 AM, +0000 UTC"
+      "date": "05/23/2017, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Walmart is also ready for grocery prices to come down",
-      "snippet": "https://www.businessinsider.com/walmart-wants-to-lower-your-grocery-bill-expects-deflation-2023-11",
+      "title": "Man Gets a Call From AutoZone. A Stranger is Using His Account to Buy Unexpected Items: \u2018I Have Never Experienced What I Experienced Today\u2019",
+      "snippet": "https://www.motorbiscuit.com/autozone-protect-account-from-scammers/",
       "source": {
-        "name": "Business Insider",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "MotorBiscuit",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.motorbiscuit.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "12/19/2025, 08:00 AM, +0000 UTC"
+    },
+    {
+      "title": "AutoZone (AZO) Could Be 24% Undervalued As International Expansion Comes Into Focus",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/autozone-azo-could-24-undervalued-160845013.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "08/03/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Tax refunds are currently averaging $2,169 \u2014 How it might affect these consumer stocks",
+      "snippet": "https://www.cnbc.com/2025/02/24/tax-refunds-averaging-2169-might-affect-these-consumer-stocks.html",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Dominick Reuter"
+          "Darla Mercado"
         ]
       },
-      "date": "11/17/2023, 08:00 AM, +0000 UTC"
+      "date": "02/24/2025, 08:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger price gouging allegations strike chord with Indiana shoppers",
-      "snippet": "https://www.wthr.com/article/news/local/kroger-prices-price-gouging-indiana-indianapolis-inflation-deflation-grocery-charges-shopping-budget-money-finances-hearing/531-d68c5f2c-0ff4-49ce-84f9-06019700b7a0",
+      "title": "Woman Brings Batteries To O\u2019Reilly To Be Recycled. Then She Leaves With $50 In Gift Cards: \u2018AutoZone Also'",
+      "snippet": "https://www.motor1.com/news/798262/o-reilly-autozone-battery-recycling/",
       "source": {
-        "name": "WTHR",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.wthr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Motor1.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.motor1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Marina Silva"
+          "Alexandra Samuels"
         ]
       },
-      "date": "08/30/2024, 07:00 AM, +0000 UTC"
+      "date": "06/10/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "The Kroger Co 2026: Revenue $46.12B, EPS $1.46\u2014 10-Q Summary",
-      "snippet": "https://www.tradingview.com/news/tradingview:0302fa936e07f:0-the-kroger-co-2026-revenue-46-12b-eps-1-46-10-q-summary/",
+      "title": "Memphis Returns to AutoZone Park to Host Mississippi State",
+      "snippet": "https://gotigersgo.com/news/2017/3/27/baseball-memphis-returns-to-autozone-park-to-host-mississippi-state",
       "source": {
-        "name": "tradingview.com",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "University of Memphis Athletics",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://gotigersgo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "06/26/2026, 07:00 AM, +0000 UTC"
+      "date": "03/27/2017, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger stock plunges amid food deflation and price war",
-      "snippet": "https://www.cincinnati.com/story/money/2017/06/15/kroger-cuts-profit-outlook/398956001/",
+      "title": "'Gotta Love AutoZone': Mechanic Orders Alternator from AutoZone for Hyundai. Then He Opens the Box",
+      "snippet": "https://www.motor1.com/news/784164/autozone-wrong-alternator/",
       "source": {
-        "name": "Cincinnati Enquirer",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cincinnati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Motor1.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.motor1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "01/13/2026, 08:00 AM, +0000 UTC"
+    },
+    {
+      "title": "AutoZone, Inc. Reports Q3 Fiscal 2025 Financial Results with Sales Growth and Share Repurchases",
+      "snippet": "https://www.quiverquant.com/news/AutoZone,+Inc.+Reports+Q3+Fiscal+2025+Financial+Results+with+Sales+Growth+and+Share+Repurchases",
+      "source": {
+        "name": "Quiver Quantitative",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.quiverquant.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/27/2025, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Napa Auto Parts Employee Arrested for Massive 'Refund Fraud Scheme.' What Do Cops Say She Did?",
+      "snippet": "https://www.motor1.com/news/776650/napa-auto-parts-employee-fraud/",
+      "source": {
+        "name": "Motor1.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.motor1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "10/22/2025, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "'The Mechanic Just Wants My Money:' Mechanic Tells California Woman It\u2019s $30 to Check Code. So She Goes to AutoZone Instead",
+      "snippet": "https://www.motor1.com/news/774985/autozone-free-code-scan-hack/",
+      "source": {
+        "name": "Motor1.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.motor1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Alexander Coolidge"
+          "Alexandra Samuels"
         ]
       },
-      "date": "06/15/2017, 07:00 AM, +0000 UTC"
+      "date": "10/07/2025, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors",
-      "snippet": "https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors",
+      "title": "\u2018I'm On My 4th Exchange:\u2019 AutoZone Worker Says Duralast Brake Pads Come With a Lifetime Warranty. But Here's How to Get It",
+      "snippet": "https://www.motor1.com/news/763994/autozone-duralast-brakes-lifetime-warranty/",
       "source": {
-        "name": "TIKR.com",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tikr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Motor1.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.motor1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Wiltone Asuncion"
+          "Stacy Fern\u00e1ndez"
         ]
       },
-      "date": "06/19/2026, 07:00 AM, +0000 UTC"
+      "date": "06/27/2025, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger slashes new store development plans by 35%",
-      "snippet": "https://www.grocerydive.com/news/grocery--kroger-slashes-new-store-development-plans-by-35/535273/",
+      "title": "'We Never Did That at My Shop:' AutoZone Worker Says it 'Hurts His Soul' Whenever a Customer Requires Him to Do This. Why?",
+      "snippet": "https://www.motor1.com/news/764719/autozone-throw-out-fresh-oil/",
       "source": {
-        "name": "Grocery Dive",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.grocerydive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Motor1.com",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.motor1.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Keith Loria"
+          "Chad Swiatecki"
         ]
       },
-      "date": "03/31/2017, 07:00 AM, +0000 UTC"
+      "date": "07/05/2025, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger digital sales become profitable \u2018ahead of schedule\u2019 in Q1",
-      "snippet": "https://www.digitalcommerce360.com/2026/06/18/kroger-digital-sales-q1-fy26/amp/",
+      "title": "AutoZone CEO talks disappointing quarter, coronavirus in earnings call",
+      "snippet": "https://www.bizjournals.com/memphis/news/2020/03/03/autozone-ceo-talks-disappointing-quarter.html",
       "source": {
-        "name": "Digital Commerce 360",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.digitalcommerce360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "The Business Journals",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.bizjournals.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Abbas Haleem"
+          "John Klyce"
         ]
       },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
+      "date": "03/03/2020, 08:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger and Roundy's Announce Definitive Merger Agreement",
-      "snippet": "https://ir.kroger.com/news/news-details/2015/Kroger-and-Roundys-Announce-Definitive-Merger-Agreement/default.aspx",
+      "title": "Tennessee gave out $1.5B in tax refunds to corporations: Here's who benefitted",
+      "snippet": "https://www.tennessean.com/story/money/2025/06/01/tennessee-tax-refunds-list-of-companies/83977918007/",
       "source": {
-        "name": "Kroger",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ir.kroger.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "The Tennessean",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.tennessean.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Hadley Hitson"
+        ]
       },
-      "date": "11/11/2015, 08:00 AM, +0000 UTC"
+      "date": "06/01/2025, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger extended its streak of sales misses \u2014 but that\u2019s not hurting its profits",
-      "snippet": "https://www.marketwatch.com/story/kroger-extended-its-streak-of-sales-misses-but-thats-not-hurting-profits-5001f32e",
+      "title": "AutoZone\u2019s stock suffers record price plunge after profit and sales miss",
+      "snippet": "https://www.marketwatch.com/story/autozones-stock-suffers-record-price-plunge-after-profit-and-sales-miss-2017-05-23",
       "source": {
         "name": "MarketWatch",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.marketwatch.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
@@ -376,307 +231,244 @@
           "Tomi Kilgore"
         ]
       },
-      "date": "03/05/2026, 08:00 AM, +0000 UTC"
+      "date": "05/24/2017, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger CEO: Food price deflation is 'not fun'",
-      "snippet": "https://www.cincinnati.com/story/money/2016/12/01/kroger-sees-lower-profit-food-prices-sag/94688798/",
+      "title": "Mimosa Festival returns to Memphis on August 31",
+      "snippet": "https://www.actionnews5.com/2025/08/06/mimosa-festival-returns-memphis-august-31/",
       "source": {
-        "name": "Cincinnati Enquirer",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cincinnati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Action News 5",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.actionnews5.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Alexander Coolidge"
+          "Jacob Gallant"
         ]
       },
-      "date": "12/01/2016, 08:00 AM, +0000 UTC"
+      "date": "08/06/2025, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth",
-      "snippet": "https://www.tradingview.com/news/zacks:a8cc2459c094b:0-kroger-q1-earnings-miss-despite-revenue-beat-e-commerce-growth/",
+      "title": "Players in Memphis for the AutoZone Liberty Bowl will experience more than a game",
+      "snippet": "https://www.commercialappeal.com/story/news/local/2019/12/26/autozone-liberty-bowl-how-k-state-navy-getting-know-memphis/2703313001/",
       "source": {
-        "name": "tradingview.com",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "06/19/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger Stock Is Tied to Retail Media, Private Label, and Value Trends",
-      "snippet": "https://www.tradingview.com/news/zacks:b69ddf7b2094b:0-kroger-stock-is-tied-to-retail-media-private-label-and-value-trends/",
-      "source": {
-        "name": "tradingview.com",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "06/24/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Walmart's relentless price war is crushing America\u2019s biggest grocer",
-      "snippet": "https://www.businessinsider.com/walmart-is-cheaper-than-kroger-2017-4",
-      "source": {
-        "name": "Business Insider",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "The Commercial Appeal",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.commercialappeal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Hayley Peterson"
+          "Laura Testino"
         ]
       },
-      "date": "04/06/2017, 07:00 AM, +0000 UTC"
+      "date": "12/26/2019, 08:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger's 13-year winning streak just ended \u2014 and it\u2019s a warning sign for the entire grocery industry",
-      "snippet": "https://www.businessinsider.com/kroger-just-ended-a-13-year-winning-streak-2017-3",
+      "title": "On Memphis Redbirds opening day, one question lingers: When will fans be back? | Giannotto",
+      "snippet": "https://www.commercialappeal.com/story/sports/columnists/mark-giannotto/2024/03/29/memphis-redbirds-opening-day-attendance-autozone-park-renovations-minor-league-baseball-charlotte/73078897007/",
       "source": {
-        "name": "Business Insider",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "The Commercial Appeal",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.commercialappeal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Hayley Peterson"
+          "Mark Giannotto"
         ]
       },
-      "date": "03/06/2017, 08:00 AM, +0000 UTC"
+      "date": "03/29/2024, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Walmart is crushing Kroger and making food history",
-      "snippet": "https://www.businessinsider.com/walmart-is-cutting-prices-2017-4",
+      "title": "Five Meridian Twp. commercial property owners say sites were overvalued by over $5 million",
+      "snippet": "https://www.lansingstatejournal.com/story/news/2022/06/30/five-meridian-twp-property-owners-say-sites-overvalued-5-m/7657734001/",
       "source": {
-        "name": "Business Insider",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Lansing State Journal",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.lansingstatejournal.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Hayley Peterson"
+          "Bryce Airgood"
         ]
       },
-      "date": "04/20/2017, 07:00 AM, +0000 UTC"
+      "date": "06/29/2022, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Partners with Ocado to Serve Customers Anything, Anytime, Anywhere in U.S.",
-      "snippet": "https://www.prnewswire.com/news-releases/kroger-partners-with-ocado-to-serve-customers-anything-anytime-anywhere-in-us-300650210.html",
+      "title": "AutoZone seeks to build $49M facility near FedEx",
+      "snippet": "https://www.gainesville.com/story/business/2016/08/12/autozone-seeks-to-build-49m-facility-near-fedex-in-ocala/26056224007/",
       "source": {
-        "name": "PR Newswire",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prnewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "Gainesville Sun",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.gainesville.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "05/17/2018, 07:00 AM, +0000 UTC"
+      "date": "08/12/2016, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "China\u2019s Lunar New Year Pork Gloom Exposes Deep Economic Trouble",
-      "snippet": "https://www.bloomberg.com/news/articles/2024-02-03/china-economy-weak-pork-demand-for-lunar-new-year-highlights-deflation-woes",
+      "title": "AutoZone vs. Advance Auto vs. O'Reilly: Which Auto Parts Store Is Cheaper?",
+      "snippet": "https://www.cheapism.com/autozone-vs-advance-vs-oreilly/",
       "source": {
-        "name": "Bloomberg",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "cheapism.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cheapism.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "02/12/2019, 08:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Jobs in store",
+      "snippet": "https://www.ocala.com/story/news/politics/county/2017/12/11/distribution-center-will-service-convenience-stores/16856423007/",
+      "source": {
+        "name": "Ocala StarBanner",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.ocala.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Hallie Gu",
-          "Alfred Cang"
+          "Jim Ross"
         ]
       },
-      "date": "02/02/2024, 08:00 AM, +0000 UTC"
+      "date": "12/11/2017, 08:00 AM, +0000 UTC"
     },
     {
-      "title": "Simple Truth, Private Selection Drive Q1 Own Brand Gains at Kroger",
-      "snippet": "https://storebrands.com/simple-truth-private-selection-drive-q1-own-brand-gains-kroger",
+      "title": "27 Secret Rebates You Didn\u2019t Know About But Should",
+      "snippet": "https://www.cheapism.com/secret-rebates/",
       "source": {
-        "name": "Store Brands",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://storebrands.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "cheapism.com",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cheapism.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "01/13/2023, 08:00 AM, +0000 UTC"
+    },
+    {
+      "title": "AutoZone Stock (NYSE:AZO): Domestic Sales Deceleration Not a Concern",
+      "snippet": "https://www.tipranks.com/news/autozone-stock-nyseazo-domestic-sales-deceleration-not-a-concern",
+      "source": {
+        "name": "TipRanks",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tipranks.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Greg Sleter"
+          "Nikolaos Sismanis"
         ]
       },
-      "date": "06/22/2026, 07:00 AM, +0000 UTC"
+      "date": "06/05/2024, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger stock slide reveals bigger grocery problem",
-      "snippet": "https://www.thestreet.com/retail/kroger-stock-slide-reveals-bigger-grocery-problem",
+      "title": "AutoZone adds automatic delivery surcharge that customers by spending more",
+      "snippet": "https://www.the-sun.com/money/8918786/autozone-delivery-orders-avoid-online/",
       "source": {
-        "name": "thestreet.com",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "the-sun.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.the-sun.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Aparajita Chatterjee",
-          "Laura Grace Tarpley"
+          "Ben Shimkus"
         ]
       },
-      "date": "06/23/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger to hire 10,000 store employees",
-      "snippet": "https://www.cincinnati.com/story/money/nation-now/2017/01/23/kroger-supermarket-hiring/96947446/",
-      "source": {
-        "name": "Cincinnati Enquirer",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cincinnati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Sarah Brookbank"
-        ]
-      },
-      "date": "01/23/2017, 08:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger's stock pummeled again as investors worry price war chipping away at profits",
-      "snippet": "https://www.cnbc.com/2017/09/08/kroger-earnings-2q-earnings.html",
-      "source": {
-        "name": "CNBC",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Lauren Thomas"
-        ]
-      },
-      "date": "09/08/2017, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger disappoints with mixed Q1 profits",
-      "snippet": "https://www.sharecast.com/news/international-companies/kroger-disappoints-with-mixed-q1-profits--22773410.html",
-      "source": {
-        "name": "Sharecast.com",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.sharecast.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Benjamin Chiou"
-        ]
-      },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "5 Must-See Quotes From Kroger's Conference Call",
-      "snippet": "https://www.fool.com/investing/2016/09/19/5-must-see-quotes-from-krogers-conference-call.aspx",
-      "source": {
-        "name": "The Motley Fool",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Demitrios Kalogeropoulos"
-        ]
-      },
-      "date": "09/19/2016, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger's 13-year winning sales streak ends",
-      "snippet": "https://www.cincinnati.com/story/money/2017/03/02/kroger-market-share-growth-stalls/98601402/",
-      "source": {
-        "name": "Cincinnati Enquirer",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cincinnati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Alexander Coolidge"
-        ]
-      },
-      "date": "03/02/2017, 08:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Grocery chain resumes store closures after monthslong pause",
-      "snippet": "https://www.thestreet.com/retail/marianos-kroger-resumes-store-closures-after-pause",
-      "source": {
-        "name": "thestreet.com",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.thestreet.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Fernanda Tronco",
-          "Celine Provini"
-        ]
-      },
-      "date": "06/24/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "'Buy less, stretch things out.' Shoppers, Kroger battle food inflation",
-      "snippet": "https://www.cincinnati.com/story/money/2022/07/11/grocery-prices-soaring-kroger-shoppers-fight-inflation/7633689001/",
-      "source": {
-        "name": "Cincinnati Enquirer",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cincinnati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Alexander Coolidge"
-        ]
-      },
-      "date": "07/11/2022, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Does the Sell-Off in Grocery Stocks Present a Buying Opportunity for Kroger?",
-      "snippet": "https://www.fool.com/investing/2017/09/10/industry-focus-consumer-09-05-2017-segment-14.aspx",
-      "source": {
-        "name": "The Motley Fool",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/10/2017, 07:00 AM, +0000 UTC"
+      "date": "08/24/2023, 07:00 AM, +0000 UTC"
     }
   ],
-  "Kroger earnings": [
+  "AutoZone earnings": [
     {
-      "title": "Kroger Announces Second Quarter Conference Call with Investors",
-      "snippet": "https://ir.kroger.com/news/news-details/2026/Kroger-Announces-Second-Quarter-Conference-Call-with-Investors/default.aspx",
-      "source": {
-        "name": "Kroger",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ir.kroger.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "08/14/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger Set to Report Q2 Earnings: What Should Investors Expect?",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-set-report-q2-earnings-164700226.html",
+      "title": "AutoZone shares slide on quarterly revenue miss",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/autozone-shares-slide-quarterly-revenue-144900669.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/10/2026, 07:00 AM, +0000 UTC"
+      "date": "05/26/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger (KR) Earnings Expected to Grow: Should You Buy?",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-earnings-expected-grow-140001465.html",
+      "title": "AutoZone (AZO) Up 2% Since Last Earnings Report: Can It Continue?",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/autozone-azo-2-since-last-153001697.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/04/2026, 07:00 AM, +0000 UTC"
+      "date": "06/25/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger (KR) Reports Q2: Everything You Need To Know Ahead Of Earnings",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-reports-q2-everything-030052784.html",
+      "title": "AutoZone Earnings Preview: What to Expect",
+      "snippet": "https://www.barchart.com/story/news/3479547/autozone-earnings-preview-what-to-expect",
+      "source": {
+        "name": "Barchart.com",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barchart.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Aritra Gangopadhyay"
+        ]
+      },
+      "date": "07/27/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "AutoZone Q3 Earnings Beat Estimates on Strong Sales Growth",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/autozone-q3-earnings-beat-estimates-145600715.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/27/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "How Will AutoZone Stock React To Its Upcoming Earnings?",
+      "snippet": "https://www.trefis.com/stock/azo/articles/600173/how-will-autozone-stock-react-to-its-upcoming-earnings-2/2026-05-22",
+      "source": {
+        "name": "Trefis",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trefis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/22/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "AutoZone Says Cool Weather Led to Slowing Sales Growth",
+      "snippet": "https://www.wsj.com/business/earnings/autozone-sales-rise-on-domestic-growth-419c8cc7",
+      "source": {
+        "name": "WSJ",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Nicholas G Miller"
+        ]
+      },
+      "date": "05/26/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O\u2019Reilly Automotive Slips",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-plunges-21-143529655.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Adam Hejl"
+          "David Moadel, M.Ed."
         ]
       },
-      "date": "09/09/2026, 07:00 AM, +0000 UTC"
+      "date": "08/20/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger (KR) Stock Looks Fair On Earnings While Returns Stay Strong",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-fair-043052519.html",
+      "title": "AutoZone Inc (AZO) Q3 2026 Earnings Call Highlights: Strong Sales Growth Amid Margin Pressures",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/autozone-inc-azo-q3-2026-210057069.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/26/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Why AutoZone (AZO) Stock Is Down Today",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/why-autozone-azo-stock-down-194328383.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/26/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Are Wall Street Analysts Predicting AutoZone Stock Will Climb or Sink?",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-autozone-063018460.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Bailey Pemberton"
+          "Aanchal Sugandh"
         ]
       },
-      "date": "09/02/2026, 07:00 AM, +0000 UTC"
+      "date": "05/28/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Could Miss Quarterly Identical Sales Views Amid Challenging Grocery Backdrop, Oppenheimer Says",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-could-miss-quarterly-identical-184440166.html",
+      "title": "Compared to Estimates, AutoZone (AZO) Q3 Earnings: A Look at Key Metrics",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/compared-estimates-autozone-azo-q3-133003872.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/03/2026, 07:00 AM, +0000 UTC"
+      "date": "05/26/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger (KR) Rises Higher Than Market: Key Facts",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-rises-higher-market-220002317.html",
+      "title": "AutoZone to Release Fourth Quarter Fiscal 2026 Earnings September 22, 2026",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/autozone-release-fourth-quarter-fiscal-210000388.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "08/21/2026, 07:00 AM, +0000 UTC"
+      "date": "08/24/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-miss-despite-122500636.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "06/19/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger (KR) Earnings Expected to Grow: Should You Buy?",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-earnings-expected-grow-140002623.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "06/11/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Ahead of Kroger Earnings, Here's What Barchart Data Says Comes Next for KR Stock",
-      "snippet": "https://www.barchart.com/story/news/4547141/ahead-of-kroger-earnings-here-s-what-barchart-data-says-comes-next-for-kr-stock",
+      "title": "AutoZone Stock Is Plummeting Despite Strong Earnings. Here's Why.",
+      "snippet": "https://www.barchart.com/story/news/2159607/autozone-stock-is-plummeting-despite-strong-earnings-here-s-why",
       "source": {
         "name": "Barchart.com",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barchart.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
@@ -684,223 +476,37 @@
           "Wajeeh Khan"
         ]
       },
-      "date": "09/10/2026, 07:00 AM, +0000 UTC"
+      "date": "05/27/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Dear Kroger Stock Fans, Mark Your Calendars for September 11",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/dear-kroger-stock-fans-mark-140002214.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Ebube Jones"
-        ]
-      },
-      "date": "09/05/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger shares drop as earnings in-line, revenue tops estimates",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-meets-earnings-expectations-revenue-112244069.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Sam Boughedda"
-        ]
-      },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Oracle, Adobe, and Kroger earnings watchlist for the week of September 10",
-      "snippet": "https://www.investing.com/news/stock-market-news/oracle-adobe-and-kroger-earnings-watchlist-for-the-week-of-september-10-93CH-4892177",
-      "source": {
-        "name": "Investing.com",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.investing.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/08/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger (KR) Stock Looks Fairly Valued On Current Earnings",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-fairly-210953904.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Bailey Pemberton"
-        ]
-      },
-      "date": "07/31/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger\u2019s comp sales underwhelm as Foran focuses on store improvements",
-      "snippet": "https://www.grocerydive.com/news/kroger-earnings-first-quarter-2026-ecommerce-pharmacy/823246/",
-      "source": {
-        "name": "Grocery Dive",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.grocerydive.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Sam Silverstein"
-        ]
-      },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger Q1 Earnings Call Focuses on Cost, Price and E-Commerce",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-call-focuses-094500999.html",
+      "title": "A Look At AutoZone (AZO) Valuation After Earnings Beat And Global Store Expansion",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/look-autozone-azo-valuation-earnings-090829393.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "06/23/2026, 07:00 AM, +0000 UTC"
+      "date": "04/06/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Earnings: What To Look For From KR",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-earnings-look-kr-030050942.html",
+      "title": "Is AutoZone\u2019s (AZO) Outperformance Running Out of Fuel?",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/autozone-azo-outperformance-running-fuel-102456267.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Adam Hejl"
+          "Attiya Zainib"
         ]
       },
-      "date": "06/16/2026, 07:00 AM, +0000 UTC"
+      "date": "08/14/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger (KR) Stock Declines While Market Improves: Some Information for Investors",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-declines-while-220002260.html",
+      "title": "AutoZone Earnings: Commercial Strength Fails To Offset DIY Slowdown And Revenue Miss",
+      "snippet": "https://www.trefis.com/stock/azo/articles/600713/autozone-earnings-commercial-strength-fails-to-offset-diy-slowdown-and-revenue-miss/2026-05-29",
       "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "name": "Trefis",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.trefis.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "08/27/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger (KR) Q1 Earnings Miss Estimates",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-q1-earnings-miss-115502470.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Mama's Creations Inc (MAMA) (Q2 2027) Earnings Call Highlights: Revenue Surges 55% as Kroger ...",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/mamas-creations-inc-mama-q2-050142888.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/03/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger\u2019s Grocery Turnaround Hits a Wall",
-      "snippet": "https://foodinstitute.com/retail/kroger-grocery-turnaround-hits-wall/",
-      "source": {
-        "name": "The Food Institute",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://foodinstitute.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Vince Martin"
-        ]
-      },
-      "date": "09/01/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Income Investors Should Know That The Kroger Co. (NYSE:KR) Goes Ex-Dividend Soon",
-      "snippet": "https://simplywall.st/stocks/us/consumer-retailing/nyse-kr/kroger/news/income-investors-should-know-that-the-kroger-co-nysekr-goes-1",
-      "source": {
-        "name": "simplywall.st",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "08/09/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors",
-      "snippet": "https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors",
-      "source": {
-        "name": "TIKR.com",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tikr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Wiltone Asuncion"
-        ]
-      },
-      "date": "06/19/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger (KR) Stock Looks Reasonable As ECommerce Leadership Changes Start",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-reasonable-181159775.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Bailey Pemberton"
-        ]
-      },
-      "date": "08/19/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "KR Stock In Focus: Wells Fargo Flags \u2018Choppy\u2019 Road Ahead As Kroger Faces Flat Q2 Earnings Growth",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kr-stock-focus-wells-fargo-114752728.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "06/22/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger Seeing Costs Outrun Sales Growth",
-      "snippet": "https://www.wsj.com/business/retail/kroger-profit-rises-with-higher-sales-b6f2b90c",
-      "source": {
-        "name": "WSJ",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wsj.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Dean Seal"
-        ]
-      },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger (KR) Stock Sinks As Market Gains: Here's Why",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-sinks-market-220003085.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "07/30/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger flags rising inflation as consumers curb spending",
-      "snippet": "https://www.reuters.com/business/retail-consumer/kroger-beats-quarterly-sales-estimates-2026-06-18/",
-      "source": {
-        "name": "Reuters",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.reuters.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Anuja Bharat Mistry"
-        ]
-      },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Why Kroger (KR) Shares Are Sliding Today",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/why-kroger-kr-shares-sliding-173328220.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Kayode Omotosho"
-        ]
-      },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger and Macy\u2019s: The Compounder vs the Turnaround",
-      "snippet": "https://247wallst.com/investing/2026/09/09/kroger-and-macys-the-compounder-vs-the-turnaround/",
-      "source": {
-        "name": "24/7 Wall St.",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Trey Thoelcke"
-        ]
-      },
-      "date": "09/09/2026, 07:00 AM, +0000 UTC"
+      "date": "05/29/2026, 07:00 AM, +0000 UTC"
     }
   ]
 }

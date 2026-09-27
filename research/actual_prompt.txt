@@ -10,7 +10,7 @@ Analyze the evidence (transcript + news) 2. Decide if the market is too HIGH, to
 
 **IMPORTANT BEHAVIOR**: Do NOT treat "presence in news" or "presence in prior transcript" as a rule. Do NOT produce checkbox outputs like "Step1: YES, Step2: NO...".
 
-**CONSTRAINTS**: Treat the current date as 2026-09-10. You do not have any information past this date.
+**CONSTRAINTS**: Treat the current date as 2026-08-26. You do not have any information past this date.
  
 **WHEN TO DISAGREE WITH MARKET**: Market HIGH but evidence weak, Market LOW but evidence strong, When uncertain, lean toward market price
 
@@ -32,600 +32,374 @@ Be calibrated. The market is often right, but you should adjust when evidence is
 
 At the end of your response, please present the probability in the following format: "Probability: [probability]"
 
-**KEYWORD**: Deflation 
+**KEYWORD**: Tax Refund 
  
 
-**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: 0.55 
+**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: 0.56 
  
 
 **PREVIOUS EARNINGS CALL TRANSCRIPT**: 
  
-Operator: Good morning, welcome to The Kroger Co first quarter 2026 earnings conference call. After today's prepared remarks, we will host a question and answer session. If you would like to ask a question, please press star one to raise your hand. To withdraw your question, please press star one again. Please note this event is being recorded. I would now like to turn the conference over to Rob Quast, Vice President, Investor Relations. Please go ahead.
+Operator: Greetings. Welcome to the AutoZone's 2 thousand 26 Q3 Earnings Release Conference Call. At this time, all participants are in a listen-only mode. A question-and-answer session will follow the formal presentation. If anyone should require operator assistance during the conference, Please note this conference is being recorded. Management would like to read their forward looking statement. Before we begin, please note that today's call includes forward looking statements that are subject to the safe harbor provisions of the Private Securities Litigation Reform Act of 2 thousand. Forward looking statements are not guarantees of future performance. Please refer to this morning's press release and the company's most recent annual report on Form 10-Ks and other filings with Securities and Exchange Commission for a discussion of important risks and uncertainties that could cause actual results to differ materially from expectations. Forward looking statements speak only as of the date made, the company undertakes no obligation to update such statements. Today's call will also include certain non GAAP measures. A reconciliation of GAAP to non GAAP financial measures can be found in our press release. I would now like to turn the call over to your host, Philip Daniele, president and CEO of AutoZone. You may begin.
 
-Rob Quast: Good morning. Thank you for joining us for Kroger's first quarter 2026 earnings call. I am joined today by Kroger's Chief Executive Officer, Greg Foran, and Chief Financial Officer, David Kennerley. Before we begin, I want to remind you that today's discussions will include forward-looking statements. We want to caution you that such statements are predictions and actual events or results can differ materially. A detailed discussion of the many factors that we believe may have a material effect on our business on an ongoing basis is contained in our SEC filings. The Kroger Company assumes no obligation to update that information. After our prepared remarks, we look forward to taking your questions. In order to cover a broad range of topics from as many of you as we can, we ask that you please limit yourself to one question. I will now turn the call over to Greg.
+Philip Daniele: Good morning, and thank you for joining us today for AutoZone's 26 third quarter conference call. With me today are Jamere Jackson, Chief Financial Officer and Brian L. Campbell, Vice President, Treasurer, Investor Relations, and Tax. Regarding the third quarter, I hope you had an opportunity to read our press release and learn about the quarter's results. If not, the press release, along with slides complementing our comments today are available on our website at www.autozone.com under the Investor Relations link. Please click on quarterly earnings conference calls to see them. To start out this morning, I want to thank our more than 130 thousand incredible AutoZoners across the company for their commitment to delivering on the first line of our pledge, which is to always put customers first. Our results and performance begin with us asking, what does the customer need and how can we exceed those needs and do it more efficiently? And it is our AutoZoners across our stores and our supply chain who deliver on this commitment every day. This past quarter, their efforts allowed us to deliver sales growth of plus 8.4%. The largest we have reported since Q2 of FY 23. Simply put, we are growing. We are opening more stores than we have in many, many years, and we continue to gain market share. Congratulations AutoZoners. Let's keep delivering Wow customer service. To start this morning, we will address our sales results and provide an update on our growth initiatives. We will also discuss our domestic and international results and break down our domestic sales results between traffic and ticket growth to address what inflation has meant to both our ticket and sales growth. We will also share regional performance and give an outlook on how we expect the last quarter of the year to play out as we enter our summer selling season. For the third quarter, our total sales grew plus 8.4%. it is an acceleration from the first half of the year. While earnings per share increased plus 7.7%. Similar to our experience in the first half of the year, our gross margin, operating profit and EPS were negatively impacted by non-cash $20 million LIFO charge. As a reminder, during last year's Q3, we recognized a $16 million LIFO credit which favorably impacted operating profit and EPS. Excluding the LIFO charge of $20 million this quarter, and the $16 million credit last year, our EPS would have been up 12.5% versus last year's Q3. Now let me share a few key highlights from the quarter. Total company same store sales grew plus 4.9% or I am sorry, 3.9% on a constant currency basis with domestic same store sales growth of 4.1%. Our domestic DIY sales grew plus 2.2% while our domestic commercial sales grew plus 10.4% versus last year's Q3. We are pleased to report double digit commercial sales growth and believe the strong performance will continue as we move forward even as we cycle tougher comparisons to Q4 of last year. International same store sales were up plus 1.6% on a constant currency basis. And our unadjusted international comp was plus 16.6% as exchange rates positively impacted our comps by 1.49 thousand basis points. We opened 82 stores globally this past quarter to finish with 6.77 thousand US stores, 33 Mexico stores, and 157 Brazil stores. We are on track to open approximately 365 stores for the full year versus the 305 stores we opened globally last year. We continue to be very pleased with our sales productivity we are generating out of our new stores and their sales results are exceeding our pro forma expectations. Next, let me address our sales results in a little more detail. Coming into the quarter, we were optimistic that our domestic store execution would drive sales growth for both retail and commercial. Regarding our plus 4.1%, quarterly domestic same store sales, the cadence was 5% in our first 4 weeks, 4.5% in our second 4 weeks and 2.9% over the last 4-week period of the quarter. Now let me address the last 2 weeks a little more specifically. Those 2 weeks were softer than the rest of the quarter with comps of 1.3%. This slow down in sales was caused by unseasonably cool weather impacting our heat related categories which normally begin to ramp this time of year as summer heat begins to take hold. This affected both DIY and commercial. Our domestic comp was solid, up plus 2.2% versus last year, and an acceleration versus the plus 1.5% in Q2 as we continue to gain market share. I am very pleased with what we are seeing in terms of market share gains and we continue to exit well in this environment. Regarding our plus 2.2% DIY comp for the quarter, we experienced a positive 2.4% comp in the first 4-week segment a positive 3.4% comp in the second segment, and a 0.8% comp during the third segment. As noted, the last 4-week segment was our weakest performing segment which was driven by the very mild weather in certain markets. Those markets have historically been warmer at this time of year. And the cooler temperatures led to a lower key volumes in key categories like air conditioning, starting, and charging. For the quarter, we felt we benefited marginally from higher than usual income tax refund season along with share gains and solid execution. Regionally, our results were solid overall. With the strongest results in the West, Midwest, and the Northeast. We expect to have solid DIY performance over the coming upcoming summer. With regards to inflations, impact on DIY sales, we saw like for like same SKU inflation just north of 7% for the quarter, which contributed to our DIY average ticket being up 5.6%. The difference between the like for like inflation and ticket growth was attributable to product mix. We expect the average ticket for the fourth quarter to be in the mid-4% range as we begin to lap the inflation ramp from the beginning of fourth quarter of last year. For the last quarter, we also saw same store DIY traffic count -3.6%. A similar decline to our second quarter where we were down in the mid-3% range. Next, I will touch on our domestic commercial business. As I mentioned, our commercial sales were up plus 10.4% for the quarter. The first 4-week segment grew at 12.7%. The second 4-week segment was plus 9.1%, and the third 4-week segment grew at plus 9.6%. We feel very good about how we are performing as we head into Q4. Our commercial sales results continue to be driven by our improved satellite store inventory availability, significant improvements in hub and mega hub coverage, the continued strength of our Duralast brand, and execution on our initiatives to improve speed to customer and delivery services. These initiatives are delivering share gains and give us confidence as we move into the summer months. Both the year over year inflation on a like for like same SKU basis for our commercial business and our average ticket growth were similar to DIY. North of 7% for SKU inflation and 6% for ticket average. Our average transaction growth was 2% for the quarter and similar to last quarter. We believe that there are opportunities to grow market share and accelerate transaction growth with both with smaller up-and-down-the-street customers and national accounts. As we are significantly underpenetrated in commercial and we are gaining share. Adding a little more color, both up-and-down-the-street customers and national accounts grew double digits. Now let me take a moment to discuss our international business. Across Mexico and Brazil, we now have 1.09 thousand international stores. As I mentioned, our same store sales growth grew plus 1.6% on a constant currency basis. Driven by a continued soft macro environment. For Q4, we are expecting same store sales to be in a similar range as Q3. While these economies have slowed, we are continuing to grow share. When these economies improve, we expect our sales to reaccelerate as we continue to invest in stores and distribution centers. Today, approximately 14% of our total store base is outside of The US, and we expect this number to grow as we continue our international store build out. We have confidence in our international markets as their returns on capital even with slower sales growth are strong. In summary, we have continued to invest capital in driving traffic and sales growth. While there will always be tailwinds and headwinds in any quarter's results, what has been consistent is our focus on driving sustainable, long term results. We continue to focus on flawless execution, improving product assortments in stores and online, and driving efficiency in our supply chain. All of these efforts position us well for future growth. We are committed to investing both CapEx and operating expense to capitalize on these opportunities. This year, we are investing nearly $1.6 billion in CapEx to drive our strategic growth priorities and we expect to invest a similar amount next year. The majority of our investments are in accelerated store growth, including hubs and mega hubs, which place more inventory closer to our customers and are reducing time to serve for both DIY and commercial customers. The performance of our accelerated store investments are better than our original forecasts, which allow us to achieve our return goals sooner. We are laser focused on generating the returns you expect from AutoZone. Lastly, we will continue to invest in technology to improve our customer service model and our AutoZoners' ability to deliver on our promise of Wow customer service. This is a great time to invest in our business as we believe industry demand will continue to be strong, but we will continue to manage our investments with an expectation to achieve strong returns on invested capital. Now I will turn the call over to Jamere Jackson.
 
-Greg Foran: Thank you, Rob, good morning, everyone. I said it on day one, and it's still true today. This is the best job in retail, full stop. I'm a believer in grocery, physical and digital. It's essential. It's resilient. People want fresh food. They want it close to home, and they want it at a price that works for them. Supermarkets done well is a fantastic business. Kroger, we've got terrific assets. We're outperforming many traditional grocery competitors, and we're proud of that. Beating other grocers isn't the same as leading the industry. Customers today are shopping across more channels with more of their spend going outside of traditional grocery. I don't see that as a problem, I see it as an opportunity. Right industry, right moment, right foundation. The runway in front of this business is significant. We have what we need.  We need to execute. Over my first 100 days, I've been in the business every week in stores, manufacturing plants, distribution centers, and offices. I've spent time with associates, customers, and suppliers, and with many of you. I've walked our competitors, because you can lead in this industry without understanding it from every angle. Let me give you my assessment. First, our operating costs have been growing faster than our sales. That's not sustainable, and frankly, it's not acceptable. Taking costs out of this business is not optional. It's the starting point for everything else we want to do. Second, the way we operate behind the stores needs to improve. We need to move faster, make decisions more quickly, and get more out of the assets and the talent we already have. Third, our execution in stores and online needs more consistency.  When we operate well, we perform well. We attract households, grow sales, and deliver strong earnings. When execution slips, we fall short of our potential. Today, the gap between our best stores and the rest of the fleet needs to improve. Closing it is one of our biggest near-term opportunities. On top of that, we've not been opening enough stores. Competitors have continued to grow their footprint while we stepped back. Our existing footprint is one of our strongest assets, but standing still in store growth means standing still in market share. The good news is we've started to ramp our pipeline thoughtfully, focused on the markets and formats that can generate the strongest returns. Finally, we have opportunities to strengthen our price position and make it simpler. Customers are being more deliberate with their spending and, at times, shopping us selectively.  We're getting too many promotional trips and not enough of the full basket. Our ambition is clear, to be America's best grocer. We're going to lead with what we are, a great grocer focused on food, and we're going to win by doing it better than anyone else. To become America's best grocer, there are five things we need to get right. Priorities that connect to every associate in every store, every day. This is what we call the five Fs. Let's start with fresh. Fresh is the single biggest reason customers choose a grocer. If the produce isn't right, if the protein disappoints, if it doesn't last at home, we've lost them. We're raising our standards and measuring freshness the way customers experience it, not just on our shelves, but in their homes. Fast. Customers are busy.  When we're out of stock, when the checkout is slow, when the promotion is too complicated, that costs us trips. Fast applies just as much online as it does in our stores. Quick trips in store, fast delivery at home, a perfect order on time, every time. For you. We have more data and more customer insight than just about anyone in this industry. We need to use it better. Personalization our customers actually feel, in the offers they get, in the experience they have, in the trip itself. Friendly. Our associates are one of our biggest competitive advantages, and we're going to act like it. Friendly is a hard metric. When we measure it and manage to it improves the customer experience. That starts with how we invest in our associates, better training, simpler tools, and the support they need to do their best work.  Affordable, and yes, I know it doesn't start with an F, but it belongs on the list. We have opportunities to sharpen our pricing and make value simpler for customers. Over time, our promotions have gotten too complicated, and our price position has not kept pace where it needed to. Let me be clear on what this means. We do not need to be the lowest price retailer. We need to be more competitive, more consistent, and easier for customers to understand. When a customer is deciding where to shop, we want more of them choosing Kroger more often because the value is clear, the experience is great, and the trust is there. To do this, we do not need a one-time reset. Every dollar we invest in customer value, we earn through cost savings and efficiency. That's the standard we're holding ourselves to.  Over time, we'll move towards simpler, more consistent, everyday value. We will still be promotional, that is part of who we are, but sharper and easier for customers to understand. That requires discipline, and here's where we're pushing to fund that. On cost of goods, we will press harder on supplier negotiations and lean further into direct sourcing. On goods not for resale, we will remove complexity and waste in addition to buying better, and we need to operate more efficiently. That means fewer organizational layers, smarter ways of working, standing up our Kroger Capability Center, and applying AI across the business. Let me turn to eCommerce and media, two businesses that are increasingly central to how we win and how we grow. Starting with eCommerce, most of the growth in grocery today is happening online. That's where the customer is moving, and that's where we have to lead.  Our omni-channel customers spend nearly 2.5x more with us than our in-store-only customers. The good news is that we have the right assets to do it, a strong store footprint, deep customer data, and a fresh offering that travels well into the digital basket. Now, a strong eCommerce business does something else. It powers our media business. Kroger Precision Marketing is a high-margin business built on first-party data that very few retailers can match. What sets us apart is the depth of our data. 95% of all transactions are tied to a loyalty card backed by over 20 years of history. That means we can measure actual purchase behavior, not just intent, and that's increasingly valuable to brands and advertisers. The fundamentals of this industry are moving in our direction.  We operate the technology layer closest to the customer, giving us a distinct advantage in how we engage and monetize those relationships. As data and direct customer relationships become the most valuable currency in advertising, those with scale and trusted customer connections will be the long-term winners. That gives us real confidence in our ability to lead. Over time, this will become an even more important driver of both growth and margin. I want to spend a few moments on culture. None of this work happens without the right people moving at the right pace. Through my first 100 days, one thing has become clear. We need to move with more speed. We need to be more intentional and smarter about how we work at every level of this organization. That starts with me.  We are building a culture where the work is never done, where we improve the business every week. Before I turn to the quarter, let me say a word about what you can expect from us this year. We are balancing two things at once, delivering results in the short term while making the changes required to improve the business long term. Both matter, and we intend to do both. We will be transparent with you every step of the way on what's working, what isn't, and what we're doing about it. With that as the backdrop, let me turn to what we're seeing in the business, starting with the customer. The customer is under pressure. High gas prices and reduced SNAP benefits are squeezing budgets. Customers are managing spend carefully and shopping with real intent. That pressure is showing up in the market.  Food at home growth decelerated 100 basis points compared to the last quarter. The encouraging news is that our work on affordability is starting to resonate, and you can see it in the data. Traffic is up. Customers are coming through our doors more often, which tells me our value message is starting to land, and our loyal households have now grown for 17 consecutive quarters. We've started to pull away from the middle of the pack, both in units and in dollars, and had our best performance against Circana's Rest of Market, a benchmark of traditional grocery competitors in over three years. That's a meaningful shift, and it tells me that the team is doing the right things in the right way. We delivered identical sales excluding fuel of 1%, led by strong performance in eCommerce, fresh, and Our Brands. Three areas I'm spending a lot of time on.  Our Brands continue to be a real strength. This quarter, Our Brands gained share and outpaced national brands by 175 basis points, even with the headwinds from deflation in dairy, with strong momentum in Simple Truth and Private Selection. New items like the Private Selection Sparkling Mineral Water and our globally-inspired frozen meals are resonating with customers. As a business, we're changing our mindsets to think more like item-level merchants. Customers don't buy assortment, they buy items. The Garlic and Herb Rotisserie Chicken, the Black Diamond Watermelon, the Guatemalan Antigua Coffee. Every item has to earn its place on the shelf, and every item is an opportunity to delight a customer or lose one. That's a discipline we need to use in Our Brands, and frankly, across the entire store. E-commerce also performed well, growing 19%, led by delivery.  We improved perfect order rates by 8% and attracted a record number of new households. On the back of that progress, we hit a milestone we've been working toward for years. Our eCommerce business, including media, turned profitable this quarter. That's a real step up, and we intend to keep building on it. What gives me confidence this is sustainable is the work behind it, particularly our shift to more store-based fulfillment, which is improving the economics of the business as we scale. Our intent is to grow this business faster than the market over time. On costs, we are moving with urgency. We delivered savings ahead of plan this quarter, and I can tell you we're just scratching the surface. There is more to come. Margin performance was solid. We balanced productivity and savings with investments to grow.  We saw some unexpected pressure in transportation from higher diesel costs that wasn't built into our original expectations for the year. It's a manageable headwind, and we're confident we can work through it. Stepping back, this quarter was a step in the right direction. We're making progress on the fundamentals. The strategy is coming into focus, and the team is energized about what's ahead. We're building toward a clear long-term framework we plan to share at our investor update on October 20. Between now and then, we'll keep you posted on progress. Let me leave you with this. Right industry, right moment, right foundation. The opportunity is enormous, and we know the work. First, we break clear of the pack. We close the gap to the leaders. I'm encouraged because the work is already underway, and we are seeing positive signs. The work is never done. Better every day, better every week. We have what we need. Now we go execute. We will now turn the call over to David.
+Jamere Jackson: Philip, and good morning, everyone. Our operating results remain strong for the quarter and were highlighted by solid top line revenue. Total sales were $4.8 billion and were up 8.4% versus Q3 of last year. This is the largest increase we have had in over 3 years and reflects our focus on accelerating growth. Our domestic same store sales grew 4.1% and our international comp was up 1.6% on a constant currency basis. Total company EBIT was up 6.6%, and our EBIT was up our EPS was up 7.7%. Excluding our noncash $20 million LIFO charge in this year's quarter, and the $16 million LIFO credit in last year's quarter, EBIT would have grown 11% and our EPS would have grown 12 and a half percent. Foreign exchange rates positively impacted our results for the quarter, For Mexico, the peso strengthened almost 13% against the US dollar versus last year's Q3, resulting in a $74 million tailwind of sales a $20 million tailwind to EBIT, and an $0.83 a share benefit to EPS. We continue to be proud of our results as the efforts of the AutoZoners in our stores and distribution centers have enabled us to continue to grow our business. Let me take a few moments to elaborate on the specifics in our P&L for Q3. First, I will give a little more color on sales and our growth initiatives. Starting with our domestic commercial business for the quarter. Our domestic DIFM sales were $1.4 billion up 10.4%. Our domestic commercial sales represented just under 34% of our domestic auto parts sales and 29% of our total company sales. Our average weekly sales per program were $18.5 thousand up 4.5% versus last year. This quarter, we opened 46 net new programs. We finished with 6.36 thousand total programs and we have our commercial program at 94% of our domestic stores. Our commercial acceleration initiatives are continuing to deliver strong results as we grow share by winning new business increasing our share of wallet with existing customers. Mega Hub stores remain a key component of our current and future commercial growth, We opened 14 mega hubs in the quarter, we now have 156 mega hub stores. We expect to open approximately 15 Mega Hub locations in the fourth quarter which will bring our FY totals FY 2026 totals to 38. As a reminder, our Mega Hubs typically carry over 100 thousand SKUs, drive a tremendous sales lift inside the store box as well as serve as an expanded assortment source for other stores. The expansion of coverage and parts availability continues to deliver a meaningful sales lift to both our commercial and DIY business as these larger stores give our customers access to thousands of additional parts across the market. I mentioned a moment ago that our average commercial weekly sales per program grew 4.5%, So 156 mega hubs continue to drive growth at an even faster clip. We continue to target having approximately 300 mega hubs at full build out and expect to open at least 40 in FY 2027. Our customers are excited by our commercial offering as we have deployed more parts in local markets closer to the customer while improving our service levels. On the domestic retail side of our business, our DIY comp was up 2.2% for the quarter. Our DIY shares remained strong behind our growth initiatives, and we are well positioned for future growth. Importantly, the market is experiencing a growing and aging car park, and a challenging new and used car sales market for our customers which continues to provide a tailwind for our business. These dynamics ticket growth, growth initiatives, and macro car park tailwinds, we believe, will continue to drive a resilient DIY business environment for the remainder of FY 2026. I will say a few words regarding our international business. We can continue to be pleased with the progress we are making in our international markets. During the quarter, we opened 20 new stores in Mexico to finish with 933 stores. And 5 new stores in Brazil ending with 157. Our same store sales grew 1.6% on a constant currency basis, and 16.6% on a nonadjusted basis. While sales growth has slowed over the last few quarters in Mexico due to the slower economic growth in the country, we have continued to manage our P&L appropriately in this environment. We are also continuing to grow share we are well positioned when the economy improves. We remain committed to investing in international expansion And as we accelerate the store opening pace, we are pleased with our results versus our forecast in these markets. As we look ahead, we are bullish on international being an attractive and meaningful contributor to AutoZone's future sales operating profit, and return on invested capital. Now let me spend a minute on the rest of the P&L and gross margins For the quarter, our gross margin was 52.2%, down 57 basis points versus last year. This quarter, we had a $20 million LIFO charge or a 77-basis-point unfavorable LIFO comparison to last year. Excluding the LIFO comparison, gross margins were up 20 basis points versus last year as we offset a significant rate headwind from the mix shift to a faster growing commercial business. As I mentioned, we had a $20 million noncash LIFO charge in Q3 and a year to date total of $177 million. We are planning a LIFO charge of approximately $30 million for the fourth quarter as we are continuing to experience higher costs that impact our LIFO layers. The $207 million in LIFO charges that we expect for fiscal 26 compares to $64 million last year. Moving on to operating expenses. Our expenses were up 7.6% versus Q3 last year as SG&A as a percentage of sales leverage 25 basis points driven by strong top line sales growth, solid expense management. On a per store basis, our SG&A was up 3% compared to last quarter's 4% increase. We would expect the SG&A per store and total growth to be in a similar range in the fourth quarter. For Q4, we expect to open approximately 160 stores globally versus 141 last year. And for the full year, we expect to open approximately 365 stores versus 305 new stores opened in FY25. We remain committed to being disciplined on SG&A growth and we will manage expenses in line with sales growth over time. Moving to the rest of the P&L. EBIT for the quarter was $924 million up 6.6% versus the prior year. As I previously mentioned, a noncash LIFO charge reduced our EBIT by $20 million. Adjusting for the unfavorable LIFO comparison, EBIT would have been up 11% versus the prior year. Interest expense for the quarter was $110 million, flat with a year ago, as our debt outstanding at the end of the quarter was essentially flat versus a year ago. We are planning interest at $152 million for the fourth quarter of FY 26 versus $148 million last year. For the quarter, our tax rate was 21.1% up from last year's third quarter of 19.4%. Excluding the benefit from stock option exercises our tax rate for the quarter was 21.6% versus 22.4% last year. This quarter, the rate benefited approximately $4 million from stock options exercised versus a $23 million benefit last year. For Q4, we suggest investors model us at approximately 22% all in. Moving to net income and EPS. Net income for the quarter was $641 million up 5.4% versus last year. Our diluted share count of 16.9 million was 2.1% lower than last year's third quarter. The combination of higher net income and lower share count drove our earnings per share for the quarter to $38.07 up 7.77.7% versus last year. As a reminder, LIFO drove our EPS down 91¢ a share. Now let me spend a moment on our free cash flow. For the third quarter, we generated $455 million in free cash flow versus $423 million in Q3 last year. Year to date, we generated $1.1 billion in free cash flow. Going forward, we expect to continue being in an incredibly strong cash flow generator and we remain committed to returning meaningful amounts of cash to our shareholders. Regarding our balance sheet, our liquidity position remains very strong and our leverage ratio finished at 2.5x EBITDAR. Our inventory per store was up 6% versus Q3 last year, while total inventory increased 10.8% over the same period last year driven by new stores additional inventory investment to support our growth initiatives, and inflation. Net inventory, defined as merchandise inventory less accounts payable on a per store basis, was a negative $107 thousand versus a negative $142 thousand last year and negative $105 thousand last quarter. As a result, accounts payable as a percentage of inventory finished the quarter at 111.1% versus last year's Q3 of 115.6%. Lastly, I will spend a moment on capital allocation and our share repurchase program. We repurchased $586 million of AutoZone stock in the quarter. And at quarter end, we had $800 million remaining under our share buyback authorization. Our ongoing strong earnings balance sheet, and powerful free cash generation allow us to return a significant amount of cash to our shareholders through our buyback program. We bought back over 100% of the then-outstanding shares of stock since our buyback inception in 2 thousand. While investing in our existing assets and growing our business. We remain committed to this disciplined capital allocation approach that will enable us to invest in the business and return meaningful amounts of cash to shareholders. So to wrap up, we remain committed to driving long term shareholder value by investing in our growth initiatives driving robust earnings and cash, and returning excess cash to our shareholders. Our strategy continues to work as we remain focused on gaining market share improving our competitive positioning in a disciplined way. And as we look forward to the remainder of FY 26, we are bullish on our growth prospects behind a domestic commercial business that is growing share in a meaningful way. We continue to have tremendous confidence in our ability to drive significant and ongoing value for our shareholders. Before handing the call back to Philip, I wanna remind you that we review comps on a constant currency basis to reflect our operating performance We generally do not take on transactional risks, so our results primarily reflect the translation impact for reporting purposes. As mentioned earlier in the quarter, foreign currency resulted in a tailwind to revenue and EPS. If yesterday's spot rates held for Q4, then we expect an approximate $62 million benefit to revenue a $19 million benefit to EBIT, and a $0.78 a share benefit to EPS. Lastly, in Q4, we expect LIFO to reduce EBIT by approximately $30 million, impact our gross margin rate negatively by 45 basis points, and our EPS by approximately $1.40 a share. And now I will turn it back to Philip.
 
-David Kennerley: Thank you, Greg. Good morning, everyone. As you just heard, Greg is setting a clear strategic direction, my job is to show you how the financial model supports it. This quarter, it did. Kroger delivered a solid first quarter, reflecting continued progress in our core grocery business and strong growth in eCommerce. We are executing well in a dynamic environment. We are investing in price with discipline, fully funded through cost savings while maintaining a strong focus on margin performance. This quarter, we achieved identical sales growth without fuel of 1%. Sales growth was led by strong performance in eCommerce, fresh, and Our Brands. Importantly, grocery sales again represented a larger portion of our overall mix, reinforcing improving underlying trends in the core business. Pharmacy sales were led by continued growth in GLP-1s and core scripts.  That said, identical sales without fuel growth of 1% included a 130 basis points headwind to the total company from the Inflation Reduction Act, an additional 40 basis points headwind to the total company from the accelerating shift from brand to generic prescriptions. Despite these top-line pressures, pharmacy profit grew ahead of expectations. Food inflation came in at the low end of our expectations, down sequentially from the fourth quarter. Egg deflation was a meaningful headwind to identical sales without fuel, representing 64 basis points of pressure. Our first quarter results reflect improving underlying volumes relative to the market, partially offset by pressure from lower inflation and pharmacy-related headwinds. Looking ahead, we expect inflationary pressure to increase as the year progresses, reflecting the broader macro environment. Against this backdrop, our priority remains clear, delivering value for customers, working with suppliers to optimize costs, narrowing price gaps versus competitors, and managing our margins responsibly.  Our FIFO gross margin rate, excluding rent, depreciation, and amortization, fuel, and adjustment items, decreased 9 basis points in the first quarter compared to the same period last year. The change in rates was primarily driven by higher-than-expected transportation costs, the deflationary impacts from eggs, planned pricing investments. These headwinds were partially offset by favorable mix in pharmacy, improved eCommerce profitability, sourcing benefits. Transportation was an unexpected headwind, resulting in 15 basis points of pressure in the quarter as higher oil prices impacted our fuel costs. We are managing this closely and expect some pressure to persist while oil markets remain elevated. Despite these near-term pressures, we continue to expect our FIFO gross margin rate to be positive on a full-year basis, with cost-saving initiatives ramping up throughout the year.  Our operating, general, and administrative rate, excluding fuel and adjustment items, increased 16 basis points in the first quarter compared to the same period last year. The increase primarily reflects intentional investments in our associates, additional store hours, training, and new uniforms. These pressures were partially offset by lapping higher multi-employer pension contributions from a year ago and continued progress on our ongoing productivity initiatives. Our adjusted FIFO operating profit in the quarter was $1.5 billion. Adjusted EPS was $1.58, reflecting 6% growth compared to last year. A core pillar of our long-term strategy is modernizing how we operate to move faster and create a more efficient cost structure that supports both margin performance and enables us to invest into more value for customers. In the first quarter, we delivered COGS savings 30% ahead of our plan.  We see meaningful runway ahead across both COGS and goods not for resale, with savings expected to build throughout the balance of year and accelerate beyond. Combined with disciplined reinvestment, this positions us to drive margin expansion over time. While we are committed to managing margins on an annual basis, quarterly results will fluctuate based on the timing of investments and savings initiatives. We look forward to sharing more specific long-term targets at our investor update this fall. Fuel results were better than anticipated this quarter, reflecting favorable fuel margins driven by elevated volatility in global oil markets and strong volume performance relative to the industry. While our gallons were down slightly versus last year, our industry-leading fuel rewards program enabled us to outpace industry benchmarks by more than 400 basis points.  During the quarter, we expanded fuel reward promotions, helping customers save at the pump in an environment where value matters more than ever while driving incremental traffic to our stores. As a result, fuel reward redemptions were up 10% compared to last year. As noted earlier, we delivered a strong eCommerce performance in the quarter. Growth was led by convenience orders delivered in under an hour, which represented approximately 50% of our digital growth. Our new third-party partnerships with DoorDash and Uber Eats allow us to leverage our store network, provide faster delivery, and reach new customers. We gained share across every third-party platform where we operate, another proof point that we are beginning to pull away from traditional grocery. As part of the continued evolution of our hybrid fulfillment model, we closed three fulfillment centers at the end of the last quarter.  In markets where we have a store presence, we retained nearly all of those households and successfully converted them to store-based delivery and pickup. These actions are already translating into better profitability. Our eCommerce business, including media, became profitable this quarter ahead of schedule. We expect profitability to accelerate through the remainder of this year and continue improving beyond 2026 as we scale store-based fulfillment, expand media, and reduce our cost to serve. Together, these levers position eCommerce to become a larger contributor to margin expansion over time. Our eCommerce results are also creating momentum for our media business, which delivered over 20% growth this quarter. This combination of Kroger's customer data, loyalty ecosystem, and expanded reach through partners is creating new opportunities for brands to engage customers in more targeted and effective ways. Recently, we deepened several partnerships.  With Google's Display & Video 360 platform, advertisers can now use KPM's retail signals to reach audiences across YouTube and YouTube TV, with SKU-level conversion reporting available for the first time. We're also the first retail media network set to launch a self-service collaboration with TikTok, giving brands direct access to KPM audiences within one of today's most influential platforms. Looking ahead, we are expanding our AI-powered capabilities to support real-time optimization, predictive budget allocation, and faster audience creation, positioning AI as a key enabler of both performance and scalability. We're encouraged by the progress we are seeing in media and believe we remain in the early stages of a long-term growth opportunity. None of the progress we are making would be possible without our associates, who are at the heart of everything we do.  A great customer experience begins with a motivated, engaged, and well-supported team, which is why we continue to invest in our people. Beyond competitive wages and benefits, this quarter, we invested in more store hours, additional training to better support our customers, and new uniforms so our associates are easily recognizable on the floor, all to create a great shopping experience. We are investing in better technology that helps our associates grow in their careers, work more efficiently, and spend more time on the value-added activities our customers notice most. These investments not only strengthen the experience we deliver in our stores and online, they also improve productivity and support the long-term growth of our business. Turning to capital allocation and financial strategy. Kroger generated strong adjusted free cash flow this quarter, driven by our operating results.  Free cash flow is important to our model, providing liquidity to our operations and allowing us to maintain a strong balance sheet. At the end of the first quarter, Kroger's net total debt to adjusted EBITDA was 1.75x, compared to our net total debt to adjusted EBITDA target ratio range of 2.3x-2.5x. Over time, we expect to move back toward our target leverage ratio. We view this flexibility as a strategic asset. It gives us optionality to invest in high-return opportunities while maintaining our commitment to investment-grade credit. Our disciplined capital allocation continues to fuel our performance as we balance investments in growth opportunities, all while maintaining a strong financial foundation. Our capital allocation framework is grounded in a focus on improving ROIC, which is guiding every investment decision we make. We are confident that this focus will enable us to generate strong long-term returns to our shareholders.  I would now like to provide some additional detail on our outlook for the rest of the year. We are pleased with our first quarter performance, which reflects continued momentum in our core grocery business and strong performance in eCommerce. Given our outlook for the remainder of the year, we are reaffirming our full year guidance. Our confidence in the full-year outlook is supported by continued progress on cost savings, improving eCommerce profitability, growth in media, and disciplined reinvestment in value. For the second quarter, we expect identical sales without fuel to be roughly in line with the first quarter. This reflects continued pharmacy headwinds from the accelerating shift from brand to generic prescriptions, as well as ongoing pressure on consumer spending.  We expect adjusted net earnings per diluted share to be in line with last year in the second quarter, with growth accelerating in the back half as our cost-saving initiatives continue to ramp. In closing, we are setting a high bar for this business and our financial model is built to support it. We are pleased with this quarter's results and we are confident in our plans. We look forward to laying out a broader financial framework at our investor update in October. With that, I will turn the call back to the operator to begin the question and answer session.
+Philip Daniele: Thank you, Jamere. To wrap up this morning, I want to stress that we are on track for delivering our objectives for fiscal 26. While we continue to invest in our business, we remain committed to flawless execution and appropriately spending our capital to drive growth and efficiency. We feel we are well positioned to grow both our domestic do it yourself business as well as our commercial sales. We also feel that our international same store sales on a constant currency basis will improve, but we remain cautious for this upcoming fourth quarter as the consumers and our international markets remain under pressure. We also expect to manage our gross margins effectively while growing our operating expenses in line with accelerated store opening assumptions. Finally, I want to reiterate that we are putting our capital to work where we will have the biggest impact on sales and profitability. Our AutoZoners our stores, our supply chain, and we are investing in technology to build a superior customer service experience. We will make sure that the capital we deploy produces strong returns. The stores we have opened over the last 5 years continue to exceed the planned sales and earnings we modeled when these stores were originally approved. The top focus for our fiscal 26 remains growing share in our domestic commercial business. We do understand that we cannot take things for granted. We must remain laser focused on customer service, execution, and gaining share in every market in which we operate. We are excited about what we can accomplish for the last quarter of the fiscal year. And our AutoZoners are committed to delivering on our goals. We believe AutoZone's best days are ahead of us. Now we would like to open the call for questions.
 
-Operator: We will now begin the question and answer session. Please limit yourself to one question. If you would like to ask a question, please press star one to raise your hand. To withdraw your question, please press star one again. We ask that you pick up your handset when asking a question to allow for optimum sound quality. If you are muted locally, please remember to unmute your device. Please stand by while we compile the Q&A roster. Your first question comes from the line of John Heinbockel from Guggenheim Securities. John, your line is now open.
+Operator: Certainly. At this time, we will be conducting a question-and-answer session. If you would like to ask a question, please press 1 on your telephone keypad. A confirmation tone will indicate your line is in the question queue. We do ask to please limit yourself to 2 questions. If you have any additional questions, you may reenter the queue by pressing 1. You may press 2 if you would like to remove your question from the queue. For participants using speaker equipment, it may be necessary to pick up your handset before pressing the star keys. 1 moment, while we poll for questions. Your first question for today is from Bret Jordan with Jefferies. Hey, good morning, guys. Good morning, Bret.
 
-John Heinbockel: Execution gap between really good stores and laggards, how do you think about closing that? How impactful would that be to market share? Lastly, what's your thought on food volumes? What is an acceptable food volume performance for this business?
+Jamere Jackson: Good morning, Bret.
 
-Greg Foran: Yeah. Good morning, John. It's Greg. I would say that I'm guessing over the last sort of about 15-16 weeks, I've probably now gotten to well over 100 of our stores, and many of our competitors. I would say that as a rough rule of thumb, I would say that two out of five I would find in very good condition. Another two out of five that are in moderate condition, and there's generally one out of five where we could improve the performance. We just don't focus on that 20%. We look at actually the other two out of five where we can improve. The way you fix that is by basically getting out into the business. You spend time with the presidents in each division. You spend time with their vice presidents. You spend time with their district managers. You walk stores.  You use the data that's available as well. We have some good data on stores. Basically, you're out there and you're seeing what's happening, and you're encouraging people and making sure that we stay on top of it. It's interesting when you come across a store that has some challenges, that's the nature of this business and it's been like that in almost the 50 years that I've been doing it. It's amazing how quickly you can get it turned around and the impact it has on sales. I was in a store the other weekend, it wasn't in great shape. It had been running negative comp sales and in the space of basically some hard work over the day by the team, they turned it into some reasonably healthy positive comps. It makes a difference when you run a good store. Your comment on volumes. Maybe I could just get a little bit more color on what you were after there.
+Analyst (Bret Jordan): Could you refresh us on how you see same SKU inflation in the second half of 2026 and obviously some concerns around supply chain and lubricants Are there are there drivers that might push it up more than expected?
 
-John Heinbockel: Can take out pharmacy, food volumes, units, right?
+Philip Daniele: Yeah, it is a great question. As we mentioned a minute ago, we think the inflation rates and ticket average rates will probably be that probably 4% range. So we still think that inflation A little more muted than they were in Q3. on a same SKU basis will continue into Q4. You know, the issue around lubricants, I know there is a lot of noise out there. We are going to leave that up to the oil specialist to really say what that means. We think there is probably gonna be some constraints, but we do not think that it is going to be that material. Okay.
 
-Greg Foran: Yeah. Sure.
+Jamere Jackson: And then I guess 1 of your peers seems to be cutting back on national account business a little bit. Is that something that you are seeing a lot of incremental opportunity in? And could you remind us maybe sort of the profit spread between national accounts and up and down the street? Yeah. We I mean, we are undershared in commercial in total. that is both in national accounts, what we call up-and-down-the-street, and many other segments that we compete in. National account business is growing pretty strong for us as well as the up-and-down-the-street consumer. We like both of those segments, and we think we have opportunities to grow share in both of them. Know, yeah, there is a little bit of a spread between the 2, but both of those are great businesses. We think there is opportunity for us to gain share in both of them. Like I said, both of them last quarter grew double digits. Great. Thank you.
 
-John Heinbockel: I think most conventional food retailers run negative, right?
+Operator: Your next question is from Steven Zaccone with Citi.
 
-Greg Foran: Yeah.
+Analyst (Steven Zaccone): Question. I wanted to drill down on your expectations for fourth quarter same store sales. Obviously, there is some weather impact here at the end of the third quarter. So just help us understand have you seen an improvement now as you have gotten later into May? And then how do we think about your expectations for the fourth quarter specifically on the domestic side?
 
-John Heinbockel: Obviously, you certainly don't want to be there.
+Philip Daniele: Yes. We I mean, there is not a whole lot of change from what we just talked about. We are We generally release our numbers so soon as our quarter ended. You know, I would say that May has been a little bit cooler, but I think we are expecting a normal, if not hotter than normal, summer based on the prognostication of all the weather geniuses out there. Do not think that is what we are. But we are expecting a normal summer And, you know, I will go back to what we have talked about. We think our initiatives are strong and they are the right initiatives for us. We think our execution is great. And improving day in and day out. We opened up a lot of new stores and, you know, this past quarter, we opened up 14 additional mega hubs. Which helped us out significantly both on the commercial side and on the DIY side. We are gonna open another, you know, 14 or so mega hubs this next quarter. So we are expecting to have a pretty normal increase in our summer months to volume, and that should bode well for us. Okay. Thanks for that detail.
 
-Greg Foran: Yeah, no, we don't. We've made comment in the script about starting to pull away from that traditional grocery set, something that they call Rest of Market. What we're starting to see now is the beginnings of a meaningful break, and we're nowhere near where we want to be, but there's separation. That separation has been there now for a few months, and we're pleased with that and we're focused on it. At some point, we want those lines to cross, and we want to get into the positive territory. At this stage, there's a meaningful break, and I'm encouraged by that. We refer to it as green shoots in the business.
+Jamere Jackson: The follow-up I had is just on the gross margin side. Obviously, continue to be strong on the core gross margin line. Should we expect that to perform in the fourth quarter? Yes. I mean, we continue to perform very well from a gross margin standpoint. In this quarter, we had probably 42 basis points of gross margin improvements that offset a commercial mix drag of about 22 basis points. And we saw positive, you know, merchandise margins Our shrink's improving. Our supply chain productivity is improving. So you know, we are expecting to have a pretty solid fourth quarter as well. With similar kinds of dynamics. I will say that the growth rates that we are expecting from commercial relative to DIY will put a little bit more of a mixed drag on. So we are working very hard to offset as much as that as we can with other margin improvements. Okay. Thanks for the detail. Hopefully, the weather prognosticators are right about summer.
 
-David Kennerley: I think the only thing I'd add, John, and agree with everything Greg said. In terms of the unit performance that we're seeing, if you look at the unit market share performance actually was pretty good. It was about the best we'd seen in two to three years. I think that's encouraging in the context of the market. To Greg's point, our objective needs to be to get the units of the business to positive. That is what we're focused on.
+Operator: Your next question for today is from Christopher Horvers with JPMorgan.
 
-Operator: Thank you for your question. Your next question comes from the line of Simeon Gutman from Morgan Stanley. Your line is now open.
+Analyst (Christopher Horvers): Thanks. Good morning, guys. So Good morning. You know, as you as you as you step back, you had stimulus. You had what was 1 of the probably the best winter since 2014? Appreciative that and you had this big inflation numbers. As is there anything that you look at underneath the covers to say, like, there is an impact from energy prices, that is being more of the issue than the near term weather dynamics. And as you think about the back half of the calendar year, it looks like you are sitting at around a 4% leverage point What can you do, to control the expenses to the extent that there is something you know, more weakness going on the DIY side of the business especially as you lose those inflation tailwinds.
 
-Simeon Gutman: Hey, Greg. Hey, David. When Kroger went out and did some big pricing investments, it was in the earlier part of the 2000s, a long time ago. It took a couple of years for the sales needle to move pretty meaningfully. Can you give us a sense of the timeframe? Because it sounds like you're going to do this more surgically and have it funded. Think about what's the appropriate timeframe that we should expect a decent pickup in sales volumes. If you're willing to frame, is the pricing opportunity or the value opportunity in the hundreds of millions or billions, just so we can understand how much needs to be funded over time?
+Philip Daniele: I would say, I think you are right to call out that we had a pretty normal or good winter You know, as we mentioned, our results across the company were stronger out west and in the Midwest and the Northeast. Which that is kind of an indication. And we see it in the categories. that is an indication that we got the winner that we would have liked and that has historically been good for us through the summer months in those categories, undercar categories, brakes, etcetera. We are expecting a normal, if not hotter than normal, summer And those all bode pretty well for us. Again, I will go back to what we think we are doing, which is we are opening up really productive new stores. Our stores that have been in place with the support of mega hubs and hubs. And our improved performance across both DIY and commercial customer service are helping us across the board We are gaining share on both sides of our business. And I think that is going to continue.
 
-Greg Foran: Hi, Simeon. Good to chat again. Yes, I wasn't in the market when Kroger did it back in the 2000s, but I've certainly spoken to some of the team here at Kroger that were. I have a sense of that. Obviously, from my time at another retailer, I've got a sense of how it plays out as well. Look, we'll provide a bit more color on what we're seeing and what we're learning, in October 20. At this stage, too early to comment. I don't really want to get into details around that. What's more, we're learning as we go. I appreciate this is not the same as that other retailer that I was at, so I have to understand some of the nuances that we will see around that. E-commerce has obviously changed from what it was back in 2014, 2015.  If you can just be patient with us, we'll give you some more color around October 20.
+Jamere Jackson: And I just say on the cost front, I mean, we are continuing to manage the business with, discipline. So in addition to growing very strong on the top line, we are focused on expense management in the middle. We continue to invest in our new stores and maintaining high levels of customer service. But we are also continuing to drive productivity initiatives inside the company. And we expect those dynamics to continue in the fourth quarter and into the back half. So as the, you know, the comps, move associated with what we see in the market dynamics, we are anticipating that we will manage our SG&A accordingly.
 
-David Kennerley: One thing to add, Simeon, I think, as you guys and obviously, as Greg said, we'll provide more color in the fall. The thing that you guys should be thinking about is, we've said it, we've got a very significant cost opportunity in the business to take cost out. Yeah, it's more than enough to be able to afford the price investments we need to make.
+Analyst (Christopher Horvers): And then jumping back to the inflation side, you do import more than some of your peers, especially with the private label penetration. That you have. 1 of your peers talked about you know, some of their vendors talking about increases related to energy prices in resin. You also have the steel tariffs. So are you seeing those price pressures now? Why would not the inflation outlook be better in the back half of the calendar year versus maybe what you thought 3 and 6 months ago?
 
-Operator: Thank you for your question. Your next question comes from the line of Tom Palmer from JPMorgan. Your line is now open.
+Philip Daniele: Yeah. I think the I mean, there could be additional costs that are con that are that are coming in on various fronts. But at the end of the day, those tariffs that are on steel and automotive parts have been in place for quite some time. The inflation ramp that we saw started last year in what would be our Q4, which is the time frame that we are entering. So yes, I think some of the cost from tariffs, etcetera, are still coming in. As we cycle through that inventory. So there will be some improve or increase in inflation, but it will be slightly muted as we are now lapping some of the higher inflation rates from last year. Yeah.
 
-Tom Palmer: Good morning, thank you for the question. I appreciate there's more to come here in October, I did want to maybe follow up on the price investments and at least understand how far along we might be at this point. I know it was cited as an item that contributed to the gross margin decline that we saw in the first quarter. Sounds like that's planned for throughout the year. Maybe just an update on where we stand at this point in terms of price investments and how you're thinking about it in terms of, I think maybe more of a region-by-region focus versus plans to go much broader than that. Thanks.
+Jamere Jackson: I would characterize it as, you know, this is a pretty fluid situation as it relates to energy and oil, in particular. it is gonna impact suppliers and retailers differently. What I will say about us is that we are managing the situation with our suppliers and with our customers, and you know, we expect the environment to continue to be inflationary. The extent to which we will learn as we move forward. And we will manage the business accordingly in terms of what we do with pricing. And we will be very transparent about what we are seeing in our tickets. Understood. Have a great summer. Thank you.
 
-Greg Foran: Yeah. Thanks for the question, Tom. Look, we're being very thoughtful about how we do this, just to build on David's point, we're funding it. As we dig into what we're doing with cost of goods, when we dig into goods not for resale, as we start to expand our importing capability, we build up deposits in our bank account. As those deposits build, then we look at how we spend it. The comment around some price investment in the first quarter is, once again, we've been very thoughtful as we go through our negotiations with suppliers, as we deal with some suppliers who want to get price up, how much of that we will pass on.  I would say I'm very pleased with the way that the team under Mary Ellen, Mike, and Carlo have been managing that, managing where we want to sit with price, what we take, what we don't, and the rest of it. I'll just reiterate, just be patient. We'll get to the fall, we'll have more to share with you at that point.
+Operator: Your next question is from Brian Nagel with Oppenheimer.
 
-Operator: Your next question comes from the line of Krisztina Katai from Deutsche Bank. Your line is open.
+Analyst (Brian Nagel): Good morning, Brian. But first question I want to ask, as we look at the ongoing rollout of your mega hubs, You know, so maybe a couple questions within this. Mean, 1, you know, we talk about the latest mega hubs you are opening, the performance of those. I mean, how are those performing versus, you know, some of the maybe latest event big hubs? And then, you know, you have other you have competitors out there now talking about a similar strategy. You know, they now they may be even using similar terms. I guess, I want to as you are as you are rolling out and continue to expand your mega hub, effort, are you seeing any type of competitive headwind there as others are, some say, emulating the strategy?
 
-Krisztina Katai: Hi, good morning. Thanks for taking the question. Greg, in your opening remarks, even now in some of the answers to questions, obviously, you talked about operating costs growing faster than sales and that not being acceptable. Maybe can you talk about some of the areas of opportunity for the business that you see, perhaps sizing up the various buckets for us? I know that there's going to be more to come on October 20th, just how are you viewing the cost opportunities, especially in light of the operational and cultural improvements that you're seeking to achieve, and especially at the store level? Thank you.
+Jamere Jackson: Yeah. I would say that we have got a very robust pipeline for mega hubs. I mean, we have over 100 mega hubs currently in the pipeline today. We talked openly about our plan to get to nearly 300 mega hubs near term. And quite frankly, as our commercial business continues to grow, you know, there is a very distinct possibility that we would even exceed that number. They are continuing to outperform our expectations. You know, the combination of the demand for parts in the marketplace the customer's desire for us to have those parts closer to the customer so that we can provide a better service level is really what is fueling our strategy. So while, the competitive dynamics are such that others are sort of mirroring that strategy, You know, we think that our strategy is being executed appropriately. And it has not been muted or impacted at all by what others are doing in the marketplace. Frankly, those hub the hubs and mega hubs continue to perform year over year. We really like the productivity of both those boxes and that inventory and the asset we can put around there to help energize that inventory in those hubs and mega hubs continues to be more productive as we find more innovative ways to get that product to the customer, both DIY and commercial, faster and faster. that is very helpful. I appreciate all the color.
 
-Greg Foran: Yeah. Thanks for your question, Krisztina. There's really no shortage of opportunities as I've sort of got around the business over the last 14-15 weeks. Some of those are above the gross margin line, they can be sitting in things like shrinkage rates, sort of sitting in stores. They can be sitting in things like replenishment and how that's operating. Then some of them are below the gross margin line and your traditional operational and general expenses, and it could be whether we've got the right number of people sitting in the right locations, what we're doing in terms of productivity in various parts of the business. There is a reasonably long list of things that are going to add up over time, which will fund what we want to do. It's pretty wide and varied.  There are cookies opportunities at every single part of the business.
+Analyst (Brian Nagel): My follow-up question, maybe not a totally fair 1, but just looking at the sales performance through the quarter, which you called out this, the slower trend later in the fiscal quarter. It makes a lot of sense that the weather impact of that. As you look at the data, I mean, what gives you confidence that it was indeed cooler weather versus some type of, like, tailing off, if you will, on the tax refund benefit?
 
-David Kennerley: A couple of things to add. The work is underway, so you shouldn't think about this as this is work that hasn't started. If I use our work on cost of goods sold as an example in Q1, we're already ahead of the expectations that we had for ourselves, so about 30% ahead of where we're at. Through the balance of this year, we expect the savings that we'll get out of the initiatives that are broad-based, as Greg said, we expect them to ramp over the course of this year, and they will endure over a multi-year period. We think this number's significant, and that's why we feel confident we can use that as a source of improving affordability for customers.
+Philip Daniele: Yeah. it is it is pretty clear when you look at the categories, you can see it. We you know, like I said, you know, air conditioning is a great example. it is just been cool in May. Significantly cooler than last year, and it is been relatively wet. That will change and we will expect those categories to respond accordingly. So if you look at where it where it is been cool and where it is been wet, you can direct you can see a direct correlation to the category comp year over year and the trend changes. And, again, that we believe that is going to continue, going to change pretty rapidly here as we move into the summer months. And, you know, all of everything that you look at from the weather prognosticators is gonna say this is going to be a pretty hot summer. And that should bode very well for us. And I would say we are well prepared for it too. We are in great shape. Much appreciated. Thank you.
 
-Operator: Thank you for your question. Your next question comes from the line of Michael Lasser from UBS. Your line is open.
+Operator: Your next question for today is from Seth Sigman with Barclays.
 
-Michael Lasser: Good morning. Thank you so much for taking my question. Greg, now that you've had a couple of months in the seat, it seems like your message is that Kroger can be the best version of itself without making any radical changes and achieve its long-term formula of 3%-5% earnings growth over time. Someone on the other side might say, "Hey, that might be difficult to do in an environment where your competitors are using profit pools outside of grocery to invest in driving the traffic that this sector brings," and Kroger has to deal with the rigidity of its labor model at the same time that all of the growth is being driven by the online grocery sector. How would you respond to that?  I don't know if you or David could note what's going to change in the second half of the year as you're pointing to an inflection in your profitability given the updated comments that you provided around the second quarter. Thank you so much.
+Analyst (Seth Sigman): Guys. Good morning. Thanks for taking the question. I wanted to ask about expenses, have come in a little bit lower over the last 2 quarters. Versus the elevated plan that you had laid out last I think it was Q4. The question is, are you investing at a slower pace? Or are there just more offsets than you anticipated? I am just trying to think about whether SG&A will have to reaccelerate at some point or we have really passed the worst. Thank you.
 
-Greg Foran: Thanks, Michael. Michael, I remain incredibly encouraged by what I see as I get around the business. We've got the right format, generally in the right locations with the right size, selling the right product. People need to buy food. We've seen how important stores are in terms of eCommerce. Is eCommerce going to grow? For sure. Well-run Kroger has the right assets to be able to compete with anyone out there. Because of our scale, we can also compete in retail media. David commented in his script about the performance of that, and I'll just layer in, it's actually going really well for us. I sat down yesterday with Christine, who looks after that business, and I finished that session with her even more encouraged by the results that she's getting of late, which just continue to accelerate.  We've got the scale and we've got the assets to be able to compete. We've got the format. There is no doubt that clubs are a powerful format and perform extremely well. Not everyone wants to go into a store that size and have to deal with pack sizes that big. I obviously understand the supercenter business, and we even have some ourselves. A lot of people prefer to get into a 50,000-60,000 sq ft store and do their shopping and get out again. By the way, if you're picking groceries and you're picking them in a store that size, that can also be quite efficient. I like the fact we're in supermarkets. A good article about Aldi in the Financial Times today. Not everyone wants to go into a store with 2,500-3,000 own brand SKUs.  They want to be able to buy national brands. We're well-positioned. We've got the assets, we've got enough scale. We can compete, whether it's in digitization and media and all those things that anyone else can. We've got opportunity to grow. There are parts of this country where we're not operating at the moment, so I feel good about that. David, do you want to pick up the second part?
+Jamere Jackson: Yeah. We do not, anticipate a reacceleration in SG&A. Again, the big driver in the early part of the year was lapping the load in of new stores that we had in the back half of last year, which did put a couple points of pressure on our SG&A growth rates. As we move through the year, we have got a more normalized year over year comparison And now you are seeing us, you know, have SG&A and SG&A per store in line with what we have done historically. And the other dynamic I will say is that, you know, we are continuing to work productivity very hard inside the company like we always have. it is a muscle that you know, even as we have been growing our business, we have continued to focus on opportunities to drive productivity and efficiencies really across all of our functional areas. The teams are doing a really good job. We have got a pretty robust playbook of cost and expense initiatives. And that is helping us manage SG&A in a meaningful way and have good cost management as we move forward. Okay. Perfect.
 
-David Kennerley: I'll take the question about H2, Michael. I just want to reiterate, we were pretty pleased with Q1, and I think particularly the share performance. I think Q1 sort of broadly came in where we expected. Obviously, it's Q1, so it's still early in the year, so there's lots of unknowns as we head through the balance of the year. I think a few things that for us give us confidence in H2, the balance of the year and the outlook that we've got. I think the first thing is the cost initiatives ramp-up. That's going to give us fuel. What does that allow us to do? It allows us to continue sharpening value. It allows us to, as Greg talked about, focus on execution, focus on traffic. That is building the unit momentum, continuing to accelerate our share performance.  I think the third thing is the eCom business turned profitable in the quarter. As that business continues to grow and accelerate, that will generate more profitable performance for us, which is a really good piece of good news for us. The final thing is, again, we'll still be within the range that we communicated in inflation, and we're going to keep working very diligently with suppliers. I think as we get through the balance of the year, we will also continue to see some increased pressure on inflation as we head through the balance of the year. I think we feel pretty good about how we've called it. Obviously we'll keep you guys updated as we move through the year.
+Analyst (Seth Sigman): Thank you. And then my follow-up question is on inflation and the expectation that it will moderate in Q4 and into next year. I guess it was asked a couple of different ways, but I am just trying to think about some of the offsets, whether it is transactions or maybe mix accelerating. Like how do you think about these drivers? Has mix been a meaningful negative over the last 12 months? And how do you see that improving maybe to help offset less inflation? Thank you.
 
-Operator: Thank you for your question. Your next question comes from the line of Leah Jordan from Goldman Sachs. Your line is now open.
+Philip Daniele: Yeah. We have not seen I mean, our mix has been relatively stable. You know, we kind of look at our mix between what we call discretionary maintenance and failure. And the maintenance and failure businesses over quite a while have been have been relatively stable as a percent of sales. They will move around a little bit, but relatively stable. it is kind of the beauty of this industry is it is pretty inelastic. Most of it is break fix, and you have got maintenance that has to be done. Consumers can defer it for some period of time, but if they do that, then they have a larger failure which costs more money. So that number has been those numbers have been pretty flat. Not a lot of shifts between them. And we think that is probably going to continue. Okay. Thanks, guys.
 
-Leah Jordan: Thank you. Good morning. I just wanted to build off of that last question. I hear on the cost savings driving a lot of the profit improvement for the year, but your updated outlook for Q2 is really suggesting the identical-store sales guide will be more back half weighted than maybe we thought last quarter. Just more detail around how you're thinking about inflation, volumes, and traffic as we move through the year. Ultimately, what I'm trying to get at is how much is that top-line acceleration being driven by the macro versus your own initiatives underway, like the improvements on affordability? Thank you.
+Operator: Your next question is from Michael Lasser with UBS.
 
-David Kennerley: Leah, thanks for the question. I think a few things as we think about Q2 and the year. I think as we reflect back on the plan that we built, the plan was always going to be more H2 weighted. I think that was the plan that we built for ourselves. As you know, we don't guide to specific quarters, and what I'd say is, things are playing out broadly as we expected, with the exception of the fuel inflation that Greg touched on in his script. I think as we head into Q2, I think a few things to think about. The first is, we are expecting FIFO gross margins to be better. We've got a number of things, egg inflation or egg deflation, a very meaningful one, that will improve as we get into Q2.  We are expecting our OG&A investments to be a little bit higher as we go through the year. Those are deliberate investments in the same things we've been talking about. Back to Greg talking about well-run stores, you need engaged associates, well trained, right number of them in the store, right number of hours. We're making deliberate choices about that. I think the other thing about Q2 is whilst none of them are individually material enough to call out, collectively, we are lapping a collection of what I would call one-time items, that cause some headwinds for Q2 specifically. That's why you get the difference between what will ultimately be our H1 numbers and H2. To build on the points I said to Michael's question, listen, the cost savings ramp-up gives us more fuel to invest into the business.  A little bit of inflationary pressure still within the range as we move through the balance of the year, and an eCom business and a media business that will continue to accelerate.
+Analyst (Michael Lasser): Good morning. Thank you so much for taking my question. Now when we look at your good morning, Philip. When we look at the performance of AutoZone versus some of the other competitors, in the marketplace. We obviously need to take into account that the calendars line up differently, the mix of the businesses line up differently. But simply speaking, when we compare your performance versus some of the others, we had been accustomed to AutoZone significantly outperforming the others. And now that spread is a bit more narrow. Is that a signal that some of the low hanging fruit or the bulk of some of the market share gains that had happened in the wake of expanding parts availability and service are now behind AutoZone, or is there an opportunity to accelerate some of those share gains from here, and what would drive an acceleration in the share gain?
 
-Operator: Your next question comes from the line of Edward Kelly from Wells Fargo. Your line is now open.
+Philip Daniele: We great question. Michael. And I think the way we look at it is we have an opportunity to gain share both on the DIY side of our business and on the commercial side of the business. Our execution has improved. Our assortments are improving. You know, we are we are literally, as Jamere mentioned, we are only about halfway through our hub and mega hub expansion strategy. And those will help us both on the DIY side of the business and the commercial side of the business. And our execution continues to improve, and we have strategies that will help our execution improve even more. We look at things from an execution perspective, our turnover in stores is back down to historic levels, historically low levels Our supply chains are gaining efficiency. We are getting better service to our commercial customers out of our hubs. And our mega hubs and our satellite stores. We continue to improve on our delivery times. All those things point to better execution, and we think the opportunity to gain share specifically on the commercial side where we are still you know, roughly 5% of the market share opportunity that is out there. So we think we have pretty good opportunities on both sides of the business.
 
-Edward Kelly: Yeah. Hi. Good morning, everyone, and thank you for taking my question. Greg, I wanted to ask you've mentioned the desire to move fast. I think last quarter you said something about behind competition, but you want to catch up and then pass. The strategy as it pertains to investing in price and funding it with cost saves, we have heard others talk about that as well. I think almost every company we cover this quarter has talked about investing in price. My question is, how are you weighing the speed at which you want to move? Meaning slowly stepping on the accelerator and hoping the competition doesn't see you coming versus flooring it and really closing the gap. The success of each of those sort of initiatives. I'm just kind of curious as to how you weigh the pace at which you're moving.  Then maybe you could weave in, I know you're doing some price tests currently, what you're seeing in those price tests and how that might inform how this process sort of moves forward.
+Jamere Jackson: And I think the thing that, I really amplified from your comments Michael, is the fact that you know, if you look at a lot of our near end competitors, have a much higher mix on the commercial side of the business. You know, right now, our domestic commercial business is about 34% of our mix which is why we are so focused on growing the commercial business. It is growing faster. We have got a significant number of opportunities there. And so we have continued to double down on hubs and mega hubs We have doubled down on assortment. We have doubled down on the quality of our Duralast brand, putting up professional sales force in the field. It is why it is our number 1 growth priority. So as you look at, you know, sort of that performance that you are seeing, you know, amongst the competitive set, that difference in the mix is why we are so focused on what we are focused on from a from a commercial standpoint. And that strategy is working. I mean, Philip mentioned the fact that we are growing double digits with both national accounts and up and down the street customers. That is, meaningful progress for us. Moving forward. And pretty excited about what it means for us as we move through the fourth quarter of next year. Understood. Thank you very much.
 
-Greg Foran: Yeah, thanks, Edward. As I said in the script, it's really about threading the needle, isn't it? You have to be pretty thoughtful here that what you're doing is you're balancing the short term with the longer term. The other component that comes into play is the capability of the team to be able to execute. If you're going to start moving on price, you need to make sure that your stores are in good shape. There are other things that have to come into play at the same time that you start to think about, well, gee, maybe I need to get a little bit more affordable on price. If I can just tease out the price comment piece.  The objective of Kroger, if you go back to the 2000s, I think it might've been Simeon or one of the others who raised it last time this was done in a meaningful way, I think. The objective actually is not to get down and be the same price as, if you like, some of the discounters in the marketplace. The objective here is to get to a situation where customers feel comfortable that the price that they're getting when they shop in a Kroger store or a Kroger brand is actually fair and reasonable. If you have a look at sort of what's been happening in Rest of Market, what's happened is those price gaps have widened over several years.  That's, I'm sure, one of the reasons why the share starts to move from Rest of Market to the other end of the market that's called MULO. Our objective here is not to go and price ourselves at a discount price. It's to actually get to a situation where the customer says, "You know what? I have a choice of turning right or left when I leave my house, or I can swipe left or swipe right on my phone." We want them to go, "Well, we're going to swipe to Kroger, or we're going to drive to Kroger because it's a terrific grocery store. It's got a great range of fresh food. It's got a great range of brands, national brands, and Our Brands. It's affordable. If I'm going to go online, it's got everything that I want in my basket.  If I need to get it in 30 minutes, I can do that. If I need to get it same day, I can do that." It's got some uniqueness about it in terms of they do fresh really well, they do convenience meals really well, and they've got a terrific selection of own brands. That's the position that we want to take, and we do that very carefully, surgically almost, by threading this needle. I am very conscious, as is David, that what we're doing here is going to be hard. We're not taking any dramatic, drastic actions. We're being very surgical, very thoughtful. I guess I've had the benefit of doing this before. Let's wait and see what happens from a competitive perspective. I can't judge that at this point. We'll know more, and we'll share more when we get to October 20.  It's sort of how I'm thinking about it. Anything you want to add to that, David?
+Analyst (Michael Lasser): My quick follow-up question is the message that you have been offering for some time now is you are deploying a lot of capital to make this a faster growing top line business, which then in turn can drive equal to or better EPS growth over time. So in light of the last couple of quarters where there is been a weather disruption to the comp that is created a little bit of noise, are you still of the view that this can be a faster top line growth story over time? And if there is something that interrupts that, do you have the ability to flex your SG&A I think there was a mention of that earlier in the conversation. To, con to sustain the EPS growth under a variety of scenarios for your same store sales growth. Thank you.
 
-David Kennerley: No. I don't know whether the price tests we're running this, and as you'd expect, we're running price tests.
+Philip Daniele: Yeah. I think, Michael, to that to that point, our SG&A control has been a strength of this company for a very long period of time. Obviously, the SG&A that goes along with a new store opening or something of that nature is once you start the investment in the store, that is going to materialize. But we have always had the ability to manage our SG&A, payroll expenses related to store to sales growth, and that is where that sort of thing very, very well for a long period of time. And I think as we showed this past quarter, we continue to be able to do that. And as we look at these investments that we are making as we said, in our prepared remarks, the performance that we placed on our stores when we originally approved them are fairly conservative and we are outperforming those performance. The stores are indexing higher than we initially said. Our commercial programs are continuing to perform slightly better than we would have thought. And we think all of that will help us return or produce those returns at a faster rate. Over time. Very helpful. Thank you so much and good luck. Thank you, Michael.
 
-Greg Foran: We're not going to divulge the details of that at this point in time for obvious reasons. We'll share a bit more when we get to October 20.
+Operator: Your next question for today is from Simeon Gutman with Morgan Stanley.
 
-Operator: Thank you for your question. Your next question comes from the line of Seth Sigman from Barclays. Please go ahead.
+Analyst: Hi, good morning. This is Skyler Tennant on for Gutman. Thank you for taking our question. So is it reasonable for us to assume that with new stores and the maturation curve, a sustainable level comp growth would be around that 4% plus level into the future?
 
-Seth Sigman: Hey, good morning, everyone. As you think about the guidance for this year, it sounds like the investments are going to ramp, but the savings are also going to ramp. Previously you'd targeted that $400 million of savings from eCommerce. Is there a bigger, maybe more inclusive number for savings that's built into this guidance now that you can quantify to give investors some confidence in your ability to drive all of that change? Thanks so much.
+Jamere Jackson: Yeah. I think if you look at where we have been historically, and you look at what the new store load in actually looks like, particularly as we get to 300 new stores domestically You are gonna get a much bigger, comp waterfall from those new stores than we have historically. So you know, in that in that 4% ZIP code is where we need to be or better to, drive the kind of returns on capital. And, you know, 1 of the things that we have we have said and we have been very, very clear on is that the combination of the new stores plus the accelerating commercial business that we have is what has us, bullish about a faster growing business in the future. And faster growing business is actually gonna be a higher returning business as well for us. Great. Thank you. And then zooming in on fiscal year 2027, given some of the inflationary trends and that maturation curve, can we assume comps get to a level closer to 5%? By then? Thank you. Obviously, we do not obviously, we do not guide in that in that manner, but I think qualitative qualitatively, what we will say is that you know, we are expecting continued progress in terms of growing our domestic commercial business. We have got a very resilient DIY business. And at some point, we will have a snapback or a rebound of our international business and, you should see our business growing faster. And then you combine that with as you mentioned a little bit earlier, you combine that with you know, the fact that we are continuing to drive new store growth that is above our historical average and the fact that they are performing better than they have historically, you know, that sets us up very nicely for a very FY 2027, and we will talk a little bit more about that as we get to our fourth quarter call. Great. Thank you, and good luck.
 
-David Kennerley: Yeah, Seth, let me take that one. We obviously communicated last year when we closed the Ocado sheds and included in our guidance the $400 million improvement in eCommerce. I think what I'd say is that eCommerce profitability, which includes obviously that $400 million improvement, is ahead of schedule and accelerating faster than we thought. I think that is an additional tailwind. Whilst I'm not going to put a number on it, we will share more in the fall about what we think the multi-year opportunity is. The cost savings that we plan to realize through the balance of the year are more than sufficient for us to make the investments that we talked about. I talked about OG&A likely to be an area of continued investment as we head through the year, offset with improvements in gross margin.  In summary to your question, the savings are bigger than the investments, and that's what gives us confidence in our ability to deliver the profit number for the year.
+Operator: Your next question is from Kate McShane with Goldman Sachs. Hi, good morning.
 
-Operator: Thank you for your question. Your next question comes from the line of Rupesh Parikh. Your line is now open.
+Analyst: Thanks for taking our questions. We wanted to ask about some of the dynamic between the national account and up and down the street. Could you just remind us what the gross margin headwind there is, as you pursue national accounts versus up and down the street? And then second to that, within SG&A, can you talk about the SG&A investment needed to pursue national accounts versus the up and down the street customers? We just wondered how the return would compare.
 
-Rupesh Parikh: Good morning, and thanks for taking my question. On the pharmacy business, I was curious how you're thinking about the headwind related to the Inflation Reduction Act and brand to generic for the balance of the year. I also want to see if you can provide any color on quarter-date trends. Thank you.
+Jamere Jackson: So on the on the SG&A front, I mean, there is really no difference in terms of, you know, how we manage the SG&A for national accounts versus up and down the street customers. You know, we have a very efficient Salesforce. We have a very efficient operations team that is, you know, sort of managing that business within the construct of where we are. So there is not a meaningful difference in terms of where we are. On the SG&A front. And then, you know, from a gross margin standpoint, what we have said is that the national account business is always very, very competitive. They are our most sophisticated customer set out there. They have scale that you would you know, expect them to, you know, want to negotiate things like pricing and service levels, and we have done that. And still been able to earn very good returns on that on that business. So we do like the national account business, as Philip said. We like the margin profile associated with the national account business. And the most important point to all of that is that we are underpenetrated. We are underpenetrated with national accounts. We are underpenetrated with up and down the street customers. And this is an opportunity for us to grow our business in a meaningful way. Thank you.
 
-David Kennerley: Yeah, let me take that one initially, Rupesh, and then I'll ask Greg to add any additional color. Lots of changes in the pharmacy space this year. We obviously knew about the Inflation Reduction Act coming into the year. We estimated that to be about 130 basis point headwind for the year, honestly, it's playing out exactly as we expected. Obviously, that's a headwind to sales. Given the way the rebates work, it's neutral from a profit perspective. What we're also seeing, and it's an industry thing, is a shift from branded drugs to generics impacted us by about 40 basis points on the total quarter, on total identical-store sales. On that one, even though it's a headwind to sales, it's actually profit positive, so helps improve the margin profile of the business. Again, hence why the sales headwind doesn't impact our profit guidance.  I think despite these pressures, honestly, the pharmacy business continues to do well. If you look at core scripts, GLP-1 performance, we're winning share, and that's really the yardstick that we use to measure the performance of the business as well as the financial ones. I think as you think about something like GLP-1s, that consumer who comes and fills their prescription in the store, not only are they filling their prescription, but they're also changing their eating habits. They want more fresh, higher protein. They're shopping better-for-you categories. I think we feel that the overall Kroger ecosystem is very well-positioned to serve those customers. I think, yes, some headwinds on the top line for the pharmacy business. The industry facing much of the same. We're winning share, feel good about how we're doing.
+Operator: Your next question for today is from Scott Ciccarelli with Truist. Good morning, guys.
 
-Greg Foran: I think that's exactly right, David. I think a little bit like we're seeing in the rest of the business. There's some good underlying foundational trends here that are coming through. As you said, we've picked up share, script counts is up. We're just rolling out delivery. Like we're seeing in grocery, units are better, dollar share is getting better. We feel good about pharmacy.
+Analyst (Scott Ciccarelli): I Good morning. I guess the question is if same good morning. If same SKU inflation steps down by, call it, 250 or 300 basis points, in your fiscal fourth quarter. Why would not your domestic comp growth slow down by a similar amount? Know you are gonna gain share over time, but, like, at least in the near term, is that the way people should be thinking about from a modeling perspective?
 
-Operator: Thank you for your question. Your next question comes from the line of Scott Marks from Jefferies. Your line is open.
+Jamere Jackson: I think you got a couple dynamics there. We are lapping the same SKU inflation that was caused by tariffs. In the fourth quarter of last year. So you have also had other inflationary impacts that have impacted the business at the same time. So the big reason for the step down is not that know, there is something dramatically happening different in the market. it is just that you are lapping that big, step up that we had in the fourth quarter of last year. Think when we look at the business overall, here are the things that we like. We like the fact that our commercial business is growing, and it is gonna grow just from ticket, but it is gonna grow from transactions. We like the progress that we are making with our DIY shares. We have also seen traffic be down in the in the mid threes over the last couple of quarters or so. And it and as we continue to gain share and as the uncertainty associated with the consumer in some instances, is impacted, things like discretionary categories, there is an opportunity to grow transactions as well. So you know, I would not have a direct read through that says that the lapping of the of the inflation toward the craters comps, there are lots of things that are driving our comp expectations as we as we move forward. I agree with that.
 
-Scott Marks: Hey, good morning, all. Thanks so much for taking the questions. In the prepared remarks, you made some comments about the consumer under pressure between higher gas prices, some of the changes to SNAP programs. Wondering if you can just give us a little bit more detail around what you're seeing from the consumer, specifically across different income cohorts, and what you're seeing just in terms of purchasing behaviors and habits. Thanks so much.
+Philip Daniele: And I think to that point of again, we continue to gain share and we have really low share on the commercial side of the business. And we think all that sets up well for us. And we have we are working very hard with our initiatives both on the DIY side and the commercial side of the business. To continue to gain share. And we think we can overcome that.
 
-Greg Foran: Thanks, Scott. I would say that averages can always be a little bit misleading, so you need to get into the detail. SNAP, I would say, is most impacted across three states in particular, and we see a bit of that flow through. In terms of the price of fuel having an impact, when that price gets up to what it has, I think we see that some of the basket sizes, some of the items that people buy tend to be traded down a bit. I think that helps probably with Our Brands and how we're operating. SNAP is varied across the country. Petrol is more widespread right across the country. We would say that based on the share data that we're seeing and the positive results that we're getting out of that, we're doing okay.  We're managing through this. I'll go back to the comment I made previously. I think we're threading the needle nicely between delivering the right level of profit and the right level of price.
+Analyst (Scott Ciccarelli): that is helpful. And then what is the comp waterfall contribution today just so we can better understand how the go forward contribution might be? Thanks.
 
-Operator: Thank you for your question. Your last question comes from the line of Paul Lejuez from Citi. Your line is open...
+Jamere Jackson: Yeah. I mean, we have not, shared it specifically. And, obviously, it varies based on the mix of stores. But mean, very simplest very simply, you know, we get outsized comps associated with the new stores. And as we have accelerated those, that new store is going from, you know, for example, in the in the domestic side of our business from 150 to 200-plus and you are getting more of a contribution from those new stores than we have historically. So I think if as we think about our business going forward, the combination of those new stores and what you naturally get in terms of comp acceleration and the fact that we are growing market share is know, what gives us the confidence around comp acceleration as we move forward. And to be clear, this is you know, this is the real reason for the strategy that we had associated with accelerating the new stores. We saw a share a market share opportunity We saw an improvement in the unit economics because our commercial business is growing. that is gonna ultimately result in, you know, you know, faster growing comps for us. We have got a lot of confidence in that strategy, and we are executing on it. And we are about halfway through to where we said we would be in FY 2028, and the performance has been exceeding our expectations. Great.
 
-Speaker 14: Hey, everyone. The brand team along for Paul. You all mentioned that freight costs were higher than you initially expected. I was just wondering if you could share the magnitude of that impact in one Q, and the impact that had on eCom profitability. What have you contemplated for freight costs for the rest of the year? If you could share any of the offsets that you're working through there.
+Operator: Thanks, guys. Thank you. Your next question is from Michael Lasser with UBS.
 
-David Kennerley: Yeah. Let me take that one, Paul. As we'd said in the script, it cost us about 15 basis points on the gross margin line. Without that, the gross margin line would've been slightly positive. On eCom profit, whilst it cost us a bit, we're making really good progress on eCom profit. We turned profitable in the quarter. It wasn't just as a result of the closing of unprofitable Ocado sheds. We made progress really across the board. Great, I think it was the record level, or lowest level cost to serve that we've seen. Wait times were best ever, and I think we've got many more opportunities to improve that through the balance of the year. Fuel prices are very hard to predict through the balance of the year. I'd love to be able to do that perfectly.  Obviously, we can't, so we think we've made a sensible assumption in the guidance through the balance of the year. We think it's a manageable headwind. We think we've got enough in the tank to be able to deal with it. Obviously, we hope, like everybody else does, that the news coming out of the negotiations between the U.S. and Iran alleviates some of those pressures. We're prepared to deal with it regardless of what the outcome is.
+Analyst: Okay. Thanks. A couple of follow ups. I guess, you said that the new store performance is better than expected, and I think you said on the commercial side, but anything else driving that better performance in those stores? Talk about, please, the DIY side and also expenses, which I think, as someone alluded to, have been coming in better than expected.
 
-Operator: We have reached the end of the Q&A session. This concludes today's call. Thank you for attending. You may now disconnect. 
+Philip Daniele: Yeah. I would say that and I will let Jamere speak on the new stores too, but they are performing better on commercial and DIY. When we when we approve a store, we kind of look at we set up a pro forma. We look at both the DIY performance and the and what we expect the commercial performance, and we index against both of those. And in total, stores are performing better on both the DIY side and the commercial side than when those stores were originally approved. And, you know, that performance index takes into account SG&A per store, etcetera.
+
+Jamere Jackson: So we like the performance. We are pretty conservative in those approvals. But, you know, all the initiatives that we have in place around you know, like Jamere just mentioned a minute ago, hub performance, mega hub performance, in store productivity initiatives, sales initiatives, commercial initiatives, all help per box performance. And we like the initiatives that we have in place, and we think they will continue to make us a stronger business in the future.
+
+Analyst: Got it. Okay. Makes sense. And then again, you know, just to follow-up again, it is been asked a couple of times, but maybe I will ask it. Another way. I think the easy perception here is that as you start to cycle the inflation from last year, comps will slow. But just to be sure we have the right message, you do not necessarily think comps slow. This is domestic comps I am talking about. You do not necessarily think domestic comps slow. As you lap that inflation because of the comp waterfall and share gains Is that the right interpretation? Is that the right message? Thanks.
+
+Philip Daniele: Yes. I think that is right. Obviously, the inflation becomes a little more muted, but we think that the initiatives we have in place will help us overcome a lot of that. As we move forward. that is correct. Thank you for clarifying.
+
+Operator: Thank you. And I think we have time for just 1 more call. Your next question is from Zack Fadem with Wells Fargo.
+
+Analyst (Zachary Fadem): Hey, good morning, and thanks for fitting me in. So first, could you talk about the performance of the 35-40 new Mega Hubs today and how this cohort of Mega Hubs compares to historical openings in terms of per store sales, returns, comp lift for nearby stores, etcetera?
+
+Jamere Jackson: Yeah. I think 2 things are driving that performance. The first thing that is driving that performance is, again, we have got a much stronger commercial business than we have had historically. And, you know, as we put those mega hubs in the marketplace, you know, the strength of our commercial business allows those mega hubs to come out of the gate. Much hotter than the ones that we put in historically. that is that is first and foremost. I think the second thing is how we utilize those mega hubs where, you know, we are using those Mega Hubs to go more direct to our customers than we have in the past as opposed to having them you know, you know, be primarily focused on a fulfillment source for of the other stores. So the utilization of the mega hubs the fact that we have got a stronger commercial business are the are the key drivers there. And if you just look at the market dynamics that we see today, parts proliferation, aging vehicles, propensity for DIFM business, you know, those are all demand drivers, if you will, for you know, adding more parts in the local market. And if we can do that, with the right assortments, and we can, you know, get the parts of the customer faster, then that is a winning formula for us. And you know, we have we have refilled and rebuilt the pipeline and we are pretty excited about what it means for us in the future.
+
+Philip Daniele: Yeah. The only thing I would add to that is we keep we have had these hubs and mega hubs in place for so long. We have had the ability to iterate on them several times and we keep finding you know, the biggest asset in there is obviously the inventory. And how do we get that inventory faster to a customer shortening time to serve for both the DIY customer and the commercial customer, and also, you know, online with things like next day delivery, etcetera. We continue to find ways keep energizing that inventory. And, we are we are not done with that process. We still think there is opportunities there. Got it.
+
+Analyst (Zachary Fadem): And then you mentioned share gains and comp waterfall as future drivers. but if we take your DIY comp minus inflation it looks like the volumes in that business started to decelerate as our same SKU inflation ramped up. So as you think about the current deferral cycle that we are in as a result of inflation, do you think it is fair to assume that DIY volumes could improve simply because we are lapping that initial deferral, which would start, I think, in Q4.
+
+Jamere Jackson: Yeah. I mean, that is certainly a piece of it. I mean, and the way that we see it in terms of the results is that the transaction counts did come down more than they have historically. I mean, we typically have seen sort of low single digit declines in transaction counts. there is not been very many periods where we have seen those transaction account those transaction accounts be down with a 3 handle in multiple quarters. So as we move forward, there is an opportunity for us to see some improvement in transactions and traffic, and that will certainly help us from a comp standpoint. Thanks for the time.
+
+Operator: We have reached the end of the question-and-answer session, and I will now turn the call over to Philip Danielle for closing remarks.
+
+Philip Daniele: Thank you. Before we conclude the call, I want to take a moment to reiterate that we have a great business and a strong industry. Are excited about our growth prospects over the summer months of our fourth quarter. But we will take nothing for granted as we understand our customers have alternatives. We have exciting plans that will help us succeed in the future. But I want to stress that this is a marathon and not a sprint. As we remain focused on delivering flawless execution and striving to optimize shareholder value for the future, we are confident that AutoZone will be successful. Thank you for participating in today's call.
+
+Operator: This concludes today's conference, you may disconnect your lines at this time. Thank you for your participation. Thank you. 
  
 
 **RECENT NEWS**: 
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Sheriff posts photos of 27 suspected of ransacking AutoZone during East L.A. street takeovers
+link: https://www.latimes.com/california/story/2026-08-16/27-suspected-of-ransacking-autozone-during-east-la-street-takeovers
+source: latimes.com
+date: 08/16/2026, 07:00 AM, +0000 UTC
 
-title: Kroger names Mark Ibbotson Executive Vice President and Chief Store Operations Officer
-link: https://ir.kroger.com/news/news-details/2026/Kroger-names-Mark-Ibbotson-Executive-Vice-President-and-Chief-Store-Operations-Officer/default.aspx
-source: Kroger
-date: 09/02/2026, 07:00 AM, +0000 UTC
+title: Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O'Reilly Automotive Slips
+link: https://247wallst.com/investing/2026/08/20/advance-auto-parts-plunges-21-as-revenue-miss-overshadows-earnings-beat-autozone-falls-4-oreilly-automotive-slips/
+source: 24/7 Wall St.
+date: 08/20/2026, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone 3rd Quarter Total Company Same Store Sales
+link: https://www.globenewswire.com/news-release/2026/05/26/3300920/0/en/autozone-3rd-quarter-total-company-same-store-sales-increase-3-9-domestic-same-store-sales-increase-4-1-eps-of-38-07.html
+source: GlobeNewswire
+date: 05/26/2026, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O'Reilly Automotive Slips
+link: https://247wallst.com/investing/2026/08/20/advance-auto-parts-plunges-21-as-revenue-miss-overshadows-earnings-beat-autozone-falls-4-oreilly-automotive-slips/
+source: 24/7 Wall St.
+date: 08/20/2026, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone opens second Flower Mound location | Dallas - Fort Worth
+link: https://communityimpact.com/flower-mound-highland-village-argyle/business/autozone-opens-second-flower-mound-location/
+source: Community Impact
+date: 03/11/2026, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Man Puts His Mazda Filter in a New Box. Then He Tries To Get AutoZone To Refund It
+link: https://www.motor1.com/news/802850/mazda-autozone-return/
+source: Motor1.com
+date: 07/28/2026, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone Joins Retailers Stifled by U.S. Tax Refund Delays
+link: https://www.bloomberg.com/news/articles/2017-05-23/autozone-joins-retailers-stifled-by-delayed-u-s-tax-returns
+source: Bloomberg
+date: 05/23/2017, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Man Gets a Call From AutoZone. A Stranger is Using His Account to Buy Unexpected Items: ‘I Have Never Experienced What I Experienced Today’
+link: https://www.motorbiscuit.com/autozone-protect-account-from-scammers/
+source: MotorBiscuit
+date: 12/19/2025, 08:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone (AZO) Could Be 24% Undervalued As International Expansion Comes Into Focus
+link: https://finance.yahoo.com/markets/stocks/articles/autozone-azo-could-24-undervalued-160845013.html
+source: Yahoo Finance
+date: 08/03/2026, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Tax refunds are currently averaging $2,169 — How it might affect these consumer stocks
+link: https://www.cnbc.com/2025/02/24/tax-refunds-averaging-2169-might-affect-these-consumer-stocks.html
+source: CNBC
+date: 02/24/2025, 08:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Woman Brings Batteries To O’Reilly To Be Recycled. Then She Leaves With $50 In Gift Cards: ‘AutoZone Also'
+link: https://www.motor1.com/news/798262/o-reilly-autozone-battery-recycling/
+source: Motor1.com
+date: 06/10/2026, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Memphis Returns to AutoZone Park to Host Mississippi State
+link: https://gotigersgo.com/news/2017/3/27/baseball-memphis-returns-to-autozone-park-to-host-mississippi-state
+source: University of Memphis Athletics
+date: 03/27/2017, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: 'Gotta Love AutoZone': Mechanic Orders Alternator from AutoZone for Hyundai. Then He Opens the Box
+link: https://www.motor1.com/news/784164/autozone-wrong-alternator/
+source: Motor1.com
+date: 01/13/2026, 08:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone, Inc. Reports Q3 Fiscal 2025 Financial Results with Sales Growth and Share Repurchases
+link: https://www.quiverquant.com/news/AutoZone,+Inc.+Reports+Q3+Fiscal+2025+Financial+Results+with+Sales+Growth+and+Share+Repurchases
+source: Quiver Quantitative
+date: 05/27/2025, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Napa Auto Parts Employee Arrested for Massive 'Refund Fraud Scheme.' What Do Cops Say She Did?
+link: https://www.motor1.com/news/776650/napa-auto-parts-employee-fraud/
+source: Motor1.com
+date: 10/22/2025, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: 'The Mechanic Just Wants My Money:' Mechanic Tells California Woman It’s $30 to Check Code. So She Goes to AutoZone Instead
+link: https://www.motor1.com/news/774985/autozone-free-code-scan-hack/
+source: Motor1.com
+date: 10/07/2025, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: ‘I'm On My 4th Exchange:’ AutoZone Worker Says Duralast Brake Pads Come With a Lifetime Warranty. But Here's How to Get It
+link: https://www.motor1.com/news/763994/autozone-duralast-brakes-lifetime-warranty/
+source: Motor1.com
+date: 06/27/2025, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: 'We Never Did That at My Shop:' AutoZone Worker Says it 'Hurts His Soul' Whenever a Customer Requires Him to Do This. Why?
+link: https://www.motor1.com/news/764719/autozone-throw-out-fresh-oil/
+source: Motor1.com
+date: 07/05/2025, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone CEO talks disappointing quarter, coronavirus in earnings call
+link: https://www.bizjournals.com/memphis/news/2020/03/03/autozone-ceo-talks-disappointing-quarter.html
+source: The Business Journals
+date: 03/03/2020, 08:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Tennessee gave out $1.5B in tax refunds to corporations: Here's who benefitted
+link: https://www.tennessean.com/story/money/2025/06/01/tennessee-tax-refunds-list-of-companies/83977918007/
+source: The Tennessean
+date: 06/01/2025, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone’s stock suffers record price plunge after profit and sales miss
+link: https://www.marketwatch.com/story/autozones-stock-suffers-record-price-plunge-after-profit-and-sales-miss-2017-05-23
+source: MarketWatch
+date: 05/24/2017, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Mimosa Festival returns to Memphis on August 31
+link: https://www.actionnews5.com/2025/08/06/mimosa-festival-returns-memphis-august-31/
+source: Action News 5
+date: 08/06/2025, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Players in Memphis for the AutoZone Liberty Bowl will experience more than a game
+link: https://www.commercialappeal.com/story/news/local/2019/12/26/autozone-liberty-bowl-how-k-state-navy-getting-know-memphis/2703313001/
+source: The Commercial Appeal
+date: 12/26/2019, 08:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: On Memphis Redbirds opening day, one question lingers: When will fans be back? | Giannotto
+link: https://www.commercialappeal.com/story/sports/columnists/mark-giannotto/2024/03/29/memphis-redbirds-opening-day-attendance-autozone-park-renovations-minor-league-baseball-charlotte/73078897007/
+source: The Commercial Appeal
+date: 03/29/2024, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Five Meridian Twp. commercial property owners say sites were overvalued by over $5 million
+link: https://www.lansingstatejournal.com/story/news/2022/06/30/five-meridian-twp-property-owners-say-sites-overvalued-5-m/7657734001/
+source: Lansing State Journal
+date: 06/29/2022, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone seeks to build $49M facility near FedEx
+link: https://www.gainesville.com/story/business/2016/08/12/autozone-seeks-to-build-49m-facility-near-fedex-in-ocala/26056224007/
+source: Gainesville Sun
+date: 08/12/2016, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone vs. Advance Auto vs. O'Reilly: Which Auto Parts Store Is Cheaper?
+link: https://www.cheapism.com/autozone-vs-advance-vs-oreilly/
+source: cheapism.com
+date: 02/12/2019, 08:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: Jobs in store
+link: https://www.ocala.com/story/news/politics/county/2017/12/11/distribution-center-will-service-convenience-stores/16856423007/
+source: Ocala StarBanner
+date: 12/11/2017, 08:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: 27 Secret Rebates You Didn’t Know About But Should
+link: https://www.cheapism.com/secret-rebates/
+source: cheapism.com
+date: 01/13/2023, 08:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone Stock (NYSE:AZO): Domestic Sales Deceleration Not a Concern
+link: https://www.tipranks.com/news/autozone-stock-nyseazo-domestic-sales-deceleration-not-a-concern
+source: TipRanks
+date: 06/05/2024, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone adds automatic delivery surcharge that customers by spending more
+link: https://www.the-sun.com/money/8918786/autozone-delivery-orders-avoid-online/
+source: the-sun.com
+date: 08/24/2023, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
+title: AutoZone shares slide on quarterly revenue miss
+link: https://finance.yahoo.com/markets/stocks/articles/autozone-shares-slide-quarterly-revenue-144900669.html
+source: Yahoo Finance
+date: 05/26/2026, 07:00 AM, +0000 UTC
 
-title: News about Kroger
-link: 
-source: 
-date: 
-
-title: News about Kroger
-link: 
-source: 
-date: 
-
-title: America’s biggest grocery store chain slashes prices on thousands of items as affordability war ramps up
-link: https://nypost.com/2026/05/25/lifestyle/kroger-slashes-prices-on-thousands-of-items/
-source: New York Post
-date: 05/25/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Reports First Quarter 2026 Results; Greg Foran Shares
-link: https://www.delimarketnews.com/whats-store/kroger-reports-first-quarter-2026-results-greg-foran-shares/deli-staff/thu-06252026-0830/21792
-source: Deli Market News
+title: AutoZone (AZO) Up 2% Since Last Earnings Report: Can It Continue?
+link: https://finance.yahoo.com/markets/stocks/articles/autozone-azo-2-since-last-153001697.html
+source: Yahoo Finance
 date: 06/25/2026, 07:00 AM, +0000 UTC
 
-title: Kroger Stock Outlook Hinges on Digital Growth & Private-Label Strength
-link: https://www.theglobeandmail.com/investing/markets/stocks/KR/pressreleases/2628851/kroger-stock-outlook-hinges-on-digital-growth-private-label-strength/
-source: The Globe and Mail
-date: 06/24/2026, 07:00 AM, +0000 UTC
+title: AutoZone Earnings Preview: What to Expect
+link: https://www.barchart.com/story/news/3479547/autozone-earnings-preview-what-to-expect
+source: Barchart.com
+date: 07/27/2026, 07:00 AM, +0000 UTC
 
-title: Kroger CEO pledges key changes to boost customer loyalty
-link: https://www.thestreet.com/retail/kroger-ceo-pledges-key-changes-to-boost-customer-loyalty
-source: thestreet.com
-date: 03/09/2026, 07:00 AM, +0000 UTC
+title: AutoZone Q3 Earnings Beat Estimates on Strong Sales Growth
+link: https://finance.yahoo.com/markets/stocks/articles/autozone-q3-earnings-beat-estimates-145600715.html
+source: Yahoo Finance
+date: 05/27/2026, 07:00 AM, +0000 UTC
 
-title: Kroger CEO says half its customers are under financial strain
-link: https://www.foxbusiness.com/lifestyle/kroger-ceo-says-half-its-customers-are-under-financial-strain
-source: Fox Business
-date: 01/16/2023, 08:00 AM, +0000 UTC
+title: How Will AutoZone Stock React To Its Upcoming Earnings?
+link: https://www.trefis.com/stock/azo/articles/600173/how-will-autozone-stock-react-to-its-upcoming-earnings-2/2026-05-22
+source: Trefis
+date: 05/22/2026, 07:00 AM, +0000 UTC
 
-title: Kroger: Sales dip due to deflation, not rivals
-link: https://www.wcpo.com/money/local-business-news/kroger-growth-streak-ends-at-52-quarters
-source: wcpo.com
-date: 03/02/2017, 08:00 AM, +0000 UTC
+title: AutoZone Says Cool Weather Led to Slowing Sales Growth
+link: https://www.wsj.com/business/earnings/autozone-sales-rise-on-domestic-growth-419c8cc7
+source: WSJ
+date: 05/26/2026, 07:00 AM, +0000 UTC
 
-title: Walmart is also ready for grocery prices to come down
-link: https://www.businessinsider.com/walmart-wants-to-lower-your-grocery-bill-expects-deflation-2023-11
-source: Business Insider
-date: 11/17/2023, 08:00 AM, +0000 UTC
+title: Advance Auto Parts Plunges 21% as Revenue Miss Overshadows Earnings Beat; AutoZone Falls 4%, O’Reilly Automotive Slips
+link: https://finance.yahoo.com/markets/stocks/articles/advance-auto-parts-plunges-21-143529655.html
+source: Yahoo Finance
+date: 08/20/2026, 07:00 AM, +0000 UTC
 
-title: Kroger price gouging allegations strike chord with Indiana shoppers
-link: https://www.wthr.com/article/news/local/kroger-prices-price-gouging-indiana-indianapolis-inflation-deflation-grocery-charges-shopping-budget-money-finances-hearing/531-d68c5f2c-0ff4-49ce-84f9-06019700b7a0
-source: WTHR
-date: 08/30/2024, 07:00 AM, +0000 UTC
+title: AutoZone Inc (AZO) Q3 2026 Earnings Call Highlights: Strong Sales Growth Amid Margin Pressures
+link: https://finance.yahoo.com/markets/stocks/articles/autozone-inc-azo-q3-2026-210057069.html
+source: Yahoo Finance
+date: 05/26/2026, 07:00 AM, +0000 UTC
 
-title: The Kroger Co 2026: Revenue $46.12B, EPS $1.46— 10-Q Summary
-link: https://www.tradingview.com/news/tradingview:0302fa936e07f:0-the-kroger-co-2026-revenue-46-12b-eps-1-46-10-q-summary/
-source: tradingview.com
-date: 06/26/2026, 07:00 AM, +0000 UTC
+title: Why AutoZone (AZO) Stock Is Down Today
+link: https://finance.yahoo.com/markets/stocks/articles/why-autozone-azo-stock-down-194328383.html
+source: Yahoo Finance
+date: 05/26/2026, 07:00 AM, +0000 UTC
 
-title: Kroger stock plunges amid food deflation and price war
-link: https://www.cincinnati.com/story/money/2017/06/15/kroger-cuts-profit-outlook/398956001/
-source: Cincinnati Enquirer
-date: 06/15/2017, 07:00 AM, +0000 UTC
+title: Are Wall Street Analysts Predicting AutoZone Stock Will Climb or Sink?
+link: https://finance.yahoo.com/markets/stocks/articles/wall-street-analysts-predicting-autozone-063018460.html
+source: Yahoo Finance
+date: 05/28/2026, 07:00 AM, +0000 UTC
 
-title: Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors
-link: https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors
-source: TIKR.com
-date: 06/19/2026, 07:00 AM, +0000 UTC
+title: Compared to Estimates, AutoZone (AZO) Q3 Earnings: A Look at Key Metrics
+link: https://finance.yahoo.com/markets/stocks/articles/compared-estimates-autozone-azo-q3-133003872.html
+source: Yahoo Finance
+date: 05/26/2026, 07:00 AM, +0000 UTC
 
-title: Kroger slashes new store development plans by 35%
-link: https://www.grocerydive.com/news/grocery--kroger-slashes-new-store-development-plans-by-35/535273/
-source: Grocery Dive
-date: 03/31/2017, 07:00 AM, +0000 UTC
+title: AutoZone to Release Fourth Quarter Fiscal 2026 Earnings September 22, 2026
+link: https://finance.yahoo.com/markets/stocks/articles/autozone-release-fourth-quarter-fiscal-210000388.html
+source: Yahoo Finance
+date: 08/24/2026, 07:00 AM, +0000 UTC
 
-title: Kroger digital sales become profitable ‘ahead of schedule’ in Q1
-link: https://www.digitalcommerce360.com/2026/06/18/kroger-digital-sales-q1-fy26/amp/
-source: Digital Commerce 360
-date: 06/18/2026, 07:00 AM, +0000 UTC
+title: AutoZone Stock Is Plummeting Despite Strong Earnings. Here's Why.
+link: https://www.barchart.com/story/news/2159607/autozone-stock-is-plummeting-despite-strong-earnings-here-s-why
+source: Barchart.com
+date: 05/27/2026, 07:00 AM, +0000 UTC
 
-title: Kroger and Roundy's Announce Definitive Merger Agreement
-link: https://ir.kroger.com/news/news-details/2015/Kroger-and-Roundys-Announce-Definitive-Merger-Agreement/default.aspx
-source: Kroger
-date: 11/11/2015, 08:00 AM, +0000 UTC
+title: A Look At AutoZone (AZO) Valuation After Earnings Beat And Global Store Expansion
+link: https://finance.yahoo.com/markets/stocks/articles/look-autozone-azo-valuation-earnings-090829393.html
+source: Yahoo Finance
+date: 04/06/2026, 07:00 AM, +0000 UTC
 
-title: Kroger extended its streak of sales misses — but that’s not hurting its profits
-link: https://www.marketwatch.com/story/kroger-extended-its-streak-of-sales-misses-but-thats-not-hurting-profits-5001f32e
-source: MarketWatch
-date: 03/05/2026, 08:00 AM, +0000 UTC
-
-title: Kroger CEO: Food price deflation is 'not fun'
-link: https://www.cincinnati.com/story/money/2016/12/01/kroger-sees-lower-profit-food-prices-sag/94688798/
-source: Cincinnati Enquirer
-date: 12/01/2016, 08:00 AM, +0000 UTC
-
-title: Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth
-link: https://www.tradingview.com/news/zacks:a8cc2459c094b:0-kroger-q1-earnings-miss-despite-revenue-beat-e-commerce-growth/
-source: tradingview.com
-date: 06/19/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Stock Is Tied to Retail Media, Private Label, and Value Trends
-link: https://www.tradingview.com/news/zacks:b69ddf7b2094b:0-kroger-stock-is-tied-to-retail-media-private-label-and-value-trends/
-source: tradingview.com
-date: 06/24/2026, 07:00 AM, +0000 UTC
-
-title: Walmart's relentless price war is crushing America’s biggest grocer
-link: https://www.businessinsider.com/walmart-is-cheaper-than-kroger-2017-4
-source: Business Insider
-date: 04/06/2017, 07:00 AM, +0000 UTC
-
-title: Kroger's 13-year winning streak just ended — and it’s a warning sign for the entire grocery industry
-link: https://www.businessinsider.com/kroger-just-ended-a-13-year-winning-streak-2017-3
-source: Business Insider
-date: 03/06/2017, 08:00 AM, +0000 UTC
-
-title: Walmart is crushing Kroger and making food history
-link: https://www.businessinsider.com/walmart-is-cutting-prices-2017-4
-source: Business Insider
-date: 04/20/2017, 07:00 AM, +0000 UTC
-
-title: Kroger Partners with Ocado to Serve Customers Anything, Anytime, Anywhere in U.S.
-link: https://www.prnewswire.com/news-releases/kroger-partners-with-ocado-to-serve-customers-anything-anytime-anywhere-in-us-300650210.html
-source: PR Newswire
-date: 05/17/2018, 07:00 AM, +0000 UTC
-
-title: China’s Lunar New Year Pork Gloom Exposes Deep Economic Trouble
-link: https://www.bloomberg.com/news/articles/2024-02-03/china-economy-weak-pork-demand-for-lunar-new-year-highlights-deflation-woes
-source: Bloomberg
-date: 02/02/2024, 08:00 AM, +0000 UTC
-
-title: Simple Truth, Private Selection Drive Q1 Own Brand Gains at Kroger
-link: https://storebrands.com/simple-truth-private-selection-drive-q1-own-brand-gains-kroger
-source: Store Brands
-date: 06/22/2026, 07:00 AM, +0000 UTC
-
-title: Kroger stock slide reveals bigger grocery problem
-link: https://www.thestreet.com/retail/kroger-stock-slide-reveals-bigger-grocery-problem
-source: thestreet.com
-date: 06/23/2026, 07:00 AM, +0000 UTC
-
-title: Kroger to hire 10,000 store employees
-link: https://www.cincinnati.com/story/money/nation-now/2017/01/23/kroger-supermarket-hiring/96947446/
-source: Cincinnati Enquirer
-date: 01/23/2017, 08:00 AM, +0000 UTC
-
-title: Kroger's stock pummeled again as investors worry price war chipping away at profits
-link: https://www.cnbc.com/2017/09/08/kroger-earnings-2q-earnings.html
-source: CNBC
-date: 09/08/2017, 07:00 AM, +0000 UTC
-
-title: Kroger disappoints with mixed Q1 profits
-link: https://www.sharecast.com/news/international-companies/kroger-disappoints-with-mixed-q1-profits--22773410.html
-source: Sharecast.com
-date: 06/18/2026, 07:00 AM, +0000 UTC
-
-title: 5 Must-See Quotes From Kroger's Conference Call
-link: https://www.fool.com/investing/2016/09/19/5-must-see-quotes-from-krogers-conference-call.aspx
-source: The Motley Fool
-date: 09/19/2016, 07:00 AM, +0000 UTC
-
-title: Kroger's 13-year winning sales streak ends
-link: https://www.cincinnati.com/story/money/2017/03/02/kroger-market-share-growth-stalls/98601402/
-source: Cincinnati Enquirer
-date: 03/02/2017, 08:00 AM, +0000 UTC
-
-title: Grocery chain resumes store closures after monthslong pause
-link: https://www.thestreet.com/retail/marianos-kroger-resumes-store-closures-after-pause
-source: thestreet.com
-date: 06/24/2026, 07:00 AM, +0000 UTC
-
-title: 'Buy less, stretch things out.' Shoppers, Kroger battle food inflation
-link: https://www.cincinnati.com/story/money/2022/07/11/grocery-prices-soaring-kroger-shoppers-fight-inflation/7633689001/
-source: Cincinnati Enquirer
-date: 07/11/2022, 07:00 AM, +0000 UTC
-
-title: Does the Sell-Off in Grocery Stocks Present a Buying Opportunity for Kroger?
-link: https://www.fool.com/investing/2017/09/10/industry-focus-consumer-09-05-2017-segment-14.aspx
-source: The Motley Fool
-date: 09/10/2017, 07:00 AM, +0000 UTC
-
-title: Kroger Announces Second Quarter Conference Call with Investors
-link: https://ir.kroger.com/news/news-details/2026/Kroger-Announces-Second-Quarter-Conference-Call-with-Investors/default.aspx
-source: Kroger
+title: Is AutoZone’s (AZO) Outperformance Running Out of Fuel?
+link: https://finance.yahoo.com/markets/stocks/articles/autozone-azo-outperformance-running-fuel-102456267.html
+source: Yahoo Finance
 date: 08/14/2026, 07:00 AM, +0000 UTC
 
-title: Kroger Set to Report Q2 Earnings: What Should Investors Expect?
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-set-report-q2-earnings-164700226.html
-source: Yahoo Finance
-date: 09/10/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Earnings Expected to Grow: Should You Buy?
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-earnings-expected-grow-140001465.html
-source: Yahoo Finance
-date: 09/04/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Reports Q2: Everything You Need To Know Ahead Of Earnings
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-reports-q2-everything-030052784.html
-source: Yahoo Finance
-date: 09/09/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Stock Looks Fair On Earnings While Returns Stay Strong
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-fair-043052519.html
-source: Yahoo Finance
-date: 09/02/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Could Miss Quarterly Identical Sales Views Amid Challenging Grocery Backdrop, Oppenheimer Says
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-could-miss-quarterly-identical-184440166.html
-source: Yahoo Finance
-date: 09/03/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Rises Higher Than Market: Key Facts
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-rises-higher-market-220002317.html
-source: Yahoo Finance
-date: 08/21/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-miss-despite-122500636.html
-source: Yahoo Finance
-date: 06/19/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Earnings Expected to Grow: Should You Buy?
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-earnings-expected-grow-140002623.html
-source: Yahoo Finance
-date: 06/11/2026, 07:00 AM, +0000 UTC
-
-title: Ahead of Kroger Earnings, Here's What Barchart Data Says Comes Next for KR Stock
-link: https://www.barchart.com/story/news/4547141/ahead-of-kroger-earnings-here-s-what-barchart-data-says-comes-next-for-kr-stock
-source: Barchart.com
-date: 09/10/2026, 07:00 AM, +0000 UTC
-
-title: Dear Kroger Stock Fans, Mark Your Calendars for September 11
-link: https://finance.yahoo.com/markets/stocks/articles/dear-kroger-stock-fans-mark-140002214.html
-source: Yahoo Finance
-date: 09/05/2026, 07:00 AM, +0000 UTC
-
-title: Kroger shares drop as earnings in-line, revenue tops estimates
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-meets-earnings-expectations-revenue-112244069.html
-source: Yahoo Finance
-date: 06/18/2026, 07:00 AM, +0000 UTC
-
-title: Oracle, Adobe, and Kroger earnings watchlist for the week of September 10
-link: https://www.investing.com/news/stock-market-news/oracle-adobe-and-kroger-earnings-watchlist-for-the-week-of-september-10-93CH-4892177
-source: Investing.com
-date: 09/08/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Stock Looks Fairly Valued On Current Earnings
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-fairly-210953904.html
-source: Yahoo Finance
-date: 07/31/2026, 07:00 AM, +0000 UTC
-
-title: Kroger’s comp sales underwhelm as Foran focuses on store improvements
-link: https://www.grocerydive.com/news/kroger-earnings-first-quarter-2026-ecommerce-pharmacy/823246/
-source: Grocery Dive
-date: 06/18/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Q1 Earnings Call Focuses on Cost, Price and E-Commerce
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-call-focuses-094500999.html
-source: Yahoo Finance
-date: 06/23/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Earnings: What To Look For From KR
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-earnings-look-kr-030050942.html
-source: Yahoo Finance
-date: 06/16/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Stock Declines While Market Improves: Some Information for Investors
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-declines-while-220002260.html
-source: Yahoo Finance
-date: 08/27/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Q1 Earnings Miss Estimates
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-q1-earnings-miss-115502470.html
-source: Yahoo Finance
-date: 06/18/2026, 07:00 AM, +0000 UTC
-
-title: Mama's Creations Inc (MAMA) (Q2 2027) Earnings Call Highlights: Revenue Surges 55% as Kroger ...
-link: https://finance.yahoo.com/markets/stocks/articles/mamas-creations-inc-mama-q2-050142888.html
-source: Yahoo Finance
-date: 09/03/2026, 07:00 AM, +0000 UTC
-
-title: Kroger’s Grocery Turnaround Hits a Wall
-link: https://foodinstitute.com/retail/kroger-grocery-turnaround-hits-wall/
-source: The Food Institute
-date: 09/01/2026, 07:00 AM, +0000 UTC
-
-title: Income Investors Should Know That The Kroger Co. (NYSE:KR) Goes Ex-Dividend Soon
-link: https://simplywall.st/stocks/us/consumer-retailing/nyse-kr/kroger/news/income-investors-should-know-that-the-kroger-co-nysekr-goes-1
-source: simplywall.st
-date: 08/09/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors
-link: https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors
-source: TIKR.com
-date: 06/19/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Stock Looks Reasonable As ECommerce Leadership Changes Start
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-reasonable-181159775.html
-source: Yahoo Finance
-date: 08/19/2026, 07:00 AM, +0000 UTC
-
-title: KR Stock In Focus: Wells Fargo Flags ‘Choppy’ Road Ahead As Kroger Faces Flat Q2 Earnings Growth
-link: https://finance.yahoo.com/markets/stocks/articles/kr-stock-focus-wells-fargo-114752728.html
-source: Yahoo Finance
-date: 06/22/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Seeing Costs Outrun Sales Growth
-link: https://www.wsj.com/business/retail/kroger-profit-rises-with-higher-sales-b6f2b90c
-source: WSJ
-date: 06/18/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Stock Sinks As Market Gains: Here's Why
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-sinks-market-220003085.html
-source: Yahoo Finance
-date: 07/30/2026, 07:00 AM, +0000 UTC
-
-title: Kroger flags rising inflation as consumers curb spending
-link: https://www.reuters.com/business/retail-consumer/kroger-beats-quarterly-sales-estimates-2026-06-18/
-source: Reuters
-date: 06/18/2026, 07:00 AM, +0000 UTC
-
-title: Why Kroger (KR) Shares Are Sliding Today
-link: https://finance.yahoo.com/markets/stocks/articles/why-kroger-kr-shares-sliding-173328220.html
-source: Yahoo Finance
-date: 06/18/2026, 07:00 AM, +0000 UTC
-
-title: Kroger and Macy’s: The Compounder vs the Turnaround
-link: https://247wallst.com/investing/2026/09/09/kroger-and-macys-the-compounder-vs-the-turnaround/
-source: 24/7 Wall St.
-date: 09/09/2026, 07:00 AM, +0000 UTC
+title: AutoZone Earnings: Commercial Strength Fails To Offset DIY Slowdown And Revenue Miss
+link: https://www.trefis.com/stock/azo/articles/600713/autozone-earnings-commercial-strength-fails-to-offset-diy-slowdown-and-revenue-miss/2026-05-29
+source: Trefis
+date: 05/29/2026, 07:00 AM, +0000 UTC

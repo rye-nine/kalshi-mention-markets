@@ -16,11 +16,11 @@ from .prompter import run_pipeline
 logger = logging.getLogger(__name__)
 
 SEED = 670 # Fixed seed for reproducibility in random selection of historical prices
-
+random.seed(SEED)
 # just make sure the seed works
 
 # PRESETS:
-MIN_EDGE = 0.03
+MIN_EDGE = 0.05
 SELL_AT_DISTANCE = 0.01
 
 ALPHA = 0.7  # Weight for market price in MIXMCP calculation
@@ -218,33 +218,26 @@ def simulate_trade(market_ticker, available_capital, timestamp=None):
 		probability,
 	)
 
-	for candlestick in sorted_candlesticks:
-		current_timestamp = _parse_timestamp(candlestick["end_period_ts"])
-		if current_timestamp <= entry_timestamp:
-			continue
-		current_price = _yes_close_dollars(candlestick)
-		if abs(current_price - probability) <= SELL_AT_DISTANCE:
-			profit_per_contract = current_price - entry_price if bought_yes else entry_price - current_price
-			profit = contract_count * profit_per_contract
-			trade_details["sold"] = True
-			trade_details["sell_price"] = current_price
-			trade_details["profit"] = profit
-			logger.info("Sold at %s for profit %.4f", current_timestamp, profit)
-			logger.info(
-				"Trade summary for %s: trade_count=1 details=%s",
-				market_ticker,
-				trade_details,
-			)
-			return profit, 1, f"Trade was made. We were able to sell out before market concluded. Profit {profit}"
+	resolution = market.get("result")
+	if resolution not in {"yes", "no"}:
+		raise ValueError(
+			f"Kalshi market {market_ticker!r} does not have a resolved result: {resolution!r}"
+		)
 
-	logger.info("Market %s resolved before reaching the sell distance.", market.get("ticker", market_ticker))
-	trade_details["profit"] = -buy_amount
+	winning_position = (bought_yes and resolution == "yes") or (
+		not bought_yes and resolution == "no"
+	)
+	profit = (1 - position_price) * contract_count if winning_position else -buy_amount
+	trade_details["sold"] = True
+	trade_details["sell_price"] = 1 if winning_position else 0
+	trade_details["profit"] = profit
 	logger.info(
-		"Trade summary for %s: trade_count=1 details=%s",
+		"Market %s resolved %s with profit %.4f. Trade summary: trade_count=1 details=%s",
 		market_ticker,
+		resolution,
 		trade_details,
 	)
-	return -buy_amount, 1, f"Trade was made. We were not able to sell out before market concluded. Profit {-buy_amount}"
+	return profit, 1, f"Trade was made. Position settled at market resolution ({resolution}). Profit {profit}"
 
 # TEST EARNINGS CALL:
 
@@ -276,13 +269,13 @@ def create_earnings_events(earnings_call_list, random = True): # HELPER FUNCTION
 	earnings_list = []
 	for thing in earnings_call_list:
 		market_tickers = get_all_market_tickers(thing)
-		timestamp = random_historical_yes_price(market_tickers[0], seed=SEED)[0] if random else None
+		timestamp = random_historical_yes_price(market_tickers[0], seed=SEED)[0] if random else None # if random is False
 		earnings_list.append(earnings_call(market_tickers=market_tickers, timestamp=timestamp))
 	return earnings_list
 
 def backtest(earnings_call_list = ["KXEARNINGSMENTIONCOST-26SEP24", "KXEARNINGSMENTIONBB-26SEP24", 
                                    "KXEARNINGSMENTIONGIS-26SEP23", "KXEARNINGSMENTIONCBRL-26SEP23", 
-								   "KXEARNINGSMENTIONAZO-26SEP22", "KXEARNINGSMENTIONKR-26SEP11"], starting_capital = 104.74, random = True):
+								   "KXEARNINGSMENTIONAZO-26SEP22", "KXEARNINGSMENTIONKR-26SEP11"], starting_capital = 104.74, random = False):
 	earnings_list = create_earnings_events(earnings_call_list, random = random)
 	capital_to_track = starting_capital
 	total_trades = 0
