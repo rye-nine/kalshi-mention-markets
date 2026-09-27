@@ -27,6 +27,7 @@ PROMPT_TEMPLATE = Path(__file__).resolve().parents[2] / "research" / "prompt_tem
 PROMPT_ACTUAL = Path(__file__).resolve().parents[2] / "research" / "actual_prompt.txt"
 
 KALSHI_API_ENDPOINT = "https://api.elections.kalshi.com/trade-api/v2"
+MAX_SERP_OFFSET = 10000
 
 logger = logging.getLogger(__name__)
 
@@ -95,16 +96,22 @@ def clear_all_files():
 		path.write_text("", encoding="utf-8")
 	logger.info("Finished clearing prompt and data files.")
 
-def _search_serpapi(query, result_count, api_key, require_count=True):
-	logger.info("Querying SerpAPI for %r with requested result count %s.", query, result_count)
-	params = urlencode(
-		{
-			"engine": "google_news",
-			"q": query,
-			"api_key": api_key,
-			"num": result_count,
-		}
+def _search_serpapi(query, result_count, api_key, require_count=True, start=0):
+	logger.info(
+		"Querying SerpAPI for %r with requested result count %s at offset %s.",
+		query,
+		result_count,
+		start,
 	)
+	search_params = {
+		"engine": "google_news",
+		"q": query,
+		"api_key": api_key,
+		"num": result_count,
+	}
+	if start:
+		search_params["start"] = start
+	params = urlencode(search_params)
 
 	context = ssl.create_default_context(cafile=certifi.where())
 
@@ -122,6 +129,44 @@ def _search_serpapi(query, result_count, api_key, require_count=True):
 			f"expected {result_count}."
 		)
 	return results
+
+
+def _search_serpapi_before_date(query, result_count, api_key, reference_datetime):
+	"""Collect enough dated results to fill one query's source allocation."""
+	filtered_results = []
+	seen_links = set()
+	start = 0
+
+	while len(filtered_results) < result_count and start <= MAX_SERP_OFFSET:
+		page = _search_serpapi(query, 100, api_key, require_count=False, start=start)
+		if not page:
+			break
+
+		for result in page:
+			link = result.get("link")
+			if link and link in seen_links:
+				continue
+			if link:
+				seen_links.add(link)
+			if _is_on_or_before(result.get("date"), reference_datetime):
+				filtered_results.append(result)
+				if len(filtered_results) == result_count:
+					break
+
+		if len(page) < 100:
+			break
+		start += 100
+
+	if len(filtered_results) < result_count and start > MAX_SERP_OFFSET:
+		logger.warning(
+			"Stopped SerpAPI pagination for %r at offset %d with %d of %d results.",
+			query,
+			MAX_SERP_OFFSET,
+			len(filtered_results),
+			result_count,
+		)
+
+	return filtered_results
 
 
 def _parse_news_date(value):
@@ -175,19 +220,22 @@ def query_serp(company, keyword, date=None):
 		f"{company} {keyword}": 33,
 		f"{company} earnings": 33,
 	}
-	results = {
-		query: [
+	results = {}
+	for query, result_count in searches.items():
+		search_results = (
+			_search_serpapi_before_date(query, result_count, api_key, reference_datetime)
+			if date is not None
+			else _search_serpapi(query, 100, api_key, require_count=False)
+		)
+		results[query] = [
 			{
 				"title": result.get("title"),
 				"snippet": result.get("link"),
 				"source": result.get("source"),
 				"date": result.get("date"),
 			}
-			for result in _search_serpapi(query, 100, api_key, require_count=False)
-			if _is_on_or_before(result.get("date"), reference_datetime)
+			for result in search_results
 		][:result_count]
-		for query, result_count in searches.items()
-	}
 	DUMP_PATH.write_text(json.dumps(results, indent=2), encoding="utf-8")
 	result_count = sum(len(search_results) for search_results in results.values())
 	logger.info("Incorporated %d search results into %s.", result_count, DUMP_PATH)

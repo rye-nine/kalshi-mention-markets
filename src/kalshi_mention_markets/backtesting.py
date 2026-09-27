@@ -125,7 +125,7 @@ def _historical_market_data(market_ticker):
 	return market, candlesticks
 
 
-def random_historical_yes_price(market_ticker, seed=42) -> tuple[datetime, float]:
+def random_historical_yes_price(market_ticker, seed=SEED) -> tuple[datetime, float]:
 	"""Return one random historical ``(timestamp, YES price)`` for a resolved market.
 
 	The timestamp is timezone-aware and in UTC. The YES price is returned in
@@ -178,10 +178,10 @@ def simulate_trade(market_ticker, available_capital, timestamp=None):
 			f"No historical market price is available at or after timestamp {entry_timestamp}."
 		)
 	entry_price = _yes_close_dollars(entry_candlestick)
-	# if not 0.50 <= entry_price <= 0.70:
-	# 	logger.info("No trade at %s: price %.4f is outside the 0.50-0.70 range", entry_timestamp, entry_price)
-	# 	logger.info("Trade summary for %s: trade_count=0 details=[]", market_ticker)
-	# 	return 0.0, 0, f"Trade was not made. Market price was {entry_price} and so our probability was not calculated."
+	if not 0.50 <= entry_price <= 0.70:
+		logger.info("No trade at %s: price %.4f is outside the 0.50-0.70 range", entry_timestamp, entry_price)
+		logger.info("Trade summary for %s: trade_count=0 details=[]", market_ticker)
+		return 0.0, 0, f"Trade was not made. Market price was {entry_price} and so our probability was not calculated."
 	probability = run_pipeline(
 		market_ticker=market_ticker,
 		alpha=ALPHA,
@@ -248,13 +248,13 @@ def simulate_trade(market_ticker, available_capital, timestamp=None):
 
 # TEST EARNINGS CALL:
 
-MARKET_TICKERS = get_all_market_tickers("KXEARNINGSMENTIONKR-26SEP11")
-call = earnings_call(
-	market_tickers= MARKET_TICKERS,
-	timestamp = random_historical_yes_price(MARKET_TICKERS[0], seed=SEED)[0]
-)
+# MARKET_TICKERS = get_all_market_tickers("KXEARNINGSMENTIONKR-26SEP11")
+# call = earnings_call(
+# 	market_tickers= MARKET_TICKERS,
+# 	timestamp = random_historical_yes_price(MARKET_TICKERS[0], seed=SEED)[0]
+# )
 
-def simulate_earnings_call(starting_capital = 104.74, earnings_call=call):
+def simulate_earnings_call(earnings_call, starting_capital = 104.74):
 	if not isinstance(starting_capital, (int, float)):
 		raise ValueError("starting_capital must be a number. Got a {}".format(type(starting_capital).__name__))
 	capital_to_track = starting_capital
@@ -272,5 +272,24 @@ def simulate_earnings_call(starting_capital = 104.74, earnings_call=call):
 	logger.info("Presets used: MIN_EDGE=%.2f, SELL_AT_DISTANCE=%.2f", MIN_EDGE, SELL_AT_DISTANCE)
 	return capital_to_track, total_trades, trade_messages
 
-def backtest(earnings_event_list, starting_capital):
-	return "bruh"
+def create_earnings_events(earnings_call_list, random = True): # HELPER FUNCTION
+	earnings_list = []
+	for thing in earnings_call_list:
+		market_tickers = get_all_market_tickers(thing)
+		timestamp = random_historical_yes_price(market_tickers[0], seed=SEED)[0] if random else None
+		earnings_list.append(earnings_call(market_tickers=market_tickers, timestamp=timestamp))
+	return earnings_list
+
+def backtest(earnings_call_list = ["KXEARNINGSMENTIONCOST-26SEP24", "KXEARNINGSMENTIONBB-26SEP24", 
+                                   "KXEARNINGSMENTIONGIS-26SEP23", "KXEARNINGSMENTIONCBRL-26SEP23", 
+								   "KXEARNINGSMENTIONAZO-26SEP22", "KXEARNINGSMENTIONKR-26SEP11"], starting_capital = 104.74, random = True):
+	earnings_list = create_earnings_events(earnings_call_list, random = random)
+	capital_to_track = starting_capital
+	total_trades = 0
+	trade_messages = []
+	for earnings_call in earnings_list:
+		new_capital, trades, _ = simulate_earnings_call(earnings_call, capital_to_track)
+		capital_to_track = new_capital
+		total_trades += trades
+		trade_messages.append(f"Earnings call for {earnings_call}: Capital after trades: {capital_to_track}, Trades made: {trades}\n")
+	return capital_to_track, total_trades, trade_messages

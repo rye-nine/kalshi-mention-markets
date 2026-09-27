@@ -32,10 +32,10 @@ Be calibrated. The market is often right, but you should adjust when evidence is
 
 At the end of your response, please present the probability in the following format: "Probability: [probability]"
 
-**KEYWORD**: Produce 
+**KEYWORD**: Deflation 
  
 
-**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: 0.49 
+**CURRENT MARKET PRICE / MARKET-IMPLIED PROBABILITY**: 0.55 
  
 
 **PREVIOUS EARNINGS CALL TRANSCRIPT**: 
@@ -145,290 +145,400 @@ Operator: We have reached the end of the Q&A session. This concludes today's cal
 
 **RECENT NEWS**: 
 
-title: Kroger pulls Red Bull from stores and fuel centers
+title: News about Kroger
 link: 
 source: 
 date: 
 
-title: Kroger taps Walmart tech veteran as store operations chief
-link: https://www.grocerydive.com/news/kroger-mark-ibbotson-chief-store-operations/829501/
-source: Grocery Dive
-date: 09/02/2026, 07:00 AM, +0000 UTC
-
-title: Kroger, Costco, Aldi among grocers who received letters from DOJ as beef price investigation expands
-link: https://www.clickondetroit.com/news/local/2026/09/04/kroger-costco-aldi-among-grocers-who-received-letters-from-doj-as-beef-price-investigation-expands/
-source: ClickOnDetroit
-date: 09/04/2026, 07:00 AM, +0000 UTC
-
-title: Kroger has lost $12B in CPG spending
-link: https://www.supermarketnews.com/grocery-trends-data/kroger-has-lost-12b-in-cpg-spending
-source: Supermarket News
-date: 09/10/2026, 07:00 AM, +0000 UTC
-
-title: Were You Overcharged? How to Claim Your Share of the Kroger Pharmacy Settlement
-link: https://health.usnews.com/wellness/articles/were-you-overcharged-how-to-claim-your-share-of-the-kroger-pharmacy-settlement
-source: U.S. News & World Report
-date: 09/02/2026, 07:00 AM, +0000 UTC
-
-title: Atlanta Beltline stabbing leaves man dead near Kroger grocery store; murder suspect in custody
-link: https://www.cbsnews.com/atlanta/news/atlanta-beltline-stabbing-leaves-man-dead-near-kroger-grocery-store-suspect-in-custody/
-source: CBS News
-date: 08/24/2026, 07:00 AM, +0000 UTC
-
-title: EMU Students Invited to Exclusive “After-Hours Grocery Haul” Presented by Kroger
-link: https://emueagles.com/news/2026/8/25/general-emu-students-invited-to-exclusive-after-hours-grocery-haul-presented-by-kroger
-source: Eastern Michigan University Athletics
-date: 08/25/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Could Miss Quarterly Identical Sales Views Amid Challenging Grocery Backdrop, Oppenheimer Says
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-could-miss-quarterly-identical-184440166.html
-source: Yahoo Finance
-date: 09/03/2026, 07:00 AM, +0000 UTC
-
-title: Kroger to bring Wellness Tour to Clarksville in September
-link: https://clarksvillenow.com/local/kroger-to-bring-wellness-tour-to-clarksville-in-september/
-source: Clarksville Now
-date: 08/31/2026, 07:00 AM, +0000 UTC
-
 title: Kroger names Mark Ibbotson Executive Vice President and Chief Store Operations Officer
-link: https://www.prnewswire.com/news-releases/kroger-names-mark-ibbotson-executive-vice-president-and-chief-store-operations-officer-302868093.html
-source: PR Newswire
+link: https://ir.kroger.com/news/news-details/2026/Kroger-names-Mark-Ibbotson-Executive-Vice-President-and-Chief-Store-Operations-Officer/default.aspx
+source: Kroger
 date: 09/02/2026, 07:00 AM, +0000 UTC
 
-title: Here’s how to find out if you qualify for part of Kroger’s $17 million settlement
-link: https://www.actionnews5.com/2026/08/26/heres-how-find-out-if-you-qualify-part-krogers-17-million-settlement/
-source: Action News 5
-date: 08/26/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Kroger responds after viral TikTok appears to show bugs near produce at store in Dearborn
-link: https://www.cbsnews.com/detroit/news/kroger-dearborn-bugs-produce-video-tiktok/
-source: CBS News
-date: 08/01/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Macon remembers Kroger produce manager, a familiar face for 46 years
-link: https://wgxa.tv/news/local/forsyth-road-kroger-mourns-longtime-produce-manager
-source: WGXA
-date: 06/03/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Kroger announces agreement to acquire Giant Eagle
-link: https://www.producegrower.com/news/kroger-acquires-giant-eagle/
-source: Produce Grower -
-date: 07/02/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Viral TikTok appears to show bugs near produce at Dearborn Kroger
-link: https://www.cbsnews.com/detroit/video/viral-tiktok-appears-to-show-bugs-near-produce-at-dearborn-kroger/
-source: CBS News
-date: 08/01/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: LIST: Here's all the food under recall in the US
-link: https://www.wusa9.com/article/money/personal-finance/recalls/list-food-recalls-us-produce-frozen-pantry/65-b4eeea4a-2820-42f6-a861-64faecfbf37c
-source: WUSA9
-date: 08/24/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Kroger and Albertsons make key moves to take on Amazon, Walmart
-link: https://www.thestreet.com/retail/kroger-and-albertsons-make-key-moves-to-take-on-amazon-walmart
-source: thestreet.com
-date: 09/10/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: For Northeast Ohio shoppers, groceries are personal. So is the Kroger deal
-link: https://www.cleveland.com/news/2026/07/for-northeast-ohio-shoppers-groceries-are-personal-so-is-the-kroger-deal.html
-source: Cleveland.com
-date: 07/01/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Taylor Farms recalls product sold at Kroger stores in South Carolina
-link: https://www.wyff4.com/article/south-carolina-kroger-recall-taylor-farms/73394271
-source: WYFF
-date: 08/10/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Kroger providing memberships, 20% off produce to those receiving government assistance
-link: https://www.wkyt.com/2026/01/01/kroger-providing-memberships-20-off-produce-those-receiving-government-assistance/
-source: WKYT
-date: 01/01/2026, 08:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Kroger offers Wisconsin shoppers using food assistance 20% off produce
-link: https://www.jsonline.com/story/grocery/2025/12/29/kroger-to-offer-wisconsin-customers-using-food-ass20-off-produce-for-customers-using-food-assistance/87946753007/
-source: Milwaukee Journal Sentinel
-date: 12/29/2025, 08:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: 1.6 million cartons of eggs recalled at Kroger and other stores over salmonella risk, FDA says
-link: https://www.cbsnews.com/news/egg-recall-salmonella-midwest-poultry-kroger/
-source: CBS News
-date: 07/27/2026, 07:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Kroger launches new discount program
-link: https://www.grocerydive.com/news/kroger-SNAP-program-verified-savings-discount-loyalty-produce/808736/
-source: Grocery Dive
-date: 01/05/2026, 08:00 AM, +0000 UTC
+title: News about Kroger
+link: 
+source: 
+date: 
 
-title: Kroger is working with suppliers to optimize costs
-link: https://www.supplychaindive.com/news/kroger-is-working-with-suppliers-to-optimize-costs/823545/
-source: Supply Chain Dive
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: News about Kroger
+link: 
+source: 
+date: 
+
+title: America’s biggest grocery store chain slashes prices on thousands of items as affordability war ramps up
+link: https://nypost.com/2026/05/25/lifestyle/kroger-slashes-prices-on-thousands-of-items/
+source: New York Post
+date: 05/25/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Reports First Quarter 2026 Results; Greg Foran Shares
+link: https://www.delimarketnews.com/whats-store/kroger-reports-first-quarter-2026-results-greg-foran-shares/deli-staff/thu-06252026-0830/21792
+source: Deli Market News
+date: 06/25/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Stock Outlook Hinges on Digital Growth & Private-Label Strength
+link: https://www.theglobeandmail.com/investing/markets/stocks/KR/pressreleases/2628851/kroger-stock-outlook-hinges-on-digital-growth-private-label-strength/
+source: The Globe and Mail
 date: 06/24/2026, 07:00 AM, +0000 UTC
 
-title: What to know about the Giant Eagle and Kroger grocery and pharmacy merger
-link: https://www.wesanews.org/economy-business/2026-07-02/giant-eagle-kroger-merger-pharmacy-grocery
-source: wesanews.org
-date: 07/02/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Rolls Out Verified Savings Program With Produce Discounts for SNAP, WIC Shoppers
-link: https://progressivegrocer.com/kroger-rolls-out-verified-savings-program-produce-discounts-snap-wic-shoppers
-source: Progressive Grocer
-date: 01/02/2026, 08:00 AM, +0000 UTC
-
-title: Publix is expanding in central KY. Are they cheaper than Kroger? We checked
-link: https://www.kentucky.com/news/business/article316064122.html
-source: Lexington Herald Leader
-date: 07/14/2026, 07:00 AM, +0000 UTC
-
-title: Kroger rolls out program providing discount on produce to customers receiving government assistance
-link: https://www.whio.com/news/local/kroger-rolls-out-program-providing-discount-produce-customers-receiving-government-assistance/44PHG4YO6BDH7O6VZUTS36XUXA/
-source: WHIO TV
-date: 12/31/2025, 08:00 AM, +0000 UTC
-
-title: 4 Grocery Store Brands That Reportedly Work With Taylor Farms
-link: https://www.thedailymeal.com/2235051/grocery-store-brands-work-taylor-farms/
-source: thedailymeal.com
-date: 08/11/2026, 07:00 AM, +0000 UTC
-
-title: Grocer rivalries are Texas-shaped as new stores open in Lone Star State
-link: https://www.marketplace.org/story/2026/03/09/heb-vs-kroger-inside-texass-supermarket-rivalries
-source: marketplace.org
+title: Kroger CEO pledges key changes to boost customer loyalty
+link: https://www.thestreet.com/retail/kroger-ceo-pledges-key-changes-to-boost-customer-loyalty
+source: thestreet.com
 date: 03/09/2026, 07:00 AM, +0000 UTC
 
-title: Public Health Alert Issued for Chicken Product Sold in 9 States Due to Misbranding: What to Know
-link: https://people.com/kroger-chicken-product-gets-public-health-alert-over-undeclared-egg-allergen-12008725
-source: People.com
-date: 06/29/2026, 07:00 AM, +0000 UTC
+title: Kroger CEO says half its customers are under financial strain
+link: https://www.foxbusiness.com/lifestyle/kroger-ceo-says-half-its-customers-are-under-financial-strain
+source: Fox Business
+date: 01/16/2023, 08:00 AM, +0000 UTC
 
-title: Kroger in midst of 19M egg recall
-link: https://www.supermarketnews.com/recalls/kroger-in-midst-of-19m-egg-recall
-source: supermarketnews.com
-date: 07/24/2026, 07:00 AM, +0000 UTC
+title: Kroger: Sales dip due to deflation, not rivals
+link: https://www.wcpo.com/money/local-business-news/kroger-growth-streak-ends-at-52-quarters
+source: wcpo.com
+date: 03/02/2017, 08:00 AM, +0000 UTC
 
-title: Kroger Launches ‘Verified Savings’ Program to Cut Produce Costs
-link: https://www.thepacker.com/news/retail/kroger-launches-verified-savings-program-cut-produce-costs
-source: The Packer
-date: 12/30/2025, 08:00 AM, +0000 UTC
+title: Walmart is also ready for grocery prices to come down
+link: https://www.businessinsider.com/walmart-wants-to-lower-your-grocery-bill-expects-deflation-2023-11
+source: Business Insider
+date: 11/17/2023, 08:00 AM, +0000 UTC
 
-title: Kroger Names Patrick Haines Vice President of Fresh Foods Sourcing
-link: https://www.andnowuknow.com/buyside-news/kroger-names-patrick-haines-vice-president-fresh-foods-sourcing/melissa-de-leon-chavez/102773
-source: AndNowUKnow
-date: 02/12/2026, 06:41 PM, +0000 UTC
+title: Kroger price gouging allegations strike chord with Indiana shoppers
+link: https://www.wthr.com/article/news/local/kroger-prices-price-gouging-indiana-indianapolis-inflation-deflation-grocery-charges-shopping-budget-money-finances-hearing/531-d68c5f2c-0ff4-49ce-84f9-06019700b7a0
+source: WTHR
+date: 08/30/2024, 07:00 AM, +0000 UTC
 
-title: Fruit puree pouches recalled at Kroger, Target, Meijer over plastic risk
-link: https://www.usatoday.com/story/grocery/stores/2026/07/22/fruit-puree-pouches-recalled-kroger-meijer-target/91005782007/
-source: USA Today
-date: 07/23/2026, 07:00 AM, +0000 UTC
+title: The Kroger Co 2026: Revenue $46.12B, EPS $1.46— 10-Q Summary
+link: https://www.tradingview.com/news/tradingview:0302fa936e07f:0-the-kroger-co-2026-revenue-46-12b-eps-1-46-10-q-summary/
+source: tradingview.com
+date: 06/26/2026, 07:00 AM, +0000 UTC
 
-title: Feds: Former Kroger buyer pleads guilty to charges related to produce 'kickback scheme'
-link: https://www.wlwt.com/article/former-kroger-buyer-pleads-guilty-to-charges-related-to-kickback-scheme/69425875
-source: WLWT
-date: 11/13/2025, 08:00 AM, +0000 UTC
+title: Kroger stock plunges amid food deflation and price war
+link: https://www.cincinnati.com/story/money/2017/06/15/kroger-cuts-profit-outlook/398956001/
+source: Cincinnati Enquirer
+date: 06/15/2017, 07:00 AM, +0000 UTC
 
-title: Kroger announces leadership updates
-link: https://www.producegrower.com/news/kroger-leadership-updates-produce-retailer/
-source: Produce Grower -
-date: 01/22/2026, 08:00 AM, +0000 UTC
+title: Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors
+link: https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors
+source: TIKR.com
+date: 06/19/2026, 07:00 AM, +0000 UTC
 
-title: Salad Days expands hydroponic lettuce distribution to Madiso...
-link: https://www.onlinemadison.com/gomadco/salad-days-expands-hydroponic-lettuce-distribution-to-madison-kroger-stores-0d1cd99a
-source: Madison County Journal
-date: 07/08/2026, 07:00 AM, +0000 UTC
+title: Kroger slashes new store development plans by 35%
+link: https://www.grocerydive.com/news/grocery--kroger-slashes-new-store-development-plans-by-35/535273/
+source: Grocery Dive
+date: 03/31/2017, 07:00 AM, +0000 UTC
 
-title: East Cobb Biz Scene: Kroger unveils 2 new store renovations
-link: https://eastcobbnews.com/east-cobb-biz-scene-kroger-unveils-2-new-store-renovations/
-source: East Cobb News
-date: 07/19/2026, 07:00 AM, +0000 UTC
+title: Kroger digital sales become profitable ‘ahead of schedule’ in Q1
+link: https://www.digitalcommerce360.com/2026/06/18/kroger-digital-sales-q1-fy26/amp/
+source: Digital Commerce 360
+date: 06/18/2026, 07:00 AM, +0000 UTC
 
-title: No. 14: Kroger benefitted off a produce kickback scheme
-link: https://www.supermarketnews.com/fresh-produce/kroger-benefitted-off-a-produce-kickback-scheme
-source: supermarketnews.com
-date: 11/14/2025, 06:05 PM, +0000 UTC
+title: Kroger and Roundy's Announce Definitive Merger Agreement
+link: https://ir.kroger.com/news/news-details/2015/Kroger-and-Roundys-Announce-Definitive-Merger-Agreement/default.aspx
+source: Kroger
+date: 11/11/2015, 08:00 AM, +0000 UTC
 
-title: USA: Supermarkets Kroger & Publix fail to respond to allegations of worker abuse in lawsuit against supplier Jackson Farming Company
-link: https://www.business-humanrights.org/en/latest-news/usa-supermarkets-kroger-publix-fail-to-respond-to-allegations-of-worker-abuse-in-lawsuit-against-supplier-jackson-farming-company/
-source: Business and Human Rights Centre
-date: 05/19/2026, 07:00 AM, +0000 UTC
+title: Kroger extended its streak of sales misses — but that’s not hurting its profits
+link: https://www.marketwatch.com/story/kroger-extended-its-streak-of-sales-misses-but-thats-not-hurting-profits-5001f32e
+source: MarketWatch
+date: 03/05/2026, 08:00 AM, +0000 UTC
 
-title: Kroger forced to make costly store fix after federal lawsuit
-link: https://www.thestreet.com/retail/kroger-forced-to-make-costly-store-fix-after-federal-lawsuit
+title: Kroger CEO: Food price deflation is 'not fun'
+link: https://www.cincinnati.com/story/money/2016/12/01/kroger-sees-lower-profit-food-prices-sag/94688798/
+source: Cincinnati Enquirer
+date: 12/01/2016, 08:00 AM, +0000 UTC
+
+title: Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth
+link: https://www.tradingview.com/news/zacks:a8cc2459c094b:0-kroger-q1-earnings-miss-despite-revenue-beat-e-commerce-growth/
+source: tradingview.com
+date: 06/19/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Stock Is Tied to Retail Media, Private Label, and Value Trends
+link: https://www.tradingview.com/news/zacks:b69ddf7b2094b:0-kroger-stock-is-tied-to-retail-media-private-label-and-value-trends/
+source: tradingview.com
+date: 06/24/2026, 07:00 AM, +0000 UTC
+
+title: Walmart's relentless price war is crushing America’s biggest grocer
+link: https://www.businessinsider.com/walmart-is-cheaper-than-kroger-2017-4
+source: Business Insider
+date: 04/06/2017, 07:00 AM, +0000 UTC
+
+title: Kroger's 13-year winning streak just ended — and it’s a warning sign for the entire grocery industry
+link: https://www.businessinsider.com/kroger-just-ended-a-13-year-winning-streak-2017-3
+source: Business Insider
+date: 03/06/2017, 08:00 AM, +0000 UTC
+
+title: Walmart is crushing Kroger and making food history
+link: https://www.businessinsider.com/walmart-is-cutting-prices-2017-4
+source: Business Insider
+date: 04/20/2017, 07:00 AM, +0000 UTC
+
+title: Kroger Partners with Ocado to Serve Customers Anything, Anytime, Anywhere in U.S.
+link: https://www.prnewswire.com/news-releases/kroger-partners-with-ocado-to-serve-customers-anything-anytime-anywhere-in-us-300650210.html
+source: PR Newswire
+date: 05/17/2018, 07:00 AM, +0000 UTC
+
+title: China’s Lunar New Year Pork Gloom Exposes Deep Economic Trouble
+link: https://www.bloomberg.com/news/articles/2024-02-03/china-economy-weak-pork-demand-for-lunar-new-year-highlights-deflation-woes
+source: Bloomberg
+date: 02/02/2024, 08:00 AM, +0000 UTC
+
+title: Simple Truth, Private Selection Drive Q1 Own Brand Gains at Kroger
+link: https://storebrands.com/simple-truth-private-selection-drive-q1-own-brand-gains-kroger
+source: Store Brands
+date: 06/22/2026, 07:00 AM, +0000 UTC
+
+title: Kroger stock slide reveals bigger grocery problem
+link: https://www.thestreet.com/retail/kroger-stock-slide-reveals-bigger-grocery-problem
 source: thestreet.com
-date: 05/30/2026, 07:00 AM, +0000 UTC
+date: 06/23/2026, 07:00 AM, +0000 UTC
 
-title: Inside Kroger's AI-driven network transformation
-link: https://www.fierce-network.com/modernization/inside-krogers-ai-driven-network-transformation
-source: Fierce Network
-date: 05/11/2026, 07:00 AM, +0000 UTC
+title: Kroger to hire 10,000 store employees
+link: https://www.cincinnati.com/story/money/nation-now/2017/01/23/kroger-supermarket-hiring/96947446/
+source: Cincinnati Enquirer
+date: 01/23/2017, 08:00 AM, +0000 UTC
 
-title: Kroger Names Patrick Haines Vice President of Fresh Foods Sourcing
-link: https://www.delimarketnews.com/shop-talk/kroger-names-patrick-haines-vice-president-fresh-foods-sourcing/melissa-de-leon-chavez/fri-02132026-0836/21009
-source: Deli Market News
-date: 02/13/2026, 08:00 AM, +0000 UTC
+title: Kroger's stock pummeled again as investors worry price war chipping away at profits
+link: https://www.cnbc.com/2017/09/08/kroger-earnings-2q-earnings.html
+source: CNBC
+date: 09/08/2017, 07:00 AM, +0000 UTC
+
+title: Kroger disappoints with mixed Q1 profits
+link: https://www.sharecast.com/news/international-companies/kroger-disappoints-with-mixed-q1-profits--22773410.html
+source: Sharecast.com
+date: 06/18/2026, 07:00 AM, +0000 UTC
+
+title: 5 Must-See Quotes From Kroger's Conference Call
+link: https://www.fool.com/investing/2016/09/19/5-must-see-quotes-from-krogers-conference-call.aspx
+source: The Motley Fool
+date: 09/19/2016, 07:00 AM, +0000 UTC
+
+title: Kroger's 13-year winning sales streak ends
+link: https://www.cincinnati.com/story/money/2017/03/02/kroger-market-share-growth-stalls/98601402/
+source: Cincinnati Enquirer
+date: 03/02/2017, 08:00 AM, +0000 UTC
+
+title: Grocery chain resumes store closures after monthslong pause
+link: https://www.thestreet.com/retail/marianos-kroger-resumes-store-closures-after-pause
+source: thestreet.com
+date: 06/24/2026, 07:00 AM, +0000 UTC
+
+title: 'Buy less, stretch things out.' Shoppers, Kroger battle food inflation
+link: https://www.cincinnati.com/story/money/2022/07/11/grocery-prices-soaring-kroger-shoppers-fight-inflation/7633689001/
+source: Cincinnati Enquirer
+date: 07/11/2022, 07:00 AM, +0000 UTC
+
+title: Does the Sell-Off in Grocery Stocks Present a Buying Opportunity for Kroger?
+link: https://www.fool.com/investing/2017/09/10/industry-focus-consumer-09-05-2017-segment-14.aspx
+source: The Motley Fool
+date: 09/10/2017, 07:00 AM, +0000 UTC
+
+title: Kroger Announces Second Quarter Conference Call with Investors
+link: https://ir.kroger.com/news/news-details/2026/Kroger-Announces-Second-Quarter-Conference-Call-with-Investors/default.aspx
+source: Kroger
+date: 08/14/2026, 07:00 AM, +0000 UTC
 
 title: Kroger Set to Report Q2 Earnings: What Should Investors Expect?
 link: https://finance.yahoo.com/markets/stocks/articles/kroger-set-report-q2-earnings-164700226.html
 source: Yahoo Finance
 date: 09/10/2026, 07:00 AM, +0000 UTC
 
-title: Kroger (KR) Stock Looks Fair On Earnings While Returns Stay Strong
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-fair-043052519.html
-source: Yahoo Finance
-date: 09/02/2026, 07:00 AM, +0000 UTC
-
 title: Kroger (KR) Earnings Expected to Grow: Should You Buy?
 link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-earnings-expected-grow-140001465.html
 source: Yahoo Finance
 date: 09/04/2026, 07:00 AM, +0000 UTC
 
-title: Ahead of Kroger Earnings, Here's What Barchart Data Says Comes Next for KR Stock
-link: https://www.barchart.com/story/news/4547141/ahead-of-kroger-earnings-here-s-what-barchart-data-says-comes-next-for-kr-stock
-source: Barchart.com
-date: 09/10/2026, 07:00 AM, +0000 UTC
-
-title: How Will Kroger Stock React To Its Upcoming Earnings?
-link: https://www.trefis.com/stock/kr/articles/614506/how-will-kroger-stock-react-to-its-upcoming-earnings-3/2026-09-08
-source: Trefis
-date: 09/08/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-miss-despite-122500636.html
+title: Kroger (KR) Reports Q2: Everything You Need To Know Ahead Of Earnings
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-reports-q2-everything-030052784.html
 source: Yahoo Finance
-date: 06/19/2026, 07:00 AM, +0000 UTC
+date: 09/09/2026, 07:00 AM, +0000 UTC
 
-title: Dear Kroger Stock Fans, Mark Your Calendars for September 11
-link: https://finance.yahoo.com/markets/stocks/articles/dear-kroger-stock-fans-mark-140002214.html
+title: Kroger (KR) Stock Looks Fair On Earnings While Returns Stay Strong
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-fair-043052519.html
 source: Yahoo Finance
-date: 09/05/2026, 07:00 AM, +0000 UTC
+date: 09/02/2026, 07:00 AM, +0000 UTC
 
-title: Kroger’s Grocery Turnaround Hits a Wall
-link: https://foodinstitute.com/retail/kroger-grocery-turnaround-hits-wall/
-source: The Food Institute
-date: 09/01/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Earnings Expected to Grow: Should You Buy?
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-earnings-expected-grow-140002623.html
+title: Kroger Could Miss Quarterly Identical Sales Views Amid Challenging Grocery Backdrop, Oppenheimer Says
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-could-miss-quarterly-identical-184440166.html
 source: Yahoo Finance
-date: 06/11/2026, 07:00 AM, +0000 UTC
-
-title: Is Kroger Underperforming the Nasdaq?
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-underperforming-nasdaq-124523527.html
-source: Yahoo Finance
-date: 09/10/2026, 07:00 AM, +0000 UTC
-
-title: Kroger (KR) Stock Declines While Market Improves: Some Information for Investors
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-declines-while-220002260.html
-source: Yahoo Finance
-date: 08/27/2026, 07:00 AM, +0000 UTC
+date: 09/03/2026, 07:00 AM, +0000 UTC
 
 title: Kroger (KR) Rises Higher Than Market: Key Facts
 link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-rises-higher-market-220002317.html
 source: Yahoo Finance
 date: 08/21/2026, 07:00 AM, +0000 UTC
 
-title: The Kroger Co. Gears Up for Q1 Earnings: Key Elements to Watch
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-co-gears-q1-earnings-121200664.html
+title: Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-miss-despite-122500636.html
 source: Yahoo Finance
-date: 06/17/2026, 07:00 AM, +0000 UTC
+date: 06/19/2026, 07:00 AM, +0000 UTC
+
+title: Kroger (KR) Earnings Expected to Grow: Should You Buy?
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-earnings-expected-grow-140002623.html
+source: Yahoo Finance
+date: 06/11/2026, 07:00 AM, +0000 UTC
+
+title: Ahead of Kroger Earnings, Here's What Barchart Data Says Comes Next for KR Stock
+link: https://www.barchart.com/story/news/4547141/ahead-of-kroger-earnings-here-s-what-barchart-data-says-comes-next-for-kr-stock
+source: Barchart.com
+date: 09/10/2026, 07:00 AM, +0000 UTC
+
+title: Dear Kroger Stock Fans, Mark Your Calendars for September 11
+link: https://finance.yahoo.com/markets/stocks/articles/dear-kroger-stock-fans-mark-140002214.html
+source: Yahoo Finance
+date: 09/05/2026, 07:00 AM, +0000 UTC
+
+title: Kroger shares drop as earnings in-line, revenue tops estimates
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-meets-earnings-expectations-revenue-112244069.html
+source: Yahoo Finance
+date: 06/18/2026, 07:00 AM, +0000 UTC
 
 title: Oracle, Adobe, and Kroger earnings watchlist for the week of September 10
 link: https://www.investing.com/news/stock-market-news/oracle-adobe-and-kroger-earnings-watchlist-for-the-week-of-september-10-93CH-4892177
@@ -440,65 +550,80 @@ link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-fa
 source: Yahoo Finance
 date: 07/31/2026, 07:00 AM, +0000 UTC
 
+title: Kroger’s comp sales underwhelm as Foran focuses on store improvements
+link: https://www.grocerydive.com/news/kroger-earnings-first-quarter-2026-ecommerce-pharmacy/823246/
+source: Grocery Dive
+date: 06/18/2026, 07:00 AM, +0000 UTC
+
 title: Kroger Q1 Earnings Call Focuses on Cost, Price and E-Commerce
 link: https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-call-focuses-094500999.html
 source: Yahoo Finance
 date: 06/23/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Announces Second Quarter Conference Call with Investors
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-announces-second-quarter-conference-201500434.html
-source: Yahoo Finance
-date: 08/14/2026, 07:00 AM, +0000 UTC
 
 title: Kroger Earnings: What To Look For From KR
 link: https://finance.yahoo.com/markets/stocks/articles/kroger-earnings-look-kr-030050942.html
 source: Yahoo Finance
 date: 06/16/2026, 07:00 AM, +0000 UTC
 
+title: Kroger (KR) Stock Declines While Market Improves: Some Information for Investors
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-declines-while-220002260.html
+source: Yahoo Finance
+date: 08/27/2026, 07:00 AM, +0000 UTC
+
 title: Kroger (KR) Q1 Earnings Miss Estimates
 link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-q1-earnings-miss-115502470.html
 source: Yahoo Finance
 date: 06/18/2026, 07:00 AM, +0000 UTC
 
-title: Kroger (KR) Stock Looks Reasonable As ECommerce Leadership Changes Start
-link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-reasonable-181159775.html
+title: Mama's Creations Inc (MAMA) (Q2 2027) Earnings Call Highlights: Revenue Surges 55% as Kroger ...
+link: https://finance.yahoo.com/markets/stocks/articles/mamas-creations-inc-mama-q2-050142888.html
 source: Yahoo Finance
-date: 08/19/2026, 07:00 AM, +0000 UTC
+date: 09/03/2026, 07:00 AM, +0000 UTC
 
-title: Kroger (KR) Reports Q2: Everything You Need To Know Ahead Of Earnings
-link: https://www.theglobeandmail.com/investing/markets/stocks/KR/pressreleases/4526804/kroger-kr-reports-q2-everything-you-need-to-know-ahead-of-earnings/
-source: theglobeandmail.com
-date: 09/09/2026, 07:00 AM, +0000 UTC
-
-title: Kroger Reports First Quarter 2026 Results
-link: https://www.prnewswire.com/news-releases/kroger-reports-first-quarter-2026-results-302803788.html
-source: PR Newswire
-date: 06/18/2026, 07:00 AM, +0000 UTC
-
-title: Kroger’s comp sales underwhelm as Foran focuses on store improvements
-link: https://www.grocerydive.com/news/kroger-earnings-first-quarter-2026-ecommerce-pharmacy/823246/
-source: Grocery Dive
-date: 06/18/2026, 07:00 AM, +0000 UTC
-
-title: Kroger to Report Q2 FY26 Results on Sept. 11. Here’s What to Expect
-link: https://news.alphastreet.com/kroger-to-report-q2-fy26-results-on-sept-11-heres-what-to-expect/
-source: AlphaStreet
-date: 09/09/2026, 07:00 AM, +0000 UTC
+title: Kroger’s Grocery Turnaround Hits a Wall
+link: https://foodinstitute.com/retail/kroger-grocery-turnaround-hits-wall/
+source: The Food Institute
+date: 09/01/2026, 07:00 AM, +0000 UTC
 
 title: Income Investors Should Know That The Kroger Co. (NYSE:KR) Goes Ex-Dividend Soon
 link: https://simplywall.st/stocks/us/consumer-retailing/nyse-kr/kroger/news/income-investors-should-know-that-the-kroger-co-nysekr-goes-1
 source: simplywall.st
 date: 08/09/2026, 07:00 AM, +0000 UTC
 
-title: Kroger Seeing Costs Outrun Sales Growth
-link: https://www.wsj.com/business/retail/kroger-profit-rises-with-higher-sales-b6f2b90c
-source: WSJ
-date: 06/18/2026, 07:00 AM, +0000 UTC
+title: Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors
+link: https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors
+source: TIKR.com
+date: 06/19/2026, 07:00 AM, +0000 UTC
+
+title: Kroger (KR) Stock Looks Reasonable As ECommerce Leadership Changes Start
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-looks-reasonable-181159775.html
+source: Yahoo Finance
+date: 08/19/2026, 07:00 AM, +0000 UTC
 
 title: KR Stock In Focus: Wells Fargo Flags ‘Choppy’ Road Ahead As Kroger Faces Flat Q2 Earnings Growth
 link: https://finance.yahoo.com/markets/stocks/articles/kr-stock-focus-wells-fargo-114752728.html
 source: Yahoo Finance
 date: 06/22/2026, 07:00 AM, +0000 UTC
+
+title: Kroger Seeing Costs Outrun Sales Growth
+link: https://www.wsj.com/business/retail/kroger-profit-rises-with-higher-sales-b6f2b90c
+source: WSJ
+date: 06/18/2026, 07:00 AM, +0000 UTC
+
+title: Kroger (KR) Stock Sinks As Market Gains: Here's Why
+link: https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-sinks-market-220003085.html
+source: Yahoo Finance
+date: 07/30/2026, 07:00 AM, +0000 UTC
+
+title: Kroger flags rising inflation as consumers curb spending
+link: https://www.reuters.com/business/retail-consumer/kroger-beats-quarterly-sales-estimates-2026-06-18/
+source: Reuters
+date: 06/18/2026, 07:00 AM, +0000 UTC
+
+title: Why Kroger (KR) Shares Are Sliding Today
+link: https://finance.yahoo.com/markets/stocks/articles/why-kroger-kr-shares-sliding-173328220.html
+source: Yahoo Finance
+date: 06/18/2026, 07:00 AM, +0000 UTC
 
 title: Kroger and Macy’s: The Compounder vs the Turnaround
 link: https://247wallst.com/investing/2026/09/09/kroger-and-macys-the-compounder-vs-the-turnaround/
