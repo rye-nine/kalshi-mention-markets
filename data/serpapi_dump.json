@@ -1,213 +1,5 @@
 {
-  "Kroger": [
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "Kroger names Mark Ibbotson Executive Vice President and Chief Store Operations Officer",
-      "snippet": "https://ir.kroger.com/news/news-details/2026/Kroger-names-Mark-Ibbotson-Executive-Vice-President-and-Chief-Store-Operations-Officer/default.aspx",
-      "source": {
-        "name": "Kroger",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ir.kroger.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "09/02/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    },
-    {
-      "title": "News about Kroger",
-      "snippet": null,
-      "source": null,
-      "date": null
-    }
-  ],
+  "Kroger": [],
   "Kroger Deflation": [
     {
       "title": "America\u2019s biggest grocery store chain slashes prices on thousands of items as affordability war ramps up",
@@ -268,7 +60,7 @@
       "title": "Kroger: Sales dip due to deflation, not rivals",
       "snippet": "https://www.wcpo.com/money/local-business-news/kroger-growth-streak-ends-at-52-quarters",
       "source": {
-        "name": "wcpo.com",
+        "name": "WCPO 9 News",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.wcpo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
           "Dan Monk"
@@ -304,10 +96,22 @@
       "title": "The Kroger Co 2026: Revenue $46.12B, EPS $1.46\u2014 10-Q Summary",
       "snippet": "https://www.tradingview.com/news/tradingview:0302fa936e07f:0-the-kroger-co-2026-revenue-46-12b-eps-1-46-10-q-summary/",
       "source": {
-        "name": "tradingview.com",
+        "name": "TradingView",
         "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
       "date": "06/26/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors",
+      "snippet": "https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors",
+      "source": {
+        "name": "tikr.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tikr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wiltone Asuncion"
+        ]
+      },
+      "date": "06/19/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Kroger stock plunges amid food deflation and price war",
@@ -322,16 +126,16 @@
       "date": "06/15/2017, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors",
-      "snippet": "https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors",
+      "title": "Kroger digital sales become profitable \u2018ahead of schedule\u2019 in Q1",
+      "snippet": "https://www.digitalcommerce360.com/2026/06/18/kroger-digital-sales-q1-fy26/amp/",
       "source": {
-        "name": "TIKR.com",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tikr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Digital Commerce 360",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.digitalcommerce360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Wiltone Asuncion"
+          "Abbas Haleem"
         ]
       },
-      "date": "06/19/2026, 07:00 AM, +0000 UTC"
+      "date": "06/18/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Kroger slashes new store development plans by 35%",
@@ -346,27 +150,6 @@
       "date": "03/31/2017, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger digital sales become profitable \u2018ahead of schedule\u2019 in Q1",
-      "snippet": "https://www.digitalcommerce360.com/2026/06/18/kroger-digital-sales-q1-fy26/amp/",
-      "source": {
-        "name": "Digital Commerce 360",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.digitalcommerce360.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Abbas Haleem"
-        ]
-      },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger and Roundy's Announce Definitive Merger Agreement",
-      "snippet": "https://ir.kroger.com/news/news-details/2015/Kroger-and-Roundys-Announce-Definitive-Merger-Agreement/default.aspx",
-      "source": {
-        "name": "Kroger",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ir.kroger.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "11/11/2015, 08:00 AM, +0000 UTC"
-    },
-    {
       "title": "Kroger extended its streak of sales misses \u2014 but that\u2019s not hurting its profits",
       "snippet": "https://www.marketwatch.com/story/kroger-extended-its-streak-of-sales-misses-but-thats-not-hurting-profits-5001f32e",
       "source": {
@@ -379,22 +162,19 @@
       "date": "03/05/2026, 08:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger CEO: Food price deflation is 'not fun'",
-      "snippet": "https://www.cincinnati.com/story/money/2016/12/01/kroger-sees-lower-profit-food-prices-sag/94688798/",
+      "title": "Kroger and Roundy's Announce Definitive Merger Agreement",
+      "snippet": "https://ir.kroger.com/news/news-details/2015/Kroger-and-Roundys-Announce-Definitive-Merger-Agreement/default.aspx",
       "source": {
-        "name": "Cincinnati Enquirer",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cincinnati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Alexander Coolidge"
-        ]
+        "name": "Kroger",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://ir.kroger.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "12/01/2016, 08:00 AM, +0000 UTC"
+      "date": "11/11/2015, 08:00 AM, +0000 UTC"
     },
     {
       "title": "Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth",
       "snippet": "https://www.tradingview.com/news/zacks:a8cc2459c094b:0-kroger-q1-earnings-miss-despite-revenue-beat-e-commerce-growth/",
       "source": {
-        "name": "tradingview.com",
+        "name": "TradingView",
         "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
       "date": "06/19/2026, 07:00 AM, +0000 UTC"
@@ -403,7 +183,7 @@
       "title": "Kroger Stock Is Tied to Retail Media, Private Label, and Value Trends",
       "snippet": "https://www.tradingview.com/news/zacks:b69ddf7b2094b:0-kroger-stock-is-tied-to-retail-media-private-label-and-value-trends/",
       "source": {
-        "name": "tradingview.com",
+        "name": "TradingView",
         "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.tradingview.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
       "date": "06/24/2026, 07:00 AM, +0000 UTC"
@@ -433,40 +213,6 @@
       "date": "03/06/2017, 08:00 AM, +0000 UTC"
     },
     {
-      "title": "Walmart is crushing Kroger and making food history",
-      "snippet": "https://www.businessinsider.com/walmart-is-cutting-prices-2017-4",
-      "source": {
-        "name": "Business Insider",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.businessinsider.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Hayley Peterson"
-        ]
-      },
-      "date": "04/20/2017, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger Partners with Ocado to Serve Customers Anything, Anytime, Anywhere in U.S.",
-      "snippet": "https://www.prnewswire.com/news-releases/kroger-partners-with-ocado-to-serve-customers-anything-anytime-anywhere-in-us-300650210.html",
-      "source": {
-        "name": "PR Newswire",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prnewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "05/17/2018, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "China\u2019s Lunar New Year Pork Gloom Exposes Deep Economic Trouble",
-      "snippet": "https://www.bloomberg.com/news/articles/2024-02-03/china-economy-weak-pork-demand-for-lunar-new-year-highlights-deflation-woes",
-      "source": {
-        "name": "Bloomberg",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Hallie Gu",
-          "Alfred Cang"
-        ]
-      },
-      "date": "02/02/2024, 08:00 AM, +0000 UTC"
-    },
-    {
       "title": "Simple Truth, Private Selection Drive Q1 Own Brand Gains at Kroger",
       "snippet": "https://storebrands.com/simple-truth-private-selection-drive-q1-own-brand-gains-kroger",
       "source": {
@@ -477,6 +223,15 @@
         ]
       },
       "date": "06/22/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Kroger Partners with Ocado to Serve Customers Anything, Anytime, Anywhere in U.S.",
+      "snippet": "https://www.prnewswire.com/news-releases/kroger-partners-with-ocado-to-serve-customers-anything-anytime-anywhere-in-us-300650210.html",
+      "source": {
+        "name": "PR Newswire",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.prnewswire.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/17/2018, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Kroger stock slide reveals bigger grocery problem",
@@ -504,18 +259,6 @@
       "date": "01/23/2017, 08:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger's stock pummeled again as investors worry price war chipping away at profits",
-      "snippet": "https://www.cnbc.com/2017/09/08/kroger-earnings-2q-earnings.html",
-      "source": {
-        "name": "CNBC",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Lauren Thomas"
-        ]
-      },
-      "date": "09/08/2017, 07:00 AM, +0000 UTC"
-    },
-    {
       "title": "Kroger disappoints with mixed Q1 profits",
       "snippet": "https://www.sharecast.com/news/international-companies/kroger-disappoints-with-mixed-q1-profits--22773410.html",
       "source": {
@@ -526,6 +269,18 @@
         ]
       },
       "date": "06/18/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Kroger's stock pummeled again as investors worry price war chipping away at profits",
+      "snippet": "https://www.cnbc.com/2017/09/08/kroger-earnings-2q-earnings.html",
+      "source": {
+        "name": "CNBC",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.cnbc.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Lauren Thomas"
+        ]
+      },
+      "date": "09/08/2017, 07:00 AM, +0000 UTC"
     },
     {
       "title": "5 Must-See Quotes From Kroger's Conference Call",
@@ -550,6 +305,19 @@
         ]
       },
       "date": "03/02/2017, 08:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Hugh Hendry Warns of \u2018Mad Max\u2019 Deflation From Global FX Weakness",
+      "snippet": "https://www.bloomberg.com/news/articles/2024-05-09/hugh-hendry-warns-of-mad-max-deflation-from-global-fx-weakness",
+      "source": {
+        "name": "Bloomberg",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.bloomberg.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Joe Weisenthal",
+          "Tracy Alloway"
+        ]
+      },
+      "date": "05/09/2024, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Grocery chain resumes store closures after monthslong pause",
@@ -584,6 +352,27 @@
         "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.fool.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
       "date": "09/10/2017, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "US court blocks Kroger\u2019s US$25 billion supermarket mega-merger",
+      "snippet": "https://www.businesstimes.com.sg/companies-markets/us-court-blocks-krogers-us25-billion-supermarket-mega-merger",
+      "source": {
+        "name": "The Business Times",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://www.businesstimes.com.sg&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "12/11/2024, 08:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Profits fall as Kroger battles sinking food prices",
+      "snippet": "https://www.cincinnati.com/story/money/2016/09/09/profits-fall-kroger-battles-falling-food-prices/90116338/",
+      "source": {
+        "name": "Cincinnati Enquirer",
+        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://www.cincinnati.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Alexander Coolidge"
+        ]
+      },
+      "date": "09/09/2016, 07:00 AM, +0000 UTC"
     }
   ],
   "Kroger earnings": [
@@ -639,13 +428,16 @@
       "date": "09/02/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Could Miss Quarterly Identical Sales Views Amid Challenging Grocery Backdrop, Oppenheimer Says",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-could-miss-quarterly-identical-184440166.html",
+      "title": "Ahead of Kroger Earnings, Here's What Barchart Data Says Comes Next for KR Stock",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/ahead-kroger-earnings-heres-barchart-210028328.html",
       "source": {
         "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wajeeh Khan"
+        ]
       },
-      "date": "09/03/2026, 07:00 AM, +0000 UTC"
+      "date": "09/10/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Kroger (KR) Rises Higher Than Market: Key Facts",
@@ -655,6 +447,15 @@
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
       "date": "08/21/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Kroger Could Miss Quarterly Identical Sales Views Amid Challenging Grocery Backdrop, Oppenheimer Says",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-could-miss-quarterly-identical-184440166.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/03/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Kroger Q1 Earnings Miss Despite Revenue Beat & E-commerce Growth",
@@ -675,16 +476,16 @@
       "date": "06/11/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Ahead of Kroger Earnings, Here's What Barchart Data Says Comes Next for KR Stock",
-      "snippet": "https://www.barchart.com/story/news/4547141/ahead-of-kroger-earnings-here-s-what-barchart-data-says-comes-next-for-kr-stock",
+      "title": "Kroger shares drop as earnings in-line, revenue tops estimates",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-meets-earnings-expectations-revenue-112244069.html",
       "source": {
-        "name": "Barchart.com",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://www.barchart.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Wajeeh Khan"
+          "Sam Boughedda"
         ]
       },
-      "date": "09/10/2026, 07:00 AM, +0000 UTC"
+      "date": "06/18/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Dear Kroger Stock Fans, Mark Your Calendars for September 11",
@@ -697,18 +498,6 @@
         ]
       },
       "date": "09/05/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger shares drop as earnings in-line, revenue tops estimates",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-meets-earnings-expectations-revenue-112244069.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Sam Boughedda"
-        ]
-      },
-      "date": "06/18/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Oracle, Adobe, and Kroger earnings watchlist for the week of September 10",
@@ -744,15 +533,6 @@
       "date": "06/18/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger Q1 Earnings Call Focuses on Cost, Price and E-Commerce",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-call-focuses-094500999.html",
-      "source": {
-        "name": "Yahoo Finance",
-        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "06/23/2026, 07:00 AM, +0000 UTC"
-    },
-    {
       "title": "Kroger Earnings: What To Look For From KR",
       "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-earnings-look-kr-030050942.html",
       "source": {
@@ -765,13 +545,13 @@
       "date": "06/16/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger (KR) Stock Declines While Market Improves: Some Information for Investors",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-declines-while-220002260.html",
+      "title": "Kroger Q1 Earnings Call Focuses on Cost, Price and E-Commerce",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-q1-earnings-call-focuses-094500999.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "08/27/2026, 07:00 AM, +0000 UTC"
+      "date": "06/23/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Kroger (KR) Q1 Earnings Miss Estimates",
@@ -783,46 +563,13 @@
       "date": "06/18/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Mama's Creations Inc (MAMA) (Q2 2027) Earnings Call Highlights: Revenue Surges 55% as Kroger ...",
-      "snippet": "https://finance.yahoo.com/markets/stocks/articles/mamas-creations-inc-mama-q2-050142888.html",
+      "title": "Kroger (KR) Stock Declines While Market Improves: Some Information for Investors",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-kr-stock-declines-while-220002260.html",
       "source": {
         "name": "Yahoo Finance",
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
-      "date": "09/03/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger\u2019s Grocery Turnaround Hits a Wall",
-      "snippet": "https://foodinstitute.com/retail/kroger-grocery-turnaround-hits-wall/",
-      "source": {
-        "name": "The Food Institute",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://foodinstitute.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Vince Martin"
-        ]
-      },
-      "date": "09/01/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Income Investors Should Know That The Kroger Co. (NYSE:KR) Goes Ex-Dividend Soon",
-      "snippet": "https://simplywall.st/stocks/us/consumer-retailing/nyse-kr/kroger/news/income-investors-should-know-that-the-kroger-co-nysekr-goes-1",
-      "source": {
-        "name": "simplywall.st",
-        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
-      },
-      "date": "08/09/2026, 07:00 AM, +0000 UTC"
-    },
-    {
-      "title": "Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors",
-      "snippet": "https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors",
-      "source": {
-        "name": "TIKR.com",
-        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tikr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
-        "authors": [
-          "Wiltone Asuncion"
-        ]
-      },
-      "date": "06/19/2026, 07:00 AM, +0000 UTC"
+      "date": "08/27/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Kroger (KR) Stock Looks Reasonable As ECommerce Leadership Changes Start",
@@ -837,6 +584,15 @@
       "date": "08/19/2026, 07:00 AM, +0000 UTC"
     },
     {
+      "title": "Here\u2019s What the Street Thinks About The Kroger (KR) Ahead of Q1 2026 Earnings",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/street-thinks-kroger-kr-ahead-174826830.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "05/12/2026, 07:00 AM, +0000 UTC"
+    },
+    {
       "title": "KR Stock In Focus: Wells Fargo Flags \u2018Choppy\u2019 Road Ahead As Kroger Faces Flat Q2 Earnings Growth",
       "snippet": "https://finance.yahoo.com/markets/stocks/articles/kr-stock-focus-wells-fargo-114752728.html",
       "source": {
@@ -844,6 +600,48 @@
         "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
       },
       "date": "06/22/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Mama's Creations Inc (MAMA) (Q2 2027) Earnings Call Highlights: Revenue Surges 55% as Kroger ...",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/mamas-creations-inc-mama-q2-050142888.html",
+      "source": {
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "09/03/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Kroger Stock Falls 8% After Q1 Earnings Miss: What a $77 Target Means for Investors",
+      "snippet": "https://www.tikr.com/blog/kroger-stock-falls-8-after-q1-earnings-miss-what-a-77-target-means-for-investors",
+      "source": {
+        "name": "TIKR.com",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://www.tikr.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Wiltone Asuncion"
+        ]
+      },
+      "date": "06/19/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Income Investors Should Know That The Kroger Co. (NYSE:KR) Goes Ex-Dividend Soon",
+      "snippet": "https://simplywall.st/stocks/us/consumer-retailing/nyse-kr/kroger/news/income-investors-should-know-that-the-kroger-co-nysekr-goes-1",
+      "source": {
+        "name": "simplywall.st",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://simplywall.st&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL"
+      },
+      "date": "08/09/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "Kroger\u2019s Grocery Turnaround Hits a Wall",
+      "snippet": "https://foodinstitute.com/retail/kroger-grocery-turnaround-hits-wall/",
+      "source": {
+        "name": "The Food Institute",
+        "icon": "https://encrypted-tbn0.gstatic.com/faviconV2?url=https://foodinstitute.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Vince Martin"
+        ]
+      },
+      "date": "09/01/2026, 07:00 AM, +0000 UTC"
     },
     {
       "title": "Kroger Seeing Costs Outrun Sales Growth",
@@ -891,16 +689,28 @@
       "date": "06/18/2026, 07:00 AM, +0000 UTC"
     },
     {
-      "title": "Kroger and Macy\u2019s: The Compounder vs the Turnaround",
-      "snippet": "https://247wallst.com/investing/2026/09/09/kroger-and-macys-the-compounder-vs-the-turnaround/",
+      "title": "Kroger Delivers Revenue Beat While Reaffirming Full-Year Outlook (KR)",
+      "snippet": "https://finance.yahoo.com/markets/stocks/articles/kroger-delivers-revenue-beat-while-124554190.html",
       "source": {
-        "name": "24/7 Wall St.",
-        "icon": "https://encrypted-tbn3.gstatic.com/faviconV2?url=https://247wallst.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "name": "Yahoo Finance",
+        "icon": "https://encrypted-tbn1.gstatic.com/faviconV2?url=https://finance.yahoo.com&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
         "authors": [
-          "Trey Thoelcke"
+          "Fiona Craig"
         ]
       },
-      "date": "09/09/2026, 07:00 AM, +0000 UTC"
+      "date": "06/18/2026, 07:00 AM, +0000 UTC"
+    },
+    {
+      "title": "The 5 Most Interesting Analyst Questions From Kroger\u2019s Q1 Earnings Call",
+      "snippet": "https://stockstory.org/us/stocks/nyse/kr/news/earnings-call/the-5-most-interesting-analyst-questions-from-krogers-q1-earnings-call",
+      "source": {
+        "name": "StockStory",
+        "icon": "https://encrypted-tbn2.gstatic.com/faviconV2?url=https://stockstory.org&client=NEWS_360&size=96&type=FAVICON&fallback_opts=TYPE,SIZE,URL",
+        "authors": [
+          "Kayode Omotosho"
+        ]
+      },
+      "date": "06/24/2026, 07:00 AM, +0000 UTC"
     }
   ]
 }

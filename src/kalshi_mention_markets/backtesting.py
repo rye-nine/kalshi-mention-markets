@@ -16,11 +16,11 @@ from .prompter import run_pipeline
 logger = logging.getLogger(__name__)
 
 SEED = 670 # Fixed seed for reproducibility in random selection of historical prices
-
+random.seed(SEED)  # Set the seed for the random module to ensure consistent results across runs
 # just make sure the seed works
 
 # PRESETS:
-MIN_EDGE = 0.03
+MIN_EDGE = 0.05
 SELL_AT_DISTANCE = 0.01
 
 ALPHA = 0.7  # Weight for market price in MIXMCP calculation
